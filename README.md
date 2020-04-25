@@ -1,5 +1,7 @@
 # WebNLG Corpus XML Reader
 
+XML reader for the [WebNLG corpus](https://gitlab.com/shimorina/webnlg-dataset).
+
 ## Requirements
 * Tested with Python3.6
 * No dependencies
