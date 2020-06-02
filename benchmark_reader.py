@@ -356,7 +356,7 @@ class Benchmark:
         entries_xml = Et.SubElement(root, 'entries')
         for index, entry in enumerate(self.entries):
             if recalc_id:
-                entry.id = index + 1
+                entry.id = str(index + 1)
             entry_xml = Et.SubElement(entries_xml, 'entry',
                                       attrib={'category': entry.category, 'eid': entry.id, 'size': entry.size,
                                               'shape': entry.shape, 'shape_type': entry.shape_type})
