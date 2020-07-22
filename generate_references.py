@@ -24,8 +24,6 @@ def create_reference_files(b, lang):
             print('unknown language')
         # take only unique references (needed for Russian)
         unique_refs = list(dict.fromkeys(entry_refs))
-        if len(entry_refs) != len(unique_refs):
-            print(entry_refs, unique_refs)
         target_out.append(unique_refs)
     # the list with max elements
     max_refs = sorted(target_out, key=len)[-1]
