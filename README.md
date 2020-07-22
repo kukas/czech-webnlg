@@ -74,3 +74,6 @@ Convert to JSON and write to file
 ```
 
 See also `example.py`.
+
+## Generating references for the [RDF-to-text evaluation](https://github.com/WebNLG/GenerationEval)
+See `generate_references.py`.
