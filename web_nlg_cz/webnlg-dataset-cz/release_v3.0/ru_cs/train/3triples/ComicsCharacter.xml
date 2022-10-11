@@ -1,0 +1,1995 @@
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id1" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Airman_(comics) | creator | George_Kapitan</otriple>
+        <otriple>Airman_(comics) | alterEgo | "Drake Stevens"@en</otriple>
+        <otriple>Airman_(comics) | creators | Harry_Sahle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Airman_(comics) | creator | Harry_Sahle</otriple>
+        <otriple>Airman_(comics) | alterEgo | "Drake Stevens"@en</otriple>
+        <otriple>Airman_(comics) | creators | George_Kapitan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Airman_(comicsCharacter) | creator | Harry_Sahle</mtriple>
+        <mtriple>Airman_(comicsCharacter) | alternativeName | "Drake Stevens"</mtriple>
+        <mtriple>Airman_(comicsCharacter) | creator | George_Kapitan</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Airman, AKA Drake Stevens was created by Harry Sahle and George Kapitan.</lex>
+      <lex lang="ru" lid="Id1">Эйрмен, другое имя - Дрейк Стивенс, был создан Гарри Сале и Джорджем Капитаном.</lex>
+      <lex lang="en" lid="Id2">The alternative name of the comic character Airman is "Drake Stevens". He was created by Harry Sahle and George Kapitan.</lex>
+      <lex lang="ru" lid="Id2">Альтернативное имя персонажа комиксов Airman - "Дрейк Стивенс". Его создали Гарри Сале и Джордж Капитан.</lex>
+      <lex lang="en" lid="Id3">The comic character Airman, AKA Drake Stevens was created by Harry Sahle and George Kapitan.</lex>
+      <lex lang="ru" lid="Id3">Персонаж комиксов Airman, AKA Дрейк Стивенс был создан Гарри Сале и Джорджем Капитаном.</lex>
+      <links>
+        <link direction="en2ru">Airman (comicsCharacter) | includes | Эйрмен / Airman</link>
+        <link direction="en2ru">George Kapitan | sameAs | Джордж Капитан</link>
+        <link direction="en2ru">Drake Stevens | sameAs | Дрейк Стивенс</link>
+        <link direction="en2ru">Harry Sahle | sameAs | Гарри Сале</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Letce alias Drakea Stevense vytvořili Harry Sahle a George Kapitan.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Airman, AKA Drake Stevens byl vytvořen Harry Sahle a George Kapitan.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Airman, alias Drake Stevens byl vytvořen Harrym Sahlem a Georgem Kapitanem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Alternativní název komiksové postavy Airman je "Drake Stevens". Vytvořili ho Harry Sahle a George Kapitan.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Alternativní jméno komické postavy Airman je „Drake Stevens“. Vytvořili ho Harry Sahle a George Kapitan.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Alternativní jméno komické postavy Airmana je "Drake Stevens". Stvořili ho Harry Sahle a George Kapitan.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Airman, AKA Drake Stevens vytvořili Harry Sahle a George Kapitan.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Airman, AKA Drake Stevens, vytvořili Harry Sahle a George Kapitan.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komickou postavu Airmana alias Drakea Stevense vytvořili Harry Sahle a George Kapitan.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id2" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Arion_(comics) | creator | Jan_Duursema</otriple>
+        <otriple>Arion_(comics) | alterEgo | "Ahri'ahn"@en</otriple>
+        <otriple>Arion_(comics) | creators | Paul_Kupperberg</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arion_(comics) | creators | Jan_Duursema</otriple>
+        <otriple>Arion_(comics) | creator | Paul_Kupperberg</otriple>
+        <otriple>Arion_(comics) | alterEgo | "Ahri'ahn"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arion_(comicsCharacter) | creator | Jan_Duursema</mtriple>
+        <mtriple>Arion_(comicsCharacter) | alternativeName | "Ahri'ahn"</mtriple>
+        <mtriple>Arion_(comicsCharacter) | creator | Paul_Kupperberg</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Jan Duursema and Paul Kupperberg created the comic book character of Arion who is also known as Ahri'ahn.</lex>
+      <lex lang="ru" lid="Id1">Ян Дуурсема и Пол Купперберг создали персонажа комиксов Ариона, который также известен как Ари'ан.</lex>
+      <lex lang="en" lid="Id2">The comic book character Arion, aka Ahri'ahn, was created by Jan Duursema and Paul Kupperberg.</lex>
+      <lex lang="ru" lid="Id2">Персонаж комиксов Арион, он же Ари'ан, был создан Ян Дуурсемой и Полом Куппербергом.</lex>
+      <lex lang="en" lid="Id3">The comic character Arion is also known as Ahri'ahn and was created by Jan Duursema and Paul Kupperberg.</lex>
+      <lex lang="ru" lid="Id3">Персонаж комиксов Арион также известен как Ари'ан и был создан Ян Дуурсемой и Полом Куппербергом.</lex>
+      <links>
+        <link direction="en2ru">Arion (comicsCharacter) | includes | Арион</link>
+        <link direction="en2ru">Jan Duursema | sameAs | Ян Дуурсема</link>
+        <link direction="en2ru">Paul Kupperberg | sameAs | Пол Купперберг</link>
+        <link direction="en2ru">Ahri'ahn | sameAs | Ари'ан</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Jan Duursema a Paul Kupperberg vytvořili komiksovou postavu Ariona, který je známý také jako Ahri'ahn.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Jan Duursema a Paul Kupperberg vytvořili komiksovou postavu Ariona, který je také známý jako Ahri'ahn.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Jan Duursema a Paul Kupperberg vytvořili komiksovou postavu Ariona, který je také známý jako Ahri'ahn.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Ariona alias Ahri'ahna vytvořili Jan Duursema a Paul Kupperberg.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Ariona, neboli Ahri'ahna, vytvořili Jan Duursema a Paul Kupperberg.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komiksovou postavu Ariona alias Ahri'ahna vytvořili Jan Duursema a Paul Kupperberg.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Ariona, známou také jako Ahri'ahn, vytvořili Jan Duursema a Paul Kupperberg.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komická postava Arion je také známá jako Ahri'ahn a vytvořili ji Jan Duursema a Paul Kupperberg.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komická postava Arion je také známá jako Ahri'ahn a vytvořili ji Jan Duursema a Paul Kupperberg.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id3" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Arion_(comics) | creators | Jan_Duursema</otriple>
+        <otriple>Jan_Duursema | awards | Eisner_Award</otriple>
+        <otriple>Arion_(comics) | creator | Paul_Kupperberg</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arion_(comics) | creator | Jan_Duursema</otriple>
+        <otriple>Jan_Duursema | awards | Eisner_Award</otriple>
+        <otriple>Arion_(comics) | creators | Paul_Kupperberg</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arion_(comicsCharacter) | creator | Jan_Duursema</mtriple>
+        <mtriple>Jan_Duursema | award | Eisner_Award</mtriple>
+        <mtriple>Arion_(comicsCharacter) | creator | Paul_Kupperberg</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The comic book character Arion was created by Paul Kupperberg and Jan Duursema, a winner of the Eisner Award.</lex>
+      <lex lang="ru" lid="Id1">Персонаж комиксов Арион был создан Полом Куппербергом и Ян Дуурсемой, лауреатом премии Айснера.</lex>
+      <lex lang="en" lid="Id2">Jan Duursema won the Eisner Award and is the creator of the comic book character Arion along with Paul Kupperberg.</lex>
+      <lex lang="ru" lid="Id2">Ян Дуурсема завоевала премию Айснера и вместе с Полом Куппербергом является создателем персонажа комиксов Ариона.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Eisner_Award | sameAs | Премия_Айснера</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Arion (comicsCharacter) | includes | Арион</link>
+        <link direction="en2ru">Jan Duursema | sameAs | Ян Дуурсема</link>
+        <link direction="en2ru">Paul Kupperberg | sameAs | Пол Купперберг</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Ariona vytvořili Paul Kupperberg a Jan Duursema, držitel Eisnerovy ceny.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Ariona vytvořili Paul Kupperberg a Jan Duursema, držitel Eisnerovy ceny.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komiksovou postavu Ariona vytvořili Paul Kupperberg a Jan Duursema, držitel Eisnerovy ceny.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Jan Duursema je držitelem Eisnerovy ceny a spolu s Paulem Kupperbergem vytvořil komiksovou postavu Ariona.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Jan Duursema získal Eisnerovu cenu a je spolu s Paulem Kupperbergem tvůrcem komiksové postavy Ariona.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Jan Duursema získal Eisnerovu cenu a je tvůrcem komiksové postavy Ariona spolu s Paulem Kupperbergem.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Asterix_(character) | creators | René_Goscinny</otriple>
+        <otriple>Asterix_(character) | creator | Albert_Uderzo</otriple>
+        <otriple>Asterix_(character) | alterEgo | "Astérix"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asterix_(character) | creator | René_Goscinny</otriple>
+        <otriple>Asterix_(character) | alterEgo | "Astérix"@en</otriple>
+        <otriple>Asterix_(character) | creators | Albert_Uderzo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asterix_(comicsCharacter) | creator | René_Goscinny</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | alternativeName | "Astérix"</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | creator | Albert_Uderzo</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The comic character Asterix, was created by René Goscinny and Albert Uderzo.</lex>
+      <lex lang="ru" lid="Id1">Персонаж комиксов Астерикс, был создан Рене Госинни и Альбером Удерзо.</lex>
+      <lex lang="en" lid="Id2">Asterix the comic character whose alternative name is Asterix was created by Albert Uderzo and Rene Goscinny.</lex>
+      <lex lang="ru" lid="Id2">Астерикс, персонаж комиксов, чье альтернативное имя Астерикс, был создан Альбером Удерзо и Рене Госинни.</lex>
+      <lex lang="en" lid="Id3">Asterix, alternatively "Astérix", is a comic book character created by René Goscinny and Albert Uderzo.</lex>
+      <lex lang="ru" lid="Id3">Астерикс, или иначе - Astérix, - персонаж комиксов, созданный Рене Госинни и Альбером Удерзо.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">René_Goscinny | sameAs | Госинни,_Рене</dbpedialink>
+        <dbpedialink direction="en2ru">Albert_Uderzo | sameAs | Удерзо,_Альбер</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Asterix (comicsCharacter) | includes | Астерикс</link>
+        <link direction="en2ru">Astérix | sameAs | Астерикс</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Asterixe vytvořili René Goscinny a Albert Uderzo.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komickou postavu Asterixe vytvořili René Goscinny a Albert Uderzo.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komickou postavu Asterixe, vytvořili René Goscinny a Albert Uderzo.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Asterix, jejíž alternativní jméno je Asterix, vytvořili Albert Uderzo a René Goscinny.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Asterix komickou postavu, jejíž alternativní jméno je Asterix, vytvořili Albert Uderzo a Rene Goscinny.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komickou postavu Asterixe, jejíž alternativní jméno je Asterix, vytvořili Albert Uderzo a Rene Goscinny.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Asterix, alternativně "Astérix", je komiksová postava, kterou vytvořili René Goscinny a Albert Uderzo.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Asterix, alternativně „Astérix“, je komiksová postava, kterou vytvořili René Goscinny a Albert Uderzo.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Asterix, alternativně "Astérix", je komiksová postava vytvořená Reném Goscinnym a Albertem Uderzem.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id5" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Asterix_(character) | creators | René_Goscinny</otriple>
+        <otriple>René_Goscinny | nationality | French_people</otriple>
+        <otriple>Asterix_(character) | alterEgo | "Astérix"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>René_Goscinny | nationality | French_people</otriple>
+        <otriple>Asterix_(character) | creator | René_Goscinny</otriple>
+        <otriple>Asterix_(character) | alterEgo | "Astérix"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asterix_(comicsCharacter) | creator | René_Goscinny</mtriple>
+        <mtriple>René_Goscinny | nationality | French_people</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | alternativeName | "Astérix"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Frenchman, Rene Goscinny created Asterix, the comic character who is sometimes called "Astérix".</lex>
+      <lex lang="ru" lid="Id1">Француз Рене Госинни создал Астерикса, персонажа комиксов, которого иногда называется Астерикс.</lex>
+      <lex lang="en" lid="Id2">The comic character Asterix (also known as Astérix), was created by René Goscinny, who is French.</lex>
+      <lex lang="ru" lid="Id2">Персонаж комиксов Астерикс (также известный как Астерикс), был создан Рене Госинни, который является французом.</lex>
+      <lex lang="en" lid="Id3">The comic character Asterix, also know as Astérix, was created by the Frenchman René Goscinny.</lex>
+      <lex lang="ru" lid="Id3">Персонаж комиксов Астерикс, также известный как Астерикс, был создан французом Рене Госинни.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">René_Goscinny | sameAs | Госинни,_Рене</dbpedialink>
+        <dbpedialink direction="en2ru">French_people | sameAs | Французы</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Asterix (comicsCharacter) | includes | Астерикс</link>
+        <link direction="en2ru">Astérix | sameAs | Астерикс</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Francouz René Goscinny vytvořil komiksovou postavu Asterixe, který je někdy nazýván "Astérix".</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Francouz Rene Goscinny vytvořil Asterixe, komickou postavu, které se někdy říká „Astérix“.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Francouz Rene Goscinny stvořil Asterixe, komickou postavu, které se někdy říká "Astérix".</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Asterixe (také známého jako Astérix), vytvořil René Goscinny, který je Francouz.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komickou postavu Asterixe (také známého jako Astérix) vytvořil René Goscinny, který je Francouz.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komickou postavu Asterixe (známého také jako Astérix) vytvořil René Goscinny, který je Francouz.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Asterixe, známého také jako Astérix, vytvořil Francouz René Goscinny.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komickou postavu Asterixe, také známou jako Astérix, vytvořil Francouz René Goscinny.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komickou postavu Asterixe, známou také jako Astérix, vytvořil Francouz René Goscinny.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Aurakles | creators | Dick_Dillin</otriple>
+        <otriple>Aurakles | creator | Len_Wein</otriple>
+        <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aurakles | creator | Dick_Dillin</otriple>
+        <otriple>Aurakles | creators | Len_Wein</otriple>
+        <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aurakles | creator | Dick_Dillin</mtriple>
+        <mtriple>Aurakles | creator | Len_Wein</mtriple>
+        <mtriple>Aurakles | alternativeName | "Aurakles"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The character of Aurakles has the alternative name of Aurakles and was created by Len Wein and Dick Dillin.</lex>
+      <lex lang="ru" lid="Id1">Персонаж Аураклес имеет альтернативное название Аураклес и был создан Леном Уэйном и Диком Диллином.</lex>
+      <lex lang="en" lid="Id2">Dick Dillin and Len Wein created the character Aurakles.</lex>
+      <lex lang="ru" lid="Id2">Дик Диллин и Лен Уэйн создали персонажа Аураклеса.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Len_Wein | sameAs | Уэйн,_Лен</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Dick Dillin | sameAs | Дик Диллин</link>
+        <link direction="en2ru">Aurakles | sameAs | Аураклес</link>
+        <link direction="en2ru">Aurakles | sameAs | Аураклес</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Postava Aurakles má alternativní jméno Aurakles a vytvořili ji Len Wein a Dick Dillin.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Postava Auraklesa má alternativní jméno Aurakles a vytvořili ji Len Wein a Dick Dillin.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Postava Aurakles má alternativní název Aurakles a vytvořili ji Len Wein a Dick Dillin.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Postavu Auraklese vytvořili Dick Dillin a Len Wein.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Dick Dillin a Len Wein vytvořili postavu Auraklese.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Dick Dillin a Len Wein vytvořili postavu Aurakles.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id7" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Dick_Dillin | nationality | United_States</otriple>
+        <otriple>Aurakles | creator | Dick_Dillin</otriple>
+        <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aurakles | creators | Dick_Dillin</otriple>
+        <otriple>Dick_Dillin | nationality | United_States</otriple>
+        <otriple>Aurakles | alterEgo | "Aurakles"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aurakles | creator | Dick_Dillin</mtriple>
+        <mtriple>Dick_Dillin | nationality | United_States</mtriple>
+        <mtriple>Aurakles | alternativeName | "Aurakles"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Dick Dillin, from the United States, created the comic book character known as Aurakles (alternatively called Aurakles).</lex>
+      <lex lang="ru" lid="Id1">Дик Диллин из США создал персонажа комиксов, известного как Аураклес (в качестве альтернативы - Аураклес).</lex>
+      <lex lang="en" lid="Id2">The comic book character Aurakles (alternative name Aurakles) was created by Dick Dillin from the United States.</lex>
+      <lex lang="ru" lid="Id2">Персонаж комиксов Аураклес (другое имя – Аураклес) был создан Диком Диллином из Соединённых Штатов Америки.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Dick Dillin | sameAs | Дик Диллин</link>
+        <link direction="en2ru">Aurakles | sameAs | Аураклес</link>
+        <link direction="en2ru">Aurakles | sameAs | Аураклес</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Dick Dillin ze Spojených států vytvořil komiksovou postavu známou jako Aurakles (alternativně nazývanou Aurakles).</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Dick Dillin ze Spojených států vytvořil komiksovou postavu známou jako Aurakles (alternativně nazývanou Aurakles).</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Dick Dillin ze Spojených států vytvořil komiksovou postavu známou jako Aurakles (jinak zvanou Aurakles).</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Aurakles (alternativní název Aurakles) vytvořil Dick Dillin ze Spojených států.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Aurakles (alternativní název Aurakles) vytvořil Dick Dillin ze Spojených států.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komiksovou postavu Aurakles (alternativní název Aurakles) vytvořil Dick Dillin ze Spojených států.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id8" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Aurakles | creators | Dick_Dillin</otriple>
+        <otriple>Dick_Dillin | nationality | United_States</otriple>
+        <otriple>Aurakles | creator | Len_Wein</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Dick_Dillin | nationality | United_States</otriple>
+        <otriple>Aurakles | creator | Dick_Dillin</otriple>
+        <otriple>Aurakles | creators | Len_Wein</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aurakles | creator | Dick_Dillin</mtriple>
+        <mtriple>Dick_Dillin | nationality | United_States</mtriple>
+        <mtriple>Aurakles | creator | Len_Wein</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Dick Dillin, an american along with Len Wein were the creators of Aurakles, a fictional character.</lex>
+      <lex lang="ru" lid="Id1">Американец Дик Диллин вместе с Леном Уэйном были создателями вымышленного персонажа Аураклеса.</lex>
+      <lex lang="en" lid="Id2">The comic book character Aurakles was created by Len Wein and the American Dick Dillian.</lex>
+      <lex lang="ru" lid="Id2">Персонаж комиксов Аураклес был создан Леном Уэйном и американцем Диком Диллином.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Len_Wein | sameAs | Уэйн,_Лен</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Dick Dillin | sameAs | Дик Диллин</link>
+        <link direction="en2ru">Aurakles | sameAs | Аураклес</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Američan Dick Dillin spolu s Lenem Weinem byli tvůrci fiktivní postavy Auraklese.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Dick Dillin, Američan spolu s Lenem Weinem, byli tvůrci Aurakles, fiktivní postavy.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Dick Dillin, Američan spolu s Lenem Weinem byli tvůrci Aurakles, fiktivní postavy.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Auraklese vytvořili Len Wein a Američan Dick Dillian.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Aurakles vytvořili Len Wein a Američan Dick Dillian.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komiksovou postavu Aurakles vytvořil Len Wein a Američan Dick Dillian.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id9" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creator | Marv_Wolfman</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creators | "Marv Wolfman"@en</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
+        <mtriple>Auron_(comicsCharacter) | fullName | "Lambien"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Marv Wolfman and Karl Kesel are the creators of the comic character Auron, whose full name is Lambien.</lex>
+      <lex lang="ru" lid="Id1">Марв Вольфман и Карл Кесель – создатели персонажа комиксов Аурона, чьё полное имя – Ламбиен.</lex>
+      <lex lang="en" lid="Id2">The comic character Auron, whose full name is Lambien, was created by Karl Kesel and Marv Wolfman.</lex>
+      <lex lang="ru" lid="Id2">Персонаж комиксов Аурон, чьё полное имя – Ламбиен, был создан Карлом Кеселем и Марвом Вольфманом.</lex>
+      <lex lang="en" lid="Id3">Auron, a comic book character whose full name is Lambien, was created by Karl Kesel and Marv Wolfman.</lex>
+      <lex lang="ru" lid="Id3">Аурон, персонаж комиксов, полное имя которого – Ламбиен, был создан Карлом Кеселем и Марвом Вольфманом.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Marv_Wolfman | sameAs | Вольфман,_Марв</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Auron (comicsCharacter) | includes | Аурон</link>
+        <link direction="en2ru">Lambien | sameAs | Ламбиен</link>
+        <link direction="en2ru">Karl Kesel | sameAs | Карл Кесель</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Marv Wolfman a Karl Kesel jsou tvůrci komiksové postavy Auron, jejíž celé jméno zní Lambien.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Marv Wolfman a Karl Kesel jsou tvůrci komické postavy Aurona, celým jménem Lambien.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Marv Wolfman a Karl Kesel jsou tvůrci komické postavy Aurona, jejíž celé jméno zní Lambien.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Autory komiksové postavy Auron, jejíž celé jméno zní Lambien, jsou Karl Kesel a Marv Wolfman.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Aurona, celým jménem Lambien, vytvořili Karl Kesel a Marv Wolfman.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komickou postavu Aurona, celým jménem Lambien, vytvořili Karl Kesel a Marv Wolfman.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Auron, jejíž celé jméno zní Lambien, vytvořili Karl Kesel a Marv Wolfman.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Auron, komiksovou postavu, jejíž celé jméno je Lambien, vytvořili Karl Kesel a Marv Wolfman.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Auron, komiksová postava, jejíž celé jméno je Lambien, byla vytvořena Karlem Keselem a Marvem Wolfmanem.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id10" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creator | Walt_Simonson</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creators | Walt_Simonson</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Walt_Simonson</mtriple>
+        <mtriple>Auron_(comicsCharacter) | fullName | "Lambien"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The comic book character Auron, full name Lambien was created by Karl Kesel and Walt Simonson.</lex>
+      <lex lang="ru" lid="Id1">Персонаж комиксов Аурон, полное имя – Ламбиен, был создан Карлом Кеселем и Уолтом Симонсоном.</lex>
+      <lex lang="en" lid="Id2">Karl Kesel and Walt Simonson created the comic book character of Auron who has the full name Lambien.</lex>
+      <lex lang="ru" lid="Id2">Карл Кесель и Уолт Симонсон создали персонажа комиксов Аурона, полное имя которого – Ламбиен.</lex>
+      <lex lang="en" lid="Id3">The comic character Auron, full name Lambien, was created by Karl Kesel and Walt Simonson.</lex>
+      <lex lang="ru" lid="Id3">Персонаж комиксов Аурон, полное имя – Ламбиен, был создан Карлом Кеселем и Уолтом Симонсоном.</lex>
+      <links>
+        <link direction="en2ru">Auron (comicsCharacter) | includes | Аурон</link>
+        <link direction="en2ru">Lambien | sameAs | Ламбиен</link>
+        <link direction="en2ru">Karl Kesel | sameAs | Карл Кесель</link>
+        <link direction="en2ru">Walt Simonson | sameAs | Уолт Симонсон</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Aurona, celým jménem Lambien, vytvořili Karl Kesel a Walt Simonson.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Aurona, celým jménem Lambien, vytvořili Karl Kesel a Walt Simonson.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komiksovou postavu Aurona, celým jménem Lambien, vytvořili Karl Kesel a Walt Simonson.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Karl Kesel a Walt Simonson vytvořili komiksovou postavu Aurona, jehož celé jméno je Lambien.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Karl Kesel a Walt Simonson vytvořili komiksovou postavu Aurona, který má celé jméno Lambien.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Karl Kesel a Walt Simonson vytvořili komiksovou postavu Aurona, který má celé jméno Lambien.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Aurona, celým jménem Lambien, vytvořili Karl Kesel a Walt Simonson.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Aurona, celým jménem Lambien, vytvořili Karl Kesel a Walt Simonson.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komickou postavu Aurona, celým jménem Lambien, vytvořili Karl Kesel a Walt Simonson.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id11" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | creators | "Marv Wolfman"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creator | Marv_Wolfman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+        <mtriple>Karl_Kesel | nationality | Americans</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">American Karl Kesel and Marv Wolfman created the comic character Auron.</lex>
+      <lex lang="ru" lid="Id1">Американец Карл Кесель и Марв Вольфман создали персонажа комиксов Аурона.</lex>
+      <lex lang="en" lid="Id2">The comic character Auron was created by Marv Wolfman and American Karl Kesel.</lex>
+      <lex lang="ru" lid="Id2">Персонажа комиксов Аурона создали Марв Вольфман и американец Карл Кесель.</lex>
+      <lex lang="en" lid="Id3">The comic book character Auron was created by Marv Wolfman and Karl Kesel who is an American.</lex>
+      <lex lang="ru" lid="Id3">Персонаж комиксов Аурон был создан Марвом Вольфманом и Карлом Кеселем, который является американцем.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Marv_Wolfman | sameAs | Вольфман,_Марв</dbpedialink>
+        <dbpedialink direction="en2ru">Americans | sameAs | Американцы_США</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Auron (comicsCharacter) | includes | Аурон</link>
+        <link direction="en2ru">Karl Kesel | sameAs | Карл Кесель</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Američané Karl Kesel a Marv Wolfman vytvořili komiksovou postavu Aurona.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Američan Karl Kesel a Marv Wolfman vytvořili komickou postavu Aurona.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komickou postavu Aurona vytvořili Američan Karl Kesel a Marv Wolfman.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Aurona vytvořili Marv Wolfman a Američan Karl Kesel.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Aurona vytvořili Marv Wolfman a Američan Karl Kesel.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komickou postavu Aurona vytvořili Marv Wolfman a Američan Karl Kesel.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Aurona vytvořili Marv Wolfman a Američan Karl Kesel.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Aurona vytvořili Marv Wolfman a Karl Kesel, který je Američan.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komiksovou postavu Aurona vytvořili Marv Wolfman a Karl Kesel, který je Američan.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id12" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Walt_Simonson</otriple>
+        <otriple>Auron_(comics) | creators | "Marv Wolfman"@en</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Marv_Wolfman</otriple>
+        <otriple>Auron_(comics) | creators | Walt_Simonson</otriple>
+        <otriple>Auron_(comics) | fullName | "Lambien"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Walt_Simonson</mtriple>
+        <mtriple>Auron_(comicsCharacter) | fullName | "Lambien"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Marv Wolfman and Walt Simonson created the comic book character Auron, whose full name is Lambien.</lex>
+      <lex lang="ru" lid="Id1">Марв Вольфман и Уолт Симонсон создали персонажа комиксов Аурона, полное имя которого – Ламбиен.</lex>
+      <lex lang="en" lid="Id2">Auron, a comic character whose full name is Lambien, was created by Marv Wolfman and Walt Simonson.</lex>
+      <lex lang="ru" lid="Id2">Аурон, персонаж комиксов, полное имя которого – Ламбиен, был создан Марвом Вольфманом и Уолтом Симонсоном.</lex>
+      <lex lang="en" lid="Id3">The comic character Auron, whose full name is Lambien, was created by Marv Wolfman and Walt Simonson.</lex>
+      <lex lang="ru" lid="Id3">Персонаж комиксов Аурон, чьё полное имя – Ламбиен, был создан Марвом Вольфманом и Уолтом Симонсоном.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Marv_Wolfman | sameAs | Вольфман,_Марв</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Auron (comicsCharacter) | includes | Аурон</link>
+        <link direction="en2ru">Lambien | sameAs | Ламбиен</link>
+        <link direction="en2ru">Walt Simonson | sameAs | Уолт Симонсон</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Marv Wolfman a Walt Simonson vytvořili komiksovou postavu Aurona, jehož celé jméno je Lambien.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Marv Wolfman a Walt Simonson vytvořili komiksovou postavu Aurona, celým jménem Lambien.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Marv Wolfman a Walt Simonson vytvořili komiksovou postavu Aurona, jejíž celé jméno je Lambien.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Auron, jejíž celé jméno zní Lambien, vytvořili Marv Wolfman a Walt Simonson.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Auron, komická postava, jejíž celé jméno je Lambien, byla vytvořena Marvem Wolfmanem a Waltem Simonsonem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Auron, komická postava, jejíž celé jméno je Lambien, byla vytvořena Marvem Wolfmanem a Waltem Simonsnem.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Auron, jejíž celé jméno zní Lambien, vytvořili Marv Wolfman a Walt Simonson.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Aurona, celým jménem Lambien, vytvořili Marv Wolfman a Walt Simonson.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komickou postavu Aurona, jejíž celé jméno zní Lambien, vytvořili Marv Wolfman a Walt Simonson.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id13" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>BBC | keyPeople | Rona_Fairhead</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | Broadcasting_House</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>BBC | keyPerson | Rona_Fairhead</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | city | Broadcasting_House</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Rona Fairhead is the key person for the BBC which broadcast Bananaman and has its home at Broadcasting House in London.</lex>
+      <lex lang="ru" lid="Id1">Рона Фэрхед - ключевой человек для Би-би-си, которая транслирует Бананамена и располагается в Доме Вещания в Лондоне.</lex>
+      <lex lang="en" lid="Id2">The key person for BBC is Rona Fairfield and it's located in Broadcasting House in London and shows Bananaman TV Series.</lex>
+      <lex lang="ru" lid="Id2">Рона Фэрхед является ключевым человеком для Би-би-си, которая располагается в здании Дома Вещания в Лондоне и показывает сериал «Бананамен».</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">BBC | sameAs | Би-би-си</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">Broadcasting House | sameAs | телерадиокомпания</link>
+        <link direction="en2ru">Rona Fairhead | sameAs | Рона Фэрхед</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Rona Fairheadová je klíčovou osobou BBC, která vysílala Bananamana a má své sídlo v londýnském Broadcasting House.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Rona Fairhead je klíčovou osobou pro BBC, která vysílá Bananaman a má svůj domov v Broadcasting House v Londýně.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Rona Fairheadová je klíčovou osobou pro BBC, která vysílala Bananaman a má svůj domov v Broadcasting House v Londýně.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Klíčovou osobou pro BBC je Rona Fairfieldová a sídlí ve Broadcasting House v Londýně a vysílá seriál Bananaman.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Klíčovou osobou pro BBC je Rona Fairfield a sídlí v Broadcasting House v Londýně a vysílá televizní seriál Bananaman.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Klíčovou osobou pro BBC je Rona Fairfieldová a sídlí v Broadcasting House v Londýně a uvádí Bananaman TV Series.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id14" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>BBC | keyPeople | Rona_Fairhead</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | London</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>BBC | keyPerson | Rona_Fairhead</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | city | London</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Rona Fairhead is a key person at the BBC, which is located in London. Bananaman was broadcast by the BBC.</lex>
+      <lex lang="ru" lid="Id1">Рона Фэрхед – ключевой человек на Би-би-си, находящейся в Лондоне. Бананамен транслировался Би-би-си.</lex>
+      <lex lang="en" lid="Id2">The BBC which broadcasted Bananaman is located in London and the key person is Rona Fairchild.</lex>
+      <lex lang="ru" lid="Id2">Би-би-си, которая показывала Бананамена, находится в Лондоне, а ключевой фигурой там является Рона Фэрхед.</lex>
+      <lex lang="en" lid="Id3">The BBC, where Rona Fairhead was a key person, is located in London and broadcasts Bananaman.</lex>
+      <lex lang="ru" lid="Id3">Би-би-си, где Рона Фэрхед была ключевой фигурой, находится в Лондоне и транслирует Бананамена.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">BBC | sameAs | Би-би-си</dbpedialink>
+        <dbpedialink direction="en2ru">London | sameAs | Лондон</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">Rona Fairhead | sameAs | Рона Фэрхед</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Rona Fairheadová je klíčovou osobou BBC, která sídlí v Londýně. Bananaman byl vysílán BBC.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Rona Fairhead je klíčovou osobou v BBC, která sídlí v Londýně. Bananaman vysílala BBC.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Rona Fairheadová je klíčovou osobou v BBC, která sídlí v Londýně. Bananaman byl vysílán BBC.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">BBC, která vysílala Bananamana, sídlí v Londýně a klíčovou osobou je Rona Fairchildová.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">BBC, která vysílala Bananaman, sídlí v Londýně a klíčovou osobou je Rona Fairchild.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">BBC, která Bananaman vysílala, sídlí v Londýně a klíčovou osobou je Rona Fairchildová.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">BBC, jejíž klíčovou osobou byla Rona Fairheadová, sídlí v Londýně a vysílá Bananamana.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">BBC, kde byla Rona Fairhead klíčovou osobou, sídlí v Londýně a vysílá Bananaman.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">BBC, kde byla Rona Fairheadová klíčovou osobou, sídlí v Londýně a vysílá Bananaman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id15" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>BBC | keyPeople | Tony_Hall,_Baron_Hall_of_Birkenhead</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | Broadcasting_House</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>BBC | keyPerson | Tony_Hall,_Baron_Hall_of_Birkenhead</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | city | Broadcasting_House</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Tony Hall, Baron Hall of Birkenhead is a key person at the BBC which has headquarters at Broadcasting House and broadcast Bananaman.</lex>
+      <lex lang="ru" lid="Id1">Тони Холл, барон Биркенхедский - ключевая персона на Би-би-си, который имеет штаб-квартиру в Доме Вещания и транслирует Бананамена.</lex>
+      <lex lang="en" lid="Id2">Bananaman, the TV series was shown on the BBC which has its home at Broadcasting House in London. A key person at the BBC is Tony Hall, Baron Hall of Birkenhead.</lex>
+      <lex lang="ru" lid="Id2">Бананамен, телесериал транслирующийся на Би-би-си, которая располагается в Доме Вещания в Лондоне. Ключевой человек на BBC - Тони Холл, барон Биркенхедский.</lex>
+      <lex lang="en" lid="Id3">Bananaman, the TV series, was shown on the BBC. Broadcasting House in London is the location of the BBC and a key person there is Tony Hall or Baron Hall of Birkenhead to give him his full title.</lex>
+      <lex lang="ru" lid="Id3">Телесериал Бананамен был показан на Би-би-си. Дом Вещания в Лондоне - это местоположение Би-би-си, и ключевая фигура там - Тони Холл или барон Биркенхедский, с поправкой на его полный титул.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">BBC | sameAs | Би-би-си</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Tony Hall, Baron Hall of Birkenhead | includes | Тони Холл</link>
+        <link direction="en2ru">Tony Hall, Baron Hall of Birkenhead | includes | барон Биркенхедский</link>
+        <link direction="en2ru">Broadcasting House | sameAs | телерадиокомпания</link>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Tony Hall, baron Hall of Birkenhead, je klíčovou osobou BBC, která sídlí ve Broadcasting House a vysílala Bananamana.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Tony Hall, Baron Hall of Birkenhead je klíčovou osobou v BBC, která má sídlo v Broadcasting House a vysílá Bananaman.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Tony Hall, Baron Hall of Birkenhead je klíčovou osobou v BBC, která má sídlo v Broadcasting House a vysílá Bananaman.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Televizní seriál Bananaman byl vysílán v BBC, která sídlí v londýnském Broadcasting House. Klíčovou osobou BBC je Tony Hall, baron Hall z Birkenheadu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman, televizní seriál byl uveden na BBC, která má svůj domov v Broadcasting House v Londýně. Klíčovou osobou v BBC je Tony Hall, Baron Hall of Birkenhead.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman, televizní seriál byl uveden na BBC, která má svůj domov v Broadcasting House v Londýně. Klíčovou osobou v BBC je Tony Hall, Baron Hall z Birkenheadu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Televizní seriál Bananaman byl vysílán v BBC. Broadcasting House v Londýně je sídlem BBC a klíčovou osobou v něm je Tony Hall nebo baron Hall z Birkenheadu, abychom mu dali plný titul.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman, televizní seriál, byl uveden na BBC. Broadcasting House v Londýně je sídlem BBC a klíčovou osobou tam je Tony Hall nebo Baron Hall of Birkenhead, kteří mu dali svůj plný titul.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Televizní seriál Bananaman se vysílal na BBC. Broadcasting House v Londýně je sídlo BBC a klíčovou osobou tam je Tony Hall nebo Baron Hall z Birkenheadu, aby mu dali plný titul.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id16" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Balder_(comics) | creators | Jack_Kirby</otriple>
+        <otriple>Balder_(comics) | creator | Stan_Lee</otriple>
+        <otriple>Balder_(comics) | alterEgo | "Balder Odinson"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Balder_(comicsCharacter) | creator | Jack_Kirby</mtriple>
+        <mtriple>Balder_(comicsCharacter) | creator | Stan_Lee</mtriple>
+        <mtriple>Balder_(comicsCharacter) | alternativeName | "Balder Odinson"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The comic character of Balder has the alternative name of Balder Odinson and was created by Jack Kirby and Stan Lee.</lex>
+      <lex lang="ru" lid="Id1">Персонаж комиксов Бальдер имеет другое имя - Бальдер Одинсон, и был создан Джеком Кёрби и Стэном Ли.</lex>
+      <lex lang="en" lid="Id2">The comic character of Balder Odinson is also known by the name Balder and was created by Stan Lee and Jack Kirby.</lex>
+      <lex lang="ru" lid="Id2">Персонаж комиксов Бальдер Одинсон, также известный под именем Бальдер, был создан Стэном Ли и Джеком Кёрби.</lex>
+      <lex lang="en" lid="Id3">Balder a comic character AKA Balder Odinson, was created by Jack Kirby and Stan Lee.</lex>
+      <lex lang="ru" lid="Id3">Бальдер, персонаж комиксов, также известный под именем Бальдер Одинсон, был создан Джеком Кёрби и Стэном Ли.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Jack_Kirby | sameAs | Джек_Кёрби</dbpedialink>
+        <dbpedialink direction="en2ru">Stan_Lee | sameAs | Стэн_Ли</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Balder (comicsCharacter) | includes | Бальдер</link>
+        <link direction="en2ru">Balder Odinson | sameAs | Бальдер Одинсон</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksová postava Baldera má alternativní jméno Balder Odinson a vytvořili ji Jack Kirby a Stan Lee.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komická postava Baldera má alternativní jméno Balder Odinson a vytvořili ji Jack Kirby a Stan Lee.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komická postava Baldera má alternativní název Balder Odinson a vytvořili ji Jack Kirby a Stan Lee.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksová postava Baldera Odinsona je známá také pod jménem Balder a vytvořili ji Stan Lee a Jack Kirby.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komická postava Baldera Odinsona je známá také pod jménem Balder a vytvořili ji Stan Lee a Jack Kirby.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komická postava Baldera Odinsona je známá také pod jménem Balder a vytvořili ji Stan Lee a Jack Kirby.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Baldera alias Baldera Odinsona vytvořili Jack Kirby a Stan Lee.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Balder, komická postava AKA Balder Odinson, byla vytvořena Jackem Kirbym a Stanem Leem.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Balder, komická postava alias Balder Odinson, byla vytvořena Jackem Kirbym a Stanem Leem.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id17" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Balder_(comics) | creators | Jack_Kirby</otriple>
+        <otriple>Jack_Kirby | nationality | Americans</otriple>
+        <otriple>Balder_(comics) | alterEgo | "Balder Odinson"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Balder_(comicsCharacter) | creator | Jack_Kirby</mtriple>
+        <mtriple>Jack_Kirby | nationality | Americans</mtriple>
+        <mtriple>Balder_(comicsCharacter) | alternativeName | "Balder Odinson"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Balder Odinson - also known as Balder - is a comic character created by the American Jack Kirby.</lex>
+      <lex lang="ru" lid="Id1">Бальдер Одинсон, также известный как Бальдер, является персонажем комиксов, созданным американцем Джеком Кёрби.</lex>
+      <lex lang="en" lid="Id2">The American, Jack Kirby created the comic character of Balder who has the alternative name of Balder Odinson.</lex>
+      <lex lang="ru" lid="Id2">Американец Джек Кёрби создал персонажа комиксов Бальдера, у которого есть альтернативное имя Бальдер Одинсон.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Jack_Kirby | sameAs | Джек_Кёрби</dbpedialink>
+        <dbpedialink direction="en2ru">Americans | sameAs | Американцы_США</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Balder (comicsCharacter) | includes | Бальдер</link>
+        <link direction="en2ru">Balder Odinson | sameAs | Бальдер Одинсон</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Balder Odinson - známý také jako Balder - je komiksová postava, kterou vytvořil Američan Jack Kirby.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Balder Odinson - také známý jako Balder - je komická postava vytvořená Američanem Jackem Kirbym.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Balder Odinson - známý také jako Balder - je komická postava vytvořená Američanem Jackem Kirbym.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Američan Jack Kirby vytvořil komiksovou postavu Baldera, který má alternativní jméno Balder Odinson.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Američan Jack Kirby vytvořil komickou postavu Baldera, který má alternativní jméno Balder Odinson.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Američan Jack Kirby vytvořil komickou postavu Baldera, který má alternativní jméno Balder Odinson.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id18" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Balder_(comics) | creators | Jack_Kirby</otriple>
+        <otriple>Jack_Kirby | nationality | Americans</otriple>
+        <otriple>Balder_(comics) | creator | Stan_Lee</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Balder_(comicsCharacter) | creator | Jack_Kirby</mtriple>
+        <mtriple>Jack_Kirby | nationality | Americans</mtriple>
+        <mtriple>Balder_(comicsCharacter) | creator | Stan_Lee</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Stan Lee and American Jack Kirby created the comic character Balder.</lex>
+      <lex lang="ru" lid="Id1">Стэн Ли и американец Джек Кёрби создали персонажа комиксов Бальдера.</lex>
+      <lex lang="en" lid="Id2">Stan Lee and the American, Jack Kirby created the comic character of Balder.</lex>
+      <lex lang="ru" lid="Id2">Стэн Ли и американец Джек Кёрби создали персонажа комиксов Бальдера.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Stan_Lee | sameAs | Стэн_Ли</dbpedialink>
+        <dbpedialink direction="en2ru">Jack_Kirby | sameAs | Джек_Кёрби</dbpedialink>
+        <dbpedialink direction="en2ru">Americans | sameAs | Американцы_США</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Balder (comicsCharacter) | includes | Бальдер</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Stan Lee a Američan Jack Kirby vytvořili komiksovou postavu Baldera.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Stan Lee a Američan Jack Kirby vytvořili komickou postavu Baldera.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Stan Lee a Američan Jack Kirby vytvořili komickou postavu Baldera.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Stan Lee a Američan Jack Kirby vytvořili komiksovou postavu Baldera.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Stan Lee a Američan Jack Kirby vytvořili komickou postavu Baldera.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Stan Lee a Američan Jack Kirby vytvořili komickou postavu Baldera.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id19" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Ballistic_(DC_Comics) | creator | Doug_Moench</otriple>
+        <otriple>Ballistic_(DC_Comics) | alterEgo | "Kelvin Mao"@en</otriple>
+        <otriple>Ballistic_(DC_Comics) | creators | "Michael Manley"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ballistic_(comicsCharacter) | creator | Doug_Moench</mtriple>
+        <mtriple>Ballistic_(comicsCharacter) | alternativeName | "Kelvin Mao"</mtriple>
+        <mtriple>Ballistic_(comicsCharacter) | creator | "Michael Manley"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ballistic, also known as Kelvin Mao, is a fictional comic superhero created by Michael Manley and Doug Moench.</lex>
+      <lex lang="ru" lid="Id1">Баллистик, также известный как Келвин Мао, - вымышленный супергерой комиксов, созданный Майклом Манли и Дугом Манчем.</lex>
+      <lex lang="en" lid="Id2">The comic character,Ballistic (a.k.a. Kelvin Mao) was created by Douglas Moench and Michael Manley.</lex>
+      <lex lang="ru" lid="Id2">Персонаж комиксов Баллистик (также известный как Келвин Мао) был создан Дугом Манчем и Майклом Манли.</lex>
+      <lex lang="en" lid="Id3">Ballistic is a fictional comic superhero who is sometimes known as Kelvin Mao and was created by Doug Moench and Michael Manley.</lex>
+      <lex lang="ru" lid="Id3">Баллистик - это вымышленный супергерой комиксов, который иногда известен как Келвин Мао, был создан Дугом Манчем и Майклом Манли.</lex>
+      <links>
+        <link direction="en2ru">Ballistic (comicsCharacter) | includes | Баллистик</link>
+        <link direction="en2ru">Michael Manley | sameAs | Майкл Манли</link>
+        <link direction="en2ru">Kelvin Mao | sameAs | Келвин Мао</link>
+        <link direction="en2ru">Doug Moench | sameAs | Дуг Манч</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Balder, známý také jako Kelvin Mao, je fiktivní komiksový superhrdina, kterého vytvořili Michael Manley a Doug Moench.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Ballistic, také známý jako Kelvin Mao, je fiktivní komiksový superhrdina vytvořený Michaelem Manleym a Dougem Moenchem.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Ballistic, známý také jako Kelvin Mao, je fiktivní komiksový superhrdina vytvořený Michaelem Manleym a Dougem Moenchem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu,Ballistic (také známý jako Kelvin Mao) vytvořili Douglas Moench a Michael Manley.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komickou postavu Ballistic (aka Kelvin Mao) vytvořili Douglas Moench a Michael Manley.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komická postava,Ballistic (také známa jako Kelvin Mao) vytvořili Douglas Moench a Michael Manley.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Ballistic je fiktivní komiksový superhrdina, který je někdy známý jako Kelvin Mao a byl vytvořen Dougem Moenchem a Michaelem Manleym.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Ballistic je fiktivní komický superhrdina, který je někdy známý jako Kelvin Mao a byl vytvořen Dougem Moenchem a Michaelem Manleym.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Ballistic je fiktivní komiksový superhrdina, který je někdy známý jako Kelvin Mao a byl vytvořen Dougem Moenchem a Michaelem Manleyem.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id20" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | Broadcasting_House</otriple>
+        <otriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | city | Broadcasting_House</mtriple>
+        <mtriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Bananaman the TV series was shown on the BBC which was founded by John Reith, 1st Baron Reith and is located in the Broadcasting House in London.</lex>
+      <lex lang="ru" lid="Id1">Телесериал "Бананамен" был показан на Би-би-си, которую основал Джон Рейт, 1-й Барон Рейт, и которая расположена в Доме Вещания в Лондоне.</lex>
+      <lex lang="en" lid="Id2">1st Baron,John Reith was the founder of BBC whose location is the Broadcasting House in London, and Bananaman was shown on the channel.</lex>
+      <lex lang="ru" lid="Id2">1-й Барон Рейт, Джон Рейт, был основателем Би-би-си, местоположение которой в Доме Вещания в Лондоне, и «Бананамен» был показан на этом канале.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">BBC | sameAs | Би-би-си</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">Broadcasting House | sameAs | телерадиокомпания</link>
+        <link direction="en2ru">John Reith, 1st Baron Reith | includes | Джон Рейт</link>
+        <link direction="en2ru">John Reith, 1st Baron Reith | includes | 1-й Барон Рейт</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Televizní seriál Bananaman byl vysílán na stanici BBC, kterou založil John Reith, 1. baron Reith, a která sídlí v budově Broadcasting House v Londýně.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Televizní seriál Bananaman byl uveden na BBC, kterou založil John Reith, 1. baron Reith a nachází se v Broadcasting House v Londýně.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman TV seriál byl promítán na BBC, která byla založena Johnem Reithem, 1. baronem Reithem a sídlí v Broadcasting House v Londýně.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">1. baron,John Reith byl zakladatelem BBC, jejíž sídlo je Broadcasting House v Londýně, a Bananaman byl vysílán na tomto kanálu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">1. baron John Reith byl zakladatelem BBC, jejíž sídlo je Broadcasting House v Londýně, a na kanálu byl vysílán Bananaman.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">1. baron, John Reith byl zakladatelem BBC, jejíž sídlo je Broadcasting House v Londýně, a Bananaman byl uveden na kanálu.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id21" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | London</otriple>
+        <otriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | city | London</mtriple>
+        <mtriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The BBC, which is located in London and broadcast Bananaman, was founded by John Reith 1st Baron Reith.</lex>
+      <lex lang="ru" lid="Id1">Би-би-си, которая расположена в Лондоне и транслирует «Бананамен», была основана Джоном Рейтом, 1-м Бароном Рейтом.</lex>
+      <lex lang="en" lid="Id2">The BBC, which broadcast Bananaman, is located in London and was founded by John Reith, 1st Baron Reith.</lex>
+      <lex lang="ru" lid="Id2">Би-би-си, которая транслирует «Бананамена», расположена в Лондоне, была основана Джоном Рейтом, 1-м Бароном Рейтом.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">BBC | sameAs | Би-би-си</dbpedialink>
+        <dbpedialink direction="en2ru">London | sameAs | Лондон</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">John Reith, 1st Baron Reith | includes | Джон Рейт</link>
+        <link direction="en2ru">John Reith, 1st Baron Reith | includes | 1-й Барон Рейт</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Zakladatelem BBC, která sídlí v Londýně a vysílá Bananamana, byl John Reith, 1. baron Reith.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">BBC, která se nachází v Londýně a vysílá Bananaman, byla založena Johnem Reithem 1. baronem Reithem.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">BBC, která sídlí v Londýně a vysílá Bananaman, byla založena Johnem Reithem 1. baronem Reithem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">BBC, která vysílala Bananamana, sídlí v Londýně a založil ji John Reith 1. baron Reith.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">BBC, která vysílá Bananaman, sídlí v Londýně a byla založena Johnem Reithem, 1. baronem Reithem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">BBC, která vysílala Bananaman, sídlí v Londýně a založil ji John Reith, 1. baron Reith.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id22" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Bill Oddie starred in Bananaman which was broadcast by the BBC and first aired on 3 October 1983.</lex>
+      <lex lang="ru" lid="Id1">Билл Одди снялся в «Бананамене», который был показан на Би-би-си и впервые вышел в эфир 3 октября 1983 года.</lex>
+      <lex lang="en" lid="Id2">Bananaman a BBC TV series which stars Bill Oddie first aired on 3rd of October, 1983.</lex>
+      <lex lang="ru" lid="Id2">«Бананамен» - телесериал Би-би-си, в котором снимался Билл Одди, впервые вышел в эфир 3 октября 1983 года.</lex>
+      <lex lang="en" lid="Id3">Bill Oddie stars in Bananaman which first aired on 3 October 1983 and was broadcast by the BBC.</lex>
+      <lex lang="ru" lid="Id3">Билл Одди играет в «Бананамене», который впервые вышел в эфир 3 октября 1983 года и транслировался "Би-би-си".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">BBC | sameAs | Би-би-си</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">Bill Oddie | sameAs | Билл Одди</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bill Oddie hrál ve filmu Bananaman, který vysílala BBC a který se poprvé vysílal 3. října 1983.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bill Oddie hrál ve filmu Bananaman, který vysílala BBC a poprvé odvysílal 3. října 1983.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bill Oddie hrál v Bananamanovi, který vysílala BBC a poprvé se vysílal 3. října 1983.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman televizní seriál BBC, v němž hraje Bill Oddie, se poprvé vysílal 3. října 1983.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman a televizní seriál BBC, ve kterém hraje Bill Oddie, byl poprvé odvysílán 3. října 1983.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman televizní seriál BBC, ve kterém hraje Bill Oddie, byl poprvé odvysílán 3. října 1983.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bill Oddie hraje v seriálu Bananaman, který byl poprvé vysílán 3. října 1983 a vysílala ho BBC.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bill Oddie hraje ve filmu Bananaman, který se poprvé vysílal 3. října 1983 a byl vysílán BBC.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bill Oddie hraje v Bananamanu, který se poprvé vysílal 3. října 1983 a vysílala ho BBC.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id23" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Graeme Garden stars in Bananaman which is broadcast by the BBC and first aired on 3 October 1983.</lex>
+      <lex lang="ru" lid="Id1">Грэм Гарден снимается в Бананамене, которая транслируется Би-би-си и впервые вышла в эфир 3 октября 1983 года.</lex>
+      <lex lang="en" lid="Id2">Banaman was first broadcast by the BBC on 3 October 1983 and starred Graeme Garden.</lex>
+      <lex lang="ru" lid="Id2">Бананамен впервые транслировался "Би-би-си" 3 октября 1983 года и в нем играл Грэм Гарден.</lex>
+      <lex lang="en" lid="Id3">Graeme Garden stars in the TV series of Bananaman which was shown on BBC and first aired on 3 October 1983.</lex>
+      <lex lang="ru" lid="Id3">Грэм Гарден играет в телесериале «Бананамен», который был показан на Би-би-си и впервые вышел в эфир 3 октября 1983 года.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">BBC | sameAs | Би-би-си</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">Graeme Garden | sameAs | Грэм Гарден</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Graeme Garden hraje v seriálu Bananaman, který vysílá BBC a který se poprvé vysílal 3. října 1983.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Graeme Garden hraje ve filmu Bananaman, který vysílá BBC a poprvé odvysílá 3. října 1983.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Graeme Garden hraje v Bananamanu, který vysílá BBC a který byl poprvé odvysílán 3. října 1983.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Banaman byl poprvé vysílán BBC 3. října 1983 a v hlavní roli se objevil Graeme Garden.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Banaman byl poprvé vysílán BBC dne 3. října 1983 a hrál v něm Graeme Garden.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Banaman byl poprvé vysílán BBC 3. října 1983 a hrál v Graeme Garden.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Graeme Garden hraje v seriálu Bananaman, který vysílala BBC a který se poprvé vysílal 3. října 1983.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Graeme Garden hraje v televizním seriálu Bananaman, který byl uveden na BBC a poprvé odvysílán 3. října 1983.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Graeme Garden hraje v televizním seriálu Banánovník, který byl uveden na BBC a poprvé odvysílán 3. října 1983.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id24" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Jill_Shilling</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Jill_Shilling</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Bananaman, starring Jill Shilling, is broadcast by the BBC and first aired on 3rd October 1983.</lex>
+      <lex lang="ru" lid="Id1">Бананамен, где играет Джилл Шиллинг, транслируется Би-би-си и впервые вышла в эфир 3 октября 1983 года.</lex>
+      <lex lang="en" lid="Id2">The BBC broadcast Bananaman, which was first aired on 10/03/1983 and starred Jill Shilling.</lex>
+      <lex lang="ru" lid="Id2">"Би-би-си" транслировала Бананамена, который впервые вышел в эфир 3 октября 1983 и в котором играла Джилл Шиллинг.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">BBC | sameAs | Би-би-си</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">Jill Shilling | sameAs | Джилл Шиллинг</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Seriál Bananaman, v němž hraje Jill Shillingová, vysílá BBC a poprvé byl odvysílán 3. října 1983.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman, v hlavní roli s Jill Shilling, je vysílán BBC a poprvé vysílán 3. října 1983.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman s Jill Shillingovou v hlavní roli vysílá BBC a poprvé se vysílá 3. října 1983.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">BBC vysílala seriál Bananaman, který byl poprvé odvysílán 10. 3. 1983 a v němž hrála Jill Shillingová.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">BBC vysílala Bananaman, který byl poprvé odvysílán 10.3.1983 a hrála v něm Jill Shilling.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">BBC vysílala Bananaman, který byl poprvé odvysílán 10/03/1983 a hrála v něm Jill Shilling.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id25" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bill_Oddie | children | Kate_Hardie</otriple>
+        <otriple>Bill_Oddie | birthPlace | Lancashire</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bill_Oddie | child | Kate_Hardie</otriple>
+        <otriple>Bill_Oddie | birthPlace | Lancashire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bill_Oddie | child | Kate_Hardie</mtriple>
+        <mtriple>Bill_Oddie | birthPlace | Lancashire</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Billie Oddie who starred in Bananaman is Kate Hardie's son and was born in Lancashire.</lex>
+      <lex lang="ru" lid="Id1">Билл Одди - сын Кейт Харди, родился в Ланкашире и снимался в Бананамене.</lex>
+      <lex lang="en" lid="Id2">Bill Oddie, who stars in Bananaman, was born in Lancashire and has a child called Kate Hardie.</lex>
+      <lex lang="ru" lid="Id2">Билл Одди, который играет в «Бананамене», родился в Ланкашире, и у него есть ребенок, которого зовут Кейт Харди.</lex>
+      <lex lang="en" lid="Id3">Bill Oddie, who starred in Bananaman, was born in Lancashire and has a daughter called Kate Hardie.</lex>
+      <lex lang="ru" lid="Id3">Билл Одди, который снялся в Бананамене, родился в Ланкашире и имеет дочь, которую зовут Кейт Харди.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Lancashire | sameAs | Ланкашир</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">Bill Oddie | sameAs | Билл Одди</link>
+        <link direction="en2ru">Kate Hardie | sameAs | Кейт Харди</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Billie Oddie, který hrál v Bananamanovi, je synem Kate Hardieové a narodil se v Lancashiru.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Billie Oddie, která hrála ve filmu Bananaman, je synem Kate Hardie a narodila se v Lancashire.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Billie Oddieová, která hrála v Bananamanovi, je syn Kate Hardieové a narodila se v Lancashiru.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bill Oddie, který hraje ve filmu Bananaman, se narodil v Lancashiru a má dítě jménem Kate Hardie.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bill Oddie, který hraje ve filmu Bananaman, se narodil v Lancashire a má dítě jménem Kate Hardie.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bill Oddie, který hraje v Bananamanu, se narodil v Lancashiru a má dítě jménem Kate Hardie.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bill Oddie, který hrál ve filmu Bananaman, se narodil v Lancashiru a má dceru jménem Kate Hardie.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bill Oddie, který hrál ve filmu Bananaman, se narodil v Lancashire a má dceru Kate Hardie.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bill Oddie, který hrál v Bananamanovi, se narodil v Lancashire a má dceru Kate Hardie.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id26" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bill_Oddie | children | Kate_Hardie</otriple>
+        <otriple>Bill_Oddie | birthPlace | Rochdale</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bill_Oddie | child | Kate_Hardie</otriple>
+        <otriple>Bill_Oddie | birthPlace | Rochdale</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bill_Oddie | child | Kate_Hardie</mtriple>
+        <mtriple>Bill_Oddie | birthPlace | Rochdale</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Bill Oddie, who starred in Bananaman, was born in Rochdale and has a child called Kate Hardie.</lex>
+      <lex lang="ru" lid="Id1">Билл Одди, который снялся в Бананамене, родился в Рочдейле и имеет дочь которую зовут Кейт Харди.</lex>
+      <lex lang="en" lid="Id2">Billie Oddie starred in Bananaman was born in Rochdale and Kate Hardie is his child.</lex>
+      <lex lang="ru" lid="Id2">Билли Одди, который снялся в Бананамене, родился в Рочдейле, а Кейт Харди - его ребенок.</lex>
+      <lex lang="en" lid="Id3">Bill Oddie, who starred in Bananaman, was born in Rochdale and has a daughter called Kate Hardie.</lex>
+      <lex lang="ru" lid="Id3">Билл Одди, который снялся в «Бананамене», родился в Рочдейле, и у него есть дочь, которую зовут Кейт Харди.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Rochdale | sameAs | Рочдейл</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">Bill Oddie | sameAs | Билл Одди</link>
+        <link direction="en2ru">Kate Hardie | sameAs | Кейт Харди</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bill Oddie, který hrál ve filmu Bananaman, se narodil v Rochdale a má dítě jménem Kate Hardie.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bill Oddie, který hrál ve filmu Bananaman, se narodil v Rochdale a má dítě jménem Kate Hardie.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bill Oddie, který hrál v Bananamanovi, se narodil v Rochdale a má dítě jménem Kate Hardie.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Billie Oddie, který hrál ve filmu Bananaman, se narodil v Rochdale a jeho dítě je Kate Hardie.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Billie Oddie hrála ve filmu Bananaman se narodila v Rochdale a Kate Hardie je jeho dítětem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Billie Oddieová hrála v Bananamanovi narodila se v Rochdale a Kate Hardieová je jeho dítě.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bill Oddie, který hrál ve filmu Bananaman, se narodil v Rochdale a má dceru jménem Kate Hardie.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bill Oddie, který hrál ve filmu Bananaman, se narodil v Rochdale a má dceru Kate Hardie.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bill Oddie, který hrál v Bananamanovi, se narodil v Rochdale a má dceru Kate Hardie.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id27" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Bananaman was broadcasted by STV, starring Graeme Garden it first aired on 3rd October 1983.</lex>
+      <lex lang="ru" lid="Id1">Бананамен транслировался компанией "STV", в главной роли снималась Грэм Гарден, он впервые вышел в эфир 3 октября 1983 года.</lex>
+      <lex lang="en" lid="Id2">Graeme Garden stars in Bananaman which first aired on 3 October 1983 and was broadcast by STV.</lex>
+      <lex lang="ru" lid="Id2">Грэм Гарден играет в «Бананамене», который впервые вышел в эфир 3 октября 1983 года и транслировался STV.</lex>
+      <lex lang="en" lid="Id3">Bananaman which first aired 10/03/1983, stars Graeme Garden and was broadcasted by STV.</lex>
+      <lex lang="ru" lid="Id3">Бананамен впервые вышел в эфир 3 октября 1983 года, в нём играл Грэм Гарден и он транслировался STV.</lex>
+      <links>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">Graeme Garden | sameAs | Грэм Гарден</link>
+        <link direction="en2ru">STV | sameAs | STV</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman byl vysílán STV, v hlavní roli Graeme Garden jej poprvé odvysílala 3. října 1983.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman odvysílala STV s Graeme Garden v hlavní roli a poprvé se odvysílal 3. října 1983.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman odvysílala STV v hlavní roli s Graeme Garden, kterou poprvé odvysílala 3. října 1983.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Graeme Garden hraje ve filmu Bananaman, který byl poprvé vysílán 3. října 1983 a vysílala ho STV.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Graeme Garden hraje ve filmu Bananaman, který se poprvé vysílal 3. října 1983 a byl vysílán STV.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Graeme Garden hraje v Bananamanu, který byl poprvé odvysílán 3. října 1983 a byl vysílán STV.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman, který se poprvé vysílal 3. 10. 1983, hraje v něm Graeme Garden a vysílala ho STV.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman, který se poprvé odvysílal 10/03/1983, hraje Graeme Garden a byl vysílán STV.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman, který byl poprvé odvysílán 10/03/1983, hraje v Graeme Garden a byl vysílán STV.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id28" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Jill_Shilling</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Jill_Shilling</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Jill Shilling starred in Bananaman which is broadcast by STV and first aired on 3 October 1983.</lex>
+      <lex lang="ru" lid="Id1">Джилл Шиллинг играла в «Бананамене», который был транслирован STV и впервые вышел в эфир 3 октября 1983 года.</lex>
+      <lex lang="en" lid="Id2">Bananaman starred Jill Shilling and first aired on the 3rd of October, 1983 being broadcast by STV.</lex>
+      <lex lang="ru" lid="Id2">«Бананамен», где играла Джилл Шиллинг, впервые вышел в эфир 3 октября 1983 года, транслированный STV.</lex>
+      <links>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">STV | sameAs | STV</link>
+        <link direction="en2ru">Jill Shilling | sameAs | Джилл Шиллинг</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Jill Shillingová hraje ve filmu Bananaman, který vysílá STV a který byl poprvé odvysílán 3. října 1983.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Jill Shilling hrála ve filmu Bananaman, který vysílá STV a poprvé odvysílal 3. října 1983.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Jill Shilling hrála ve filmu Bananaman, který vysílá STV a který byl poprvé odvysílán 3. října 1983.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">V seriálu Bananaman hraje Jill Shillingová a poprvé byl odvysílán 3. října 1983 a vysílala ho STV.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman v hlavní roli s Jill Shilling a poprvé byl vysílán 3. října 1983 na STV.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman hrál Jill Shillingovou a poprvé byl odvysílán 3. října 1983 televizí STV.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id29" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The BBC broadcast Bananaman, which was first aired on 10/03/1983 and starred Tim Brooke-Taylor.</lex>
+      <lex lang="ru" lid="Id1">"Би-би-си" транслирует Бананамена, который впервые вышел в эфир 3 октября 1983 года и в котором играет Тим Брук-Тейлор.</lex>
+      <lex lang="en" lid="Id2">Bananaman which first aired on October 3rd, 1983 on the BBC, starred Tim Brooke-Taylor.</lex>
+      <lex lang="ru" lid="Id2">В Бананамене, который впервые вышел в эфир 3 октября 1983 года на Би-би-си, снимался Тим Брук-Тейлор.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">BBC | sameAs | Би-би-си</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">Tim Brooke-Taylor | sameAs | Тим Брук-Тейлор</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">BBC vysílala film Bananaman, který byl poprvé odvysílán 3. 10. 1983 a v němž hrál Tim Brooke-Taylor.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">BBC vysílala Bananaman, který byl poprvé odvysílán 10.3.1983 a hrál v něm Tim Brooke-Taylor.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">BBC vysílala Bananaman, který byl poprvé odvysílán 10/03/1983 a hrál v něm Tim Brooke-Taylor.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman, který se poprvé vysílal 3. října 1983 na BBC, hrál Tim Brooke-Taylor.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman, který se poprvé vysílal 3. října 1983 na BBC, hrál Tim Brooke-Taylor.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Banánovník, který byl poprvé odvysílán 3. října 1983 na BBC, ztvárnil Tim Brooke-Taylor.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id30" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Banaman starred Tim Brooke Taylor and was first broadcast by STV on 3 October 1983.</lex>
+      <lex lang="ru" lid="Id1">"Бананамен", в котором играл Тим Брук-Тейлор, был впервые транслирован "STV" 3 октября 1983 года.</lex>
+      <lex lang="en" lid="Id2">Tim Brooke-Taylor starred as Bananaman, which was first aired on 10/03/1983 and was broadcast by STV.</lex>
+      <lex lang="ru" lid="Id2">Тим Брук-Тейлор играл в Бананамене, который впервые вышел в эфир 3 октября 1983 года и транслировался в эфире STV.</lex>
+      <lex lang="en" lid="Id3">Bananaman, starring Tim Brooke-Taylor, was first broadcast by STV on the 3rd October 1983.</lex>
+      <lex lang="ru" lid="Id3">«Бананамен», где играет Тим Брук-Тейлор, был впервые транслирован STV 3 октября 1983 года.</lex>
+      <links>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">STV | sameAs | STV</link>
+        <link direction="en2ru">Tim Brooke-Taylor | sameAs | Тим Брук-Тейлор</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Banaman, v němž hrál Tim Brooke-Taylor, byl poprvé odvysílán 3. října 1983 na STV.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Banaman hrál Tim Brooke Taylor a byl poprvé vysílán STV dne 3. října 1983.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Banaman hrál Tima Brooke Taylora a STV ho poprvé odvysílala 3. října 1983.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Tim Brooke-Taylor hrál ve filmu Bananaman, který byl poprvé vysílán 3. 10. 1983 a vysílala ho STV.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Tim Brooke-Taylor hrál jako Bananaman, který byl poprvé odvysílán 10.3.1983 a byl vysílán STV.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Tim Brooke-Taylor ztvárnil roli Bananamana, která byla poprvé odvysílána 10.3.1983 a vysílala ji STV.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Film Bananaman, ve kterém hrál Tim Brooke-Taylor, byl poprvé vysílán STV 3. října 1983.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman, v hlavní roli Tim Brooke-Taylor, byl poprvé vysílán STV 3. října 1983.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman, v hlavní roli Tim Brooke-Taylor, byl poprvé vysílán STV 3. října 1983.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id31" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | lastAired | "1986-04-15"^^xsd:date</otriple>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Bananaman | lastAired | "1986-04-15"</mtriple>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Bananaman starred Tim Brooke Taylor and was broadcast for the last time by STV on 15 April 1986.</lex>
+      <lex lang="ru" lid="Id1">В Бананамене играл Тим Брук-Тейлор и в последний раз он транслировался STV 15 апреля 1986 года.</lex>
+      <lex lang="en" lid="Id2">Bananaman was broadcasted by STV, it starred Tim Brooke Taylor and last aired on 15th April 1986.</lex>
+      <lex lang="ru" lid="Id2">Бананамен транслировался на STV, в нем снимался Тим Брук-Тейлор, и последний выпуск вышел в эфир 15 апреля 1986 года.</lex>
+      <links>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">STV | sameAs | STV</link>
+        <link direction="en2ru">Tim Brooke-Taylor | sameAs | Тим Брук-Тейлор</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman v hlavní roli s Timem Brooke-Taylorem byl naposledy vysílán STV 15. dubna 1986.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman hrál Tim Brooke Taylor a byl naposledy vysílán STV dne 15. dubna 1986.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">V Bananamanovi hrál Tim Brooke Taylor a STV ho naposledy odvysílala 15. dubna 1986.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman byl vysílán STV, hrál v něm Tim Brooke Taylor a naposledy byl vysílán 15. dubna 1986.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman byl vysílán STV, hrál v něm Tim Brooke Taylor a naposledy se vysílal 15. dubna 1986.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman byl vysílán STV, hrál v něm Tim Brooke Taylor a naposledy byl odvysílán 15. dubna 1986.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id32" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Alan_Tudyk</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Alan_Tudyk</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Walt Disney Studios Motion Pictures is the distributor of the film Big Hero 6, the film that stars Alan Tudyk and in which the character Baymax makes his first appearance.</lex>
+      <lex lang="ru" lid="Id1">Walt Disney Studios Motion Pictures является дистрибьютором фильма Город героев, фильма, в котором играет Алан Тудик и в котором впервые появляется персонаж Баймакс.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Walt_Disney_Studios_Motion_Pictures | sameAs | Walt_Disney_Studios_Motion_Pictures</dbpedialink>
+        <dbpedialink direction="en2ru">Big_Hero_6_(film) | sameAs | Город_героев</dbpedialink>
+        <dbpedialink direction="en2ru">Alan_Tudyk | sameAs | Тудик,_Алан</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Baymax | sameAs | Баймакс</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Walt Disney Studios Motion Pictures je distributorem filmu Big Hero 6, filmu, ve kterém hraje Alan Tudyk a ve kterém se poprvé objevuje postava Baymaxe.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Walt Disney Studios Motion Pictures je distributorem filmu Big Hero 6, filmu, ve kterém hraje Alan Tudyk a ve kterém se poprvé objeví postava Baymax.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Walt Disney Studios Motion Pictures je distributorem filmu Big Hero 6, ve kterém hraje Alan Tudyk a ve kterém se poprvé objeví postava Baymaxe.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id33" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Ryan_Potter</otriple>
+        <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Ryan_Potter</mtriple>
+        <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Big Hero 6, distributed by Walt Disney Studios Motion Pictures, starred Ryan Potter and was Baymax's first film appearance.</lex>
+      <lex lang="ru" lid="Id1">Город героев, распространяемый компанией Walt Disney Studios Motion Pictures, и в котором играет Райан Поттер, был первым фильмом где появился Баймакс.</lex>
+      <lex lang="en" lid="Id2">Big Hero 6 stars Ryan Potter and was Baymax's first film appearance. It was distributed by Walt Disney Studios Motion Pictures.</lex>
+      <lex lang="ru" lid="Id2">В "Городе героев" играет Райан Поттер, и он был первым фильмом в котором появился Баймакс. Его распространяла Walt Disney Studios Motion Pictures.</lex>
+      <lex lang="en" lid="Id3">Baymax first appeared in the Walt Disney Studios distributed film Big Hero 6, starring Ryan Potter.</lex>
+      <lex lang="ru" lid="Id3">Баймакс впервые появился в распространяемом Walt Disney Studios фильме Город героев, в котором играет Райан Поттер.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Walt_Disney_Studios_Motion_Pictures | sameAs | Walt_Disney_Studios_Motion_Pictures</dbpedialink>
+        <dbpedialink direction="en2ru">Big_Hero_6_(film) | sameAs | Город_героев</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Baymax | sameAs | Баймакс</link>
+        <link direction="en2ru">Ryan Potter | sameAs | Райан Поттер</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Distributorem filmu Big Hero 6, který natočila společnost Walt Disney Studios Motion Pictures, je Ryan Potter v hlavní roli a postava Baymaxe se v něm objevuje poprvé.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Big Hero 6, distribuovaný Walt Disney Studios Motion Pictures, hrál Ryana Pottera a byl Baymaxovým prvním filmovým vystoupením.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Big Hero 6, distribuovaný Walt Disney Studios Motion Pictures, hrál Ryan Potter a byl prvním Baymaxovým filmem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Ve filmu Big Hero 6 hrál Ryan Potter a jednalo se o první filmový výstup Baymaxe. Film distribuovala společnost Walt Disney Studios Motion Pictures.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Big Hero 6 hraje Ryana Pottera a byl Baymaxovým prvním filmovým vystoupením. Distribuovalo jej Walt Disney Studios Motion Pictures.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Big Hero 6 hraje Ryan Potter a byl to Baymaxův první film. Bylo to distribuováno Walt Disney Studios Motion Pictures.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Baymax se poprvé objevil ve filmu Big Hero 6, který distribuovala společnost Walt Disney Studios a v němž hrál Ryan Potter.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Baymax se poprvé objevil v distribuovaném filmu studia Walta Disneye Big Hero 6 s Ryanem Potterem v hlavní roli.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Baymax se poprvé objevil v distribuovaném filmu Big Hero 6 společnosti Walt Disney Studios s Ryanem Potterem v hlavní roli.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id34" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Baymax is a character in Big Hero 6 and was created by Duncan Rouleau and Steven T. Seagle.</lex>
+      <lex lang="ru" lid="Id1">Баймакс - персонаж в Городе героев, он был создан Дунканом Руло и Стивеном Ти Сигалом.</lex>
+      <lex lang="en" lid="Id2">Steven T Seagle and Duncan Rouleau created the character of Baymax who appeared in Big Hero 6.</lex>
+      <lex lang="ru" lid="Id2">Стивен Ти Сигал и Дункан Руло создали персонажа Баймакс, который появился в Городе героев.</lex>
+      <lex lang="en" lid="Id3">Baymax, a character in Big Hero 6, was created by Duncan Rouleeau and Steven T. Seagle.</lex>
+      <lex lang="ru" lid="Id3">Баймакс, персонаж в Городе героев, был создан Дунканом Руло и Стивеном Ти Сигалом.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Big_Hero_6_(film) | sameAs | Город_героев</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Baymax | sameAs | Баймакс</link>
+        <link direction="en2ru">Duncan Rouleau | sameAs | Дункан Руло</link>
+        <link direction="en2ru">Steven T. Seagle | sameAs | Стивен Ти Сигал</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Baymax je postava ve filmu Big Hero 6 a vytvořili ji Duncan Rouleau a Steven T. Seagle.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Baymax je postava z Big Hero 6 a vytvořili ji Duncan Rouleau a Steven T. Seagle.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Baymax je postava v Big Hero 6 a byl vytvořen Duncanem Rouleauem a Stevenem T. Seaglem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Steven T. Seagle a Duncan Rouleau vytvořili postavu Baymaxe, která se objevila ve filmu Big Hero 6.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Steven T Seagle a Duncan Rouleau vytvořili postavu Baymaxe, který se objevil v Big Hero 6.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Steven T Seagle a Duncan Rouleau vytvořili postavu Baymaxe, který se objevil v Big Hero 6.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Postavu Baymaxe ve filmu Big Hero 6 vytvořili Duncan Rouleau a Steven T. Seagle.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Baymax, postava z Big Hero 6, byla vytvořena Duncanem Rouleeauem a Stevenem T. Seaglem.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Baymax, postava v Big Hero 6, byla vytvořena Duncanem Rouleeauem a Stevenem T. Seaglem.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id35" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | voice | Scott_Adsit</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Baymax was created by Duncan Rouleau and Steven T Seagle and is voiced by Scott Adsit.</lex>
+      <lex lang="ru" lid="Id1">Баймакс был создан Дунканом Руло и Стивеном Ти Сигалом и озвучен Скоттом Адситом.</lex>
+      <lex lang="en" lid="Id2">Duncan Rouleau and Steven T Seagle created the character of Baymax who is voiced by Scott Adsit.</lex>
+      <lex lang="ru" lid="Id2">Дункан Руло и Стивен Ти Сигал создали персонажа Баймакс, которого озвучивает Скотт Адсит.</lex>
+      <lex lang="en" lid="Id3">Scott Adsit voiced the character Baymax which was created by Duncan Rouleau and Steven T. Seagle.</lex>
+      <lex lang="ru" lid="Id3">Скотт Адсит озвучил персонажа Баймакс, которого создали Дункан Руло и Стивен Ти Сигал.</lex>
+      <links>
+        <link direction="en2ru">Steven T. Seagle | sameAs | Стивен Ти Сигал</link>
+        <link direction="en2ru">Baymax | sameAs | Баймакс</link>
+        <link direction="en2ru">Scott Adsit | sameAs | Скотт Адсит</link>
+        <link direction="en2ru">Duncan Rouleau | sameAs | Дункан Руло</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Baymaxe vytvořili Duncan Rouleau a Steven T. Seagle a jeho hlas namluvil Scott Adsit.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Baymax vytvořili Duncan Rouleau a Steven T Seagle a namluvil Scott Adsit.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Baymax vytvořili Duncan Rouleau a Steven T Seagle a je namluven Scottem Adsitem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Duncan Rouleau a Steven T. Seagle vytvořili postavu Baymaxe, kterou namluvil Scott Adsit.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Duncan Rouleau a Steven T Seagle vytvořili postavu Baymaxe, které namluvil Scott Adsit.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Duncan Rouleau a Steven T Seagle vytvořili postavu Baymaxe, kterou namluvil Scott Adsit.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Scott Adsit namluvil postavu Baymaxe, kterou vytvořili Duncan Rouleau a Steven T. Seagle.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Scott Adsit vyjádřil postavu Baymaxe, kterou vytvořili Duncan Rouleau a Steven T. Seagle.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Scott Adsit namluvil postavu Baymaxe, kterou vytvořili Duncan Rouleau a Steven T. Seagle.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id36" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Ben_Urich | creators | Roger_McKenzie_(comics)</otriple>
+        <otriple>Ben_Urich | creator | Gene_Colan</otriple>
+        <otriple>Ben_Urich | fullName | "Benjamin Urich"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Roger_McKenzie_(comics)</otriple>
+        <otriple>Ben_Urich | creators | Gene_Colan</otriple>
+        <otriple>Ben_Urich | fullName | "Benjamin Urich"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)</mtriple>
+        <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
+        <mtriple>Ben_Urich | fullName | "Benjamin Urich"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The character of Ben Urich, whose full name is Benjamin Urich, was created by Gene Colan and the comic bookwriter, Roger Mckenzie.</lex>
+      <lex lang="ru" lid="Id1">Персонаж Бена Урича, чье полное имя - Бенджамин Урич, был создан Джином Коланом и автором комиксов Роджером Маккензи.</lex>
+      <lex lang="en" lid="Id2">Ben(jamin) Urich was created by the comic book writer Roger McKenzie and Gene Colan.</lex>
+      <lex lang="ru" lid="Id2">Бен (Бенджамин) Урич был создан писателем комиксов Роджером Маккензи и Джином Коланом.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Gene_Colan | sameAs | Колан,_Джин</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Benjamin Urich | sameAs | Бенджамин Урич</link>
+        <link direction="en2ru">Roger McKenzie (comic book writer) | includes | Роджер Маккензи</link>
+        <link direction="en2ru">Ben Urich | sameAs | Бен Урич</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Postavu Bena Uricha, jehož celé jméno zní Benjamin Urich, vytvořili Gene Colan a autor komiksu Roger Mckenzie.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Postavu Bena Uricha, celým jménem Benjamin Urich, vytvořili Gene Colan a autor komiksů Roger Mckenzie.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Postavu Bena Uricha, jehož celé jméno je Benjamin Urich, vytvořili Gene Colan a komiksový knihkupec Roger Mckenzie.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Ben(jamin) Urich byl vytvořen autorem komiksu Rogerem McKenziem a Genem Colanem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Ben(jamin) Urich vytvořili komiksový spisovatel Roger McKenzie a Gene Colan.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Ben(jamin) Urich byl vytvořen komiksovým spisovatelem Rogerem McKenziem a Genem Colanem.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id37" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Ben_Urich | creators | Roger_McKenzie_(comics)</otriple>
+        <otriple>Ben_Urich | creator | Gene_Colan</otriple>
+        <otriple>Gene_Colan | nationality | Americans</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Roger_McKenzie_(comics)</otriple>
+        <otriple>Gene_Colan | nationality | Americans</otriple>
+        <otriple>Ben_Urich | creators | Gene_Colan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)</mtriple>
+        <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
+        <mtriple>Gene_Colan | nationality | Americans</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The character of Ben Urich was created by the American, Gene Colan, and the comic book writer, Roger McKenzie.</lex>
+      <lex lang="ru" lid="Id1">Персонаж "Бен Урич" был создан американцем Джином Коланом и писателем комиксов Роджером Маккензи.</lex>
+      <lex lang="en" lid="Id2">Roger McKenzie and the American, Gene Colan created the comic book character of Ben Urich.</lex>
+      <lex lang="ru" lid="Id2">Роджер Маккензи и американец Джин Колан создали персонаж комиксов Бен Урич.</lex>
+      <lex lang="en" lid="Id3">Ben Urich was created by the American, Gene Colan and the comic book writer, Roger McKenzie.</lex>
+      <lex lang="ru" lid="Id3">Бен Урич был создан американцем Джином Коланом и писателем комиксов Роджером Маккензи.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Americans | sameAs | Американцы_США</dbpedialink>
+        <dbpedialink direction="en2ru">Gene_Colan | sameAs | Колан,_Джин</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Roger McKenzie (comic book writer) | includes | Роджер Маккензи</link>
+        <link direction="en2ru">Ben Urich | sameAs | Бен Урич</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Postavu Bena Uricha vytvořili Američan Gene Colan a komiksový scenárista Roger McKenzie.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Postavu Bena Uricha vytvořili Američan Gene Colan a spisovatel komiksů Roger McKenzie.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Postavu Bena Uricha vytvořil Američan Gene Colan a autor komiksů Roger McKenzie.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Roger McKenzie a Američan Gene Colan vytvořili komiksovou postavu Bena Uricha.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Roger McKenzie a Američan Gene Colan vytvořili komiksovou postavu Bena Uricha.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Roger McKenzie a Američan Gene Colan vytvořili komiksovou postavu Bena Uricha.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Postavu Bena Uricha vytvořili Američan Gene Colan a komiksový scenárista Roger McKenzie.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bena Uricha vytvořili Američan Gene Colan a spisovatel komiksů Roger McKenzie.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Ben Urich byl vytvořen Američanem, Genem Colanem a komiksovým autorem, Rogerem McKenziem.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id38" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+        <otriple>Ben_Urich | creators | Roger_McKenzie_(comics)</otriple>
+        <otriple>Ben_Urich | creator | Gene_Colan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Roger_McKenzie_(comics)</otriple>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+        <otriple>Ben_Urich | creators | Gene_Colan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)</mtriple>
+        <mtriple>Roger_McKenzie_(comic_book_writer) | nationality | United_States</mtriple>
+        <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The comic book character was created by Gene Colan and the comic book writer Roger Mckenzie, who is a US national.</lex>
+      <lex lang="ru" lid="Id1">Персонаж комиксов был создан Джином Коланом и писателем комиксов Роджером Макензи, который является гражданином США.</lex>
+      <lex lang="en" lid="Id2">Gene Colan and the US National comic book writer, Roger McKenzie created Ben Urich.</lex>
+      <lex lang="ru" lid="Id2">Джин Колан и американский писатель комиксов Роджер Маккензи создали Бена Урича.</lex>
+      <lex lang="en" lid="Id3">The comic book character of Ben Urich was created by Gene Colan and Roger McKenzie who is an American writer of comic books.</lex>
+      <lex lang="ru" lid="Id3">Персонаж комикса Бен Урич был создан Джином Коланом и Роджером Маккензи, американским автором комиксов.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Gene_Colan | sameAs | Колан,_Джин</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Roger McKenzie (comic book writer) | includes | Роджер Маккензи</link>
+        <link direction="en2ru">Ben Urich | sameAs | Бен Урич</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu vytvořili Američan Gene Colan a komiksový scenárista Roger Mckenzie.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu vytvořili Gene Colan a komiksový spisovatel Roger Mckenzie, který je občanem USA.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Postavu komiksu vytvořil Gene Colan a komiksový spisovatel Roger Mckenzie, který je občanem USA.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bena Uricha vytvořili Gene Colan a americký komiksový scenárista Roger McKenzie.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Gene Colan a americký spisovatel národních komiksů Roger McKenzie vytvořili Bena Uricha.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Gene Colan a americký spisovatel komiksů Roger McKenzie vytvořili Bena Uricha.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Bena Uricha vytvořili Gene Colan a Roger McKenzie, který je americkým spisovatelem komiksů.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Bena Uricha vytvořili Gene Colan a Roger McKenzie, americký spisovatel komiksů.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komiksovou postavu Bena Uricha vytvořili Gene Colan a Roger McKenzie, americký spisovatel komiksů.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id39" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bibbo_Bibbowski | creators | Jerry_Ordway</otriple>
+        <otriple>Jerry_Ordway | nationality | Americans</otriple>
+        <otriple>Bibbo_Bibbowski | creator | Marv_Wolfman</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jerry_Ordway | nationality | Americans</otriple>
+        <otriple>Bibbo_Bibbowski | creator | Jerry_Ordway</otriple>
+        <otriple>Bibbo_Bibbowski | creators | Marv_Wolfman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bibbo_Bibbowski | creator | Jerry_Ordway</mtriple>
+        <mtriple>Jerry_Ordway | nationality | Americans</mtriple>
+        <mtriple>Bibbo_Bibbowski | creator | Marv_Wolfman</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Bibbo Bibbowski was created by Marv Wolfman and Jerry Ordway who is an American.</lex>
+      <lex lang="ru" lid="Id1">Биббо Биббовски создали Марв Вольфман и Джерри Ордвей, который является американцем.</lex>
+      <lex lang="en" lid="Id2">Bibbo Bibbowski was created by Marv Wolfman and Jerry Ordway, Jerry Ordway is American.</lex>
+      <lex lang="ru" lid="Id2">Биббо Биббовски создали Марв Вольфман и Джерри Ордвей, Джерри Ордвей - американец.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Marv_Wolfman | sameAs | Вольфман,_Марв</dbpedialink>
+        <dbpedialink direction="en2ru">Americans | sameAs | Американцы_США</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Jerry Ordway | sameAs | Джерри Ордвей</link>
+        <link direction="en2ru">Bibbo Bibbowski | sameAs | Биббо Биббовски</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bibbo Bibbowski byl vytvořen Marvem Wolfmanem a Jerrym Ordwayem, který je Američanem.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bibbo Bibbowski vytvořili Marv Wolfman a Jerry Ordway, který je Američan.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bibbo Bibbowski byl vytvořen Marvem Wolfmanem a Jerrym Ordwayem, který je Američan.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bibbo Bibbowski byl vytvořen Marvem Wolfmanem a Jerrym Ordwayem, Jerry Ordway je Američan.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bibbo Bibbowski vytvořili Marv Wolfman a Jerry Ordway, Jerry Ordway je Američan.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bibbo Bibbowski byl vytvořen Marvem Wolfmanem a Jerrym Ordwayem, Jerry Ordway je Američan.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id40" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Jamie_Chung</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Jamie_Chung</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The distributor of the film Big Hero 6, which stars Jamie Chung, is Walt Disney Studios Motion Pictures. The character Baymax appears in this film.</lex>
+      <lex lang="ru" lid="Id1">Дистрибьютор фильма "Город героев", в котором играет Джеми Чон - Walt Disney Studios Motion Pictures. В этом фильме появляется персонаж Баймакс.</lex>
+      <lex lang="en" lid="Id2">Big Hero 6, a film distributed by Walt Disney Studios Motion Pictures, starred Jamie Chung and included the character Baymax.</lex>
+      <lex lang="ru" lid="Id2">В фильме "Город героев", распространяемом Walt Disney Studios Motion Pictures, снималась Джеми Чон, а также был персонаж Баймакс.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Big_Hero_6_(film) | sameAs | Город_героев</dbpedialink>
+        <dbpedialink direction="en2ru">Walt_Disney_Studios_Motion_Pictures | sameAs | Walt_Disney_Studios_Motion_Pictures</dbpedialink>
+        <dbpedialink direction="en2ru">Jamie_Chung | sameAs | Чон,_Джеми</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Baymax | sameAs | Баймакс</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Distributorem filmu Big Hero 6, v němž hraje Jamie Chung, je Walt Disney Studios Motion Pictures. V tomto filmu se objevuje postava Baymaxe.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Distributorem filmu Big Hero 6, ve kterém hraje Jamie Chung, je Walt Disney Studios Motion Pictures. V tomto filmu se objeví postava Baymax.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Distributorem filmu Big Hero 6, ve kterém hraje Jamie Chung, je Walt Disney Studios Motion Pictures. Postava Baymaxe se objeví v tomto filmu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Distributorem filmu Big Hero 6, ve kterém hraje Jamie Chung, je společnost Walt Disney Studios Motion Pictures a objevuje se v něm postava Baymaxe.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Big Hero 6, film distribuovaný Walt Disney Studios Motion Pictures, hrál s Jamiem Chungem a zahrnoval postavu Baymaxe.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Big Hero 6, film distribuovaný společností Walt Disney Studios Motion Pictures, hrál Jamie Chung a zahrnoval postavu Baymaxe.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id41" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Maya_Rudolph</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Maya_Rudolph</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Walt Disney Studios Motion Pictures distributed the movie Big Hero 6 which starred Maya Rudolph. Baymax is a character in this film.</lex>
+      <lex lang="ru" lid="Id1">Walt Disney Studios Motion Pictures представила фильм "Город героев", в котором снялась Майя Рудольф. Баймакс - персонаж в этом фильме.</lex>
+      <lex lang="en" lid="Id2">Big Hero 6 is distributed by Walt Disney Studios Motion Pictures and has Baymax as a character and stars Maya Rudolph.</lex>
+      <lex lang="ru" lid="Id2">Город героев распространяется Walt Disney Studios Motion Pictures и имеет в качестве персонажа Баймакса, в фильме участвует Майя Рудольф.</lex>
+      <lex lang="en" lid="Id3">Baymax is a character in the film Big Hero 6, which was distributed by Walt Disney Studios Motion Pictures and starred Maya Rudolph.</lex>
+      <lex lang="ru" lid="Id3">Баймакс - персонаж в фильме «Город героев», который был распространен Walt Disney Studios Motion Pictures, и в котором играла Майя Рудольф.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Big_Hero_6_(film) | sameAs | Город_героев</dbpedialink>
+        <dbpedialink direction="en2ru">Walt_Disney_Studios_Motion_Pictures | sameAs | Walt_Disney_Studios_Motion_Pictures</dbpedialink>
+        <dbpedialink direction="en2ru">Maya_Rudolph | sameAs | Рудольф,_Майя</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Baymax | sameAs | Баймакс</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Společnost Walt Disney Studios Motion Pictures distribuovala film Big Hero 6, ve kterém si zahrála Maya Rudolph. V tomto filmu vystupuje postava Baymaxe.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Walt Disney Studios Motion Pictures distribuovalo film Big Hero 6, ve kterém hrála Maya Rudolph. Baymax je postava v tomto filmu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Společnost Walt Disney Studios Motion Pictures distribuovala film Velký hrdina 6, ve kterém hrála Maya Rudolphová. Baymax je postava v tomto filmu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Film Big Hero 6 distribuuje společnost Walt Disney Studios Motion Pictures, jeho postavou je Baymax a hraje v něm Maya Rudolph.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Big Hero 6 je distribuován Walt Disney Studios Motion Pictures a má Baymax jako postavu a hraje Maya Rudolph.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Velký hrdina 6 je distribuován Walt Disney Studios Motion Pictures a má Baymaxe jako postavu a hraje v něm Maya Rudolphová.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Baymax je postava ve filmu Big Hero 6, který distribuovala společnost Walt Disney Studios Motion Pictures a v němž hraje Maya Rudolph.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Baymax je postava ve filmu Big Hero 6, který distribuovala společnost Walt Disney Studios Motion Pictures a hrála v něm Maya Rudolph.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Baymax je postava ve filmu Velký hrdina 6, který distribuovala společnost Walt Disney Studios Motion Pictures a v němž hrála Maya Rudolphová.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id42" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Alan_Tudyk</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Alan_Tudyk</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Walt Disney Studios Motion Pictures is the distributor of the film , Big Hero 6 that stars Alan Tudyk and in which Baymax is a character.</lex>
+      <lex lang="ru" lid="Id1">Walt Disney Studios Motion Pictures - кинодистрибьютор фильма «Город героев», в котором играет Алан Тудик, а Баймакс - персонаж.</lex>
+      <lex lang="en" lid="Id2">Big Hero 6 is a Disney Studios Motion Picture which stars Alan Tudyk and has Baymax as a character.</lex>
+      <lex lang="ru" lid="Id2">Город героев - это кинофильм студии Walt Disney, в котором снимался Алан Тудик в роли Баймакса.</lex>
+      <lex lang="en" lid="Id3">Alan Tudyk stars in the film Big Hero 6 in which Baymax is a character. The film is distributed by Walt Disney Studios Motion Pictures.</lex>
+      <lex lang="ru" lid="Id3">Алан Тудик играет в фильме «Город героев», в котором Баймакс - персонаж. Фильм выпущен в прокат компанией Walt Disney Studios Motion Pictures.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Big_Hero_6_(film) | sameAs | Город_героев</dbpedialink>
+        <dbpedialink direction="en2ru">Walt_Disney_Studios_Motion_Pictures | sameAs | Walt_Disney_Studios_Motion_Pictures</dbpedialink>
+        <dbpedialink direction="en2ru">Alan_Tudyk | sameAs | Тудик,_Алан</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Baymax | sameAs | Баймакс</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Walt Disney Studios Motion Pictures je distributorem filmu , Big Hero 6, ve kterém hraje Alan Tudyk a ve kterém je Baymax postavou.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Walt Disney Studios Motion Pictures je distributorem filmu Big Hero 6, ve kterém hraje Alan Tudyk a ve kterém je Baymax postava.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Walt Disney Studios Motion Pictures je distributorem filmu Velký hrdina 6, ve kterém hraje Alan Tudyk a ve kterém je Baymax postavou.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Big Hero 6 je film společnosti Disney Studios Motion Picture, ve kterém hraje Alan Tudyk a jehož postavou je Baymax.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Big Hero 6 je film Disney Studios, ve kterém hraje Alan Tudyk a má Baymax jako postavu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Big Hero 6 je Disney Studios Motion Picture, ve kterém hraje Alan Tudyk a Baymax má postavu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Alan Tudyk hraje ve filmu Big Hero 6, ve kterém je postavou Baymax. Film distribuuje společnost Walt Disney Studios Motion Pictures.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Alan Tudyk hraje ve filmu Big Hero 6, ve kterém je Baymax postavou. Film distribuuje Walt Disney Studios Motion Pictures.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Alan Tudyk hraje ve filmu Velký hrdina 6, ve kterém je Baymax postavou. Film distribuuje společnost Walt Disney Studios Motion Pictures.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id43" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Tom_Lyle</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Carmine_Infantino</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Carmine_Infantino</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Tom_Lyle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | "Mark Desmond"</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Carmine_Infantino</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Tom_Lyle</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">"Mark Desmond," also known as the comic character Blockbuster, was created by Carmine Infantino and Tom Lyle.</lex>
+      <lex lang="ru" lid="Id1">Марк Десмонд, также известный как персонаж комиксов Блокбастер, был создан Кармайном Инфантино и Томом Лайлом.</lex>
+      <lex lang="en" lid="Id2">"Mark Desmond" is also known as the comic character Blockbuster who was created by Tom Lyle and Carmine Infantino.</lex>
+      <lex lang="ru" lid="Id2">Марк Десмонд также известен как персонаж комиксов Блокбастер, который был создан Томом Лайлом и Кармайном Инфантино.</lex>
+      <lex lang="en" lid="Id3">The comic character Blockbuster is also known as Mark Desmond, the character was created by Carmine Infantino and Tom Lyle.</lex>
+      <lex lang="ru" lid="Id3">Персонаж комиксов Блокбастер также известен как Марк Десмонд, персонаж был создан Кармайном Инфантино и Томом Лайлом.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Carmine_Infantino | sameAs | Инфантино,_Кармайн</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Blockbuster (comicsCharacter) | includes | Блокбастер</link>
+        <link direction="en2ru">Mark Desmond | sameAs | Марк Десмонд</link>
+        <link direction="en2ru">Tom Lyle | sameAs | Том Лайл</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">"Marka Desmonda", známého také jako komiksovou postavu Blockbustera, vytvořili Carmine Infantino a Tom Lyle.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">"Mark Desmond," také známý jako komická postava Blockbuster, byl vytvořen Carmine Infantino a Tom Lyle.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">"Mark Desmond", známý také jako komická postava Blockbuster, byl vytvořen Carminem Infantinem a Tomem Lylem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">"Mark Desmond" je známý také jako komiksová postava Blockbuster, kterou vytvořili Tom Lyle a Carmine Infantino.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">„Mark Desmond“ je také známý jako komická postava Blockbuster, kterou vytvořili Tom Lyle a Carmine Infantino.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">"Mark Desmond" je také známý jako komická postava Blockbuster, kterou vytvořili Tom Lyle a Carmine Infantino.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksová postava Blockbuster je známá také jako Mark Desmond, postavu vytvořili Carmine Infantino a Tom Lyle.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksová postava Blockbuster je známá také jako Mark Desmond, postavu vytvořili Carmine Infantino a Tom Lyle.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komická postava Blockbuster je také známá jako Mark Desmond, postavu vytvořili Carmine Infantino a Tom Lyle.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id44" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Roland Desmond"@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Tom_Lyle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Roland Desmond"@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Tom_Lyle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | "Roland Desmond"</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Tom_Lyle</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Tom Lyle and Gardner Fox created the comic book character of Blockbuster who has the alternative name of Roland Desmond.</lex>
+      <lex lang="ru" lid="Id1">Том Лайл и Гарднер Фокс создали персонажа комиксов Блокбастера, у которого есть альтернативное имя Роланд Десмонд.</lex>
+      <lex lang="en" lid="Id2">The comic character, Blockbuster, whose alternative name is Roland Desmond, was created by Gardner Fox and Tom Lyle.</lex>
+      <lex lang="ru" lid="Id2">Персонаж комиксов Блокбастер, чьё альтернативное имя Роланд Десмонд, был создан Гарднером Фоксом и Томом Лайлом.</lex>
+      <lex lang="en" lid="Id3">The comic book character Blockbuster, whose alter ego is Roland Desmond, was created by Gardner Fox and Tom Lyle.</lex>
+      <lex lang="ru" lid="Id3">Персонаж комиксов Блокбастер, чье альтернативное имя Роланд Десмонд, был создан Гарднером Фоксом и Томом Лайлом.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Gardner_Fox | sameAs | Фокс,_Гарднер</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Blockbuster (comicsCharacter) | includes | Блокбастер</link>
+        <link direction="en2ru">Tom Lyle | sameAs | Том Лайл</link>
+        <link direction="en2ru">Roland Desmond | sameAs | Роланд Десмонд</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Tom Lyle a Gardner Fox vytvořili komiksovou postavu Blockbustera, která má alternativní jméno Roland Desmond.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Tom Lyle a Gardner Fox vytvořili komiksovou postavu Blockbuster, která má alternativní jméno Roland Desmond.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Tom Lyle a Gardner Fox vytvořili komiksovou postavu Blockbustera, který má alternativní jméno Roland Desmond.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Blockbuster, jejíž alternativní jméno je Roland Desmond, vytvořili Gardner Fox a Tom Lyle.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Blockbuster, jejíž alternativní jméno je Roland Desmond, vytvořili Gardner Fox a Tom Lyle.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komickou postavu Blockbuster, jejíž alternativní jméno je Roland Desmond, vytvořili Gardner Fox a Tom Lyle.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Blockbuster, jejíž alter ego je Roland Desmond, vytvořili Gardner Fox a Tom Lyle.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Blockbuster, jejímž alter egem je Roland Desmond, vytvořili Gardner Fox a Tom Lyle.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komiksovou postavu Blockbustera, jejímž alter egem je Roland Desmond, vytvořili Gardner Fox a Tom Lyle.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id45" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Carmine_Infantino</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Roland Desmond"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Carmine_Infantino</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Roland Desmond"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Carmine_Infantino</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | "Roland Desmond"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The comic character Blockbuster is also known as Roland Desmond and was created by Gardner Fox and Carmine Infantino.</lex>
+      <lex lang="ru" lid="Id1">Персонаж комиксов Блокбастер также известен как Роланд Десмонд, был создан Гарднером Фоксом и Кармайном Инфантино.</lex>
+      <lex lang="en" lid="Id2">Roland Desmond is the alternative name for the comic book character Blockbuster, who was created by Carmine Infantino and Gardner Fox.</lex>
+      <lex lang="ru" lid="Id2">Роланд Десмонд - альтернативное имя персонажа комиксов Блокбастера, который был создан Кармайном Инфантино и Гарднером Фоксом.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Gardner_Fox | sameAs | Фокс,_Гарднер</dbpedialink>
+        <dbpedialink direction="en2ru">Carmine_Infantino | sameAs | Инфантино,_Кармайн</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Blockbuster (comicsCharacter) | includes | Блокбастер</link>
+        <link direction="en2ru">Roland Desmond | sameAs | Роланд Десмонд</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Blockbuster, která je známá také jako Roland Desmond, vytvořili Gardner Fox a Carmine Infantino.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komická postava Blockbuster je známá také jako Roland Desmond a vytvořili ji Gardner Fox a Carmine Infantino.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komická postava Blockbuster je také známá jako Roland Desmond a byla vytvořena Gardnerem Foxem a Carminem Infantinem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Roland Desmond je alternativní jméno komiksové postavy Blockbuster, jejíž alter ego vytvořili Carmine Infantino a Gardner Fox.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Roland Desmond je alternativní jméno pro komiksovou postavu Blockbuster, kterou vytvořili Carmine Infantino a Gardner Fox.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Roland Desmond je alternativní jméno pro komiksovou postavu Blockbuster, kterou vytvořili Carmine Infantino a Gardner Fox.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id46" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Roger_Stern</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | "Mark Desmond"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The comic character Blockbuster is also known as Mark Desmond and was created by Roger Stern and Gardner Fox.</lex>
+      <lex lang="ru" lid="Id1">Герой комиксов Блокбастер также известен как Марк Десмонд и был создан Роджером Стерном и Гарднером Фоксом.</lex>
+      <lex lang="en" lid="Id2">Blockbuster (also known as Mark Desmond) is a comic book character created by Roger Stern and Gardner Fox.</lex>
+      <lex lang="ru" lid="Id2">Блокбастер (также известный как Марк Десмонд) - персонаж комиксов, созданный Роджером Стерном и Гарднером Фоксом.</lex>
+      <lex lang="en" lid="Id3">The comic character Blockbuster, aka Mark Desmond, was created by Gardner Fox and Roger Stern.</lex>
+      <lex lang="ru" lid="Id3">Герой комиксов Блокбастер, он же Марк Десмонд, был создан Гарднером Фоксом и Роджером Стерном.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Gardner_Fox | sameAs | Фокс,_Гарднер</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Blockbuster (comicsCharacter) | includes | Блокбастер</link>
+        <link direction="en2ru">Roger Stern | sameAs | Роджер Стерн</link>
+        <link direction="en2ru">Mark Desmond | sameAs | Марк Десмонд</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksová postava Blockbuster je známá také jako Mark Desmond a vytvořili ji Roger Stern a Gardner Fox.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komická postava Blockbuster je známá také jako Mark Desmond a vytvořili ji Roger Stern a Gardner Fox.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komická postava Blockbuster je také známá jako Mark Desmond a vytvořili ji Roger Stern a Gardner Fox.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Blockbuster (známý také jako Mark Desmond) je komiksová postava, kterou vytvořili Roger Stern a Gardner Fox.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Blockbuster (také známý jako Mark Desmond) je komiksová postava vytvořená Rogerem Sternem a Gardnerem Foxem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Blockbuster (známý také jako Mark Desmond) je komiksová postava vytvořená Rogerem Sternem a Gardnerem Foxem.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Blockbuster, známou také jako Mark Desmond, vytvořili Gardner Fox a Roger Stern.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Blockbuster, alias Marka Desmonda, vytvořili Gardner Fox a Roger Stern.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komickou postavu Blockbuster alias Marka Desmonda vytvořili Gardner Fox a Roger Stern.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id47" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Roland Desmond"@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Roger_Stern</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Roland Desmond"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Roger_Stern</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | "Roland Desmond"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The comic character, Blockbuster's alternative name is Roland Desmond and was created by Gardner Fox and Roger Stern.</lex>
+      <lex lang="ru" lid="Id1">Альтернативное имя персонажа комиксов Блокбастера - Роланд Десмонд и он был создан Гарднером Фоксом и Роджером Стерном.</lex>
+      <lex lang="en" lid="Id2">The comic character,Blockbuster(a.k.a. Roland Desmond) was created by Gardner Fox and Roger Stern.</lex>
+      <lex lang="ru" lid="Id2">Персонаж комиксов Блокбастер (он же Роланд Десмонд) был создан Гарднером Фоксом и Роджером Стерном.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Gardner_Fox | sameAs | Фокс,_Гарднер</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Blockbuster (comicsCharacter) | includes | Блокбастер</link>
+        <link direction="en2ru">Roger Stern | sameAs | Роджер Стерн</link>
+        <link direction="en2ru">Roland Desmond | sameAs | Роланд Десмонд</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Blockbuster, alternativním jménem Roland Desmond, vytvořili Gardner Fox a Roger Stern.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksová postava, alternativní jméno Blockbuster je Roland Desmond a vytvořili ji Gardner Fox a Roger Stern.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komická postava, alternativní jméno Blockbuster je Roland Desmond a byla vytvořena Gardnerem Foxem a Rogerem Sternem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu,Blockbuster(alias Roland Desmond) vytvořili Gardner Fox a Roger Stern.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Blockbuster (aka Roland Desmond) vytvořili Gardner Fox a Roger Stern.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komická postava,Blockbuster(a.k.a. Roland Desmond) vytvořili Gardner Fox a Roger Stern.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id48" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Tom_Lyle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Tom_Lyle</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Tom_Lyle</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | "Mark Desmond"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The comic book character Blockbuster, aka Mark Desmond, was created by Gardner Fox and Tom Lyle.</lex>
+      <lex lang="ru" lid="Id1">Персонаж комиксов Блокбастер, он же Марк Десмонд, был создан Гарднером Фоксом и Томом Лайлом.</lex>
+      <lex lang="en" lid="Id2">The comic character, Blockbuster, has the alternative name, Mark Desmond and was created by Tom Lyle and Gardner Fox.</lex>
+      <lex lang="ru" lid="Id2">У персонажа комиксов Блокбастера есть альтернативное имя Марк Десмонд и он был создан Томом Лайлом и Гарднером Фоксом.</lex>
+      <lex lang="en" lid="Id3">The comic character,Blockbuster(a.k.a. Mark Desmond) was created by Gardner Fox and Tom Lyle.</lex>
+      <lex lang="ru" lid="Id3">Персонаж комиксов Блокбастер (он же Марк Десмонд) был создан Гарднером Фоксом и Томом Лайлом.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Gardner_Fox | sameAs | Фокс,_Гарднер</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Blockbuster (comicsCharacter) | includes | Блокбастер</link>
+        <link direction="en2ru">Mark Desmond | sameAs | Марк Десмонд</link>
+        <link direction="en2ru">Tom Lyle | sameAs | Том Лайл</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Blockbuster alias Mark Desmond vytvořili Gardner Fox a Tom Lyle.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Blockbuster, neboli Mark Desmond, vytvořili Gardner Fox a Tom Lyle.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komiksovou postavu Blockbuster alias Marka Desmonda vytvořili Gardner Fox a Tom Lyle.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksová postava Blockbuster má alternativní jméno Mark Desmond a vytvořili ji Tom Lyle a Gardner Fox.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komická postava Blockbuster má alternativní jméno Mark Desmond a vytvořili ji Tom Lyle a Gardner Fox.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komická postava Blockbuster má alternativní jméno Mark Desmond a vytvořili ji Tom Lyle a Gardner Fox.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu,Blockbuster(alias Mark Desmond) vytvořili Gardner Fox a Tom Lyle.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Blockbuster (aka Mark Desmond) vytvořili Gardner Fox a Tom Lyle.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komická postava,Blockbuster(a.k.a. Mark Desmond) vytvořili Gardner Fox a Tom Lyle.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id49" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Carmine_Infantino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Roger_Stern</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | "Mark Desmond"</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Carmine_Infantino</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">"Mark Desmond", also known as Blockbuster, is a comic character created by Roger Stern and Carmine Infantino.</lex>
+      <lex lang="ru" lid="Id1">"Марк Десмонд", также известный как Блокбастер, - персонаж комиксов, созданный Роджером Стерном и Кармайном Инфантино.</lex>
+      <lex lang="en" lid="Id2">Blockbuster is a comic character with the alternative name of Mark Desmond and was created by Carmine Infantino and Roger Stern.</lex>
+      <lex lang="ru" lid="Id2">Блокбастер - персонаж комиксов с альтернативным именем Марк Десмонд и был создан Кармайном Инфантино и Роджером Стерном.</lex>
+      <lex lang="en" lid="Id3">The comic book character Blockbuster, also known as Mark Desmond, was created by Roger Stern and Carmine Infantino.</lex>
+      <lex lang="ru" lid="Id3">Персонаж комиксов Блокбастер, также известный как Марк Десмонд, был создан Роджером Стерном и Кармайном Инфантино.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Carmine_Infantino | sameAs | Инфантино,_Кармайн</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Blockbuster (comicsCharacter) | includes | Блокбастер</link>
+        <link direction="en2ru">Roger Stern | sameAs | Роджер Стерн</link>
+        <link direction="en2ru">Mark Desmond | sameAs | Марк Десмонд</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">"Mark Desmond", známý také jako Blockbuster, je komiksová postava, kterou vytvořili Roger Stern a Carmine Infantino.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">„Mark Desmond“, také známý jako Blockbuster, je komická postava vytvořená Rogerem Sternem a Carmine Infantino.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">"Mark Desmond", známý také jako Blockbuster, je komická postava vytvořená Rogerem Sternem a Carminem Infantinem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Blockbuster je komiksová postava s alternativním jménem Mark Desmond, kterou vytvořili Carmine Infantino a Roger Stern.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Blockbuster je komická postava s alternativním jménem Mark Desmond a vytvořili ji Carmine Infantino a Roger Stern.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Blockbuster je komická postava s alternativním jménem Mark Desmond a byl vytvořen Carminem Infantinem a Rogerem Sternem.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Blockbuster, známou také jako Mark Desmond, vytvořili Roger Stern a Carmine Infantino.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Blockbuster, známou také jako Mark Desmond, vytvořili Roger Stern a Carmine Infantino.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komiksovou postavu Blockbuster, známou také jako Mark Desmond, vytvořili Roger Stern a Carmine Infantino.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id50" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | "Mark Desmond"@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Tom_Lyle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Roger_Stern</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | "Mark Desmond"</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Tom_Lyle</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">"Mark Desmond" is also known as the comic character Blockbuster who was created by Roger Stern and Tim Lyle.</lex>
+      <lex lang="ru" lid="Id1">"Марк Десмонд" также известен как персонаж комиксов Блокбастер, который создали Роджер Стерн и Том Лайл.</lex>
+      <lex lang="en" lid="Id2">Tom Lyle and Roger Stern created the comic character Blockbuster who has the alternative name of Mark Desmond.</lex>
+      <lex lang="ru" lid="Id2">Том Лайл и Роджер Стерн создали героя комиксов Блокбастера, у которого есть альтернативное имя Марк Десмонд.</lex>
+      <lex lang="en" lid="Id3">The comic character Blockbuster, with the alternative name Mark Desmond, was created by Tom Lyle and Roger Stern.</lex>
+      <lex lang="ru" lid="Id3">Герой комиксов Блокбастер, с альтернативным именем Марк Десмонд, был создан Томом Лайлом и Роджером Стерном.</lex>
+      <links>
+        <link direction="en2ru">Blockbuster (comicsCharacter) | includes | Блокбастер</link>
+        <link direction="en2ru">Roger Stern | sameAs | Роджер Стерн</link>
+        <link direction="en2ru">Mark Desmond | sameAs | Марк Десмонд</link>
+        <link direction="en2ru">Tom Lyle | sameAs | Том Лайл</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">"Mark Desmond" je známý také jako komiksová postava Blockbuster, kterou vytvořili Roger Stern a Tim Lyle.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">„Mark Desmond“ je také známý jako komická postava Blockbuster, kterou vytvořili Roger Stern a Tim Lyle.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">"Mark Desmond" je také známý jako komická postava Blockbuster, kterou vytvořili Roger Stern a Tim Lyle.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Tom Lyle a Roger Stern vytvořili komiksovou postavu Blockbuster, která má alternativní jméno Mark Desmond.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Tom Lyle a Roger Stern vytvořili komickou postavu Blockbuster, která má alternativní jméno Mark Desmond.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Tom Lyle a Roger Stern vytvořili komickou postavu Blockbustera, která má alternativní jméno Mark Desmond.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Blockbuster s alternativním jménem Mark Desmond vytvořili Tom Lyle a Roger Stern.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Blockbuster s alternativním jménem Mark Desmond vytvořili Tom Lyle a Roger Stern.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komickou postavu Blockbuster s alternativním jménem Mark Desmond vytvořili Tom Lyle a Roger Stern.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id51" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Dan_Mishkin</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Dan_Mishkin</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
+        <mtriple>Ernie_Colón | nationality | Puerto_Ricans</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ernie Colon, a Puerto Rican national created Bolt along with Dan Mishkin.</lex>
+      <lex lang="ru" lid="Id1">Эрни Колон, гражданин Пуэрто-Рико, создал Болта вместе с Дэном Мишкиным.</lex>
+      <lex lang="en" lid="Id2">Dan Mishkin and the Puerto Rican national Ernie Colon created the comic character of Bolt.</lex>
+      <lex lang="ru" lid="Id2">Дэн Мишкин и пуэрториканец Эрни Колон создали персонажа комиксов Болта.</lex>
+      <lex lang="en" lid="Id3">The comic character Bolt was created by Dan Mishkin and Ernie Colon who is Puerto Rican.</lex>
+      <lex lang="ru" lid="Id3">Персонаж комиксов Болт был создан Дэном Мишкиным и Эрни Колоном, который является пуэрториканцем.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Puerto_Ricans | sameAs | Пуэрториканцы</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ernie Colón | sameAs | Эрни Колон</link>
+        <link direction="en2ru">Dan Mishkin | sameAs | Дэн Мишкин</link>
+        <link direction="en2ru">Bolt (comicsCharacter) | includes | Болт</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Ernie Colon, portorikánský státní příslušník, vytvořil spolu s Danem Mishkinem postavu Bolta.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Ernie Colon, portorický občan, vytvořil Bolta spolu s Danem Mishkinem.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Ernie Colon, portorikánský reprezentant, vytvořil Bolta spolu s Danem Miškinem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Dan Mishkin a portorický rodák Ernie Colon vytvořili komiksovou postavu Bolta.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Dan Mishkin a portorický občan Ernie Colon vytvořili komickou postavu Bolta.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Dan Miškin a portorikánský národní Ernie Colon vytvořili komickou postavu Bolta.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Bolta vytvořili Dan Mishkin a Portorikánec Ernie Colon.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Bolta vytvořili Dan Mishkin a Ernie Colon, který je Portoričan.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komickou postavu Bolta vytvořili Dan Miškin a Ernie Colon, který je Portorikánec.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id52" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Gary_Cohn_(comics)</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Gary_Cohn_(comics)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+        <mtriple>Ernie_Colón | nationality | Puerto_Ricans</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The comic character Bolt was created by Gary Cohn and Ernie Colon, the latter of which is a Puerto Rican national.</lex>
+      <lex lang="ru" lid="Id1">Персонаж комиксов Болт был создан Гэри Коном и Эрни Колоном, последний из которых является пуэрториканцем.</lex>
+      <lex lang="en" lid="Id2">The comic character of Bolt was created by Gary Cohn and the Puerto Rican national, Ernie Colon.</lex>
+      <lex lang="ru" lid="Id2">Персонаж комиксов Болт был создан Гэри Коном и пуэрториканцем Эрни Колоном.</lex>
+      <lex lang="en" lid="Id3">Gary Cohn and the Puerto Rican national, Ernie Colon created the comic character Bolt.</lex>
+      <lex lang="ru" lid="Id3">Гэри Кон и пуэрториканец Эрни Колон создали персонажа комиксов Болта.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Puerto_Ricans | sameAs | Пуэрториканцы</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Gary Cohn (comics) | includes | Гэри Кон</link>
+        <link direction="en2ru">Ernie Colón | sameAs | Эрни Колон</link>
+        <link direction="en2ru">Bolt (comicsCharacter) | includes | Болт</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Bolta vytvořili Gary Cohn a Ernie Colon, z nichž druhý je portorikánské národnosti.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksová postava Bolt byla vytvořena Gary Cohnem a Erniem Colonem, z nichž druhý je portorickým státním příslušníkem.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komickou postavu Bolta vytvořili Gary Cohn a Ernie Colon, který je portorikánské národnosti.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Bolta vytvořili Gary Cohn a Ernie Colon, portorický státní příslušník.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komickou postavu Bolta vytvořili Gary Cohn a portorický občan Ernie Colon.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komickou postavu Bolta vytvořil Gary Cohn a portorikánský občan Ernie Colon.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Gary Cohn a portorický státní příslušník Ernie Colon vytvořili komiksovou postavu Bolta.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Gary Cohn a portorický občan Ernie Colon vytvořili komickou postavu Bolta.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Gary Cohn a portorikánská národnost, Ernie Colon vytvořil komickou postavu Bolta.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id53" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Gary_Cohn_(comics)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Gary_Cohn_(comics)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The comic book character Bolt, with the alternative name Larry Bolatinsky, was created by Gary Cohn and Paris Cullins.</lex>
+      <lex lang="ru" lid="Id1">Персонаж комиксов "Болт", с альтернативным именем Ларри Болатинский, был создан Гэри Коном и Пэрисом Каллинсом.</lex>
+      <lex lang="en" lid="Id2">The comic character Bolt, who has the alternative name of Larry Bolatinsky, was created by Paris Cullins and Gary Cohn.</lex>
+      <lex lang="ru" lid="Id2">Персонаж комиксов Болт, у которого есть альтернативное имя Ларри Болатинский, был создан Пэрисом Каллинсом и Гэри Коном.</lex>
+      <lex lang="en" lid="Id3">The creators of Bolt, the comic character with the alternative name of Larry Bolatinsky, are Gary Cohn and Paris Cullins.</lex>
+      <lex lang="ru" lid="Id3">Создатели Болта, персонажа комиксов с альтернативным именем Ларри Болатинский, - Гэри Кон и Пэрис Каллинс.</lex>
+      <links>
+        <link direction="en2ru">Gary Cohn (comics) | includes | Гэри Кон</link>
+        <link direction="en2ru">Paris Cullins | sameAs | Пэрис Каллинс</link>
+        <link direction="en2ru">Larry Bolatinsky | sameAs | Ларри Болатинский</link>
+        <link direction="en2ru">Bolt (comicsCharacter) | includes | Болт</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Bolta s alternativním jménem Larry Bolatinsky vytvořili Gary Cohn a Paris Cullins.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Bolta s alternativním jménem Larry Bolatinsky vytvořili Gary Cohn a Paris Cullins.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komiksovou postavu Bolta s alternativním jménem Larry Bolatinsky vytvořili Gary Cohn a Paris Cullins.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Bolta s alternativním jménem Larry Bolatinsky vytvořili Paris Cullins a Gary Cohn.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksovou postavu Bolta, který má alternativní jméno Larry Bolatinsky, vytvořili Paris Cullins a Gary Cohn.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komickou postavu Bolta, který má alternativní jméno Larry Bolatinsky, vytvořili Paris Cullins a Gary Cohn.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Tvůrci komiksové postavy Bolt, která má alternativní jméno Larry Bolatinsky, jsou Gary Cohn a Paris Cullins.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Tvůrci Bolta, komické postavy s alternativním jménem Larry Bolatinsky, jsou Gary Cohn a Paris Cullins.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Tvůrci Bolta, komické postavy s alternativním jménem Larry Bolatinsky, jsou Gary Cohn a Paris Cullins.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id54" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | "Larry Bolatinsky"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Larry Bolatinsky is the alternative name for the comic character, Bolt who was created by Ernie Colon and Paris Cullins.</lex>
+      <lex lang="ru" lid="Id1">Ларри Болатинский - альтернативное имя персонажа комиксов Болта, который был создан Эрни Колоном и Пэрисом Каллинсом.</lex>
+      <lex lang="en" lid="Id2">Larry Bolatinsky is the alternative name for the comic character, Bolt who was created by Paris Cullins and Ernie Colon.</lex>
+      <lex lang="ru" lid="Id2">Ларри Болатинский - альтернативное имя Болта, персонажа комиксов, который был создан Пэрисом Каллинсом и Эрни Колоном.</lex>
+      <lex lang="en" lid="Id3">Bolt, a comic character AKA Larry Bolatinsky, was created by Paris Cullins and Ernie Colon.</lex>
+      <lex lang="ru" lid="Id3">Болт, персонаж комиксов, он же Ларри Болатинский, был создан Пэрисом Каллинсом и Эрни Колоном.</lex>
+      <links>
+        <link direction="en2ru">Paris Cullins | sameAs | Пэрис Каллинс</link>
+        <link direction="en2ru">Larry Bolatinsky | sameAs | Ларри Болатинский</link>
+        <link direction="en2ru">Ernie Colón | sameAs | Эрни Колон</link>
+        <link direction="en2ru">Bolt (comicsCharacter) | includes | Болт</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Larry Bolatinsky je alternativní jméno komiksové postavy Bolt, kterou vytvořili Ernie Colon a Paris Cullins.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Larry Bolatinsky je alternativní jméno pro komickou postavu Bolta, kterou vytvořili Ernie Colon a Paris Cullins.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Larry Bolatinsky je alternativní jméno pro komickou postavu Bolta, kterou vytvořili Ernie Colon a Paris Cullins.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Larry Bolatinsky je alternativní jméno pro komiksovou postavu Bolt, kterou vytvořili Paris Cullins a Ernie Colon.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Larry Bolatinsky je alternativní jméno pro komickou postavu Bolta, kterou vytvořili Paris Cullins a Ernie Colon.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Larry Bolatinsky je alternativní jméno pro komickou postavu Bolta, kterou vytvořili Paris Cullins a Ernie Colon.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bolt, komiksová postava alias Larry Bolatinsky, kterou vytvořili Paris Cullins a Ernie Colon.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bolt, komická postava AKA Larry Bolatinsky, byla vytvořena Paris Cullins a Ernie Colon.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bolta, komickou postavu alias Larryho Bolatinského, vytvořili Paris Cullins a Ernie Colon.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id55" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Ernie_Colón | nationality | Puerto_Ricans</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Bolt is a comic character created by Paris Cullins and the Puerto Rican national, Ernie Colon.</lex>
+      <lex lang="ru" lid="Id1">Болт - персонаж комиксов, созданный Пэрисом Каллинсом и пуэрто-риканским гражданином Эрни Колоном.</lex>
+      <lex lang="en" lid="Id2">Puerto Rican Ernie Colon and Paris Cullins created the comic character Bolt.</lex>
+      <lex lang="ru" lid="Id2">Пуэрториканец Эрни Колон и Пэрис Каллинс создали персонажа комиксов Болта.</lex>
+      <lex lang="en" lid="Id3">Ernie Colón is a national of Puerto Rico so he is considered Puerto Rican and along with Paris Cullins is the creater of the comic character Bolt.</lex>
+      <lex lang="ru" lid="Id3">Эрни Колон - гражданин Пуэрто-Рико, так что он считается пуэрториканцем и вместе с Пэрисом Каллинсом является создателем персонажа комиксов Болта.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Puerto_Ricans | sameAs | Пуэрториканцы</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Paris Cullins | sameAs | Пэрис Каллинс</link>
+        <link direction="en2ru">Ernie Colón | sameAs | Эрни Колон</link>
+        <link direction="en2ru">Bolt (comicsCharacter) | includes | Болт</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bolt je komiksová postava, kterou vytvořili Paris Cullins a portorikánský občan Ernie Colon.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bolt je komická postava vytvořená Paris Cullins a Portorikánem Erniem Colonem.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bolt je komická postava vytvořená Paris Cullins a portorikánským národem Erniem Colonem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Bolta vytvořili Portoričan Ernie Colon a Paris Cullins.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Portoričan Ernie Colon a Paris Cullins vytvořili komickou postavu Bolta.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Portorikánec Ernie Colon a Paris Cullins vytvořili komickou postavu Bolta.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Ernie Colón je státním příslušníkem Portorika, takže je považován za Portorikánce a spolu s Parisem Cullinsem je tvůrcem komiksové postavy Bolt.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Ernie Colón je občan Portorika, takže je považován za Portoričana a spolu s Paris Cullins je tvůrcem komické postavy Bolta.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Ernie Colón je státním příslušníkem Portorika, takže je považován za Portorikánce a spolu s Paris Cullins je tvůrcem komické postavy Bolta.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id56" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Dan_Mishkin</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Dan_Mishkin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Paris_Cullins | nationality | United_States</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The comic character Bolt was created by Dan Mishkin and Paris Cullins who is an American.</lex>
+      <lex lang="ru" lid="Id1">Персонаж комиксов Болт был создан Дэном Мишкиным и Пэрисом Каллинсом, который является американцем.</lex>
+      <lex lang="en" lid="Id2">The comic character Bolt, was created by Paris Cullins from the United States and Dan Mishkin.</lex>
+      <lex lang="ru" lid="Id2">Персонаж комиксов Болт был создан Пэрисом Каллинсом из США и Дэном Мишкиным.</lex>
+      <lex lang="en" lid="Id3">The comic character of Bolt was created by Dan Mishkin and the US National, Paris Cullins.</lex>
+      <lex lang="ru" lid="Id3">Персонажа комиксов Болта создали Дэн Мишкин и гражданин США, Пэрис Каллинс.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Paris Cullins | sameAs | Пэрис Каллинс</link>
+        <link direction="en2ru">Dan Mishkin | sameAs | Дэн Мишкин</link>
+        <link direction="en2ru">Bolt (comicsCharacter) | includes | Болт</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Bolta vytvořili Dan Mishkin a Paris Cullins, který je Američan.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komiksová postava Bolt byla vytvořena Danem Mishkinem a Paris Cullins, která je Američanka.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komickou postavu Bolta vytvořil Dan Miškin a Paris Cullins, který je Američan.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Bolta vytvořili Paris Cullins ze Spojených států a Dan Mishkin.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komickou postavu Bolta vytvořili Paris Cullins ze Spojených států a Dan Mishkin.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komickou postavu Bolta, vytvořil Paris Cullins ze Spojených států a Dan Mishkin.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Komiksovou postavu Bolta vytvořili Dan Mishkin a Paris Cullinsová, která pochází z USA.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Komickou postavu Bolta vytvořili Dan Mishkin a US National Paris Cullins.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Komickou postavu Bolta vytvořil Dan Miškin a US National, Paris Cullins.</lex>
+    </entry>
+  </entries>
+</benchmark>

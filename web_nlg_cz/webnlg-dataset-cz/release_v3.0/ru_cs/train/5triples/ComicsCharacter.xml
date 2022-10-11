@@ -1,0 +1,409 @@
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id1" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | creator | John_Geering</otriple>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        <otriple>Bananaman | lastAired | "1986-04-15"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | creator | John_Geering</mtriple>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        <mtriple>Bananaman | lastAired | "1986-04-15"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Bananaman first aired on the BBC on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. Bananaman last aired on 15th April 1986. Graeme Garden is one of the stars of the series which was created by John Geering.</lex>
+      <lex lang="ru" lid="Id1">Бананамен впервые вышел в эфир на BBC 3 октября 1983 года, а его последний эпизод вышел 15 апреля 1986 года. Бананамен последний раз вышел в эфир 15 апреля 1986 года. Грэм Гарден - один из звезд сериала, который создал Джон Геринг.</lex>
+      <lex lang="en" lid="Id2">Bananaman first aired on the BBC on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. The fictional comic superhero Bananaman was created by John Geering and stars Graeme Garden.</lex>
+      <lex lang="ru" lid="Id2">Бананамен впервые вышел в эфир на Би-би-си 3 октября 1983 года и его последний эпизод был показан 15 апреля 1986 года. Вымышленный супергерой комиксов Бананамен был создан Джоном Герингом и сыгран Грэмом Гарденом.</lex>
+      <lex lang="en" lid="Id3">Bananaman first aired on the BBC on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. Graeme Garden was one of the stars on the series which was created by John Geering.</lex>
+      <lex lang="ru" lid="Id3">Бананамен впервые вышел в эфир на Би-би-си 3 октября 1983 года. Последний эпизод вышел 15 апреля 1986 года. Грэм Гарден был одной из звезд в этом сериале, созданном Джоном Герингом.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">BBC | sameAs | Би-би-си</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">John Geering | sameAs | Джон Геринг</link>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">Graeme Garden | sameAs | Грэм Гарден</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman byl poprvé vysílán na BBC 3. října 1983 a poslední díl byl odvysílán 15. dubna 1986. Bananaman byl naposledy vysílán 15. dubna 1986. Jednou z hvězd seriálu, který vytvořil John Geering, je Graeme Garden.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman poprvé odvysílala BBC 3. října 1983 a svou poslední epizodu odvysílala 15. dubna 1986. Bananaman se naposledy vysílal 15. dubna 1986. Graeme Garden je jednou z hvězd seriálu, který vytvořil John Geering.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman se poprvé vysílal na BBC 3. října 1983 a poslední díl odvysílal 15. dubna 1986. Bananaman se naposledy vysílal 15. dubna 1986. Graeme Garden je jednou z hvězd seriálu, který vytvořil John Geering.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman se poprvé vysílal na BBC 3. října 1983 a jeho poslední díl byl odvysílán 15. dubna 1986. Fiktivní komiksový superhrdina Bananaman byl vytvořen Johnem Geeringem a jeho hlavní hvězdou je Graeme Garden.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman poprvé odvysílala BBC 3. října 1983 a svou poslední epizodu odvysílala 15. dubna 1986. Fiktivního komického superhrdinu Bananaman vytvořil John Geering a hraje v něm Graeme Garden.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman se poprvé vysílal na BBC 3. října 1983 a poslední díl odvysílal 15. dubna 1986. Fiktivní komiksový superhrdina Bananaman byl vytvořen Johnem Geeringem a hraje v něm Graeme Garden.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman byl poprvé vysílán na BBC 3. října 1983 a jeho poslední díl byl odvysílán 15. dubna 1986. Graeme Garden byl jednou z hvězd seriálu, který vytvořil John Geering.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman se poprvé vysílal na BBC 3. října 1983 a svou poslední epizodu odvysílal 15. dubna 1986. Graeme Garden byl jednou z hvězd seriálu, který vytvořil John Geering.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman se poprvé vysílal na BBC 3. října 1983 a poslední díl odvysílal 15. dubna 1986. Graeme Garden byla jednou z hvězd seriálu, který vytvořil John Geering.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id2" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | creator | "Steve Bright"@en</otriple>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        <otriple>Bananaman | lastAired | "1986-04-15"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | creator | Steve_Bright</mtriple>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        <mtriple>Bananaman | lastAired | "1986-04-15"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Bananaman first aired on the BBC on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. Steve Bright created the series which starred Bill Oddie.</lex>
+      <lex lang="ru" lid="Id1">Бананамен впервые вышел в эфир на Би-би-си 3 октября 1983 года и показал свой последний эпизод 15 апреля 1986 года. Стив Брайт создал сериал, который снял Билл Одди.</lex>
+      <lex lang="en" lid="Id2">Bananaman was shown by the BBC and aired between 3 October 1985 and 15 April 1986. It was created by Steve Bright and starred Bill Oddie.</lex>
+      <lex lang="ru" lid="Id2">«Бананамен» был показан "Би-би-си" и выходил в эфир с 3 октября 1985 года по 15 апреля 1986 года. Он был создан Стивом Брайтом, и в нем снимался Билл Одди.</lex>
+      <lex lang="en" lid="Id3">Bananaman was the TV series shown by the BBC between 3 October 1983 and 15 April 1986. It was created by Steve Bright and starred Bill Oddie.</lex>
+      <lex lang="ru" lid="Id3">Бананамен - телесериал, транслированный Би-би-си в период с 3 октября 1983 года по 15 апреля 1986 года. Его создал Стив Брайт, с Биллом Одди в главной роли.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">BBC | sameAs | Би-би-си</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">Steve Bright | sameAs | Стив Брайт</link>
+        <link direction="en2ru">Bill Oddie | sameAs | Билл Одди</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman se poprvé vysílal na BBC 3. října 1983 a jeho poslední díl byl odvysílán 15. dubna 1986. Seriál, v němž hrál hlavní roli Bill Oddie, vytvořil Steve Bright.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman se poprvé vysílal na BBC 3. října 1983 a svou poslední epizodu odvysílal 15. dubna 1986. Steve Bright vytvořil sérii, ve které hrál Bill Oddie.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman se poprvé vysílal na BBC 3. října 1983 a poslední díl odvysílal 15. dubna 1986. Steve Bright vytvořil seriál, ve kterém hrál Bill Oddie.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman byl vysílán BBC a vysílal se od 3. října 1985 do 15. dubna 1986. Seriál vytvořil Steve Bright a hrál v něm Bill Oddie.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman byl promítán BBC a vysílán mezi 3. říjnem 1985 a 15. dubnem 1986. Vytvořil ho Steve Bright a hrál v něm Bill Oddie.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman byl uváděn BBC a vysílán mezi 3. říjnem 1985 a 15. dubnem 1986. Vytvořil ho Steve Bright a hrál v něm Bill Oddie.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman byl televizní seriál, který BBC vysílala mezi 3. říjnem 1983 a 15. dubnem 1986. Vytvořil ho Steve Bright a hlavní roli v něm hrál Bill Oddie.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman byl televizní seriál, který BBC vysílala mezi 3. říjnem 1983 a 15. dubnem 1986. Vytvořil ho Steve Bright a hrál v něm Bill Oddie.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman byl televizní seriál, který BBC vysílala mezi 3. říjnem 1983 a 15. dubnem 1986. Vytvořil ho Steve Bright a hrál v něm Bill Oddie.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id3" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | creator | "Steve Bright"@en</otriple>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        <otriple>Bananaman | lastAired | "1986-04-15"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | creator | Steve_Bright</mtriple>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        <mtriple>Bananaman | lastAired | "1986-04-15"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Bananaman first aired on the BBC 10/03/1983 and its last broadcast was 15th April 1986. The creator of Bananaman is Steve Bright and the show stars Graeme Garden.</lex>
+      <lex lang="ru" lid="Id1">Бананамен впервые вышел в эфир на BBC 10.03.1983 года, а его последняя трансляция - 15 апреля 1986 года. Создателем “Бананамена” является Стив Брайт и в шоу играет Грэм Гарден.</lex>
+      <lex lang="en" lid="Id2">Bananaman first aired on the BBC on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. It was created by Steve Bright and stars Graeme Garden.</lex>
+      <lex lang="ru" lid="Id2">Бананамен впервые вышел в эфир на Би-би-си 3 октября 1983 года, и его последний эпизод транслировался 15 апреля 1986 года. Он был создан Стивом Брайтом, и в главной роли играл Грэм Гарден.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">BBC | sameAs | Би-би-си</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">Graeme Garden | sameAs | Грэм Гарден</link>
+        <link direction="en2ru">Steve Bright | sameAs | Стив Брайт</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman byl poprvé vysílán na BBC 3. 10. 1983 a naposledy byl odvysílán 15. dubna 1986. Tvůrcem Bananamana je Steve Bright a v seriálu hraje Graeme Garden.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman poprvé odvysílala BBC 10/03/1983 a jeho poslední vysílání bylo 15. dubna 1986. Tvůrcem Bananaman je Steve Bright a v seriálu hraje Graeme Garden.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman byl poprvé vysílán na BBC 10/03/1983 a jeho poslední vysílání bylo 15. dubna 1986. Tvůrcem Bananamana je Steve Bright a hvězdou seriálu je Graeme Garden.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman se poprvé vysílal na BBC 3. října 1983 a jeho poslední díl byl odvysílán 15. dubna 1986. Autorem seriálu je Steve Bright a v hlavní roli vystupuje Graeme Garden.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman poprvé odvysílala BBC 3. října 1983 a svou poslední epizodu odvysílala 15. dubna 1986. Vytvořil ji Steve Bright a hlavní roli hraje Graeme Garden.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman se poprvé vysílal na BBC 3. října 1983 a poslední díl odvysílal 15. dubna 1986. Vytvořil ho Steve Bright a hraje v něm Graeme Garden.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id4" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Jill_Shilling</otriple>
+        <otriple>Bananaman | creator | "Steve Bright"@en</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        <otriple>Bananaman | lastAired | "1986-04-15"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Jill_Shilling</mtriple>
+        <mtriple>Bananaman | creator | Steve_Bright</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        <mtriple>Bananaman | lastAired | "1986-04-15"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The BBC aired the TV series of Bananaman between 3 October 1983 and 15 April 1986. It was created by Steve Bright and starred Jill Shilling.</lex>
+      <lex lang="ru" lid="Id1">"Би-би-си" транслировала телесериал "Бананамен" в период с 3 октября 1983 года по 15 апреля 1986 года. Его создал Стив Брайт и в нем принимала участие Джилл Шиллинг.</lex>
+      <lex lang="en" lid="Id2">Bananaman began airing on the BBC on 10/03/1983 and its last broadcast was April 15th, 1986. The creator of Bananaman is Steve Bright and among its stars are Jill Shilling.</lex>
+      <lex lang="ru" lid="Id2">"Бананамен" вышел в эфир на "Би-би-си" 3 октября 1983 года, а его последняя трансляция была 15 апреля 1986 года. Создатель "Бананамена" – Стив Брайт, и среди его звезд – Джилл Шиллинг.</lex>
+      <lex lang="en" lid="Id3">Bananaman was broadcast by the BBC, airing between 3 October 1983 and 15 April 1986. It was created by Steve Bright and starred Jill Shilling.</lex>
+      <lex lang="ru" lid="Id3">“Бананамен» транслировался "Би-би-си", выходил в эфир с 3 октября 1983 года по 15 апреля 1986 года. Его создал Стив Брайт, и в нем играл Джилл Шиллинг.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">BBC | sameAs | Би-би-си</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">Steve Bright | sameAs | Стив Брайт</link>
+        <link direction="en2ru">Jill Shilling | sameAs | Джилл Шиллинг</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">BBC vysílala seriál Bananaman od 3. října 1983 do 15. dubna 1986. Vytvořil ho Steve Bright a v hlavní roli se objevila Jill Shillingová.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">BBC vysílala televizní seriál Bananaman mezi 3. říjnem 1983 a 15. dubnem 1986. Vytvořil ho Steve Bright a hrála v něm Jill Shillingová.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">BBC vysílala televizní seriál Banánovník mezi 3. říjnem 1983 a 15. dubnem 1986. Vytvořil ho Steve Bright a hrála v něm Jill Shilling.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman se začal vysílat na BBC 3. 10. 1983 a jeho poslední vysílání proběhlo 15. dubna 1986. Tvůrcem seriálu Bananaman je Steve Bright a mezi jeho hvězdy patří Jill Shillingová.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman se začal vysílat na BBC 10.03.1983 a jeho poslední vysílání bylo 15. dubna 1986. Tvůrcem Bananaman je Steve Bright a mezi jeho hvězdy patří Jill Shilling.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman se začal vysílat na BBC 10/03/1983 a jeho poslední vysílání bylo 15. dubna 1986. Tvůrcem Bananamana je Steve Bright a mezi jeho hvězdami je Jill Shilling.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman byl vysílán BBC, vysílání probíhalo od 3. října 1983 do 15. dubna 1986. Jeho tvůrcem byl Steve Bright a v hlavní roli se objevila Jill Shillingová.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman byl vysílán BBC, vysílání mezi 3. říjnem 1983 a 15. dubnem 1986. Vytvořil ho Steve Bright a hrála v něm Jill Shillingová.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman vysílala BBC, vysílala ho od 3. října 1983 do 15. dubna 1986. Vytvořil ho Steve Bright a hrála v něm Jill Shilling.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Bananaman | creator | John_Geering</otriple>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        <otriple>Bananaman | lastAired | "1986-04-15"^^xsd:date</otriple>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | creator | John_Geering</mtriple>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        <mtriple>Bananaman | lastAired | "1986-04-15"</mtriple>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Bananaman first aired on STV on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. The series, which was created by John Geering, stars Graeme Garden.</lex>
+      <lex lang="ru" lid="Id1">"Бананамен" впервые вышел в эфир на канале STV 3 октября 1983 года и показал свой последний эпизод 15 апреля 1986 года. В сериале, созданном Джоном Герингом, снимается Грэм Гарден.</lex>
+      <lex lang="en" lid="Id2">The TV character Bananaman was created by John Geering. The programme was broadcast by STV and starred Graeme Garden. Bananaman was first shown on 10th March 1983 and last aired on 15th April 1986.</lex>
+      <lex lang="ru" lid="Id2">Телеперсонаж Бананамен был создан Джоном Герингом. Программа транслировалась каналом STV и в ней играл Грэм Гарден. "Бананамен" был впервые показан 10 марта 1983 года, и в последний раз вышел в эфир 15 апреля 1986 года.</lex>
+      <lex lang="en" lid="Id3">Bananaman first aired on STV on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. John Geering created the series which stars Graeme Garden.</lex>
+      <lex lang="ru" lid="Id3">Бананамен впервые вышел в эфир на STV 3 октября 1983 года и показал свой последний эпизод 15 апреля 1986 года. Джон Геринг создал сериал, в котором сыграл Грэм Гарден.</lex>
+      <links>
+        <link direction="en2ru">John Geering | sameAs | Джон Геринг</link>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">Graeme Garden | sameAs | Грэм Гарден</link>
+        <link direction="en2ru">STV | sameAs | STV</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman se poprvé vysílal na STV 3. října 1983 a poslední díl byl odvysílán 15. dubna 1986. V seriálu, který vytvořil John Geering, hraje Graeme Garden.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman se poprvé vysílal na STV 3. října 1983 a svou poslední epizodu odvysílal 15. dubna 1986. V seriálu, který vytvořil John Geering, hraje Graeme Garden.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman se poprvé vysílal na STV 3. října 1983 a poslední díl odvysílal 15. dubna 1986. V seriálu, který vytvořil John Geering, hraje Graeme Garden.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Televizní postavu Bananamana vytvořil John Geering. Pořad vysílala STV a v hlavní roli se objevil Graeme Garden. Poprvé byl Bananaman uveden 10. března 1983 a naposledy byl vysílán 15. dubna 1986.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Televizní postavu Bananaman vytvořil John Geering. Program byl vysílán STV a hrál v něm Graeme Garden. Bananaman byl poprvé uveden 10. března 1983 a naposledy vysílán 15. dubna 1986.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Televizní postavu Bananamana vytvořil John Geering. Pořad vysílala STV a hrála v něm Graeme Garden. Bananaman byl poprvé uveden 10. března 1983 a naposledy odvysílán 15. dubna 1986.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman byl poprvé vysílán na STV 3. října 1983 a poslední díl byl odvysílán 15. dubna 1986. Seriál, v němž hrál Graeme Garden, vytvořil John Geering.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman se poprvé vysílal na STV 3. října 1983 a svou poslední epizodu odvysílal 15. dubna 1986. John Geering vytvořil seriál, ve kterém hraje Graeme Garden.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman se poprvé vysílal na STV 3. října 1983 a poslední díl odvysílal 15. dubna 1986. John Geering vytvořil seriál, ve kterém hraje Graeme Garden.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id6" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Jill_Shilling</otriple>
+        <otriple>Bananaman | creator | Steve_Bright</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        <otriple>Bananaman | lastAired | "1986-04-15"^^xsd:date</otriple>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bananaman | starring | Jill_Shilling</otriple>
+        <otriple>Bananaman | creator | "Steve Bright"@en</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        <otriple>Bananaman | lastAired | "1986-04-15"^^xsd:date</otriple>
+        <otriple>Bananaman | network | "STV"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Jill_Shilling</mtriple>
+        <mtriple>Bananaman | creator | Steve_Bright</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        <mtriple>Bananaman | lastAired | "1986-04-15"</mtriple>
+        <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Bananaman was broadcast by STV between 3 October 1983 and 15 April 1986. It was created by Steve Bright and starred Jill Shilling.</lex>
+      <lex lang="ru" lid="Id1">«Бананамен» транслировался STV с 3 октября 1983 года по 15 апреля 1986 года. Он был создан Стивом Брайтом, и в нем снимался Джилл Шиллинг.</lex>
+      <lex lang="en" lid="Id2">Bananaman first aired on STV on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. The series was created by Steve Bright and starred Jill Shilling.</lex>
+      <lex lang="ru" lid="Id2">Бананамен впервые вышел в эфир на STV 3 октября 1983 года и транслировал свой последний эпизод 15 апреля 1986 года. Сериал был создан Стивом Брайтом, с Джилл Шиллинг в главной роли.</lex>
+      <lex lang="en" lid="Id3">Bananaman was broadcast by STV from 3 October 1983 until 15 April 1986. It was created by Steve Bright and starred Jill Shilling.</lex>
+      <lex lang="ru" lid="Id3">Бананамен был показан "STV" в период с 3 октября 1983 года по 15 апреля 1986 года. Он был создан Стивом Брайтом, в главных ролях с Джилл Шиллинг.</lex>
+      <links>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">STV | sameAs | STV</link>
+        <link direction="en2ru">Steve Bright | sameAs | Стив Брайт</link>
+        <link direction="en2ru">Jill Shilling | sameAs | Джилл Шиллинг</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman byl vysílán na STV od 3. října 1983 do 15. dubna 1986. Vytvořil ho Steve Bright a v hlavní roli se objevila Jill Shillingová.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman byl vysílán STV mezi 3. říjnem 1983 a 15. dubnem 1986. Vytvořil ho Steve Bright a hrála v něm Jill Shillingová.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Společnost STV vysílala Bananaman od 3. října 1983 do 15. dubna 1986. Vytvořil ho Steve Bright a hrála v něm Jill Shilling.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman se poprvé vysílal na STV 3. října 1983 a poslední díl byl odvysílán 15. dubna 1986. Seriál vytvořil Steve Bright a v hlavní roli se objevila Jill Shillingová.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman se poprvé vysílal na STV 3. října 1983 a svou poslední epizodu odvysílal 15. dubna 1986. Seriál vytvořil Steve Bright a hrála v něm Jill Shillingová.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman se poprvé vysílal na STV 3. října 1983 a poslední díl odvysílal 15. dubna 1986. Seriál vytvořil Steve Bright a hrála v něm Jill Shilling.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman byl vysílán STV od 3. října 1983 do 15. dubna 1986. Seriál vytvořil Steve Bright a v hlavní roli se objevila Jill Shillingová.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman vysílala STV od 3. října 1983 do 15. dubna 1986. Vytvořil ho Steve Bright a hrála v něm Jill Shillingová.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Společnost STV vysílala Bananaman od 3. října 1983 do 15. dubna 1986. Vytvořil ho Steve Bright a hrála v něm Jill Shilling.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id7" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | creator | "Steve Bright"@en</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        <otriple>Bananaman | lastAired | "1986-04-15"^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | creator | Steve_Bright</otriple>
+        <otriple>Bananaman | firstAired | "1983-10-03"^^xsd:date</otriple>
+        <otriple>Bananaman | lastAired | "1986-04-15"^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | creator | Steve_Bright</mtriple>
+        <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
+        <mtriple>Bananaman | lastAired | "1986-04-15"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The BBC began broadcasting Bananaman on 10/03/1983 and its last episode went to air on April 15th, 1986. Steve Bright is one of the creators of Bananaman which has Tim Brooke-Taylor as one of its stars.</lex>
+      <lex lang="ru" lid="Id1">Би-би-си начала транслировать «Бананамена» 3 октября 1983 года, а его последний эпизод вышел в эфир 15 апреля 1986 года. Стив Брайт - один из создателей «Бананамена», в котором Тим Брук-Тейлор является одной из звезд.</lex>
+      <lex lang="en" lid="Id2">Bananaman first aired on the BBC on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. Its creator was Steve Bright and the series starred Tim Brooke-Taylor.</lex>
+      <lex lang="ru" lid="Id2">Бананамен впервые вышел в эфир на Би-би-си 3 октября 1983 года, последний эпизод вышел 15 апреля 1986 года. Создатель сериала Стив Брайт, в главной роли - Тим Брук-Тейлор.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">BBC | sameAs | Би-би-си</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bananaman | sameAs | Бананамен</link>
+        <link direction="en2ru">Steve Bright | sameAs | Стив Брайт</link>
+        <link direction="en2ru">Tim Brooke-Taylor | sameAs | Тим Брук-Тейлор</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">BBC začala vysílat Bananamana 10. 3. 1983 a jeho poslední díl byl odvysílán 15. dubna 1986. Steve Bright je jedním z tvůrců seriálu Bananaman, jehož jednou z hvězd je Tim Brooke-Taylor.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">BBC začala vysílat Bananaman 10/03/1983 a její poslední epizoda šla do vysílání 15. dubna 1986. Steve Bright je jedním z tvůrců Bananamana, jehož jednou z hvězd je Tim Brooke-Taylor.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">BBC začala vysílat Bananaman 10/03/1983 a její poslední díl se začal vysílat 15. dubna 1986. Steve Bright je jedním z tvůrců Bananamanu, který má Tima Brooke-Taylora jako jednu ze svých hvězd.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Bananaman se poprvé vysílal na BBC 3. října 1983 a jeho poslední díl byl odvysílán 15. dubna 1986. Jeho tvůrcem byl Steve Bright a hlavní roli v seriálu hrál Tim Brooke-Taylor.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Bananaman poprvé odvysílala BBC 3. října 1983 a svou poslední epizodu odvysílala 15. dubna 1986. Jeho tvůrcem byl Steve Bright a v seriálu hrál Tim Brooke-Taylor.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Bananaman se poprvé vysílal na BBC 3. října 1983 a poslední díl odvysílal 15. dubna 1986. Jeho tvůrcem byl Steve Bright a v seriálu hrál Tim Brooke-Taylor.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id8" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | starring | Ryan_Potter</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | starring | Ryan_Potter</otriple>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | starring | Ryan_Potter</mtriple>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Baymax was created by the American, Duncan Rouleau and Steven T Seagle. The character appeared in Big Hero 6 which stars Ryan Potter.</lex>
+      <lex lang="ru" lid="Id1">Персонаж Баймакс был создан американцами Дунканом Руло и Стивеном Ти Сигалом. Персонаж появился в Городе героев, в котором снимался Райан Поттер.</lex>
+      <lex lang="en" lid="Id2">The character of Baymax appeared in Big Hero 6 which stars Ryan Potter. He was created by Steven T Seagle and the American, Duncan Rouleau.</lex>
+      <lex lang="ru" lid="Id2">Персонаж Баймакс появился в "Городе героев", с Райаном Поттером в главной роли. Баймакса создали американцы Стивен Ти Сигал и Дункан Руло.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Americans | sameAs | Американцы_США</dbpedialink>
+        <dbpedialink direction="en2ru">Big_Hero_6_(film) | sameAs | Город_героев</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Baymax | sameAs | Баймакс</link>
+        <link direction="en2ru">Duncan Rouleau | sameAs | Дункан Руло</link>
+        <link direction="en2ru">Steven T. Seagle | sameAs | Стивен Ти Сигал</link>
+        <link direction="en2ru">Ryan Potter | sameAs | Райан Поттер</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Baymaxe vytvořili Američané Duncan Rouleau a Steven T. Seagle. Postava se objevila ve filmu Big Hero 6, v němž hraje Ryan Potter.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Baymax vytvořili Američané Duncan Rouleau a Steven T Seagle. Postava se objevila v Big Hero 6, kde hraje Ryan Potter.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Baymax vytvořili Američan Duncan Rouleau a Steven T Seagle. Postava se objevila v Big Hero 6, kde hraje Ryan Potter.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Postava Baymaxe se objevila ve filmu Big Hero 6, ve kterém hraje Ryan Potter. Vytvořili ho Steven T. Seagle a Američan Duncan Rouleau.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Postava Baymaxe se objevila v Big Hero 6, kde hraje Ryan Potter. Vytvořili ho Steven T Seagle a Američan Duncan Rouleau.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Postava Baymaxe se objevila v Big Hero 6, kde hraje Ryan Potter. Stvořili ho Steven T Seagle a Američan Duncan Rouleau.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id9" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Damon_Wayans,_Jr.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Damon_Wayans,_Jr.</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Baymax, a character in Big Hero 6, was created by the american Duncan Rouleau and by Steven T. Seagle. Damon Wayans, Jr. starred in the film Big Hero 6.</lex>
+      <lex lang="ru" lid="Id1">Баймакс, персонаж "Города героев", был создан американцем Дунканом Руло и Стивеном Ти Сигалом. Деймон Дуглас-младший снялся в фильме "Город героев".</lex>
+      <lex lang="en" lid="Id2">Baymax, a character in Big Hero 6, was created by the american Duncan Rouleau and by Steven T. Seagle. Damon Wayans, Jr. starred in the film version of Big Hero 6.</lex>
+      <lex lang="ru" lid="Id2">Баймакс, персонаж "Города героев", был создан американцем Дунканом Руло и Стивеном Ти Сигалом. Деймон Уэйанс-младший снялся в фильме "Город героев".</lex>
+      <lex lang="en" lid="Id3">Baymax is a character in the film Big Hero 6 which stars Damon Wayans Jr. He was created by Steven t Seagle and the American, Duncan Rouleau.</lex>
+      <lex lang="ru" lid="Id3">Баймакс - персонаж в фильме Город героев, в котором снимался Деймон Уэйанс-младший. Он был создан Стивеном Ти Сигалом и американцем Дунканом Руло.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Americans | sameAs | Американцы_США</dbpedialink>
+        <dbpedialink direction="en2ru">Big_Hero_6_(film) | sameAs | Город_героев</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Baymax | sameAs | Баймакс</link>
+        <link direction="en2ru">Duncan Rouleau | sameAs | Дункан Руло</link>
+        <link direction="en2ru">Steven T. Seagle | sameAs | Стивен Ти Сигал</link>
+        <link direction="en2ru">Damon Wayans, Jr. | sameAs | Деймон Уэйанс-младший</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Postavu Baymaxe ve filmu Big Hero 6, ve kterém hraje Ryan Potter, vytvořili Američan Duncan Rouleau a Steven T. Seagle. Damon Wayans, Jr. si zahrál hlavní roli ve filmu Big Hero 6.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Baymax, postava v Big Hero 6, byla vytvořena Američanem Duncanem Rouleauem a Stevenem T. Seaglem. Damon Wayans, Jr. hrál ve filmu Big Hero 6.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Baymax, postava v Big Hero 6, byl vytvořen Američanem Duncanem Rouleauem a Stevenem T. Seaglem. Damon Wayans mladší hrál ve filmu Big Hero 6.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Baymaxe, postavu ve filmu Big Hero 6, vytvořili Američan Duncan Rouleau a Steven T. Seagle. Damon Wayans, Jr. si zahrál ve filmové verzi filmu Big Hero 6.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Baymax, postava v Big Hero 6, byla vytvořena Američanem Duncanem Rouleauem a Stevenem T. Seaglem. Damon Wayans, Jr. hrál ve filmové verzi Big Hero 6.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Baymax, postava v Big Hero 6, byl vytvořen Američanem Duncanem Rouleauem a Stevenem T. Seaglem. Damon Wayans mladší hrál ve filmové verzi Big Hero 6.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Baymax je postava ve filmu Big Hero 6, ve kterém hraje Damon Wayans Jr. vytvořili ho Steven t Seagle a Američan Duncan Rouleau.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Baymax je postava ve filmu Big Hero 6, kde hraje Damon Wayans Jr. Vytvořili ho Steven t Seagle a Američan Duncan Rouleau.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Baymax je postava ve filmu Big Hero 6, kde hraje Damon Wayans Jr. Stvořili ho Steven t Seagle a Američan Duncan Rouleau.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id10" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Jamie_Chung</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Jamie_Chung</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Jamie_Chung</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Baymax is a character in Big Hero 6 which stars Jamie Chung and was created by Steve T. Seagle and Duncan Rouleau, an American.</lex>
+      <lex lang="ru" lid="Id1">Баймакс - персонаж "Города героев", в котором снималась Джеми Чон. Баймакс был создан американцами Стивом Ти Сигалом и Дунканом Руло.</lex>
+      <lex lang="en" lid="Id2">Baymax is a character created by Steven T Seagle and the American, Duncan Rouleau. He appears in Big Hero 6 that stars Jamie Chung.</lex>
+      <lex lang="ru" lid="Id2">Баймакс - персонаж, созданный американцами Стивеном Ти Сигалом и Дунканом Руло. Он появился в "Городе героев", в котором снялась Джеми Чон.</lex>
+      <lex lang="en" lid="Id3">Baymax is a character in Big Hero 6 which stars Jamie Chung. Baymax was created by American Duncan Rouleau and Steven T. Seagle.</lex>
+      <lex lang="ru" lid="Id3">Баймакс - персонаж "Города героев", в котором снималась Джеми Чон. Баймакс был создан американцами Дунканом Руло и Стивеном Ти Сигалом.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Jamie_Chung | sameAs | Чон,_Джеми</dbpedialink>
+        <dbpedialink direction="en2ru">Americans | sameAs | Американцы_США</dbpedialink>
+        <dbpedialink direction="en2ru">Big_Hero_6_(film) | sameAs | Город_героев</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Baymax | sameAs | Баймакс</link>
+        <link direction="en2ru">Duncan Rouleau | sameAs | Дункан Руло</link>
+        <link direction="en2ru">Steven T. Seagle | sameAs | Стивен Ти Сигал</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Baymax je postava ve filmu Big Hero 6, v němž hraje Jamie Chung, a vytvořili ji Steve T. Seagle a Američan Duncan Rouleau.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Baymax je postava z Big Hero 6, ve které hraje Jamie Chung a kterou vytvořili Steve T. Seagle a Duncan Rouleau, Američan.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Baymax je postava v Big Hero 6, ve které hraje Jamie Chung a kterou vytvořili Steve T. Seagle a Duncan Rouleau, Američan.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Baymax je postava, kterou vytvořili Steven T. Seagle a Američan Duncan Rouleau. Objevuje se ve filmu Big Hero 6, ve kterém hraje Jamie Chung.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Baymax je postava vytvořená Stevenem T Seaglem a Američanem Duncanem Rouleauem. Objeví se v Big Hero 6, kde hraje Jamie Chung.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Baymax je postava vytvořená Stevenem T Seaglem a Američanem Duncanem Rouleauem. Objevuje se v Big Hero 6, kde hraje Jamie Chung.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Baymax je postava z filmu Big Hero 6, ve kterém hraje Jamie Chung. Baymaxe vytvořili Američan Duncan Rouleau a Steven T. Seagle.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Baymax je postava z Big Hero 6, ve které hraje Jamie Chung. Baymax vytvořili Američan Duncan Rouleau a Steven T. Seagle.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Baymax je postava v Big Hero 6, kde hraje Jamie Chung. Baymax vytvořili Američan Duncan Rouleau a Steven T. Seagle.</lex>
+    </entry>
+  </entries>
+</benchmark>

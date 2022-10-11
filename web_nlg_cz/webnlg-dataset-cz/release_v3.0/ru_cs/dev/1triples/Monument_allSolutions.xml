@@ -1,0 +1,162 @@
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The currency of Turkey is Turkish Lira.</lex>
+      <lex lang="ru" lid="Id1">Валютой Турции является турецкая лира.</lex>
+      <lex lang="en" lid="Id2">The currency of Turkey is the Turkish lira.</lex>
+      <lex lang="ru" lid="Id2">Валюта Турции - турецкая лира.</lex>
+      <lex lang="en" lid="Id3">The currency in Turkey is the Turkish Lira.</lex>
+      <lex lang="ru" lid="Id3">Валютой в Турции является турецкая лира.</lex>
+      <lex lang="en" lid="Id4">Turkey's currency is the Turkish lira.</lex>
+      <lex lang="ru" lid="Id4">Валюта Турции - турецкая лира.</lex>
+      <lex lang="en" lid="Id5">the currency used in Turkey is lira.</lex>
+      <lex lang="ru" lid="Id5">Валюта, используемая в Турции, - лира.</lex>
+      <lex lang="en" lid="Id6">The Turkish currency is the Turkish lira.</lex>
+      <lex lang="ru" lid="Id6">Турецкая валюта - турецкая лира.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkey | sameAs | Турция</dbpedialink>
+        <dbpedialink direction="en2ru">Turkish_lira | sameAs | Турецкая_лира</dbpedialink>
+      </dbpedialinks>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Měnou Turecka je turecká lira.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Měnou Turecka je turecká lira.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Tureckou měnou je turecká lira.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Měnou Turecka je turecká lira.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Turecká měna je turecká lira.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Měnou Turecka je turecká lira.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Měnou v Turecku je turecká lira.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Měnou v Turecku je turecká lira.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Měnou v Turecku je turecká lira.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Měnou v Turecku je turecká lira.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Turecká měna je turecká lira.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Tureckou měnou je turecká lira.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Měnou používanou v Turecku je turecká lira.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">měnou používanou v Turecku je lira.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">měna používaná v Turecku je lira.</lex>
+      <lex lid="Id6" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Tureckou měnou je turecká lira.</lex>
+      <lex lid="Id6" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Turecká měna je turecká lira.</lex>
+      <lex lid="Id6" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Tureckou měnou je turecká lira.</lex>
+    </entry>
+    <entry category="Monument" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The largest city in Turkey is Istanbul.</lex>
+      <lex lang="ru" lid="Id1">Самый крупный город в Турции - Стамбул.</lex>
+      <lex lang="en" lid="Id2">Istanbul is the largest city in Turkey.</lex>
+      <lex lang="ru" lid="Id2">Стамбул - крупнейший город в Турции.</lex>
+      <lex lang="en" lid="Id3">Turkey's largest City is Istanbul.</lex>
+      <lex lang="ru" lid="Id3">Крупнейший город Турции - Стамбул.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkey | sameAs | Турция</dbpedialink>
+        <dbpedialink direction="en2ru">Istanbul | sameAs | Стамбул</dbpedialink>
+      </dbpedialinks>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Největším městem v Turecku je Istanbul.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Největším městem Turecka je Istanbul.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Největším městem v Turecku je Istanbul.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Istanbul je největším městem v Turecku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Istanbul je největší město v Turecku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Istanbul je největší město v Turecku.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Největším městem Turecka je Istanbul.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Největším městem Turecka je Istanbul.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Největším městem Turecka je Istanbul.</lex>
+    </entry>
+    <entry category="Monument" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ahmet Davutoglu is a leader of Turkey.</lex>
+      <lex lang="ru" lid="Id1">Ахмет Давутоглу - лидер Турции.</lex>
+      <lex lang="en" lid="Id2">Ahmet Davutoglu is the leader of Turkey.</lex>
+      <lex lang="ru" lid="Id2">Ахмет Давутоглу - лидер Турции.</lex>
+      <lex lang="en" lid="Id3">Leader of Turkey is Ahmet Davutoglu.</lex>
+      <lex lang="ru" lid="Id3">Лидер Турции - Ахмет Давутоглу.</lex>
+      <lex lang="en" lid="Id4">Ahmet_Davutoğlu is Turkey's leader.</lex>
+      <lex lang="ru" lid="Id4">Ахмет Давутоглу - лидер Турции.</lex>
+      <lex lang="en" lid="Id5">The Leader Of Turkey is Ahmet Davutoğlu.</lex>
+      <lex lang="ru" lid="Id5">Лидер Турции - Ахмет Давутоглу.</lex>
+      <lex lang="en" lid="Id6">Ahmet Davutoglu is the Turkish leader.</lex>
+      <lex lang="ru" lid="Id6">Ахмет Давутоглу - турецкий лидер.</lex>
+      <lex lang="en" lid="Id7">Turkey's leader is Ahmet Davutoğlu.</lex>
+      <lex lang="ru" lid="Id7">Лидером Турции является Ахмет Давутоглу.</lex>
+      <lex lang="en" lid="Id8">Turkey leader name is Ahmet Davutoğlu.</lex>
+      <lex lang="ru" lid="Id8">Лидера Турции зовут Ахмет Давутоглу.</lex>
+      <lex lang="en" lid="Id9">The Turkish leader's name is Ahmet Davutoglu.</lex>
+      <lex lang="ru" lid="Id9">Имя турецкого лидера - Ахмет Давутоглу.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkey | sameAs | Турция</dbpedialink>
+        <dbpedialink direction="en2ru">Ahmet_Davutoğlu | sameAs | Давутоглу,_Ахмет</dbpedialink>
+      </dbpedialinks>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Ahmet Davutoglu je vedoucí představitel Turecka.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Ahmet Davutoglu je lídrem Turecka.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Ahmet Davutoglu je vůdce Turecka.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Ahmet Davutoglu je vůdcem Turecka.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Ahmet Davutoglu je lídrem Turecka.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Ahmet Davutoglu je vůdcem Turecka.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Vůdcem Turecka je Ahmet Davutoglu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Lídrem Turecka je Ahmet Davutoglu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Vůdcem Turecka je Ahmet Davutoglu.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Ahmet_Davutoğlu je vůdce Turecka.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Ahmet_Davutoğlu je vůdcem Turecka.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Ahmet_Davutoğlu je tureckým vůdcem.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Vůdcem Turecka je Ahmet Davutoğlu.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Vůdcem Turecka je Ahmet Davutoğlu.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Vůdcem Turecka je Ahmet Davutoğlu.</lex>
+      <lex lid="Id6" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Ahmet Davutoglu je vůdce Turecka.</lex>
+      <lex lid="Id6" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Tureckým lídrem je Ahmet Davutoglu.</lex>
+      <lex lid="Id6" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Ahmet Davutoglu je turecký vůdce.</lex>
+      <lex lid="Id7" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Vůdcem Turecka je Ahmet Davutoğlu.</lex>
+      <lex lid="Id7" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Tureckým vůdcem je Ahmet Davutoğlu.</lex>
+      <lex lid="Id7" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Vůdcem Turecka je Ahmet Davutoğlu.</lex>
+      <lex lid="Id8" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Jméno vůdce Turecka je Ahmet Davutoğlu.</lex>
+      <lex lid="Id8" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Jméno tureckého vůdce je Ahmet Davutoğlu.</lex>
+      <lex lid="Id8" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Jméno vůdce Turecka je Ahmet Davutoğlu.</lex>
+      <lex lid="Id9" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Jméno tureckého vůdce je Ahmet Davutoglu.</lex>
+      <lex lid="Id9" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Turecký vůdce se jmenuje Ahmet Davutoglu.</lex>
+      <lex lid="Id9" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Jméno tureckého vůdce je Ahmet Davutoglu.</lex>
+    </entry>
+    <entry category="Monument" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The leader's title in Turkey is the President of Turkey.</lex>
+      <lex lang="ru" lid="Id1">Титул лидера Турции - Президент Турции.</lex>
+      <lex lang="en" lid="Id2">Turkey's leader is the President of Turkey.</lex>
+      <lex lang="ru" lid="Id2">Лидером Турции является президент Турции.</lex>
+      <lex lang="en" lid="Id3">President of Turkey is the official title of the Turkish leader.</lex>
+      <lex lang="ru" lid="Id3">Официальным титулом турецкого лидера является Президент Турции.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkey | sameAs | Турция</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">President of Turkey | sameAs | Президент Турции</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Titul tureckého vůdce je turecký prezident.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Titul vůdce v Turecku je prezident Turecka.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Titulem vůdce v Turecku je prezident Turecka.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Vůdce Turecka je prezident Turecka.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Tureckým vůdcem je turecký prezident.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Vůdcem Turecka je prezident Turecka.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Prezident Turecka je oficiální titul tureckého vůdce.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Prezident Turecka je oficiální titul tureckého vůdce.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Prezident Turecka je oficiální titul tureckého vůdce.</lex>
+    </entry>
+  </entries>
+</benchmark>

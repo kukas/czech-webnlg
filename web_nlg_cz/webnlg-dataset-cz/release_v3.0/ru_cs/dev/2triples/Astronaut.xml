@@ -1,0 +1,231 @@
+<benchmark>
+  <entries>
+    <entry category="Astronaut" eid="Id1" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>William_Anders | nationality | United_States</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | nationality | United_States</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The American William Anders was born in British Hong Kong,.</lex>
+      <lex lang="ru" lid="Id1">Американец Уильям Андерс родился в Британском Гонконге.</lex>
+      <lex lang="en" lid="Id2">William Anders, who was from the United States, was actually born in British Hong Kong.</lex>
+      <lex lang="ru" lid="Id2">Уильям Андерс, который был из США, на самом деле родился в Британском Гонконге.</lex>
+      <lex lang="en" lid="Id3">Although William Anders was from the United States, he was actually born in British Hong Kong.</lex>
+      <lex lang="ru" lid="Id3">Несмотря на то, что Уильям Андерс был из США, он действительно родился в Британском Гонконге.</lex>
+      <lex lang="en" lid="Id4">William Anders nationality is the United States, but he was born in Hong Kong.</lex>
+      <lex lang="ru" lid="Id4">По национальной принадлежности Уильям Андерс гражданин Соединенных Штатов Америки, но родился он в Гонконге.</lex>
+      <lex lang="en" lid="Id5">William Anders was born in British Hong Kong but has a United States nationality.</lex>
+      <lex lang="ru" lid="Id5">Уильям Андерс родился в Британском Гонконге,но имеет гражданство Соединенных Штатов.</lex>
+      <lex lang="en" lid="Id6">William Anders from the United States was born in British Hong Kong.</lex>
+      <lex lang="ru" lid="Id6">Уильям Андерс из США родился в Британском Гонконге.</lex>
+      <lex lang="en" lid="Id7">William Anders was born in British Hong Kong and is a citizen of the United States.</lex>
+      <lex lang="ru" lid="Id7">Уильям Андерс родился в Британском Гонконге и является гражданином США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">William_Anders | sameAs | Андерс,_Уильям</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">British Hong Kong | sameAs | Британский Гонконг</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Američan William Anders se narodil v britském Hongkongu,.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Američan William Anders se narodil v britském Hong Kongu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Američan William Anders se narodil v britském Hongkongu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Američan William Anders se ve skutečnosti narodil v britském Hongkongu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders, který pocházel ze Spojených států, se ve skutečnosti narodil v britském Hong Kongu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders, který pocházel ze Spojených států, se ve skutečnosti narodil v britském Hongkongu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Ačkoli William Anders pocházel ze Spojených států, ve skutečnosti se narodil v britském Hongkongu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Ačkoli William Anders pocházel ze Spojených států, ve skutečnosti se narodil v britském Hong Kongu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Ačkoliv William Anders pocházel ze Spojených států, ve skutečnosti se narodil v britském Hongkongu.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders je sice státní příslušností Spojených států, ale narodil se v britském Hongkongu.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders má Spojené státy americké, ale narodil se v Hong Kongu.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Národností Williama Anderse jsou Spojené státy, ale narodil se v Hongkongu.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders se narodil v britském Hongkongu, ale má státní příslušnost Spojených států.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders se narodil v britském Hong Kongu, ale má státní příslušnost Spojených států.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders se narodil v britském Hongkongu, ale má státní příslušnost Spojených států.</lex>
+      <lex lid="Id6" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders ze Spojených států se narodil v britském Hongkongu.</lex>
+      <lex lid="Id6" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders ze Spojených států se narodil v britském Hong Kongu.</lex>
+      <lex lid="Id6" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders ze Spojených států se narodil v britském Hongkongu.</lex>
+      <lex lid="Id7" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders se narodil v britském Hongkongu a má státní příslušnost Spojených států.</lex>
+      <lex lid="Id7" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders se narodil v britském Hong Kongu a je občanem Spojených států.</lex>
+      <lex lid="Id7" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders se narodil v britském Hongkongu a je občanem Spojených států.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">William Anders was born in British Hong Kong and later in life became a fighter pilot.</lex>
+      <lex lang="ru" lid="Id1">Уильям Андерс родился в Британском Гонконге и позже в жизни стал летчиком-истребителем.</lex>
+      <lex lang="en" lid="Id2">William Anders was a fighter pilot who was born in British, Hong Kong.</lex>
+      <lex lang="ru" lid="Id2">Уильям Андерс, который родился в Британском Гонконге, был летчиком-истребителем.</lex>
+      <lex lang="en" lid="Id3">William Anders (born in British Hong Kong) served as a Fighter pilot.</lex>
+      <lex lang="ru" lid="Id3">Уильям Андерс (родился в Британском Гонконге) служил летчиком-истребителем.</lex>
+      <lex lang="en" lid="Id4">Willian Anders born in British Hong Kong served as a fighter pilot.</lex>
+      <lex lang="ru" lid="Id4">Уильям Андерс, родившийся в Британском Гонконге, служил летчиком-истребителем.</lex>
+      <lex lang="en" lid="Id5">William Anders, born in British Hong Kong, was a fighter pilot.</lex>
+      <lex lang="ru" lid="Id5">Уильям Андерс, родившийся в Британском Гонконге, был летчиком-истребителем.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">William_Anders | sameAs | Андерс,_Уильям</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Fighter pilot | sameAs | летчик-истребитель / пилот истребителя</link>
+        <link direction="en2ru">British Hong Kong | sameAs | Британский Гонконг</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders se narodil v britském Hongkongu a později v životě se stal stíhacím pilotem.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders se narodil v britském Hong Kongu a později se stal stíhacím pilotem.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders se narodil v britském Hongkongu a později se stal stíhacím pilotem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders byl stíhací pilot, který se narodil v britském Hongkongu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders byl stíhací pilot, který se narodil v Británii v Hong Kongu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders byl stíhací pilot, který se narodil v britském Hongkongu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders (narozený v britském Hongkongu) sloužil jako stíhací pilot.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders (narozen v britském Hong Kongu) sloužil jako stíhací pilot.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders (narozen v britském Hongkongu) sloužil jako pilot stíhaček.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Willian Anders narozený v britském Hongkongu sloužil jako stíhací pilot.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Willian Anders narozený v britském Hong Kongu sloužil jako stíhací pilot.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Willian Anders narozený v britském Hongkongu sloužil jako stíhací pilot.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders, narozený v britském Hongkongu, byl stíhacím pilotem.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders, narozený v britském Hong Kongu, byl stíhací pilot.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders, narozený v britském Hongkongu, byl stíhací pilot.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">William Anders is a test pilot and member of Apollo 8's crew.</lex>
+      <lex lang="ru" lid="Id1">Уильям Андерс - летчик-испытатель и член экипажа "Аполлон-8".</lex>
+      <lex lang="en" lid="Id2">William Anders was part of the Apollo 8 crew and was once a fighter pilot.</lex>
+      <lex lang="ru" lid="Id2">Уильям Андерс входил в состав экипажа Аполлон-8 и был когда-то летчиком-истребителем.</lex>
+      <lex lang="en" lid="Id3">William Anders was a fighter pilot and a crew member of Apollo 8.</lex>
+      <lex lang="ru" lid="Id3">Уильям Андерс был летчиком-истребителем и членом экипажа "Аполлон-8".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Apollo_8 | sameAs | Аполлон-8</dbpedialink>
+        <dbpedialink direction="en2ru">William_Anders | sameAs | Андерс,_Уильям</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Fighter pilot | sameAs | летчик-истребитель / пилот истребителя</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders je zkušební pilot a člen posádky Apolla 8.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders je zkušební pilot a člen posádky Apolla 8.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders je zkušební pilot a člen posádky Apolla 8.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders byl členem posádky Apolla 8 a kdysi byl stíhacím pilotem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders byl součástí posádky Apolla 8 a byl kdysi stíhacím pilotem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders byl součástí posádky Apolla 8 a kdysi byl také stíhacím pilotem.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders byl stíhací pilot a člen posádky Apolla 8.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders byl stíhací pilot a člen posádky Apolla 8.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders byl stíhací pilot a člen posádky Apolla 8.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>William_Anders | years | 1976</otriple>
+        <otriple>William_Anders | title | United_States_Ambassador_to_Norway</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | servedAsChiefOfTheAstronautOfficeIn | 1976</mtriple>
+        <mtriple>William_Anders | title | United_States_Ambassador_to_Norway</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">William Anders served as Chief of the Astronaut Office in 1976 and had a title as the United States Ambassador to Norway.</lex>
+      <lex lang="ru" lid="Id1">Уильям Андерс занимал должность начальника Управления астронавтов в 1976 году и имел звание посла Соединенных Штатов в Норвегии.</lex>
+      <lex lang="en" lid="Id2">William Anders time as Chief of the Astronaut Office in 1976 has prepared him well for his new position as United States Ambassador to Norway.</lex>
+      <lex lang="ru" lid="Id2">Должность Уильяма Андерса в качестве начальника Управления астронавтов в 1976 году хорошо подготовила его для новой работы в качестве посла Соединенных Штатов в Норвегии.</lex>
+      <lex lang="en" lid="Id3">Th United States Ambassador to Norway, William Anders, served as Chief of the Astronaut Office in 1976.</lex>
+      <lex lang="ru" lid="Id3">Посол Соединенных Штатов в Норвегии Уильям Андерс занимал должность начальника Управления астронавтов в 1976 году.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">1976 | sameAs | 1976_год</dbpedialink>
+        <dbpedialink direction="en2ru">William_Anders | sameAs | Андерс,_Уильям</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">United States Ambassador to Norway | sameAs | посол Соединенных Штатов в Норвегии</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders působil v roce 1976 jako šéf úřadu astronautů a měl titul velvyslance Spojených států v Norsku.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders sloužil jako vedoucí úřadu astronautů v roce 1976 a měl titul velvyslance Spojených států v Norsku.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders působil jako šéf astronautického úřadu v roce 1976 a získal titul velvyslance Spojených států v Norsku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Doba, kterou William Anders strávil jako šéf Astronautské kanceláře v roce 1976, ho dobře připravila na jeho novou pozici velvyslance Spojených států v Norsku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Čas Williama Anderse jako vedoucího úřadu astronautů v roce 1976 ho dobře připravil na jeho novou pozici velvyslance Spojených států v Norsku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders jako šéf astronautického úřadu v roce 1976 ho dobře připravil na novou pozici velvyslance Spojených států v Norsku.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Velvyslanec Spojených států v Norsku William Anders působil v roce 1976 jako šéf úřadu pro astronauty.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Velvyslanec Spojených států v Norsku, William Anders, sloužil jako vedoucí kanceláře astronautů v roce 1976.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Velvyslanec Spojených států v Norsku William Anders působil v roce 1976 jako šéf astronautického úřadu.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id5" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+        <otriple>Apollo_8 | crewMembers | Frank_Borman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+        <mtriple>Apollo_8 | crewMembers | Frank_Borman</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Both William Anders and Frank Borman were crew members aboard Apollo 8.</lex>
+      <lex lang="ru" lid="Id1">И Уильям Андерс, и Фрэнк Борман были членами экипажа на борту "Аполлона-8".</lex>
+      <lex lang="en" lid="Id2">Both William Anders and Frank Borman served as crew members on Apollo 8.</lex>
+      <lex lang="ru" lid="Id2">И Уильям Андерс, и Фрэнк Борман служили членами экипажа на Аполлоне-8.</lex>
+      <lex lang="en" lid="Id3">Among the crew of Apollo 8 were William Anders and Frank Borman.</lex>
+      <lex lang="ru" lid="Id3">Среди членов экипажа "Аполлона-8" были Уильям Андерс и Фрэнк Борман.</lex>
+      <lex lang="en" lid="Id4">Among the crew members of Apollo 8 were William Anders and Frank Borman.</lex>
+      <lex lang="ru" lid="Id4">Среди членов экипажа "Аполлона-8" были Уильям Андерс и Фрэнк Борман.</lex>
+      <lex lang="en" lid="Id5">William Anders and Frank Borman were Apollo 8 were crew members.</lex>
+      <lex lang="ru" lid="Id5">Уильям Андерс и Фрэнк Борман были членами экипажа "Аполлон-8".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Apollo_8 | sameAs | Аполлон-8</dbpedialink>
+        <dbpedialink direction="en2ru">Frank_Borman | sameAs | Борман,_Фрэнк</dbpedialink>
+        <dbpedialink direction="en2ru">William_Anders | sameAs | Андерс,_Уильям</dbpedialink>
+      </dbpedialinks>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders i Frank Borman byli členy posádky na palubě Apolla 8.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders i Frank Borman byli členy posádky na palubě Apolla 8.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders i Frank Borman byli členy posádky na palubě Apolla 8.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders i Frank Borman sloužili jako členové posádky Apolla 8.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders a Frank Borman sloužili jako členové posádky na Apollu 8.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders i Frank Borman sloužili jako členové posádky Apolla 8.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Mezi členy posádky Apolla 8 byli William Anders a Frank Borman.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Mezi posádkou Apolla 8 byli William Anders a Frank Borman.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Mezi posádkou Apolla 8 byli William Anders a Frank Borman.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Mezi členy posádky Apolla 8 byli William Anders a Frank Borman.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Mezi členy posádky Apolla 8 byli William Anders a Frank Borman.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Mezi členy posádky Apolla 8 byli William Anders a Frank Borman.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders i Frank Borman byli členy posádky Apolla 8.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders a Frank Borman byli členy posádky Apolla 8.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders a Frank Borman byli členy posádky Apolla 8.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>William_Anders | selection | 1963</otriple>
+        <otriple>William_Anders | birthDate | "1933-10-17"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+        <mtriple>William_Anders | birthDate | "1933-10-17"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Born on 17 October, 1933, William Anders joined NASA in 1963.</lex>
+      <lex lang="ru" lid="Id1">Родившийся 17 октября 1933 года, Уильям Андерс присоединился к НАСА в 1963 году.</lex>
+      <lex lang="en" lid="Id2">Born on October 17, 1933, William Anders was selected by NASA in 1963.</lex>
+      <lex lang="ru" lid="Id2">Родившийся 17 октября 1933 года Уильям Андерс был отобран НАСА в 1963 году.</lex>
+      <lex lang="en" lid="Id3">William Anders was born on October 17th, 1933 and joined NASA in 1963.</lex>
+      <lex lang="ru" lid="Id3">Уильям Андерс родился 17 октября 1933 года и присоединился к НАСА в 1963 году.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">1963 | sameAs | 1963_год</dbpedialink>
+        <dbpedialink direction="en2ru">William_Anders | sameAs | Андерс,_Уильям</dbpedialink>
+      </dbpedialinks>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders se narodil 17. října 1933 a do NASA nastoupil v roce 1963.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders se narodil 17. října 1933 a v roce 1963 nastoupil do NASA.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders, narozen 17. října 1933, nastoupil do NASA v roce 1963.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders se narodil 17. října 1933 a do NASA byl vybrán v roce 1963.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders se narodil 17. října 1933 a v roce 1963 byl vybrán NASA.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders, narozen 17. října 1933, byl vybrán NASA v roce 1963.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders se narodil 17. října 1933 a do NASA nastoupil v roce 1963.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders se narodil 17. října 1933 a do NASA nastoupil v roce 1963.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders se narodil 17. října 1933 a v roce 1963 nastoupil do NASA.</lex>
+    </entry>
+  </entries>
+</benchmark>

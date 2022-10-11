@@ -1,0 +1,767 @@
+<benchmark>
+  <entries>
+    <entry category="Airport" eid="Id1" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</otriple>
+        <otriple>Egg_Harbor_Township,_New_Jersey | subdivisionName | Atlantic_County,_New_Jersey</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</otriple>
+        <otriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</mtriple>
+        <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Atlantic City International Airport is in Egg Harbor Township which is part of Atlantic County, New Jersey.</lex>
+      <lex lang="ru" lid="Id1">Международный аэропорт Атлантик Сити находится в поселке Эгг Харбор, который является частью Атлантика.</lex>
+      <lex lang="en" lid="Id2">Atlantic City International Airport is located at Egg Harbour Township, which is located in Atlantic City, New Jersey, United States.</lex>
+      <lex lang="ru" lid="Id2">Международный аэропорт Атлантик Сити расположен в поселке Эгг-Харбор, расположенном в Атлантик Сити, Нью Джерси, Соединенные Штаты.</lex>
+      <lex lang="en" lid="Id3">Atlantic City International Airport is in Egg Harbor Township, NJ, which is part of Atlantic County.</lex>
+      <lex lang="ru" lid="Id3">Международный аэропорт Атлантик Сити расположен в поселке Эгг Харбор, Нью-Джерси, являющемся частью Атлантика.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Atlantic_County,_New_Jersey | sameAs | Атлантик_(округ,_Нью-Джерси)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Atlantic City International Airport | sameAs | Международный аэропорт Атлантик Сити</link>
+        <link direction="en2ru">Egg Harbor Township, New Jersey | includes | поселок Эгг Харбор</link>
+        <link direction="en2ru">Egg Harbor Township, New Jersey | includes | Нью-Джерси</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Mezinárodní letiště Atlantic City se nachází ve městě Egg Harbor Township, které je součástí okresu Atlantic County v New Jersey.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Mezinárodní letiště Atlantic City se nachází v Egg Harbor Township, který je součástí Atlantic County, New Jersey.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Mezinárodní letiště Atlantic City je v Egg Harbor Township, což je část okresu Atlantic v New Jersey.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Mezinárodní letiště Atlantic City se nachází v Egg Harbour Township, které leží v Atlantic City, New Jersey, Spojené státy americké.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Mezinárodní letiště Atlantic City se nachází v Egg Harbor Township, který se nachází v Atlantic City, New Jersey, Spojené státy americké.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Mezinárodní letiště Atlantic City se nachází v městečku Egg Harbour, které se nachází v Atlantic City v New Jersey ve Spojených státech.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Mezinárodní letiště Atlantic City se nachází v Egg Harbor Township ve státě New Jersey, který je součástí okresu Atlantic County.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Mezinárodní letiště Atlantic City se nachází v Egg Harbor Township, NJ, která je součástí Atlantic County.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Mezinárodní letiště Atlantic City je v městečku Egg Harbor, NJ, které je součástí okresu Atlantic.</lex>
+    </entry>
+    <entry category="Airport" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | operator | Port_Authority_of_New_York_and_New_Jersey</otriple>
+        <otriple>Atlantic_City_International_Airport | elevation | "22.86"^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City_International_Airport | operatingOrganisation | Port_Authority_of_New_York_and_New_Jersey</mtriple>
+        <mtriple>Atlantic_City_International_Airport | elevationAboveTheSeaLevel | 23.0</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Atlantic City International Airport is operated by the Port Authority of New York and New Jersey and is 23.0 metres above sea level.</lex>
+      <lex lang="ru" lid="Id1">Международный аэропорт Атлантик Сити эксплуатируется Портовым управлением Нью-Йорка и Нью-Джерси и находится на высоте 23,0 метра над уровнем моря.</lex>
+      <lex lang="en" lid="Id2">The Atlantic City International Airport is run by the Port Authority of New York and New Jersey and is 23 m above sea level.</lex>
+      <lex lang="ru" lid="Id2">Международный аэропорт Атлантик Сити управляется Портовым управлением Нью-Йорка и Нью-Джерси и находится на высоте 23 м над уровнем моря.</lex>
+      <lex lang="en" lid="Id3">Atlantic City International Airport is 23.0 metres above sea level and is operated by the Port Authority of New York.</lex>
+      <lex lang="ru" lid="Id3">Международный аэропорт Атлантик Сити расположен на высоте 23,0 м над уровнем моря и управляется портовым управлением Нью-Йорка.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Port_Authority_of_New_York_and_New_Jersey | sameAs | Портовое_управление_Нью-Йорка_и_Нью-Джерси</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Atlantic City International Airport | sameAs | Международный аэропорт Атлантик Сити</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Mezinárodní letiště Atlantic City je provozováno společností Port Authority of New York and New Jersey a leží v nadmořské výšce 23,0 metrů.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Mezinárodní letiště Atlantic City provozuje Port Authority of New York and New Jersey a leží 23,0 metrů nad mořem.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Letiště Atlantic City International Airport je provozováno přístavním úřadem v New Yorku a New Jersey a nachází se ve výšce 23,0 metrů nad mořem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Mezinárodní letiště Atlantic City provozuje Port Authority of New York and New Jersey a leží 23 m nad mořem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Mezinárodní letiště Atlantic City provozuje Port Authority of New York and New Jersey a leží v nadmořské výšce 23 m nad mořem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Mezinárodní letiště Atlantic City je provozováno přístavním úřadem v New Yorku a New Jersey a nachází se ve výšce 23 m nad mořem.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Mezinárodní letiště Atlantic City leží 23,0 m nad mořem a provozuje ho Port Authority of New York.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Mezinárodní letiště Atlantic City se nachází ve výšce 23 metrů nad mořem a provozuje jej Port Authority of New York.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Mezinárodní letiště Atlantic City leží ve výšce 23,0 metrů nad mořem a provozuje ho newyorský přístavní úřad.</lex>
+    </entry>
+    <entry category="Airport" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | operator | "Port Authority of New York and New Jersey &amp; SJTA"@en</otriple>
+        <otriple>Atlantic_City_International_Airport | runwayDesignation | "13/31"</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | operator | Port_Authority_of_New_York_and_New_Jersey</otriple>
+        <otriple>Atlantic_City_International_Airport | runwayDesignation | "13/31"</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City_International_Airport | operatingOrganisation | Port_Authority_of_New_York_and_New_Jersey</mtriple>
+        <mtriple>Atlantic_City_International_Airport | runwayName | "13/31"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">13/31 is the name of a runway at Atlantic City International Airport, operated by Port Authorities of New York and New Jersey.</lex>
+      <lex lang="ru" lid="Id1">13/31 - название взлетно-посадочной полосы в Международном аэропорту Атлантик Сити, эксплуатируемом Портовым управлением Нью-Йорка и Нью-Джерси.</lex>
+      <lex lang="en" lid="Id2">The Port Authority of New York and New Jersey is the operating organisation of Atlantic City International airport, which has the runway name of 13/31.</lex>
+      <lex lang="ru" lid="Id2">Портовое управление Нью-Йорка и Нью-Джерси - операционная организация международного аэропорта Атлантик Сити, которая имеет взлетно-посадочную полосу 13 / 31.</lex>
+      <lex lang="en" lid="Id3">Atlantic City International Airport, operated by the Port Authority of New York and New Jersey, has a runway named "13/31".</lex>
+      <lex lang="ru" lid="Id3">Международный аэропорт Атлантик Сити, эксплуатируемый портовым управлением Нью-Йорка и Нью-Джерси, имеет взлетно-посадочную полосу под названием "13/31".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Port_Authority_of_New_York_and_New_Jersey | sameAs | Портовое_управление_Нью-Йорка_и_Нью-Джерси</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Atlantic City International Airport | sameAs | Международный аэропорт Атлантик Сити</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">13/31 je název vzletové a přistávací dráhy na mezinárodním letišti Atlantic City, které provozuje Port Authorities of New York and New Jersey.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">13/31 je název dráhy na mezinárodním letišti Atlantic City, provozovaném přístavními úřady v New Yorku a New Jersey.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">13/31 je název vzletové a přistávací dráhy mezinárodního letiště Atlantic City provozovaného přístavními úřady v New Yorku a New Jersey.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Přístavní úřad New York a New Jersey je provozní organizací mezinárodního letiště Atlantic City, které má název dráhy 13/31.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Port Authority of New York and New Jersey je provozní organizací mezinárodního letiště Atlantic City International, které má název dráhy 13/31.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Správa přístavů v New Yorku a New Jersey je provozní organizací mezinárodního letiště Atlantic City, které má název dráhy 13/31.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Mezinárodní letiště Atlantic City, které provozuje Přístavní úřad New York a New Jersey, má dráhu s názvem "13/31".</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Atlantic City International Airport, provozované Port Authority of New York a New Jersey, má přistávací dráhu pojmenovanou „13/31“.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Mezinárodní letiště Atlantic City, provozované přístavním úřadem v New Yorku a New Jersey, má přistávací dráhu s názvem "13/31".</lex>
+    </entry>
+    <entry category="Airport" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | operator | Port_Authority_of_New_York_and_New_Jersey</otriple>
+        <otriple>Port_Authority_of_New_York_and_New_Jersey | headquarter | Four_World_Trade_Center</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City_International_Airport | operatingOrganisation | Port_Authority_of_New_York_and_New_Jersey</mtriple>
+        <mtriple>Port_Authority_of_New_York_and_New_Jersey | headquarter | Four_World_Trade_Center</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey, which has its headquarters at the Four World Trade Centre.</lex>
+      <lex lang="ru" lid="Id1">Международный аэропорт Атлантик Сити эксплуатируется портовым управлением Нью-Йорка и Нью-Джерси, который имеет свою штаб-квартиру в четырех мировых торговых центрах.</lex>
+      <lex lang="en" lid="Id2">The Port Authority of New York and New Jersey is based at the Four World Trade Centre and operates Atlantic City international airport.</lex>
+      <lex lang="ru" lid="Id2">Портовое управление Нью-Йорка и Нью-Джерси базируется в Международном торговом центре и управляет международным аэропортом Атлантик Сити.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Port_Authority_of_New_York_and_New_Jersey | sameAs | Портовое_управление_Нью-Йорка_и_Нью-Джерси</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Atlantic City International Airport | sameAs | Международный аэропорт Атлантик Сити</link>
+        <link direction="en2ru">Four World Trade Center | sameAs | Международный торговый центр</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Provozovatelem mezinárodního letiště Atlantic City je přístavní úřad New York and New Jersey, který sídlí v budově Four World Trade Centre.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Mezinárodní letiště Atlantic City provozuje Port Authority of New York and New Jersey, která má své sídlo ve Four World Trade Centre.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Mezinárodní letiště Atlantic City provozuje Správa přístavů v New Yorku a New Jersey, která má sídlo ve Čtyřech Světových obchodních centrech.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Mezinárodní letiště Atlantic City provozuje Přístavní úřad New Yorku a New Jersey se sídlem ve Four World Trade Centre.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Port Authority of New York and New Jersey sídlí ve Four World Trade Center a provozuje mezinárodní letiště Atlantic City.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Správa přístavů v New Yorku a New Jersey sídlí v obchodním centru Four World Trade Centre a provozuje mezinárodní letiště Atlantic City.</lex>
+    </entry>
+    <entry category="Airport" eid="Id5" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | operator | Port_Authority_of_New_York_and_New_Jersey</otriple>
+        <otriple>Port_Authority_of_New_York_and_New_Jersey | headquarter | New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City_International_Airport | operatingOrganisation | Port_Authority_of_New_York_and_New_Jersey</mtriple>
+        <mtriple>Port_Authority_of_New_York_and_New_Jersey | headquarter | New_York</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey, based in New York.</lex>
+      <lex lang="ru" lid="Id1">Международный аэропорт Атлантик Сити эксплуатируется портовым управлением Нью-Йорка и Нью-Джерси, базирующимся в Нью-Йорке.</lex>
+      <lex lang="en" lid="Id2">The Port Authority of New York and New Jersey, headquartered in New York, is the operating organisation of Atlantic City International airport.</lex>
+      <lex lang="ru" lid="Id2">Портовое управление Нью-Йорка и Нью-Джерси, штаб-квартира которого находится в Нью-Йорке, является операционной организацией международного аэропорта Атлантик Сити.</lex>
+      <lex lang="en" lid="Id3">The Port Authority of New York and New Jersey is the operating organisation of Atlantic City International airport with its headquarters in New York.</lex>
+      <lex lang="ru" lid="Id3">Портовое управление Нью-Йорка и Нью-Джерси - операционная организация международного аэропорта Атлантик Сити со своей штаб-квартирой в Нью-Йорке.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">New_York | sameAs | Нью-Йорк_(штат)</dbpedialink>
+        <dbpedialink direction="en2ru">Port_Authority_of_New_York_and_New_Jersey | sameAs | Портовое_управление_Нью-Йорка_и_Нью-Джерси</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Atlantic City International Airport | sameAs | Международный аэропорт Атлантик Сити</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Mezinárodní letiště Atlantic City provozuje Přístavní úřad New Yorku a New Jersey se sídlem v New Yorku.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Mezinárodní letiště Atlantic City provozuje Port Authority of New York and New Jersey se sídlem v New Yorku.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Mezinárodní letiště Atlantic City provozuje Správa přístavů New York a New Jersey se sídlem v New Yorku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Přístavní úřad New Yorku a New Jersey se sídlem v New Yorku je provozní organizací mezinárodního letiště Atlantic City.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Port Authority of New York and New Jersey, se sídlem v New Yorku, je provozní organizací mezinárodního letiště Atlantic City.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Správa přístavů v New Yorku a New Jersey se sídlem v New Yorku je provozní organizací mezinárodního letiště Atlantic City.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Přístavní úřad New Yorku a New Jersey je provozní organizací mezinárodního letiště Atlantic City se sídlem v New Yorku.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Port Authority of New York and New Jersey je provozní organizací mezinárodního letiště Atlantic City se sídlem v New Yorku.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Správa přístavů v New Yorku a New Jersey je provozní organizací mezinárodního letiště Atlantic City se sídlem v New Yorku.</lex>
+    </entry>
+    <entry category="Airport" eid="Id6" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | owner | South_Jersey_Transportation_Authority</otriple>
+        <otriple>South_Jersey_Transportation_Authority | chief1Name | Stephen_Dilts</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City_International_Airport | owner | South_Jersey_Transportation_Authority</mtriple>
+        <mtriple>South_Jersey_Transportation_Authority | chief | Stephen_Dilts</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Atlantic City International Airport is owned by South Jersey Transportation Authority whose chief is Stephen Dilts.</lex>
+      <lex lang="ru" lid="Id1">Международный аэропорт Атлантик Сити находится в собственности Транспортного управления Саус Джерси, чей руководитель - Стивен Дилтс.</lex>
+      <lex lang="en" lid="Id2">Atlantic City International Airport owned by South Jersey Transportation Authority who's chief is Stephen Dilts.</lex>
+      <lex lang="ru" lid="Id2">Международный аэропорт Атлантик Сити находится в собственности Транспортного управления Саус Джерси, руководитель которого - Стивен Дилтс.</lex>
+      <links>
+        <link direction="en2ru">Stephen Dilts | sameAs | Стивен Дилтс</link>
+        <link direction="en2ru">South Jersey Transportation Authority | sameAs | Транспортное управление Саус Джерси</link>
+        <link direction="en2ru">Atlantic City International Airport | sameAs | Международный аэропорт Атлантик Сити</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Mezinárodní letiště Atlantic City vlastní dopravní úřad South Jersey Transportation Authority, jehož šéfem je Stephen Dilts.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Atlantic City International Airport je ve vlastnictví South Jersey Transportation Authority, jehož šéfem je Stephen Dilts.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Mezinárodní letiště Atlantic City vlastní South Jersey Transportation Authority, jehož šéfem je Stephen Dilts.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Mezinárodní letiště Atlantic City vlastní South Jersey Transportation Authority, jehož šéfem je Stephen Dilts.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Mezinárodní letiště Atlantic City vlastněné dopravním úřadem South Jersey, jehož šéfem je Stephen Dilts.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Mezinárodní letiště Atlantic City, které vlastní Jihojerseyský dopravní úřad a jehož šéfem je Stephen Dilts.</lex>
+    </entry>
+    <entry category="Airport" eid="Id7" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | owner | South_Jersey_Transportation_Authority</otriple>
+        <otriple>South_Jersey_Transportation_Authority | leader | Stephen_Dilts</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City_International_Airport | owner | South_Jersey_Transportation_Authority</mtriple>
+        <mtriple>South_Jersey_Transportation_Authority | leader | Stephen_Dilts</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Atlantic City International Airport is owned by the South Jersey Transportation Authority whose leader is Stephen Dilts.</lex>
+      <lex lang="ru" lid="Id1">Международный аэропорт Атлантик Сити принадлежит транспортному управлению Саус Джерси, лидером которого является Стивен Дилтс.</lex>
+      <lex lang="en" lid="Id2">Atlantic City International Airport owner is South Jersey Transportation Authority headed by Stephen Dilts .</lex>
+      <lex lang="ru" lid="Id2">Владельцем Международного аэропорта Атлантик Сити является Транспортное управление Саус Джерси, возглавляемое Стивеном Дилтсом.</lex>
+      <lex lang="en" lid="Id3">Atlantic City International Airport is owned by the South Jersey Transportation Authority which is headed by Stephen Dilts.</lex>
+      <lex lang="ru" lid="Id3">Международный аэропорт Атлантик Сити принадлежит Транспортному управлению Саус Джерси, которое возглавляется Стивеном Дилтсом.</lex>
+      <links>
+        <link direction="en2ru">Stephen Dilts | sameAs | Стивен Дилтс</link>
+        <link direction="en2ru">South Jersey Transportation Authority | sameAs | Транспортное управление Саус Джерси</link>
+        <link direction="en2ru">Atlantic City International Airport | sameAs | Международный аэропорт Атлантик Сити</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Mezinárodní letiště Atlantic City vlastní dopravní úřad South Jersey Transportation Authority, jehož vedoucím je Stephen Dilts.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Atlantic City International Airport je ve vlastnictví South Jersey Transportation Authority, jehož vůdcem je Stephen Dilts.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Mezinárodní letiště Atlantic City vlastní dopravní úřad v Jižním Jersey, jehož vůdcem je Stephen Dilts.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Vlastníkem mezinárodního letiště Atlantic City je dopravní úřad South Jersey Transportation Authority, v jehož čele stojí Stephen Dilts .</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Vlastníkem mezinárodního letiště Atlantic City je dopravní úřad South Jersey v čele se Stephenem Diltsem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Vlastníkem mezinárodního letiště Atlantic City je dopravní úřad v Jižním Jersey, který vede Stephen Dilts .</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Majitelem mezinárodního letiště Atlantic City je dopravní úřad South Jersey, v jehož čele stojí Stephen Dilts .</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Atlantic City International Airport je ve vlastnictví South Jersey Transportation Authority, který vede Stephen Dilts.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Letiště Atlantic City International Airport vlastní dopravní úřad v Jižním Jersey, který vede Stephen Dilts.</lex>
+    </entry>
+    <entry category="Airport" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | runwayLength | "1873.0"^^xsd:double</otriple>
+        <otriple>Atlantic_City_International_Airport | operator | "Port Authority of New York and New Jersey &amp; SJTA"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | runwayLength | "1873.0"^^xsd:double</otriple>
+        <otriple>Atlantic_City_International_Airport | operator | Port_Authority_of_New_York_and_New_Jersey</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | runwayLength | "1872.69"^^xsd:double</otriple>
+        <otriple>Atlantic_City_International_Airport | operator | "Port Authority of New York and New Jersey &amp; SJTA"@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | runwayLength | "1872.69"^^xsd:double</otriple>
+        <otriple>Atlantic_City_International_Airport | operator | Port_Authority_of_New_York_and_New_Jersey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City_International_Airport | runwayLength | 1873.0</mtriple>
+        <mtriple>Atlantic_City_International_Airport | operatingOrganisation | Port_Authority_of_New_York_and_New_Jersey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey, its runway length is 1,873.</lex>
+      <lex lang="ru" lid="Id1">Международный аэропорт Атлантик Сити эксплуатируется Портовым управлением Нью-Йорка и Нью-Джерси, длина его взлетно-посадочной полосы составляет 1,873 м.</lex>
+      <lex lang="en" lid="Id2">The Port Authority of New York and New Jersey is the operating organisation of Atlantic City International airport, where the runway length is 1873.</lex>
+      <lex lang="ru" lid="Id2">Портовое управление Нью-Йорка и Нью-Джерси - управляющая организация Международного аэропорта Атлантик Сити, где длина взлетно-посадочной полосы составляет 1873 м.</lex>
+      <lex lang="en" lid="Id3">Atlantic City International Airport, run by the port authorities of New York and New jersey, ha a runway length of 1,873.</lex>
+      <lex lang="ru" lid="Id3">Международный аэропорт Атлантик Сити, управляемый Портовым управлением Нью-Йорка и Нью-Джерси, имеет взлетно-посадочную полосу длиной 1873 м.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Port_Authority_of_New_York_and_New_Jersey | sameAs | Портовое_управление_Нью-Йорка_и_Нью-Джерси</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Atlantic City International Airport | sameAs | Международный аэропорт Атлантик Сити</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Provozovatelem mezinárodního letiště Atlantic City je Port Authority of New York and New Jersey, délka jeho vzletové a přistávací dráhy je 1 873 .</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Mezinárodní letiště Atlantic City provozuje Port Authority of New York and New Jersey, jeho délka dráhy je 1873.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Letiště Atlantic City International Airport provozuje přístavní úřad v New Yorku a New Jersey, jeho délka dráhy je 1 873.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Provozní organizací mezinárodního letiště Atlantic City je Port Authority of New York and New Jersey, délka vzletové a přistávací dráhy je 1873.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Port Authority of New York and New Jersey je provozní organizací mezinárodního letiště Atlantic City, kde je délka dráhy 1873.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Správa přístavů v New Yorku a New Jersey je provozní organizací mezinárodního letiště Atlantic City, kde je délka dráhy 1873.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Mezinárodní letiště Atlantic City, které provozují přístavní orgány New Yorku a New Jersey, ha délku vzletové a přistávací dráhy 1873.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Mezinárodní letiště Atlantic City, provozované přístavními orgány New Yorku a New Jersey, má délku dráhy 1 873.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Mezinárodní letiště Atlantic City, které spravují přístavní orgány New Yorku a New Jersey, má délku dráhy 1 873.</lex>
+    </entry>
+    <entry category="Airport" eid="Id9" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>ENAIRE | locationCity | Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | operator | ENAIRE</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ENAIRE | city | Madrid</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">ENAIRE is the operating organisation for Adolfo Suarez Madrid-Barajas airport in Madrid.</lex>
+      <lex lang="ru" lid="Id1">ENAIRE - организация, управляющая аэропортом Барахас в Мадриде.</lex>
+      <lex lang="en" lid="Id2">Adolfo Suarez Madrid-Barajas Airport is operated by ENAIRE, Madrid.</lex>
+      <lex lang="ru" lid="Id2">Барахас эксплуатируется компанией «ENAIRE», Мадрид.</lex>
+      <lex lang="en" lid="Id3">The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE in Madrid.</lex>
+      <lex lang="ru" lid="Id3">Аэропорт Барахас эксплуатируется ENAIRE в Мадриде.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Madrid | sameAs | Мадрид</dbpedialink>
+        <dbpedialink direction="en2ru">Adolfo_Suárez_Madrid–Barajas_Airport | sameAs | Барахас</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">ENAIRE | sameAs | ENAIRE</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">ENAIRE je provozní organizací letiště Adolfo Suarez Madrid-Barajas v Madridu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">ENAIRE je provozní organizací pro letiště Adolfa Suareze Madrid-Barajas v Madridu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">ENAIRE je provozní organizací letiště Adolfo Suarez Madrid-Barajas v Madridu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Provozovatelem letiště Adolfo Suarez Madrid-Barajas je společnost ENAIRE, Madrid.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Letiště Adolfa Suareze Madrid-Barajas provozuje společnost ENAIRE, Madrid.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Letiště Adolfo Suarez Madrid-Barajas provozuje společnost ENAIRE v Madridu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Letiště Adolfa Suáreze Madrid-Barajas provozuje společnost ENAIRE v Madridu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Letiště Adolfa Suáreze Madrid–Barajas provozuje společnost ENAIRE v Madridu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Letiště Adolfo Suárez Madrid–Barajas provozuje společnost ENAIRE v Madridu.</lex>
+    </entry>
+    <entry category="Airport" eid="Id10" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey</otriple>
+        <otriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey</mtriple>
+        <mtriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Atlantic City International Airport can be found in New Jersey in Egg Harbor Township.</lex>
+      <lex lang="ru" lid="Id1">Международный аэропорт Атлантик Сити можно найти в Нью-Джерси в поселке Эгг Харбор.</lex>
+      <lex lang="en" lid="Id2">Atlantic City International Airport is located in Egg Harbor Township, in New Jersey.</lex>
+      <lex lang="ru" lid="Id2">Международный аэропорт Атлантик Сити расположен в поселке Эгг Харбор, штат Нью-Джерси.</lex>
+      <lex lang="en" lid="Id3">Atlantic City International Airport is located in Egg Harbor Township in New Jersey.</lex>
+      <lex lang="ru" lid="Id3">Международный аэропорт Атлантик Сити расположен в поселке Эгг Харбор в Нью-Джерси.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">New_Jersey | sameAs | Нью-Джерси</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Atlantic City International Airport | sameAs | Международный аэропорт Атлантик Сити</link>
+        <link direction="en2ru">Egg Harbor Township, New Jersey | includes | поселок Эгг Харбор</link>
+        <link direction="en2ru">Egg Harbor Township, New Jersey | includes | Нью-Джерси</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Mezinárodní letiště Atlantic City najdete v New Jersey v Egg Harbor Township.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Mezinárodní letiště Atlantic City najdete v New Jersey v Egg Harbor Township.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Mezinárodní letiště Atlantic City najdete v New Jersey v Egg Harbor Township.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Mezinárodní letiště Atlantic City se nachází v Egg Harbor Township v New Jersey.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Mezinárodní letiště Atlantic City se nachází v Egg Harbor Township v New Jersey.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Mezinárodní letiště Atlantic City se nachází v Egg Harbor Township v New Jersey.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Mezinárodní letiště Atlantic City se nachází v Egg Harbor Township v New Jersey.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Mezinárodní letiště Atlantic City se nachází v Egg Harbor Township v New Jersey.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Mezinárodní letiště Atlantic City se nachází v Egg Harbor Township v New Jersey.</lex>
+    </entry>
+    <entry category="Airport" eid="Id11" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Flemish_Government | jurisdiction | Flemish_Region</otriple>
+        <otriple>Antwerp_International_Airport | operator | Flemish_Government</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Flemish_Government | jurisdiction | Flemish_Region</mtriple>
+        <mtriple>Antwerp_International_Airport | operatingOrganisation | Flemish_Government</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Antwerp international airport is operated by the Flemish government which has full jurisdiction.</lex>
+      <lex lang="ru" lid="Id1">Антверпен управляется фламандским правительством, обладающим полной юрисдикцией.</lex>
+      <lex lang="en" lid="Id2">Antwerp International Airport is operated by the Flemish government, which has jurisdiction over the Flemish Region.</lex>
+      <lex lang="ru" lid="Id2">Антверпен управляется фламандским правительством, которое обладает юрисдикцией в отношении Фламандского региона.</lex>
+      <lex lang="en" lid="Id3">The operating organisation of Antwerp International airport is the Flemish government who have jurisdiction of the Flemish Region.</lex>
+      <lex lang="ru" lid="Id3">Управляющая организация Антверпена является фламандским правительством, обладающим юрисдикцией Фламандского региона.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Flemish_Region | sameAs | Фламандский_регион</dbpedialink>
+        <dbpedialink direction="en2ru">Antwerp_International_Airport | sameAs | Антверпен_(аэропорт)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Flemish Government | sameAs | фламандское правительство</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Mezinárodní letiště Antverpy provozuje vlámská vláda, která má plnou jurisdikci.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Antverpské mezinárodní letiště provozuje vlámská vláda, která má plnou jurisdikci.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Mezinárodní letiště v Antverpách provozuje vlámská vláda, která má plnou jurisdikci.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Antverpské mezinárodní letiště provozuje vlámská vláda, která má pravomoc nad Vlámskem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Antverpské mezinárodní letiště provozuje vlámská vláda, která spadá do jurisdikce vlámského regionu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Mezinárodní letiště v Antverpách provozuje vlámská vláda, která má jurisdikci nad vlámským regionem.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Provozní organizací mezinárodního letiště Antverpy je vlámská vláda, která má jurisdikci pro vlámský region.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Provozovatelem mezinárodního letiště v Antverpách je vlámská vláda, která spadá do jurisdikce Vlámského regionu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Provozní organizací letiště Antverpy International je vlámská vláda, která spadá do pravomoci vlámského regionu.</lex>
+    </entry>
+    <entry category="Airport" eid="Id12" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Indian_Air_Force | aircraftHelicopter | HAL_Light_Combat_Helicopter</otriple>
+        <otriple>Agra_Airport | operator | Indian_Air_Force</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Indian_Air_Force | aircraftHelicopter | HAL_Light_Combat_Helicopter</mtriple>
+        <mtriple>Agra_Airport | operatingOrganisation | Indian_Air_Force</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">India's Air Force has a helicopter known as the HAL Light Combat Helicopter and also operates Agra Airport.</lex>
+      <lex lang="ru" lid="Id1">У Военно-воздушных сил Индии есть вертолет, известный как HAL LCH, и они также используют аэропорт Агра.</lex>
+      <lex lang="en" lid="Id2">The HAL Light Combat Helicopter is a Helicopter used by the Indian Air Force who operates the Agra Airport.</lex>
+      <lex lang="ru" lid="Id2">HAL LCH - это вертолет, используемая индийскими ВВС, которые эксплуатируют аэропорт "Агра".</lex>
+      <lex lang="en" lid="Id3">The operating organization for Agra Airport is the Indian Air Force who use the HAL Light Combat Helicopter.</lex>
+      <lex lang="ru" lid="Id3">Управляющей организацией аэропорта Агра являются Военно-воздушные силы Индии, использующие HAL LCH.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Indian_Air_Force | sameAs | Военно-воздушные_силы_Индии</dbpedialink>
+        <dbpedialink direction="en2ru">HAL_Light_Combat_Helicopter | sameAs | HAL_LCH</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Agra Airport | sameAs | аэропорт Агра</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Indické letectvo má vrtulník známý jako lehký bojový vrtulník HAL a provozuje také letiště Agra.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Indické letectvo má vrtulník známý jako HAL Light Combat Helicopter a také provozuje letiště Agra.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Indické letectvo má vrtulník známý jako HAL Light Combat Helicopter a provozuje také letiště Agra.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Lehký bojový vrtulník HAL je vrtulník používaný indickým letectvem, které provozuje letiště Agra.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">HAL Light Combat Helicopter je vrtulník používaný indickým letectvem, které provozuje letiště Agra.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">HAL Light Combat Helicopter je vrtulník používaný indickým letectvem, které provozuje letiště Agra.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Provozní organizací letiště Agra je indické letectvo, které používá lehký bojový vrtulník HAL.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Provozní organizací pro letiště Agra je indické letectvo, které používá lehký bojový vrtulník HAL.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Provozní organizací letiště Agra je indické letectvo, které používá lehký bojový vrtulník HAL.</lex>
+    </entry>
+    <entry category="Airport" eid="Id13" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Lahore | country | Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | cityServed | Lahore</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Allama_Iqbal_International_Airport | city | Lahore</otriple>
+        <otriple>Lahore | country | Pakistan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Lahore | country | Pakistan</mtriple>
+        <mtriple>Allama_Iqbal_International_Airport | cityServed | Lahore</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Allama Iqbal International airport serves the city of Lahore in Pakistan.</lex>
+      <lex lang="ru" lid="Id1">Лахор обслуживает город Лахор в Пакистане.</lex>
+      <lex lang="en" lid="Id2">The city of Lahore in Pakistan is served by Allama Iqbal International airport.</lex>
+      <lex lang="ru" lid="Id2">Город Лахор в Пакистане обслуживается международным аэропортом Лахор.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Lahore | sameAs | Лахор</dbpedialink>
+        <dbpedialink direction="en2ru">Pakistan | sameAs | Пакистан</dbpedialink>
+        <dbpedialink direction="en2ru">Allama_Iqbal_International_Airport | sameAs | Лахор_(аэропорт)</dbpedialink>
+      </dbpedialinks>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Mezinárodní letiště Allama Iqbal slouží městu Láhaur v Pákistánu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Mezinárodní letiště Allama Iqbal obsluhuje město Lahore v Pákistánu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Mezinárodní letiště Allama Iqbal obsluhuje město Lahore v Pákistánu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Město Láhaur v Pákistánu obsluhuje mezinárodní letiště Allama Iqbal.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Město Lahore v Pákistánu je obsluhováno mezinárodním letištěm Allama Iqbal.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Město Láhaur v Pákistánu obsluhuje mezinárodní letiště Allama Iqbal.</lex>
+    </entry>
+    <entry category="Airport" eid="Id14" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Lake_Placid,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Lake_Placid,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Lake_Placid,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Lake_Placid,_New_York | isPartOf | Essex_County,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adirondack Regional Airport serves the city of Lake Placid, New York which is part of Essex County, New York.</lex>
+      <lex lang="ru" lid="Id1">Региональный аэропорт Адирондак обслуживает город Лейк-Плэсид, штат Нью-Йорк, который является частью округа Эссекс, Нью-Йорк.</lex>
+      <lex lang="en" lid="Id2">Lake Placid, New York is part of Essex County, NY and it is served by the Adirondack Regional Airport.</lex>
+      <lex lang="ru" lid="Id2">Лейк-Плэсид является частью графства Эссекс, штат Нью-Йорк, и обслуживается Региональным аэропортом Адирондак.</lex>
+      <lex lang="en" lid="Id3">Lake Placid, is part of Essex County, New York and is served by the Adirondack Regional Airport.</lex>
+      <lex lang="ru" lid="Id3">Лейк-Плэсид является частью округа Эссекс, Нью-Йорк, и обслуживается Региональным аэропортом Адирондак.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Essex_County,_New_York | sameAs | Эссекс_(округ,_Нью-Йорк)</dbpedialink>
+        <dbpedialink direction="en2ru">Lake_Placid,_New_York | sameAs | Лейк-Плэсид</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adirondack Regional Airport | sameAs | Региональный аэропорт Адирондак</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Adirondack Regional Airport slouží městu Lake Placid ve státě New York, které je součástí okresu Essex ve státě New York.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Adirondack Regional Airport obsluhuje město Lake Placid, New York, které je součástí Essex County, New York.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Regionální letiště Adirondack slouží městu Lake Placid ve státě New York, které je součástí okresu Essex ve státě New York.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Město Lake Placid ve státě New York je součástí okresu Essex ve státě New York a obsluhuje ho regionální letiště Adirondack.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Lake Placid, New York je součástí Essex County, NY a obsluhuje ho regionální letiště Adirondack.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Lake Placid v New Yorku je součástí okresu Essex v New Yorku a obsluhuje ho regionální letiště Adirondack.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Lake Placid je součástí okresu Essex ve státě New York a obsluhuje ho regionální letiště Adirondack.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Lake Placid, je součástí Essex County, New York a obsluhuje ho regionální letiště Adirondack.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Lake Placid, je součástí okresu Essex v New Yorku a obsluhuje ho regionální letiště Adirondack.</lex>
+    </entry>
+    <entry category="Airport" eid="Id15" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Lake_Placid,_New_York | isPartOf | New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Lake_Placid,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Lake_Placid,_New_York | isPartOf | New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Lake_Placid,_New_York | isPartOf | New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Lake Placid, New York is part of New York and is served by the Adirondack Regional Airport.</lex>
+      <lex lang="ru" lid="Id1">Лейк-Плэсид является частью Нью-Йорка и обслуживается Региональным аэропортом Адирондак.</lex>
+      <lex lang="en" lid="Id2">Adirondack Regional Airport serves the city of Lake Placid which is in and is a part of New York.</lex>
+      <lex lang="ru" lid="Id2">Региональный аэропорт Адирондак обслуживает город Лейк-Плэсид, который находится в Нью-Йорке и является его частью.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">New_York | sameAs | Нью-Йорк_(штат)</dbpedialink>
+        <dbpedialink direction="en2ru">Lake_Placid,_New_York | sameAs | Лейк-Плэсид</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adirondack Regional Airport | sameAs | Региональный аэропорт Адирондак</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Lake Placid, New York, je součástí okresu New York a obsluhuje ho Adirondack Regional Airport.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Lake Placid, New York je součástí New Yorku a obsluhuje ho regionální letiště Adirondack.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Lake Placid v New Yorku je součástí New Yorku a obsluhuje ho regionální letiště Adirondack.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Adirondack Regional Airport obsluhuje město Lake Placid, které leží v a je součástí státu New York.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Regionální letiště Adirondack obsluhuje město Lake Placid, které je součástí New Yorku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Regionální letiště Adirondack slouží městu Lake Placid, které je součástí New Yorku.</lex>
+    </entry>
+    <entry category="Airport" eid="Id16" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Madrid | isPartOf | Community_of_Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Madrid | isPartOf | Community_of_Madrid</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adolfo Suarez Madrid-Barajas Airport is located in Madrid, which is part of the community of Madrid.</lex>
+      <lex lang="ru" lid="Id1">Барахас находится в Мадриде, который входит в состав автономного сообщества Мадрид.</lex>
+      <lex lang="en" lid="Id2">The Adolfo Suárez Madrid–Barajas Airport is in Madrid, which is part of the community known by the same name.</lex>
+      <lex lang="ru" lid="Id2">Барахас находится в Мадриде, который является частью общины, известной под тем же названием.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Madrid | sameAs | Мадрид</dbpedialink>
+        <dbpedialink direction="en2ru">Adolfo_Suárez_Madrid–Barajas_Airport | sameAs | Барахас</dbpedialink>
+        <dbpedialink direction="en2ru">Community_of_Madrid | sameAs | Мадрид_(автономное_сообщество)</dbpedialink>
+      </dbpedialinks>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Letiště Adolfo Suarez Madrid-Barajas se nachází ve městě Madrid, které je součástí obce Madrid.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Letiště Adolfa Suareze Madrid-Barajas se nachází v Madridu, který je součástí komunity Madrid.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Letiště Adolfo Suarez Madrid-Barajas se nachází v Madridu, který je součástí madridské komunity.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Letiště Adolfa Suáreze Madrid-Barajas se nachází v Madridu, který je součástí stejnojmenné obce.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Letiště Adolfa Suáreze Madrid–Barajas se nachází v Madridu, který je součástí stejnojmenné komunity.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Letiště Adolfo Suárez Madrid-Barajas je v Madridu, který je součástí komunity známé pod stejným jménem.</lex>
+    </entry>
+    <entry category="Airport" eid="Id17" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Maple_Ridge_Township,_Alpena_County,_Michigan | subdivisionName | United_States</otriple>
+        <otriple>Alpena_County_Regional_Airport | location | Maple_Ridge_Township,_Alpena_County,_Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Maple_Ridge_Township,_Alpena_County,_Michigan | isPartOf | United_States</mtriple>
+        <mtriple>Alpena_County_Regional_Airport | location | Maple_Ridge_Township,_Alpena_County,_Michigan</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Maple Ridge Township, Alpena County, Michigan is in the United States. The Alpena County Regional Airport is located there.</lex>
+      <lex lang="ru" lid="Id1">Поселок Мэйпл Ридж, округ Алпина, Мичиган находится в Соединённых Штатах Америки. Здесь находится региональный аэропорт "Алпина".</lex>
+      <lex lang="en" lid="Id2">Alpena County Regional Airport is located in the United States in the Maple Ridge Township, Alpena County, Michigan.</lex>
+      <lex lang="ru" lid="Id2">Региональный аэропорт округа Алпины расположен в Соединенных Штатах в поселке Мэйпл Ридж, округ Алпина, Мичиган.</lex>
+      <lex lang="en" lid="Id3">Alpena County Regional Airport is located in Maple Ridge Township, Alpena County, Michigan, USA.</lex>
+      <lex lang="ru" lid="Id3">Региональный аэропорт округа Алпины расположен в поселке Мэйпл Ридж, округ Алпина, Мичиган, США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Alpena County Regional Airport | sameAs | Региональный аэропорт округа Алпины</link>
+        <link direction="en2ru">Maple Ridge Township, Alpena County, Michigan | includes | Алпина</link>
+        <link direction="en2ru">Maple Ridge Township, Alpena County, Michigan | includes | поселок Мэйпл Ридж</link>
+        <link direction="en2ru">Maple Ridge Township, Alpena County, Michigan | includes | Мичиган</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Maple Ridge Township, okres Alpena, Michigan se nachází ve Spojených státech amerických. Nachází se zde regionální letiště Alpena County.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Maple Ridge Township, Alpena County, Michigan je ve Spojených státech. Nachází se tam regionální letiště Alpena County Regional Airport.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Město Maple Ridge, okres Alpena, Michigan je ve Spojených státech. Nachází se zde regionální letiště Alpena County.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Regionální letiště Alpena County se nachází ve Spojených státech v obci Maple Ridge Township, okres Alpena, Michigan.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Regionální letiště Alpena County se nachází ve Spojených státech amerických v Maple Ridge Township, Alpena County, Michigan.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Alpena County Regional Airport se nachází ve Spojených státech v Maple Ridge Township, Alpena County, Michigan.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Regionální letiště Alpena County se nachází ve městě Maple Ridge Township, okres Alpena, Michigan, Spojené státy americké.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Regionální letiště Alpena County se nachází v Maple Ridge Township, Alpena County, Michigan, USA.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Alpena County Regional Airport se nachází v Maple Ridge Township, Alpena County, Michigan, USA.</lex>
+    </entry>
+    <entry category="Airport" eid="Id18" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+        <otriple>Ardmore_Airport_(New_Zealand) | r2Surface | Poaceae</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poaceae | class | Monocotyledon</mtriple>
+        <mtriple>Ardmore_Airport_(New_Zealand) | 2ndRunwaySurfaceType | Poaceae</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 2nd runway at Ardmore Airport (New Zealand) is made of Poaceae, which is classed as a Monocotyledon.</lex>
+      <lex lang="ru" lid="Id1">2-я взлетно-посадочная полоса в Аэропорту Ардмор (Новая Зеландия) сделана из Злаков, относящихся к классу Однодольных.</lex>
+      <lex lang="en" lid="Id2">Poaceae, of the class Monocotyledon, is the surface type of the second runway at Ardmore Airport, New Zealand.</lex>
+      <lex lang="ru" lid="Id2">Покрытие второй взлетно-посадочной полосы в Аэропорту Ардмор, Новая Зеландия - Злаки из класса Однодольные.</lex>
+      <lex lang="en" lid="Id3">Poaceae is in the class Monocotyledon and is used as the surface of the second runway of Ardmore Airport, New Zealand.</lex>
+      <lex lang="ru" lid="Id3">Злаки входят в класса Однодольных и используются в качестве покрытия второй взлетно-посадочной полосы Аэропорта Ардмор, Новая Зеландия.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Poaceae | sameAs | Злаки</dbpedialink>
+        <dbpedialink direction="en2ru">Monocotyledon | sameAs | Однодольные</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ardmore Airport (New Zealand) | sameAs | Аэропорт Ардмор (Новая Зеландия)</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Druhá vzletová a přistávací dráha na letišti Ardmore (Nový Zéland) je tvořena lipnicovitými rostlinami (Poaceae), které se řadí mezi jednoděložné rostliny.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">2. dráha na letišti Ardmore (Nový Zéland) je vyrobena z Poaceae, která je klasifikována jako jednoděložná.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Druhá ranvej na letišti Ardmore (Nový Zéland) je vyrobena z Poaceae, která je klasifikována jako Monocotyledon.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Druhá vzletová a přistávací dráha na letišti Ardmore na Novém Zélandu je pokryta lipnicovitými rostlinami (Poaceae) z třídy jednoděložných.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Poaceae, třídy Monocotyledon, je povrchový typ druhé přistávací dráhy na letišti Ardmore na Novém Zélandu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Poaceae třídy Monocotyledon je povrchový typ druhé dráhy na letišti Ardmore na Novém Zélandu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Poaceae patří do třídy Monocotyledon a používá se jako typ povrchu druhé vzletové a přistávací dráhy letiště Ardmore na Novém Zélandu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Poaceae patří do třídy Monocotyledon a používá se jako povrch druhé ranveje letiště Ardmore na Novém Zélandu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Poaceae patří do třídy Monocotyledon a používá se jako povrch druhé ranveje letiště Ardmore na Novém Zélandu.</lex>
+    </entry>
+    <entry category="Airport" eid="Id19" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poaceae | division | Flowering_plant</mtriple>
+        <mtriple>Alderney_Airport | 1stRunwaySurfaceType | Poaceae</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The surface of the 1st runway at Alderney Airport is covered with poaceae, which belongs to the division of flowering plants.</lex>
+      <lex lang="ru" lid="Id1">Поверхность 1-й взлетно-посадочной полосы в Аэропорту Олдерни покрыта Злаками, принадлежащими к разделу цветущих растений.</lex>
+      <lex lang="en" lid="Id2">The 1st runway at Alderney Airport is made from Poaceae which belongs to the division of flowering plants.</lex>
+      <lex lang="ru" lid="Id2">1-я взлетно-посадочная полоса в аэропорту Олдерни сделана из злаков, которые относятся к отделу Цветущие растения.</lex>
+      <lex lang="en" lid="Id3">The surface of the 1st runway at Alderney airport is poaceae which is a type of flowering plant.</lex>
+      <lex lang="ru" lid="Id3">Поверхность 1-й взлетно-посадочной полосы в аэропорту Олдерни - Злаки, которые являются типом цветущего растения.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Poaceae | sameAs | Злаки</dbpedialink>
+        <dbpedialink direction="en2ru">Alderney_Airport | sameAs | Олдерни_(аэропорт)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Flowering plant | sameAs | цветущее растение</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Povrch 1. vzletové a přistávací dráhy na letišti Alderney je pokryt poaceae, které patří do oddělení kvetoucích rostlin.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Povrch 1. vzletové a přistávací dráhy na letišti Alderney pokrývají lipnice, které patří do divize kvetoucích rostlin.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Povrch první vzletové a přistávací dráhy na letišti Alderney je pokryt poaceae, které patří do divize kvetoucích rostlin.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Povrch 1. vzletové a přistávací dráhy na letišti Alderney tvoří lipnicovité (Poaceae), které patří do oddělení kvetoucích rostlin.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">1. dráha na letišti Alderney je vyrobena z Poaceae, která patří do divize kvetoucích rostlin.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">První ranvej na letišti Alderney se vyrábí z Poaceae, která patří do divize kvetoucích rostlin.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Povrch 1. vzletové a přistávací dráhy na letišti Alderney pokrývají poaceae, které patří do oddílu kvetoucích rostlin.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Povrch 1. ranveje na letišti Alderney tvoří poaceae, což je druh kvetoucí rostliny.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Povrch první vzletové a přistávací dráhy na letišti Alderney tvoří poaceae, což je druh kvetoucí rostliny.</lex>
+    </entry>
+    <entry category="Airport" eid="Id20" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Ardmore_Airport_(New_Zealand) | r2Surface | Poaceae</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poaceae | division | Flowering_plant</mtriple>
+        <mtriple>Ardmore_Airport_(New_Zealand) | 2ndRunwaySurfaceType | Poaceae</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Poaceae belongs to the division of flowering plants and it is the surface type of the second runway of Ardmore Airport, New Zealand.</lex>
+      <lex lang="ru" lid="Id1">Злаки относится к разделу цветущих растений и они используются для покрытия второй взлетно-посадочной полосы Аэропорта Ардмор, Новая Зеландия.</lex>
+      <lex lang="en" lid="Id2">Poaceae belongs to the division of flowering plants and is the surface type of the second runway of Ardmore Airport, New Zealand.</lex>
+      <lex lang="ru" lid="Id2">Злаки относятся к разделу цветущих растений и используются для покрытия второй взлетно-посадочной полосы Аэропорта Ардмор, Новая Зеландия.</lex>
+      <lex lang="en" lid="Id3">The 2nd runway at Ardmore Airport (New Zealand) is made of Poaceae which belongs to the division of flowering plants.</lex>
+      <lex lang="ru" lid="Id3">2-я взлетно-посадочная полоса в Аэропорту Ардмор (Новая Зеландия) сделана из Злаков, которые относятся к разделу цветущих растений.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Poaceae | sameAs | Злаки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Flowering plant | sameAs | цветущее растение</link>
+        <link direction="en2ru">Ardmore Airport (New Zealand) | sameAs | Аэропорт Ардмор (Новая Зеландия)</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Poaceae patří do oddělení kvetoucích rostlin a je to typ povrchu 2. vzletové a přistávací dráhy letiště Ardmore na Novém Zélandu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Poaceae patří do divize kvetoucích rostlin a jedná se o povrchový typ druhé ranveje letiště Ardmore na Novém Zélandu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Poaceae patří do divize kvetoucích rostlin a jedná se o povrchový typ druhé dráhy letiště Ardmore na Novém Zélandu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Poaceae patří do oddělení kvetoucích rostlin a je typem povrchu druhé vzletové a přistávací dráhy letiště Ardmore na Novém Zélandu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Poaceae patří do divize kvetoucích rostlin a je povrchovým typem druhé ranveje letiště Ardmore na Novém Zélandu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Poaceae patří do divize kvetoucích rostlin a je povrchovým typem druhé dráhy letiště Ardmore na Novém Zélandu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Druhá vzletová a přistávací dráha na letišti Ardmore (Nový Zéland) je tvořena rostlinou Poaceae, která patří do oddělení kvetoucích rostlin.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">2. přistávací dráha na letišti Ardmore (Nový Zéland) je vyrobena z Poaceae, která patří do divize kvetoucích rostlin.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Druhá dráha na letišti Ardmore (Nový Zéland) je vyrobena z Poaceae, které patří do divize kvetoucích rostlin.</lex>
+    </entry>
+    <entry category="Airport" eid="Id21" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Poaceae | order | Commelinids</otriple>
+        <otriple>Ardmore_Airport_(New_Zealand) | r2Surface | Poaceae</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poaceae | order | Commelinids</mtriple>
+        <mtriple>Ardmore_Airport_(New_Zealand) | 2ndRunwaySurfaceType | Poaceae</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Poaceae is the order of Commelinids, it is also the surface type of the second runway of Ardmore Airport, New Zealand.</lex>
+      <lex lang="ru" lid="Id1">Злаки - это порядок Коммелиниды, это также тип поверхности второй взлетно-посадочной полосы аэропорта Ардмор, Новая Зеландия.</lex>
+      <lex lang="en" lid="Id2">The 2nd runway at Ardmore Airport (New Zealand) is made of Poaceae which belongs to the order of Commelinids.</lex>
+      <lex lang="ru" lid="Id2">2-я взлетно-посадочная полоса в аэропорту Ардмор (Новая Зеландия) сделана из злаков, которые относятся к порядку Коммелиниды.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Poaceae | sameAs | Злаки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Commelinids | sameAs | Коммелиниды</link>
+        <link direction="en2ru">Ardmore Airport (New Zealand) | sameAs | Аэропорт Ардмор (Новая Зеландия)</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Poaceae patří do řádu brukvovitých, je to také typ povrchu druhé vzletové a přistávací dráhy na letišti Ardmore (Nový Zéland).</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Poaceae je řád Commelinid, je to také povrchový typ druhé ranveje letiště Ardmore na Novém Zélandu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Poaceae je řád Commelinids, je to také povrchový typ druhé dráhy letiště Ardmore na Novém Zélandu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Druhá vzletová a přistávací dráha letiště Ardmore (Nový Zéland) je tvořena rostlinami z čeledi Poaceae, které patří do řádu Commelinids.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">2. dráha na letišti Ardmore (Nový Zéland) je vyrobena z Poaceae, která patří do řádu Commelinid.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Druhá dráha na letišti Ardmore (Nový Zéland) je vyrobena z Poaceae, které patří do řádu Commelinids.</lex>
+    </entry>
+    <entry category="Airport" eid="Id22" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adirondack Regional Airport serves the city of Saranac Lake, Essex County, New York.</lex>
+      <lex lang="ru" lid="Id1">Региональный аэропорт Адирондак обслуживает город Саранак-Лейк, округ Эссекс, Нью-Йорк.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Essex_County,_New_York | sameAs | Эссекс_(округ,_Нью-Йорк)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adirondack Regional Airport | sameAs | Региональный аэропорт Адирондак</link>
+        <link direction="en2ru">Saranac Lake, New York | includes | Саранак-Лейк</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Letiště Adirondack Regional Airport slouží městu Saranac Lake v okrese Essex ve státě New York.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Adirondack Regional Airport obsluhuje město Saranac Lake, Essex County, New York.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Regionální letiště Adirondack slouží městu Saranac Lake, okres Essex, New York.</lex>
+    </entry>
+    <entry category="Airport" eid="Id23" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adirondack Regional Airport serves the city of Saranac Lake, New York which is part of Harrietstown, N.Y.</lex>
+      <lex lang="ru" lid="Id1">Региональный аэропорт Адирондак обслуживает город Саранак-Лейк, штат Нью-Йорк, который является частью Хэрритстаун, штат Нью-Йорк.</lex>
+      <lex lang="en" lid="Id2">Adirondack Regional Airport serves the city of Saranac Lake, New York which is part of Harrietstown, New York.</lex>
+      <lex lang="ru" lid="Id2">Региональный аэропорт Адирондак обслуживает город Саранак-Лейк, штат Нью-Йорк, который является частью Хэрритстауна, штат Нью-Йорк.</lex>
+      <lex lang="en" lid="Id3">Adirondack Regional Airport serves the city of Saranac Lake in Harrietstown, New York.</lex>
+      <lex lang="ru" lid="Id3">Региональный аэропорт Адирондак обслуживает город Саранак-Лейк в Хэрритстауне, штат Нью-Йорк.</lex>
+      <links>
+        <link direction="en2ru">Adirondack Regional Airport | sameAs | Региональный аэропорт Адирондак</link>
+        <link direction="en2ru">Saranac Lake, New York | includes | Саранак-Лейк</link>
+        <link direction="en2ru">Harrietstown, New York | includes | Хэрритстаун</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Letiště Adirondack Regional Airport slouží městu Saranac Lake ve státě New York, které je součástí okresu Harrietstown ve státě New York.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Adirondack Regional Airport obsluhuje město Saranac Lake, New York, které je součástí Harrietstown, NY</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Regionální letiště Adirondack slouží městu Saranac Lake v New Yorku, které je součástí Harrietstownu v New Yorku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Adirondack Regional Airport obsluhuje město Saranac Lake v okrese New York, které je součástí okresu Harrietstown ve státě New York.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Adirondack Regional Airport obsluhuje město Saranac Lake, New York, které je součástí Harrietstown, New York.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Regionální letiště Adirondack slouží městu Saranac Lake v New Yorku, které je součástí Harrietstownu v New Yorku.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Adirondack Regional Airport slouží městu Saranac Lake ve městě Harrietstown ve státě New York.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Adirondack Regional Airport obsluhuje město Saranac Lake v Harrietstown, New York.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Regionální letiště Adirondack slouží městu Saranac Lake v Harrietstownu ve státě New York.</lex>
+    </entry>
+    <entry category="Airport" eid="Id24" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | United_States</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | United_States</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adirondack Regional Airport serves the city of Saranac Lake, New York, in the United States.</lex>
+      <lex lang="ru" lid="Id1">Региональный аэропорт Адирондак обслуживает город Саранак-Лейк, штат Нью-Йорк, в Соединенных Штатах Америки.</lex>
+      <lex lang="en" lid="Id2">Adirondack Regional Airport serves the city of Saranac Lake, New York, U.S.</lex>
+      <lex lang="ru" lid="Id2">Региональный аэропорт Адирондак обслуживает город Саранак-Лейк, штат Нью-Йорк, США.</lex>
+      <lex lang="en" lid="Id3">Adirondack Regional Airport serves the city of Saranac Lake, New York which is part of the U.S.</lex>
+      <lex lang="ru" lid="Id3">Региональный аэропорт Адирондак обслуживает город Саранак-Лейк, штат Нью-Йорк, являющийся частью США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adirondack Regional Airport | sameAs | Региональный аэропорт Адирондак</link>
+        <link direction="en2ru">Saranac Lake, New York | includes | Саранак-Лейк</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Adirondack Regional Airport slouží městu Saranac Lake ve státě New York ve Spojených státech.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Adirondack Regional Airport obsluhuje město Saranac Lake, New York, ve Spojených státech.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Regionální letiště Adirondack slouží městu Saranac Lake v New Yorku ve Spojených státech.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Adirondack Regional Airport slouží městu Saranac Lake ve státě New York, USA.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Regionální letiště Adirondack obsluhuje město Saranac Lake, New York, USA</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Regionální letiště Adirondack slouží městu Saranac Lake v New Yorku.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Adirondack Regional Airport slouží městu Saranac Lake ve státě New York, které je součástí USA.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Regionální letiště Adirondack obsluhuje město Saranac Lake, New York, které je součástí USA</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Regionální letiště Adirondack slouží městu Saranac Lake v New Yorku, které je součástí USA.</lex>
+    </entry>
+  </entries>
+</benchmark>

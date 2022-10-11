@@ -1,0 +1,340 @@
+<benchmark>
+  <entries>
+    <entry category="University" eid="Id1" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | numberOfStudents | "16000"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The School of Business and Social Services at the Aarhus University in Aarhus, Denmark is affiliated to the European University Association. It has 737 academic staff and 16,000 students.</lex>
+      <lex lang="ru" lid="Id1">Школа бизнеса и социальных наук Орхусского университета в Орхусе, Дания входит в Ассоциацию университетов Европы. Она насчитывает 737 научных сотрудников и 16000 учащихся.</lex>
+      <lex lang="en" lid="Id2">The School of Business and Social Sciences at the Aarhus University is located in the city of Aarhus, Denmark. It is affiliated to the European University Association and has 737 academic staff and 16000 students.</lex>
+      <lex lang="ru" lid="Id2">Школа бизнеса и социальных наук Орхусского университета расположена в городе Орхус, Дания. Она входит в Ассоциацию университетов Европы и имеет 737 научных сотрудников и 16000 студентов.</lex>
+      <lex lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University in Denmark is affiliated with the European University Association and has a staff compliment of 737. 16000 students attend the university currently.</lex>
+      <lex lang="ru" lid="Id3">Школа бизнеса и социальных наук Орхусского университета в Дании связана с Ассоциацией университетов Европы и имеет штат в 737 сотрудников. В настоящее время в университете обучаются 16000 студентов.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">European_University_Association | sameAs | Ассоциация_университетов_Европы</dbpedialink>
+        <dbpedialink direction="en2ru">Aarhus | sameAs | Орхус</dbpedialink>
+        <dbpedialink direction="en2ru">Denmark | sameAs | Дания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodu a sociálních služeb na Aarhuské univerzitě v dánském Aarhusu je přidružena k Evropské asociaci univerzit. Má 737 akademických pracovníků a 16 000 studentů.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Services na Aarhuské univerzitě v Aarhusu v Dánsku je přidružena k Evropské univerzitní asociaci. Má 737 akademických pracovníků a 16 000 studentů.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních služeb na Aarhuské univerzitě v Aarhusu v Dánsku je přidružena k Evropské univerzitní asociaci. Má 737 akademických pracovníků a 16 000 studentů.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodu a sociálních služeb na Aarhuské univerzitě se nachází ve městě Aarhus v Dánsku. Je přidružena k Evropské asociaci univerzit a má 737 akademických pracovníků a 16 000 studentů.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University se nachází ve městě Aarhus v Dánsku. Je přidružená k Evropské univerzitní asociaci a má 737 akademických pracovníků a 16 000 studentů.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě se nachází ve městě Aarhus v Dánsku. Je přidružena k Evropské univerzitní asociaci a má 737 akademických pracovníků a 16000 studentů.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">School of Business and Social Sciences na Aarhuské univerzitě v Dánsku je přidružena k Evropské asociaci univerzit a má 737 akademických pracovníků. V současné době ji navštěvuje 16 000 studentů.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University v Dánsku je přidružena k Evropské univerzitní asociaci a má 737 zaměstnanců. Univerzitu v současnosti navštěvuje 16 000 studentů.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě v Dánsku je přidružena k Evropské univerzitní asociaci a má personální kompliment 737. Univerzitu v současnosti navštěvuje 16000 studentů.</lex>
+    </entry>
+    <entry category="University" eid="Id2" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Denmark | leaderTitle | Monarchy_of_Denmark</otriple>
+        <otriple>Denmark | leader | Lars_Løkke_Rasmussen</otriple>
+        <otriple>Aarhus | governmentType | Magistrate</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Denmark | leaderName | Lars_Løkke_Rasmussen</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Denmark | leaderTitle | Monarchy_of_Denmark</otriple>
+        <otriple>Aarhus | governmentType | Magistrate</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>Denmark | leaderTitle | Monarchy_of_Denmark</mtriple>
+        <mtriple>Denmark | leader | Lars_Løkke_Rasmussen</mtriple>
+        <mtriple>Aarhus | governmentType | Magistrate</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The School of Business and Social Sciences at the Aarhus University is located in Aarhus, Denmark. Denmark has a monarchy and its leader is Lars Lokke Rasmussen. Denmark has a magistrate government.</lex>
+      <lex lang="ru" lid="Id1">Школа бизнеса и социальных наук в Орхусском университете расположена в Орхусе, Дания. В Дании монархия и ее лидером является Ларс Лёкке Расмуссен. В Дании есть правительство магистрата.</lex>
+      <lex lang="en" lid="Id2">The government type in Aarhus, Denmark is that of magistrate and the city is the location of the School of Business and Social Sciences at the Aarhus University. The leader of Denmark, with the title of Monarchy of Denmark is Lars Lokke Rasmussen.</lex>
+      <lex lang="ru" lid="Id2">Тип правления в Орхусе, Дания - магистрат. В городе находится Школа бизнеса и социальных наук Орхусского университета. Глава Дании с титулом монарха Дании - Ларс Лёкке Расмуссен.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Lars_Løkke_Rasmussen | sameAs | Расмуссен,_Ларс_Лёкке</dbpedialink>
+        <dbpedialink direction="en2ru">Aarhus | sameAs | Орхус</dbpedialink>
+        <dbpedialink direction="en2ru">Denmark | sameAs | Дания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Monarchy of Denmark | sameAs | монархия Дании</link>
+        <link direction="en2ru">Magistrate | sameAs | магистрат</link>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">School of Business and Social Sciences na Aarhuské univerzitě sídlí v dánském Aarhusu. V Dánsku vládne monarchie a v čele země stojí Lars Lokke Rasmussen. Dánsko má magistrátní vládu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University se nachází v Aarhusu v Dánsku. Dánsko má monarchii a jejím vůdcem je Lars Lokke Rasmussen. Dánsko má magistrátní vládu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě se nachází v Aarhusu v Dánsku. Dánsko má monarchii a jejím vůdcem je Lars Lokke Rasmussen. Dánsko má magistrátní vládu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Typ vlády v dánském Aarhusu je magistrátní a v tomto městě sídlí School of Business and Social Sciences na Aarhuské univerzitě. V čele Dánska s titulem monarchie Dánska stojí Lars Lokke Rasmussen.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Typ vlády v Aarhusu v Dánsku je smírčí a ve městě sídlí School of Business and Social Sciences na Aarhus University. Vůdcem Dánska s titulem Dánská monarchie je Lars Lokke Rasmussen.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Typem vlády v Aarhusu v Dánsku je magistrát a město je sídlem Školy podnikání a sociálních věd na Aarhuské univerzitě. Vůdcem Dánska s titulem Monarchie Dánska je Lars Lokke Rasmussen.</lex>
+    </entry>
+    <entry category="University" eid="Id3" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | numberOfStudents | "16000"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | facultySize | "737"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The School of Business and Social Sciences at the Aarhus University in Denmark was established in 1928. It currently has a staff compliment of 737 and 16000 students.</lex>
+      <lex lang="ru" lid="Id1">Школа бизнеса и социальных наук Орхусского университета в Дании была основана в 1928 году. В настоящее она имеет 737 преподавателей и 16 000 студентов.</lex>
+      <lex lang="en" lid="Id2">The School of Business and Social Sciences at the Aarhus University was established in 1928 in Aarhus, Denmark. The school has 16,000 students and 737 academic staff.</lex>
+      <lex lang="ru" lid="Id2">Школа бизнеса и социальных наук Орхусского университета была создана в 1928 году в Орхусе, Дания. В школе насчитывается 16000 учащихся и 737 научных сотрудников.</lex>
+      <lex lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University was established in 1928 in the city of Aarhus in Denmark. It currently has 737 members of staff and 16000 students.</lex>
+      <lex lang="ru" lid="Id3">Школа бизнеса и социальных наук в Орхусском университете была создана в 1928 году в городе Орхусе в Дании. В настоящее время в ней насчитывается 737 сотрудников и 16000 учащихся.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">1928 | sameAs | 1928_год</dbpedialink>
+        <dbpedialink direction="en2ru">Aarhus | sameAs | Орхус</dbpedialink>
+        <dbpedialink direction="en2ru">Denmark | sameAs | Дания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě v Dánsku byla založena v roce 1928. V současné době má 737 zaměstnanců a 16 000 studentů.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University v Dánsku byla založena v roce 1928. V současné době má 737 zaměstnanců a 16 000 studentů.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě v Dánsku byla založena v roce 1928. V současné době sklízí kompliment zaměstnanců 737 a 16000 studentů.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě byla založena v roce 1928 v dánském Aarhusu. Škola má 16 000 studentů a 737 akademických pracovníků.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University byla založena v roce 1928 v Aarhusu v Dánsku. Škola má 16 000 studentů a 737 akademických pracovníků.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě byla založena v roce 1928 v Aarhusu v Dánsku. Škola má 16 000 studentů a 737 akademických pracovníků.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě byla založena v roce 1928 ve městě Aarhus v Dánsku. V současné době má 737 akademických pracovníků a 16 000 studentů.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University byla založena v roce 1928 ve městě Aarhus v Dánsku. V současné době má 737 zaměstnanců a 16 000 studentů.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě byla založena v roce 1928 ve městě Aarhus v Dánsku. V současné době má 737 zaměstnanců a 16000 studentů.</lex>
+    </entry>
+    <entry category="University" eid="Id4" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The School of Business and Social Services at the Aarhus University in Aarhus, Denmark was established in 1928. It has 16,000 students and it is affiliated to the European University Association.</lex>
+      <lex lang="ru" lid="Id1">В 1928 году была основана Школа бизнеса и социальных услуг Орхусского университета в Орхусе, Дания. Она насчитывает 16 000 студентов и входит в Ассоциацию университетов Европы.</lex>
+      <lex lang="en" lid="Id2">The School of Business and Social Sciences at thee Aarhus University is located in the city of Aarhus, Denmnark. It has 16000 students and was established in 1928. It is affiliated with the European University Association.</lex>
+      <lex lang="ru" lid="Id2">Школа бизнеса и социальных наук Орхусского университете находится в городе Орхус, Дания. Она насчитывает 16000 студентов и была создана в 1928 году. Она входит в Ассоциацию университетов Европы.</lex>
+      <lex lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University in Denmark was established in 1928 and is affiliated with the European University Association and has 16000 students.</lex>
+      <lex lang="ru" lid="Id3">Школа бизнеса и социальных наук Орхусского университета в Дании была создана в 1928 году и связана с Ассоциацией университетов Европы и насчитывает 16000 студентов.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">European_University_Association | sameAs | Ассоциация_университетов_Европы</dbpedialink>
+        <dbpedialink direction="en2ru">1928 | sameAs | 1928_год</dbpedialink>
+        <dbpedialink direction="en2ru">Aarhus | sameAs | Орхус</dbpedialink>
+        <dbpedialink direction="en2ru">Denmark | sameAs | Дания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodu a sociálních služeb na Aarhuské univerzitě v dánském Aarhusu byla založena v roce 1928. Má 16 000 studentů a je přidružena k Evropské asociaci univerzit.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Services na Aarhuské univerzitě v Aarhusu v Dánsku byla založena v roce 1928. Má 16 000 studentů a je přidružena k Evropské univerzitní asociaci.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních služeb na Aarhuské univerzitě v dánském Aarhusu byla založena v roce 1928. Má 16 000 studentů a je přidružena k Evropské univerzitní asociaci.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">The School of Business and Social Sciences ate Aarhus University se nachází ve městě Aarhus v Dánsku. Má 16 000 studentů a byla založena v roce 1928. Je přidružena k Evropské asociaci univerzit.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences at thee Aarhus University se nachází ve městě Aarhus, Denmnark. Má 16 000 studentů a byla založena v roce 1928. Je přidružena k Evropské univerzitní asociaci.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Aarhuská univerzita sídlí ve městě Aarhus v Denmnarku. Má 16000 studentů a byla založena v roce 1928. Je přidružena k Evropské asociaci univerzit.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě v Dánsku byla založena v roce 1928, je přidružena k Evropské asociaci univerzit a má 16000 studentů.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University v Dánsku byla založena v roce 1928 a je přidružena k Evropské univerzitní asociaci a má 16 000 studentů.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě v Dánsku byla založena v roce 1928 a je přidružena k Evropské univerzitní asociaci a má 16000 studentů.</lex>
+    </entry>
+    <entry category="University" eid="Id5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | dean | "Thomas Pallesen"@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | facultySize | "737"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | dean | "Thomas Pallesen"</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The School of Business and Social Sciences at Aarhus University in Denmark has Thomas Pallesen as its dean. It was established in 1928, has 16,000 students and 737 employees.</lex>
+      <lex lang="ru" lid="Id1">Томас Паллесен является деканом Школы бизнеса и социальных наук Орхусского университета. Она была создана в 1928 году и имеет 16000 студентов и 737 сотрудников.</lex>
+      <lex lang="en" lid="Id2">The School of Business and Social Sciences at the Aarhus University was established in 1928 and is located in Denmark. There are 16,000 students, and an academic staff size of 737, headed by the dean, Thomas Pallesen.</lex>
+      <lex lang="ru" lid="Id2">Школа бизнеса и социальных наук Орхусского университета была основана в 1928 году и находится в Дании. В ней обучаются 16000 студентов, а преподавательский состав насчитывает 737 человек, во главе с деканом Томасом Паллесеном.</lex>
+      <lex lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University was founded in 1928 in Denmark. The School currently has 16000 students attending with 737 members of staff and the dean of the school is Thomas Pallessen.</lex>
+      <lex lang="ru" lid="Id3">Школа бизнеса и социальных наук Орхусского университета была основана в 1928 году в Дании. В настоящее время школа насчитывает 16000 студентов и 737 сотрудников, а декан школы - Томас Паллесен.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">1928 | sameAs | 1928_год</dbpedialink>
+        <dbpedialink direction="en2ru">Denmark | sameAs | Дания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+        <link direction="en2ru">Thomas Pallesen | sameAs | Томас Паллесен</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Děkanem School of Business and Social Sciences na Aarhuské univerzitě v Dánsku je Thomas Pallesen. Byla založena v roce 1928, má 16 000 studentů a 737 zaměstnanců.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University v Dánsku má Thomase Pallesena jako svého děkana. Byla založena v roce 1928, má 16 000 studentů a 737 zaměstnanců.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě v Dánsku má jako děkana Thomase Pallesena. Byla založena v roce 1928, má 16 000 studentů a 737 zaměstnanců.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě byla založena v roce 1928 a sídlí v Dánsku. Studuje na ní 16 000 studentů, počet akademických pracovníků je 737 a v jejím čele stojí děkan Thomas Pallesen.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University byla založena v roce 1928 a nachází se v Dánsku. Existuje 16 000 studentů a počet akademických pracovníků 737 v čele s děkanem Thomasem Pallesenem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě byla založena v roce 1928 a nachází se v Dánsku. Je zde 16 000 studentů a akademický personál o velikosti 737, v čele s děkanem Thomasem Pallesenem.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">School of Business and Social Sciences na Aarhuské univerzitě byla založena v roce 1928 a sídlí v Dánsku. Školu v současné době navštěvuje 16 000 studentů, pracuje na ní 737 akademických pracovníků a v čele školy stojí děkan Thomas Pallesen.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University byla založena v roce 1928 v Dánsku. Škola má v současné době 16 000 studentů se 737 zaměstnanci a děkanem školy je Thomas Pallessen.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě byla založena v roce 1928 v Dánsku. V současné době školu navštěvuje 16000 studentů se 737 zaměstnanci a děkanem školy je Thomas Pallessen.</lex>
+    </entry>
+    <entry category="University" eid="Id6" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | "700"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Visvesvaraya_Technological_University | city | Belgaum</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | 700</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Acharya Institute of Technology's campus is in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, India. It is affiliated to the Visvesvaraya Technological University in Belgaum and it has 700 postgraduate students.</lex>
+      <lex lang="ru" lid="Id1">Кампус Технологического института Ачарья находится в Солдеванахалли, Ачарья д-р Сарвапалли Радхакришнан Роуд, Хессаргхатта Мейн Роуд, Бангалор - 560090, Индия. Он является филиалом технологического университета Висвесварайя в Белгауме и насчитывает 700 аспирантов.</lex>
+      <lex lang="en" lid="Id2">The Acharya Institute of Technology in India which is affiliated with the Visvesvaraya Technological University in the city of Belgaum, has 700 postgraduate students. The campus is located at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex lang="ru" lid="Id2">В Технологическом институте Ачарья в Индии, филиале Технологического университета Висвесварайя в городе Белгаум, 700 аспирантов. Кампус расположен в Солдеванахалли, Ачарья Д-р Сарвапалли Радхакришнан Роуд, Хессаргхатта Мейн Роуд, Бангалор -- 560090.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Belgaum | sameAs | Белгаум</dbpedialink>
+        <dbpedialink direction="en2ru">India | sameAs | Индия</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+        <link direction="en2ru">Visvesvaraya Technological University | sameAs | Технологический университет Висвесварайя</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Солдеванахалли</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Солденванахалли Ачарья Д-р Сарвапалли Радхакришнан Роуд, Хессаргхатта Мейн Роуд, Бангалор</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Ачарья</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Д-р Сарвапалли Радхакришнан Роуд</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Хессаргхатта Мейн Роуд</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Бангалор</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Kampus Acharya Institute of Technology se nachází na adrese Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, Indie. Je přidružen k Visvesvaraya Technological University v Belgaumu a má 700 postgraduálních studentů.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Areál Acharya Institute of Technology se nachází v Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, Indie. Je přidružena k Technologické univerzitě Visvesvaraya v Belgaumu a má 700 postgraduálních studentů.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Areál Acharya Institute of Technology se nachází v Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, Indie. Je přidružena k Technologické univerzitě Visvesvaraya v Belgaumu a má 700 postgraduálních studentů.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Acharya Institute of Technology v Indii, který je přidružen k Visvesvaraya Technological University ve městě Belgaum, má 700 postgraduálních studentů. Kampus se nachází na adrese In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Technologický institut Acharya v Indii, který je přidružen k Technologické univerzitě Visvesvaraya ve městě Belgaum, má 700 postgraduálních studentů. Kampus se nachází na adrese In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Technologický institut Acharya v Indii, který je přidružen k Technologické univerzitě Visvesvaraya ve městě Belgaum, má 700 postgraduálních studentů. Areál se nachází na adrese In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+    </entry>
+    <entry category="University" eid="Id7" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
+        <otriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Visvesvaraya_Technological_University | city | Belgaum</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Acharya Institute of Technology in Karnataka, India is affiliated to the Visvesvaraya Technological University in Belgaum. Its director is Dr G. P. Prabhukumar.</lex>
+      <lex lang="ru" lid="Id1">Технологический институт Ачарья в Карнатаке, Индия является филиалом Технологического университета Висвесварайя в Белгауме. Его директором является д-р Г. П. Прабхукумар.</lex>
+      <lex lang="en" lid="Id2">Dr G P Prabhukumar is the Dean of The Acharya Institute of Technology which is affiliated with the Visvesvaraya Technological University in the city of Belgaum, and is located in the state of Karnataka, India.</lex>
+      <lex lang="ru" lid="Id2">Доктор Г.П. Прабхукумар - декан Технологического института Ачарья, который является филиалом Технологического университета Висвесварайя в городе Белгауме и расположен в штате Карнатака, Индия.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Belgaum | sameAs | Белгаум</dbpedialink>
+        <dbpedialink direction="en2ru">India | sameAs | Индия</dbpedialink>
+        <dbpedialink direction="en2ru">Karnataka | sameAs | Карнатака</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Dr. G. P. Prabhukumar | sameAs | доктор Г.П. Прабхукумар</link>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+        <link direction="en2ru">Visvesvaraya Technological University | sameAs | Технологический университет Висвесварайя</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Acharya Institute of Technology v Karnataka, Indie je přidružený k Visvesvaraya Technological University v Belgaum. Jeho ředitelem je Dr. G. P. Prabhukumar.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Acharya Institute of Technology v Karnataka, Indie je přidružen k Visvesvaraya Technological University v Belgaum. Jeho ředitelem je Dr GP Prabhukumar.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Acharya Institute of Technology v Karnatace v Indii je přidružen k Visvesvaraya Technological University v Belgaumu. Ředitelem je Dr. G. P. Prabhukumar.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Dr. G. P. Prabhukumar je děkanem The Acharya Institute of Technology, který je přidružen k Visvesvaraya Technological University ve městě Belgaum a nachází se ve státě Karnataka v Indii.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Dr GP Prabhukumar je děkanem Acharya Institute of Technology, který je přidružen k Technologické univerzitě Visvesvaraya ve městě Belgaum a nachází se ve státě Karnataka v Indii.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Dr. G P Prabhukumar je děkanem Technologického institutu Acharya, který je přidružen k Technologické univerzitě Visvesvaraya ve městě Belgaum a nachází se ve státě Karnataka v Indii.</lex>
+    </entry>
+    <entry category="University" eid="Id8" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
+        <otriple>Acharya_Institute_of_Technology | established | 2000</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Visvesvaraya_Technological_University | city | Belgaum</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | established | 2000</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Acharya Institute of Technology's campus is in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, India. It was established in 2000 and it is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
+      <lex lang="ru" lid="Id1">Кампус технологического института Ачарья находится в Солдеванахалли, Ачарья д-р Сарвапалли Радхакришнан Роуд, Хессаргхатта Мейн Роуд, Бангалор - 560090, Индия. Он был создан в 2000 году и связан с Технологическим университетом Висвесварайя в Белгауме.</lex>
+      <lex lang="en" lid="Id2">The Acharya Institute of Technology which is affiliated with the Visvesvaraya Technological University in the city of Belgaum, India, was established in 2000. The campus is located at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex lang="ru" lid="Id2">Технологический институт Ачарья, связанный с Технологическим университетом Висвесварайя в городе Белгаум, Индия, был создан в 2000 году. Кампус расположен в Солдеванахалли, Ачарья д-р Сарвапалли Радхакришнан Роуд, Хессаргхатта Мейн Роуд, Бангалор - 560090.</lex>
+      <lex lang="en" lid="Id3">The Acharya Institute of Technology established in India in 2000 is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It is affilaited with the Visvesvaraya Technological University in Belgaum.</lex>
+      <lex lang="ru" lid="Id3">Технологический институт Ачарья, созданный в Индии в 2000 году, расположен в Солдеванахалли, Ачарья, д-р Сарвапалли Радхакришнан Роуд, Хессаргхатта Мейн Роуд, Бангалор -- 560090. Он является филиалом Технологического университета Висвесварайя в Белгауме.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Belgaum | sameAs | Белгаум</dbpedialink>
+        <dbpedialink direction="en2ru">India | sameAs | Индия</dbpedialink>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+        <link direction="en2ru">Visvesvaraya Technological University | sameAs | Технологический университет Висвесварайя</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Солдеванахалли</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Солденванахалли Ачарья Д-р Сарвапалли Радхакришнан Роуд, Хессаргхатта Мейн Роуд, Бангалор</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Ачарья</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Д-р Сарвапалли Радхакришнан Роуд</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Хессаргхатта Мейн Роуд</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Бангалор</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Kampus The Acharya Institute of Technology se nachází na adrese Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, Indie. Byl založen v roce 2000 a je přidružen k Visvesvaraya Technological University v Belgaumu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Areál Acharya Institute of Technology se nachází v Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, Indie. Byla založena v roce 2000 a je přidružena k Technologické univerzitě Visvesvaraya v Belgaumu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Areál Acharya Institute of Technology se nachází v Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, Indie. Byla založena v roce 2000 a je přidružena k Technologické univerzitě Visvesvaraya v Belgaumu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Acharya Institute of Technology, který je přidružen k Visvesvaraya Technological University ve městě Belgaum v Indii, byl založen v roce 2000. Kampus se nachází na adrese In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Acharya Institute of Technology, který je přidružen k Technologické univerzitě Visvesvaraya ve městě Belgaum v Indii, byl založen v roce 2000. Kampus se nachází na adrese In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Acharya Institute of Technology, který je přidružen k Visvesvaraya Technological University ve městě Belgaum v Indii, byl založen v roce 2000. Areál se nachází na adrese In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Acharya Institute of Technology založený v Indii v roce 2000 se nachází v Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090. Je přidružen k Visvesvaraya Technological University v Belgaumu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Acharya Institute of Technology založený v Indii v roce 2000 se nachází v Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. Je přidružen k Technologické univerzitě Visvesvaraya v Belgaumu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Technologický institut Acharya založený v Indii v roce 2000 se nachází v Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. Udává se na Technologické univerzitě Visvesvaraya v Belgaumu.</lex>
+    </entry>
+  </entries>
+</benchmark>

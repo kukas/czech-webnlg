@@ -1,0 +1,388 @@
+<benchmark>
+  <entries>
+    <entry category="University" eid="Id1" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | dean | "Thomas Pallesen"@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | latinName | "Universitas Aarhusiensis"@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | dean | "Thomas Pallesen"</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | latinName | "Universitas Aarhusiensis"</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">In 1928 the School of Business and Social Sciences at the Aarhus University was established in the city of Aarhus, Denmark. Dean Thomas Pallesen heads the School which has the Latin name of "Universitas Aarhusiensis" . There are 737 academic staff and it is affiliated with the European University Association.</lex>
+      <lex lang="ru" lid="Id1">В 1928 году в Орхусе, Дания, была создана Школа бизнеса и социальных наук Орхусского университета. Декан Томас Паллесен возглавляет школу, которая имеет латинское название "Universitas Aarhusiensis". Имеется 737 научных сотрудников, и она связана с Ассоциацией университетов Европы.</lex>
+      <lex lang="en" lid="Id2">The School of Business and Social Sciences at the Aarhus University in Aarhus, Denmark was established in 1928. It has 737 academic staff and its Latin name is "Universitas Aarhusiensis". Its dean is Thomas Pellesen and it is affiliated with the European University Association.</lex>
+      <lex lang="ru" lid="Id2">В 1928 году была создана Школа бизнеса и социальных наук Орхусского университета в Орхусе, Дания. В ее состав входят 737 научных сотрудников и ее латинское название - "Universitas Aarhusiensis". Ее декан - Томас Паллесен, и она связана с Ассоциацией университетов Европы.</lex>
+      <lex lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University, in Aarhus, Denmark, is affiliated with the European University Association. The school was created in 1928 and uses Universitas Aarhusiensis as its Latin name. Its dean is Thomas Pallesen and it has 737 employees.</lex>
+      <lex lang="ru" lid="Id3">Школа бизнеса и социальных наук Орхусского университета в Орхусе, Дания, связана с Ассоциацией университетов Европы. Школа была создана в 1928 году и использует "Universitas Aarhusiensis" в качестве своего латинского названия. Ее декан - Томас Паллесен, и в школе имеется 737 сотрудников.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">European_University_Association | sameAs | Ассоциация_университетов_Европы</dbpedialink>
+        <dbpedialink direction="en2ru">1928 | sameAs | 1928_год</dbpedialink>
+        <dbpedialink direction="en2ru">Aarhus | sameAs | Орхус</dbpedialink>
+        <dbpedialink direction="en2ru">Denmark | sameAs | Дания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Universitas Aarhusiensis | sameAs | Universitas Aarhusiensis</link>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+        <link direction="en2ru">Thomas Pallesen | sameAs | Томас Паллесен</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">V roce 1928 byla v dánském městě Aarhus založena Škola obchodních a společenských věd při Aarhuské univerzitě. V čele školy, která má latinský název "Universitas Aarhusiensis", stojí děkan Thomas Pallesen. Na škole působí 737 akademických pracovníků a je přidružena k Evropské asociaci univerzit.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">roce 1928 byla ve městě Aarhus v Dánsku založena School of Business and Social Sciences na Aarhus University. Děkan Thomas Pallesen vede školu, která má latinský název „Universitas Aarhusiensis“. Má 737 akademických pracovníků a je přidružena k Evropské univerzitní asociaci.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">V roce 1928 byla ve městě Aarhus v Dánsku založena Škola podnikání a sociálních věd na Aarhuské univerzitě. Děkan Thomas Pallesen stojí v čele školy, která má latinský název "Universitas Aarhusiensis" . Existuje 737 akademických pracovníků a je přidružena k Evropské univerzitní asociaci.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě v dánském Aarhusu byla založena v roce 1928. Má 737 akademických pracovníků a její latinský název zní "Universitas Aarhusiensis". Jejím děkanem je Thomas Pellesen a je přidružena k Evropské asociaci univerzit.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University v Aarhus, Dánsko byla založena v roce 1928. Má 737 akademických pracovníků a její latinský název je „Universitas Aarhusiensis“. Jejím děkanem je Thomas Pellesen a je přidružena k Evropské univerzitní asociaci.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě v dánském Aarhusu byla založena v roce 1928. Má 737 akademických pracovníků a jeho latinský název je "Universitas Aarhusiensis". Jeho děkanem je Thomas Pellesen a je přidružen k Evropské univerzitní asociaci.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě v dánském Aarhusu je přidružena k Evropské asociaci univerzit. Škola vznikla v roce 1928 a jako latinský název používá Universitas Aarhusiensis. Jejím děkanem je Thomas Pallesen a má 737 zaměstnanců.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University v Aarhus, Dánsko, je přidružena k Evropské asociaci univerzit. Škola byla založena v roce 1928 a používá Universitas Aarhusiensis jako svůj latinský název. Jejím děkanem je Thomas Pallesen a má 737 zaměstnanců.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě v dánském Aarhusu je přidružena k Evropské univerzitní asociaci. Škola vznikla v roce 1928 a jako latinský název používá Universitas Aarhusiensis. Jejím děkanem je Thomas Pallesen a má 737 zaměstnanců.</lex>
+    </entry>
+    <entry category="University" eid="Id2" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | dean | "Thomas Pallesen"@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | numberOfStudents | "16000"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | dean | "Thomas Pallesen"@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | dean | "Thomas Pallesen"@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | dean | "Thomas Pallesen"</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">In 1928 the School of Business and Social Sciences at the Aarhus University was established in the city of Aarhus, Denmark. The School is affiliated with the European University Association and is led by Dean Thomas Pallesen. There are 16000 students and an academic staff of 737.</lex>
+      <lex lang="ru" lid="Id1">В 1928 году в Орхусе, Дания, была создана Школа бизнеса и социальных наук Орхусского университета. Школа связана с Ассоциацией университетов Европы и возглавляется деканом Томасом Паллесеном. В школе насчитывается 16000 студентов и академический коллектив из 737 человек.</lex>
+      <lex lang="en" lid="Id2">The School of Business and Social Sciences at the Aarhus University is located in Aarhus, Denmark and it was established in 1928. Its dean is Thomas Pallesen; it has 737 academic staff and 16,000 students. It is affiliated to the European University Association.</lex>
+      <lex lang="ru" lid="Id2">Школа бизнеса и социальных наук Орхусского университета расположена в Орхусе, Дания, и была создана в 1928 году. Ее декан - Томас Паллесен; она насчитывает 737 научных сотрудников и 16 000 студентов. Она входит в Ассоциацию университетов Европы.</lex>
+      <lex lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University in Aarhus, Denmark is affiliated with the European University Association. It was created in 1928 and its dean today is Thomas Pallesen. It has 16,000 students and 737 employees.</lex>
+      <lex lang="ru" lid="Id3">Школа бизнеса и социальных наук Орхусского университета в Орхусе, Дания, связана с Ассоциацией университетов Европы. Она была создана в 1928 году, а ее декан сегодня - Томас Паллесен. В ней насчитывается 16 000 студентов и 737 сотрудников.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">European_University_Association | sameAs | Ассоциация_университетов_Европы</dbpedialink>
+        <dbpedialink direction="en2ru">1928 | sameAs | 1928_год</dbpedialink>
+        <dbpedialink direction="en2ru">Aarhus | sameAs | Орхус</dbpedialink>
+        <dbpedialink direction="en2ru">Denmark | sameAs | Дания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+        <link direction="en2ru">Thomas Pallesen | sameAs | Томас Паллесен</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">V roce 1928 byla v dánském Aarhusu založena Škola obchodních a společenských věd při Aarhuské univerzitě. Škola je přidružena k Evropské asociaci univerzit a v jejím čele stojí děkan Thomas Pallesen. Na škole studuje 16 000 studentů a pracuje zde 737 akademických pracovníků.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">roce 1928 byla ve městě Aarhus v Dánsku založena School of Business and Social Sciences na Aarhus University. Škola je přidružena k Evropské univerzitní asociaci a vede ji děkan Thomas Pallesen. Existuje 16 000 studentů a akademických pracovníků 737.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">V roce 1928 byla ve městě Aarhus v Dánsku založena Škola podnikání a sociálních věd na Aarhuské univerzitě. Škola je přidružena k Evropské univerzitní asociaci a vede ji děkan Thomas Pallesen. Je zde 16000 studentů a 737 akademických pracovníků.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě se nachází v dánském Aarhusu a byla založena v roce 1928. Jejím děkanem je Thomas Pallesen; má 737 akademických pracovníků a 16 000 studentů. Je přidružena k Evropské asociaci univerzit.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University se nachází v Aarhusu v Dánsku a byla založena v roce 1928. Jejím děkanem je Thomas Pallesen; má 737 akademických pracovníků a 16 000 studentů. Je přidružena k Evropské univerzitní asociaci.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě se nachází v Aarhusu v Dánsku a byla založena v roce 1928. Jeho děkanem je Thomas Pallesen; má 737 akademických pracovníků a 16 000 studentů. Je přidružena k Evropské asociaci univerzit.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě v dánském Aarhusu je přidružena k Evropské asociaci univerzit. Vznikla v roce 1928 a jejím dnešním děkanem je Thomas Pallesen. Má 16 000 studentů a 737 zaměstnanců.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhuské univerzitě v Aarhusu v Dánsku je přidružena k Evropské univerzitní asociaci. Vznikla v roce 1928 a jejím děkanem je dnes Thomas Pallesen. Má 16 000 studentů a 737 zaměstnanců.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě v Aarhusu v Dánsku je přidružena k Evropské univerzitní asociaci. Byl vytvořen v roce 1928 a jeho dnešním děkanem je Thomas Pallesen. Má 16 000 studentů a 737 zaměstnanců.</lex>
+    </entry>
+    <entry category="University" eid="Id3" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | latinName | "Universitas Aarhusiensis"@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | latinName | "Universitas Aarhusiensis"@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | numberOfStudents | "16000"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | facultySize | "737"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | latinName | "Universitas Aarhusiensis"@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | latinName | "Universitas Aarhusiensis"</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">In 1928 the School of Business and Social Sciences at the Aarhus University was established in the city of Aarhus, Denmark. The Latin name is "Universitas Aarhusiensis" and the School is now affiliated with the European University Association. There are 1600 students and 737 academic staff.</lex>
+      <lex lang="ru" lid="Id1">В 1928 году в Орхусе, Дания, была создана Школа бизнеса и социальных наук Орхусского университета. Латинское название - "Universitas Aarhusiensis", и школа в настоящее время связана с Ассоциацией университетов Европы. В школе насчитывается 1600 студентов и 737 научных сотрудников.</lex>
+      <lex lang="en" lid="Id2">The School of Business and Social Sciences at the Aarhus University is located in Aarhus, Denmark. It was established in 1928, and it has 737 academic staff and 16,000 students. Its Latin name is "Universitas Aarhusiensis" and it is affiliated with the European University Association.</lex>
+      <lex lang="ru" lid="Id2">Школа бизнеса и социальных наук Орхусского университета расположена в Орхусе, Дания. Она была создана в 1928 году, она насчитывает 737 научных сотрудников и 16 000 студентов. Ее латинское название - "Universitas Aarhusiensis" и она входит в Ассоциацию университетов Европы.</lex>
+      <lex lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University, established in 1928, has 737 academic staff and 16,000 students. It is in Aarhus, Denmark and affiliated with the European University Association. Its Latin name is Universitas Aarhusiensis.</lex>
+      <lex lang="ru" lid="Id3">Школа бизнеса и социальных наук Орхусского университета, учрежденная в 1928 году, насчитывает 737 научных сотрудников и 16 000 студентов. Она находится в Орхусе, Дания, и связана с Ассоциацией университетов Европы. Ее латинское название - Universitas Aarhusiensis.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">European_University_Association | sameAs | Ассоциация_университетов_Европы</dbpedialink>
+        <dbpedialink direction="en2ru">1928 | sameAs | 1928_год</dbpedialink>
+        <dbpedialink direction="en2ru">Aarhus | sameAs | Орхус</dbpedialink>
+        <dbpedialink direction="en2ru">Denmark | sameAs | Дания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Universitas Aarhusiensis | sameAs | Universitas Aarhusiensis</link>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">V roce 1928 byla založena Vysoká škola obchodních a společenských věd na Aarhuské univerzitě v dánském Aarhusu. Její latinský název zní "Universitas Aarhusiensis" a škola je nyní přidružena k Evropské asociaci univerzit. Na škole studuje 1600 studentů a působí zde 737 akademických pracovníků.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">roce 1928 byla ve městě Aarhus v Dánsku založena School of Business and Social Sciences na Aarhus University. Latinský název je „Universitas Aarhusiensis“ a škola je nyní přidružena k Evropské univerzitní asociaci. Je zde 1600 studentů a 737 akademických pracovníků.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">V roce 1928 byla ve městě Aarhus v Dánsku založena Škola podnikání a sociálních věd na Aarhuské univerzitě. Latinský název je "Universitas Aarhusiensis" a škola je nyní přidružena k Evropské univerzitní asociaci. Je zde 1600 studentů a 737 akademických pracovníků.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě se nachází v dánském Aarhusu. Byla založena v roce 1928, má 737 akademických pracovníků a 16 000 studentů. Její latinský název zní "Universitas Aarhusiensis" a je přidružena k Evropské asociaci univerzit.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University se nachází v Aarhusu v Dánsku. Byla založena v roce 1928 a má 737 akademických pracovníků a 16 000 studentů. Jeho latinský název je „Universitas Aarhusiensis“ a je přidružen k Evropské univerzitní asociaci.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě se nachází v Aarhusu v Dánsku. Byla založena v roce 1928 a má 737 akademických pracovníků a 16 000 studentů. Jeho latinský název je "Universitas Aarhusiensis" a je přidružen k Evropské univerzitní asociaci.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě, která byla založena v roce 1928, má 737 akademických pracovníků a 16 000 studentů. Nachází se v dánském Aarhusu a je přidružena k Evropské asociaci univerzit. Její latinský název je Universitas Aarhusiensis.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University, založená v roce 1928, má 737 akademických pracovníků a 16 000 studentů. Nachází se v Aarhusu v Dánsku a je přidružen k Evropské univerzitní asociaci. Jeho latinský název je Universitas Aarhusiensis.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě, založená v roce 1928, má 737 akademických pracovníků a 16 000 studentů. Nachází se v Aarhusu v Dánsku a je přidružena k Evropské univerzitní asociaci. Jeho latinský název je Universitas Aarhusiensis.</lex>
+    </entry>
+    <entry category="University" eid="Id4" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | dean | "Thomas Pallesen"@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | facultySize | "737"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | latinName | "Universitas Aarhusiensis"@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | dean | "Thomas Pallesen"@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | numberOfStudents | "16000"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | latinName | "Universitas Aarhusiensis"@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | dean | "Thomas Pallesen"</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | latinName | "Universitas Aarhusiensis"</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Dean of the School of Business and Social Sciences at the Aarhus University in the city of Aarhus is Thomas Pallesen. The School was established in 1928 and is affiliated with the European University Association. The latin name for the School is "Universitas Aarhusiensis" and there are 737 academic staff and 16000 students.</lex>
+      <lex lang="ru" lid="Id1">Декан Школы бизнеса и социальных наук Орхусского университета в городе Орхус - Томас Паллесен. Школа была создана в 1928 году и связана с Ассоциацией университетов Европы. Латинское название школы - "Universitas Aarhusiensis", и в ней насчитывается 737 научных сотрудников и 16000 студентов.</lex>
+      <lex lang="en" lid="Id2">The School of Business and Social Sciences is located in Aarhus and it was established in 1928. It has 737 academic staff and 16,000 students. Its dean is Thomas Pallesen and it is affiliated with the European University Association.</lex>
+      <lex lang="ru" lid="Id2">Школа бизнеса и социальных наук расположена в Орхусе, и она была создана в 1928 году. В ее состав входят 737 научных сотрудников и 16 000 учащихся. Ее декан - Томас Паллесен, и она связана с Ассоциацией университетов Европы.</lex>
+      <lex lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University (Universitas Aarhusiensis, in Latin), was established in 1928 in Aarhus. The school has 737 academic staff and 1600 students, and is affiliated with the European University Association. Its dean is Thomas Pallesen.</lex>
+      <lex lang="ru" lid="Id3">1928 году в Орхусе была создана Школа бизнеса и социальных наук Орхусского университета (Universitas Aarhusiensis, на латинском языке). В школе работают 737 научных сотрудников и 1600 студентов, и она связана с Ассоциацией университетов Европы. Ее декан - Томас Паллесен.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">European_University_Association | sameAs | Ассоциация_университетов_Европы</dbpedialink>
+        <dbpedialink direction="en2ru">1928 | sameAs | 1928_год</dbpedialink>
+        <dbpedialink direction="en2ru">Aarhus | sameAs | Орхус</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Universitas Aarhusiensis | sameAs | Universitas Aarhusiensis</link>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+        <link direction="en2ru">Thomas Pallesen | sameAs | Томас Паллесен</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Děkanem Fakulty obchodních a společenských věd na Aarhuské univerzitě ve městě Aarhus je Thomas Pallesen. Škola byla založena v roce 1928 a je přidružena k Evropské asociaci univerzit. Latinský název školy zní "Universitas Aarhusiensis" a působí na ní 737 akademických pracovníků a 16 000 studentů.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Děkanem School of Business and Social Sciences na Aarhus University ve městě Aarhus je Thomas Pallesen. Škola byla založena v roce 1928 a je přidružena k Evropské univerzitní asociaci. Latinský název školy je „Universitas Aarhusiensis“ a má 737 akademických pracovníků a 16 000 studentů.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Děkanem fakulty obchodu a sociálních věd na Aarhuské univerzitě ve městě Aarhus je Thomas Pallesen. Škola byla založena v roce 1928 a je přidružena k Evropské univerzitní asociaci. Latinský název školy je "Universitas Aarhusiensis" a je zde 737 akademických pracovníků a 16000 studentů.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodních a společenských věd se nachází v Aarhusu a byla založena v roce 1928. Má 737 akademických pracovníků a 16 000 studentů. Jejím děkanem je Thomas Pallesen a je přidružena k Evropské asociaci univerzit.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences se nachází v Aarhusu a byla založena v roce 1928. Má 737 akademických pracovníků a 16 000 studentů. Jejím děkanem je Thomas Pallesen a je přidružena k Evropské univerzitní asociaci.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd sídlí v Aarhusu a byla založena v roce 1928. Má 737 akademických pracovníků a 16 000 studentů. Jejím děkanem je Thomas Pallesen a je přidružen k Evropské univerzitní asociaci.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě (latinsky Universitas Aarhusiensis) byla založena v roce 1928 v Aarhusu. Škola má 737 akademických pracovníků a 1600 studentů a je přidružena k Evropské asociaci univerzit. Jejím děkanem je Thomas Pallesen.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences at the Aarhus University (Universitas Aarhusiensis, latinsky), byla založena v roce 1928 v Aarhusu. Škola má 737 akademických pracovníků a 1600 studentů a je přidružena k Evropské univerzitní asociaci. Jeho děkanem je Thomas Pallesen.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě (Universitas Aarhusiensis, latinsky) byla založena v roce 1928 v Aarhusu. Škola má 737 akademických pracovníků a 1600 studentů a je přidružena k Evropské univerzitní asociaci. Jeho děkanem je Thomas Pallesen.</lex>
+    </entry>
+    <entry category="University" eid="Id5" shape="(X (X) (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | dean | "Thomas Pallesen"@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | numberOfStudents | "16000"^^xsd:nonNegativeInteger</otriple>
+        <otriple>European_University_Association | headquarters | Brussels</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | dean | "Thomas Pallesen"@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>European_University_Association | headquarters | Brussels</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | dean | "Thomas Pallesen"</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>European_University_Association | headquarter | Brussels</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The city of Aarhus in Denmark is the location of the School of Business and Social Sciences at the Aarhus University which was established in 1928 and affiliated with the European University Association headquartered in Brussels. The current Dean is Thomas Pallesen and there are 16000 students.</lex>
+      <lex lang="ru" lid="Id1">В городе Орхус в Дании расположена Школа бизнеса и социальных наук Орхусского университета, который был создан в 1928 году и является филиалом Ассоциации университетов Европы с штаб-квартирой в Брюссельском столичном регионе. Нынешний декан - Томас Паллесен, в школе учатся 16000 студентов.</lex>
+      <lex lang="en" lid="Id2">The School of Business and Social Sciences at the Aarhus University is located in Aarhus, Denmark. It was established in 1928 and it has 16,000 students. Its dean is Thomas Pallesen. It is affiliated to the European University Association in Brussels.</lex>
+      <lex lang="ru" lid="Id2">Школа бизнеса и социальных наук Орхусского университета расположена в Орхусе, Дания. Она была создана в 1928 году и насчитывает 16 тысяч студентов. Ее декан - Томас Паллесен. Она входит в Ассоциацию университетов Европы в Брюсселе.</lex>
+      <lex lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University in Aarhus, Denmark is affiliated with the European University Association which is headquartered in Brussels. It was established in 1928, has 16,000 students and its dean is Thomas Pallesen.</lex>
+      <lex lang="ru" lid="Id3">Школа бизнеса и социальных наук Орхусского университета в Орхусе, Дания, связана с Ассоциацией университетов Европы, штаб-квартира которой находится в Брюсселе. Она была создана в 1928 году, имеет 16 тысяч студентов, и ее декан - Томас Паллесен.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Brussels | sameAs | Брюссельский_столичный_регион</dbpedialink>
+        <dbpedialink direction="en2ru">European_University_Association | sameAs | Ассоциация_университетов_Европы</dbpedialink>
+        <dbpedialink direction="en2ru">1928 | sameAs | 1928_год</dbpedialink>
+        <dbpedialink direction="en2ru">Aarhus | sameAs | Орхус</dbpedialink>
+        <dbpedialink direction="en2ru">Denmark | sameAs | Дания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+        <link direction="en2ru">Thomas Pallesen | sameAs | Томас Паллесен</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">V dánském městě Aarhus sídlí Škola obchodních a společenských věd při Aarhuské univerzitě, která byla založena v roce 1928 a je přidružena k Evropské asociaci univerzit se sídlem v Bruselu. Současným děkanem je Thomas Pallesen a studuje zde 16 000 studentů.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Město Aarhus v Dánsku je sídlem School of Business and Social Sciences na Aarhus University, která byla založena v roce 1928 a je přidružena k Evropské univerzitní asociaci se sídlem v Bruselu. Současným děkanem je Thomas Pallesen a má 16 000 studentů.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Město Aarhus v Dánsku je sídlem Školy obchodních a sociálních věd na Aarhuské univerzitě, která byla založena v roce 1928 a přidružena k Evropské univerzitní asociaci se sídlem v Bruselu. Současným děkanem je Thomas Pallesen a je zde 16000 studentů.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">School of Business and Social Sciences na Aarhuské univerzitě se nachází v dánském Aarhusu. Byla založena v roce 1928 a má 16 000 studentů. Jejím děkanem je Thomas Pallesen. Je přidružena k Evropské asociaci univerzit v Bruselu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University se nachází v Aarhusu v Dánsku. Byla založena v roce 1928 a má 16 000 studentů. Jeho děkanem je Thomas Pallesen. Je přidružena k Evropské univerzitní asociaci v Bruselu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě se nachází v Aarhusu v Dánsku. Byla založena v roce 1928 a má 16 000 studentů. Jeho děkanem je Thomas Pallesen. Je přidružena k Evropské univerzitní asociaci v Bruselu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Vysoká škola obchodních a společenských věd na Aarhuské univerzitě v dánském Aarhusu je přidružena k Evropské asociaci univerzit, která sídlí v Bruselu. Byla založena v roce 1928, má 16 000 studentů a jejím děkanem je Thomas Pallesen.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhuské univerzitě v Aarhusu v Dánsku je přidružena k Evropské univerzitní asociaci se sídlem v Bruselu. Byla založena v roce 1928, má 16 000 studentů a jejím děkanem je Thomas Pallesen.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě v Aarhusu v Dánsku je přidružena k Evropské univerzitní asociaci, která má sídlo v Bruselu. Byla založena v roce 1928, má 16 000 studentů a jejím děkanem je Thomas Pallesen.</lex>
+    </entry>
+    <entry category="University" eid="Id6" shape="(X (X) (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
+        <otriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | established | 2000</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | "700"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Visvesvaraya_Technological_University | city | Belgaum</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | director | "Dr. G. P. Prabhukumar"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | established | 2000</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | 700</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The campus address of the Acharya Institute of Technology in India is "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090." The Director of the Institute which was established in 2000 is Dr G P Prabhukumar and there are 700 postgraduate students. The Institute is affiliated with the Visvesvaraya Technological University in the city of Belgaum.</lex>
+      <lex lang="ru" lid="Id1">Адрес кампуса Технологического института Ачарья в Индии - это "Солдеванахалли, Ачарья д-р Сарвапалли Радхакришнан Роуд, Хессаргхатта Мейн Роуд, Бангалор -- 560090". Директором Института, который был учрежден в 2000 году, является д-р Г. Прабхукумар, в институте также есть 700 аспирантов. Институт связан с Технологическим университетом Висвесварайя в городе Белгаум.</lex>
+      <lex lang="en" lid="Id2">The Acharya Institute of Technology's campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, India, 560090. It was established in 2000 and its director is Dr G.P. Prabhukumar. It is affiliated to the Visvesvaraya Technological UNiversity in Belgaum.</lex>
+      <lex lang="ru" lid="Id2">Кампус Технологического института Ачарья расположен в Солдеванахалли, Ачарья Д-р Сарвапалли Радхакришнан Роуд, Хессаргхатта Мейн Роуд, Бангалор, Индия, 560090. Он был создан в 2000 году, а его директором является доктор Г.П. Прабхукумар. Он входит в Технологический университет Висвесварайя в Белгауме.</lex>
+      <lex lang="en" lid="Id3">Acharya Institute of Technology in India is affiliated with Visvesvaraya Technological University in Belgium. The institute was created in 2000, has 700 post graduate students and its dean is Dr. G. P. Prabhukumar. The full address of the school is In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 56009.</lex>
+      <lex lang="ru" lid="Id3">Технологический институт Ачарья в Индии является филиалом Технологического университета Висвесварайя в Белгауме. Институт был создан в 2000 году, имеет 700 аспирантов, его декан - д-р Г.П. Прабхукумар. Полный адрес: Солденванахалли, Ачарья, д-р Сарвапалли Радхакришнан Роуд, Хессаргхатта Мейн Роуд, Бангалор - 560090.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Belgaum | sameAs | Белгаум</dbpedialink>
+        <dbpedialink direction="en2ru">India | sameAs | Индия</dbpedialink>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Dr. G. P. Prabhukumar | sameAs | доктор Г.П. Прабхукумар</link>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+        <link direction="en2ru">Visvesvaraya Technological University | sameAs | Технологический университет Висвесварайя</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Солдеванахалли</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Солденванахалли Ачарья Д-р Сарвапалли Радхакришнан Роуд, Хессаргхатта Мейн Роуд, Бангалор</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Ачарья</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Д-р Сарвапалли Радхакришнан Роуд</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Хессаргхатта Мейн Роуд</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Бангалор</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Adresa kampusu Acharya Institute of Technology v Indii je "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090". Ředitelem institutu, který byl založen v roce 2000, je Dr. G P Prabhukumar a studuje zde 700 postgraduálních studentů. Institut je přidružen k Visvesvaraya Technological University ve městě Belgaum.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Adresa kampusu Acharya Institute of Technology v Indii je "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090." Ředitelem Institutu, který byl založen v roce 2000, je Dr GP Prabhukumar a má 700 postgraduálních studentů. Institut je přidružen k Technologické univerzitě Visvesvaraya ve městě Belgaum.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Adresa Acharya Institute of Technology v Indii je "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090." Ředitelem institutu, který byl založen v roce 2000, je Dr. G P Prabhukumar a je zde 700 postgraduálních studentů. Institut je přidružen k Technologické univerzitě Visvesvaraya ve městě Belgaum.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Kampus Acharya Institute of Technology se nachází na adrese Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, Indie, 560090. Byla založena v roce 2000 a jejím ředitelem je Dr. G.P. Prabhukumar. Je přidružena k Visvesvaraya Technological UNiversity v Belgaumu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Areál Acharya Institute of Technology se nachází v Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, Indie, 560090. Byl založen v roce 2000 a jeho ředitelem je Dr. GP Prabhukumar. Je přidružena k Technologické univerzitě Visvesvaraya v Belgaumu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Areál Acharya Institute of Technology se nachází v Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, Indie, 560090. Byla založena v roce 2000 a jejím ředitelem je Dr. G.P. Prabhukumar. Je přidružena k podniku Visvesvaraya Technological UNiversity v Belgaumu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Acharya Institute of Technology v Indii je přidružen k Visvesvaraya Technological University v Belgii. Institut vznikl v roce 2000, má 700 postgraduálních studentů a jeho děkanem je Dr. G. P. Prabhukumar. Úplná adresa školy je In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 56009.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Acharya Institute of Technology v Indii je přidružen k Visvesvaraya Technological University v Belgii. Institut byl vytvořen v roce 2000, má 700 postgraduálních studentů a jeho děkanem je Dr. GP Prabhukumar. Úplná adresa školy je In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 56009.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Acharya Institute of Technology v Indii je přidružen k Visvesvaraya Technological University v Belgii. Institut vznikl v roce 2000, má 700 postgraduálních studentů a jeho děkanem je Dr. G. P. Prabhukumar. Úplná adresa školy je In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 56009.</lex>
+    </entry>
+    <entry category="University" eid="Id7" shape="(X (X) (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
+        <otriple>Acharya_Institute_of_Technology | established | 2000</otriple>
+        <otriple>Acharya_Institute_of_Technology | motto | "Nurturing Excellence"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | campus | "Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Visvesvaraya_Technological_University | city | Belgaum</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | established | 2000</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | motto | "Nurturing Excellence"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090 is the location of the Acharya Institute of Technology established in the state of Karnataka, India in the year 2000. The Institute, whose motto is "Nurturing Excellence" is affiliated with the Visvesvaraya Technological University in the city of Belgaum.</lex>
+      <lex lang="ru" lid="Id1">Солденванахалли, Ачарья, д-р Сарвапалли Радхакришнан Роуд, Хессаргхатта Мейн Роуд, Бангалор - 560090 - адрес Технологического института Ачарья, созданного в штате Карнатака, Индия, в 2000 году. Институт, девизом которого является «Воспитывать совершенство», является филиалом Технологического университета Висвесварайя в городе Белгаум.</lex>
+      <lex lang="en" lid="Id2">The Acharya Institute of Technology was established in 2000. Its campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, Karnataka, 560090. It is motto is "Nurturing Excellence" and it is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
+      <lex lang="ru" lid="Id2">Технологический институт Ачарья был создан в 2000 году. Его кампус расположен в Солдеванахалли, Ачарья д-р Сарвапалли Радхакришнан Роуд, Хессаргхатта Мейн Роуд, Бангалор, Карнатака, 560090. Его девиз - "Воспитывать совершенство", и он является филиалом Технологического университета Висвесварайя в Белгауме.</lex>
+      <lex lang="en" lid="Id3">Acharya Institute of Technology (motto: "Nurturing Excellence") was established in 2000 and is located at Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, Karnataka, India. The Institute is affiliated with Visvesvaraya Technological University of Belgaum.</lex>
+      <lex lang="ru" lid="Id3">Технологический институт Ачарья (девиз: "Воспитывать совершенство") был создан в 2000 году и находится по адресу: Солденванахалли, Ачарья, д-р Сарвапалли Радхакришнан Роуд, Хессаргхатта Мейн Роуд, Бангалор - 560090, Карнатака, Индия. Институт является филиалом Технологического университета Висвесварайя в Белгауме.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Belgaum | sameAs | Белгаум</dbpedialink>
+        <dbpedialink direction="en2ru">India | sameAs | Индия</dbpedialink>
+        <dbpedialink direction="en2ru">Karnataka | sameAs | Карнатака</dbpedialink>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+        <link direction="en2ru">Nurturing Excellence | sameAs | “Воспитывать совершенство”</link>
+        <link direction="en2ru">Visvesvaraya Technological University | sameAs | Технологический университет Висвесварайя</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Солдеванахалли</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Солденванахалли Ачарья Д-р Сарвапалли Радхакришнан Роуд, Хессаргхатта Мейн Роуд, Бангалор</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Ачарья</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Д-р Сарвапалли Радхакришнан Роуд</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Хессаргхатта Мейн Роуд</link>
+        <link direction="en2ru">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. | includes | Бангалор</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090 je místo, kde se nachází Acharya Institute of Technology zřízený ve státě Karnataka v Indii v roce 2000. Institut, jehož mottem je "Nurturing Excellence", je přidružen k Visvesvaraya Technological University ve městě Belgaum.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">V Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090 je sídlem Acharya Institute of Technology založeného ve státě Karnataka v Indii v roce 2000. Institut, jehož motto je „Nurturing Excellence“ je přidružený k Technologické univerzitě Visvesvaraya ve městě Belgaum.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">V Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090 je sídlo Acharya Institute of Technology založeného ve státě Karnataka v Indii v roce 2000. Institut, jehož mottem je "Výchova excelence", je přidružen k Technologické univerzitě Visvesvaraya ve městě Belgaum.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Acharya Institute of Technology byl založen v roce 2000. Jeho kampus se nachází ve městě Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, Karnataka, 560090. Jejím mottem je "Nurturing Excellence" a je přidružena k Visvesvaraya Technological University v Belgaumu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Acharya Institute of Technology byl založen v roce 2000. Jeho kampus se nachází v Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, Karnataka, 560090. Jeho heslem je „Nurturing Excellence“ a je přidružen k Visvesvaraya Technological univerzitě v Belgaumu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Acharya Institute of Technology byl založen v roce 2000. Jeho kampus se nachází v Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, Karnataka, 560090. Jeho mottem je "Nurturing Excellence" a je přidružen k Technologické univerzitě Visvesvaraya v Belgaumu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Acharya Institute of Technology (motto: "Nurturing Excellence") byl založen v roce 2000 a sídlí na adrese Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, Karnataka, Indie. Institut je přidružen k Visvesvaraya Technological University of Belgaum.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Acharya Institute of Technology (motto: "Nurturing Excellence") byl založen v roce 2000 a sídlí na Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, Karnataka, Indie. Institut je přidružen k Visvesvaraya Technological University of Belgaum.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Acharya Institute of Technology (motto: "Nurturing Excellence") byl založen v roce 2000 a sídlí v Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, Karnataka, Indie. Institut je přidružen k Technologické univerzitě Visvesvaraya v Belgaumu.</lex>
+    </entry>
+  </entries>
+</benchmark>

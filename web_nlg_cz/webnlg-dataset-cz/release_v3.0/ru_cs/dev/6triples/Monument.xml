@@ -1,0 +1,177 @@
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="Id1" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">President Ahmet Davutoglu is the leader of Turkey. The capital city is Ankara, but it is in Izmir that the Ataturk monument designed by Pietro Canonica and inaugurated on 27 July 1932 is located.</lex>
+      <lex lang="ru" lid="Id1">Лидер Турции - Ахмет Давутоглу. Столица - это Анкара, но именно в Измире находится памятник Ататюрку, спроектированный Пьетро Каноника и открытый 27 июля 1932 года.</lex>
+      <lex lang="en" lid="Id2">Ankara is the capital of Turkey, The country's leader is President Ahmet Davutoglu and it is the location of the Ataturk monument designed by Pietro Canonica which was inaugurated on 27 July 1932.</lex>
+      <lex lang="ru" lid="Id2">Анкара - столица Турции, лидером страны является Президент Ахмет Давутоглу, и это расположение памятника Ататюрку, разработанного Пьетро Каноникой, который был открыт 27 июля 1932 года.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkey | sameAs | Турция</dbpedialink>
+        <dbpedialink direction="en2ru">Ahmet_Davutoğlu | sameAs | Давутоглу,_Ахмет</dbpedialink>
+        <dbpedialink direction="en2ru">Ankara | sameAs | Анкара</dbpedialink>
+        <dbpedialink direction="en2ru">Pietro_Canonica | sameAs | Каноника,_Пьетро</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">President of Turkey | sameAs | Президент Турции</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | памятник Ататюрку</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | Измир</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Prezident Ahmet Davutoglu je vedoucím představitelem Turecka. Hlavním městem je Ankara, ale právě v Izmiru se nachází Atatürkův pomník navržený Pietrem Canonicou a slavnostně otevřený 27. července 1932.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Prezident Ahmet Davutoglu je vůdcem Turecka. Hlavním městem je Ankara, ale právě v Izmiru se nachází Atatürkův památník navržený Pietrem Canonicou a slavnostně otevřen 27. července 1932.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Prezident Ahmet Davutoglu je vůdcem Turecka. Hlavním městem je Ankara, ale právě v Izmiru se nachází Atatürkův pomník navržený Pietrem Canonicou a slavnostně otevřený 27. července 1932.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Ankara je hlavním městem Turecka, V čele země stojí prezident Ahmet Davutoglu a v Izmiru se nachází Atatürkův pomník navržený Pietrem Canonicou, který byl slavnostně otevřen 27. července 1932.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Ankara je hlavním městem Turecka, vůdcem země je prezident Ahmet Davutoglu a je to umístění Atatürkova pomníku navrženého Pietrem Canonicou, který byl slavnostně otevřen 27. července 1932.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Ankara je hlavním městem Turecka, vůdcem země je prezident Ahmet Davutoglu a jde o umístění Atatürkova pomníku navrženého Pietrem Canonicou, který byl slavnostně otevřen 27. července 1932.</lex>
+    </entry>
+    <entry category="Monument" eid="Id2" shape="(X (X) (X (X) (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | "Bronze"@en</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | "Bronze"</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Ataturk Monument is located in Izmir, Turkey and it is made of bronze. Turkeys leader is President Ahmet Davutogly and its capital is Ankara. Turkey's currency is the Turkish lira.</lex>
+      <lex lang="ru" lid="Id1">Памятник Ататюрку расположен в Измире, Турция, и он выполнен из бронзы. Лидер Турции - Президент Ахмет Давутоглу, и ее столица - Анкара. Валюта Турции - турецкая лира.</lex>
+      <lex lang="en" lid="Id2">The Atatürk Monument (İzmir), which is made of bronze, is found in Turkey, whose capital is Ankara and whose currency is the Turkish Lira. President of Turkey is the official title of the Turkish leader - his name is Ahmet Davutoglu.</lex>
+      <lex lang="ru" lid="Id2">Памятник Ататюрку (Измир), который изготовлен из бронзы, находится в Турции, чьей столицей является Анкара, и чьей валютой является турецкая лира. Президент Турции - официальная должность турецкого лидера, его имя - Ахмет Давутоглу.</lex>
+      <lex lang="en" lid="Id3">President Ahmet Davutoglu is the Turkish leader. The local currency is the Turkish lira and the capital city is Ankara, but it is in Izmir that the bronze Ataturk monument is located.</lex>
+      <lex lang="ru" lid="Id3">Президент Ахмет Давутоглу - лидер Турции. Местная валюта - турецкая лира, и столица - это Анкара, но именно в Измире находится бронзовый памятник Ататюрку.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkey | sameAs | Турция</dbpedialink>
+        <dbpedialink direction="en2ru">Ahmet_Davutoğlu | sameAs | Давутоглу,_Ахмет</dbpedialink>
+        <dbpedialink direction="en2ru">Turkish_lira | sameAs | Турецкая_лира</dbpedialink>
+        <dbpedialink direction="en2ru">Ankara | sameAs | Анкара</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bronze | sameAs | бронза</link>
+        <link direction="en2ru">President of Turkey | sameAs | Президент Турции</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | памятник Ататюрку</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | Измир</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Atatürkův pomník se nachází v tureckém Izmiru a je vyroben z bronzu. V čele Turecka stojí prezident Ahmet Davutogly a jeho hlavním městem je Ankara. Tureckou měnou je turecká lira.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Atatürkův památník se nachází v Izmiru v Turecku a je vyroben z bronzu. Vůdcem Turecka je prezident Ahmet Davutogly a jeho hlavním městem je Ankara. Turecká měna je turecká lira.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Atatürkův památník se nachází v tureckém Izmiru a je z bronzu. Krocaním vůdcem je prezident Ahmet Davutogly a jeho hlavním městem je Ankara. Tureckou měnou je turecká lira.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Atatürkův pomník (İzmir), který je vyroben z bronzu, se nachází v Turecku, jehož hlavním městem je Ankara a jehož měnou je turecká lira. Prezident Turecka je oficiální titul tureckého vůdce - jmenuje se Ahmet Davutoglu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Atatürkův památník (İzmir), který je vyroben z bronzu, se nachází v Turecku, jehož hlavním městem je Ankara a jehož měnou je turecká lira. Prezident Turecka je oficiální titul tureckého vůdce – jmenuje se Ahmet Davutoglu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Atatürkův památník (İzmir), který je vyroben z bronzu, se nachází v Turecku, jehož hlavním městem je Ankara a jehož měnou je turecká Lira. Prezident Turecka je oficiální titul tureckého vůdce - jmenuje se Ahmet Davutoglu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Prezident Ahmet Davutoglu je turecký vůdce. Místní měnou je turecká lira a hlavním městem Ankara, ale právě v Izmiru se nachází bronzový Atatürkův pomník.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Tureckým vůdcem je prezident Ahmet Davutoglu. Místní měnou je turecká lira a hlavním městem je Ankara, ale právě v Izmiru se nachází bronzový Atatürkův pomník.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Tureckým vůdcem je prezident Ahmet Davutoglu. Místní měnou je turecká lira a hlavním městem je Ankara, ale bronzový Atatürkův pomník se nachází právě v Izmiru.</lex>
+    </entry>
+    <entry category="Monument" eid="Id3" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | "Bronze"@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | "Bronze"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Ahmet Davutoglu is President of Turkey whose capital is Ankara. The bronze Ataturk Monument found in Turkey was inaugurated on July 27th 1932.</lex>
+      <lex lang="ru" lid="Id1">Ахмет Давутоглу - президент Турции, чьей столицей является Анкара. Памятник Ататюрку из бронзы, находящийся Турции, был открыт 27 июля 1932 года.</lex>
+      <lex lang="en" lid="Id2">The President of Turkey is Ahmet Davutoglu. The capital is Ankara, but it is in Izmir that the bronze Ataturk monument is located and was inaugurated on 27 July 1932. .</lex>
+      <lex lang="ru" lid="Id2">Президентом Турции является Ахмет Давутоглу. Столица - это Анкара, но именно в Измире находится бронзовый памятник Ататюрку, который был открыт 27 июля 1932 года.</lex>
+      <lex lang="en" lid="Id3">President Ahmet Davutoglu is the leader of Turkey which has the capital city of Ankara. The country is the location of the bronze Ataturk monument inaugurated on 27 July 1932 in Izmir.</lex>
+      <lex lang="ru" lid="Id3">Президент Ахмет Давутоглу - лидер Турции, которая имеет столицу в Анкаре. Страна является местом расположения бронзового памятника Ататюрку, который был открыт 27 июля 1932 года в Измире.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkey | sameAs | Турция</dbpedialink>
+        <dbpedialink direction="en2ru">Ahmet_Davutoğlu | sameAs | Давутоглу,_Ахмет</dbpedialink>
+        <dbpedialink direction="en2ru">Ankara | sameAs | Анкара</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bronze | sameAs | бронза</link>
+        <link direction="en2ru">President of Turkey | sameAs | Президент Турции</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | памятник Ататюрку</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | Измир</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Ahmet Davutoglu je prezidentem Turecka, jehož hlavním městem je Ankara. Bronzový Atatürkův pomník, který se nachází v Turecku, byl slavnostně odhalen 27. července 1932.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Ahmet Davutoglu je prezidentem Turecka, jehož hlavním městem je Ankara. Bronzový Atatürkův památník nalezený v Turecku byl slavnostně otevřen 27. července 1932.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Ahmet Davutoglu je prezidentem Turecka, jehož hlavním městem je Ankara. Bronzový Atatürkův památník nalezený v Turecku byl slavnostně otevřen 27. července 1932.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Prezidentem Turecka je Ahmet Davutoglu. Hlavním městem je Ankara, ale právě v Izmiru se nachází bronzový Atatürkův pomník, který byl slavnostně odhalen 27. července 1932. .</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Tureckým prezidentem je Ahmet Davutoglu. Hlavním městem je Ankara, ale právě v Izmiru se nachází bronzový Atatürkův pomník, který byl slavnostně otevřen 27. července 1932.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Prezidentem Turecka je Ahmet Davutoglu. Hlavním městem je Ankara, ale právě v Izmiru se nachází bronzový Atatürkův pomník, který byl slavnostně otevřen 27. července 1932.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">V čele Turecka, jehož hlavním městem je Ankara, stojí prezident Ahmet Davutoglu. V zemi se nachází bronzový Atatürkův pomník, který byl slavnostně odhalen 27. července 1932 v Izmiru.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Prezident Ahmet Davutoglu je vůdcem Turecka, jehož hlavním městem je Ankara. V zemi se nachází bronzový Atatürkův pomník, který byl slavnostně otevřen 27. července 1932 v Izmiru.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Prezident Ahmet Davutoglu je vůdcem Turecka, které má hlavní město Ankaru. Země je místem bronzového Atatürkova pomníku slavnostně otevřeného dne 27. července 1932 v Izmiru.</lex>
+    </entry>
+    <entry category="Monument" eid="Id4" shape="(X (X (X) (X) (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">President Ahmet Davutoglu is the leader of Turkey, The local currency is the Turkish lira and the capital city is Ankara, although Istanbul is the largest. Izmir, Turkey is the location of the Ataturk monument.</lex>
+      <lex lang="ru" lid="Id1">Президент Ахмет Давутоглу - лидер Турции, местной валютой является турецкая лира, а столица находится в Анкаре, хотя Стамбул - самый крупный город. Измир, Турция - место расположения памятника Ататюрку.</lex>
+      <lex lang="en" lid="Id2">The President of Turkey is Ahmet Davutoglu and it's capital city is Ankara. The largest city in Turkey is Istanbul. The turkish currency is the Turkish lira. The Atatürk Monument is located in İzmir.</lex>
+      <lex lang="ru" lid="Id2">Президент Турции - Ахмет Давутоглу, а ее столица - это Анкара. Самый крупный город в Турции - Стамбул. Турецкая валюта - это турецкая лира. Памятник Ататюрку расположен в Измире.</lex>
+      <lex lang="en" lid="Id3">President and leader of Turkey, where the currency is the Turkish lira is Ahmet Davutoglu. The capital city is Ankara and the largest city is Istanbul although it is in Izmir that the Ataturk Monument is located.</lex>
+      <lex lang="ru" lid="Id3">Президентом и лидером Турции, где валютой является турецкая лира, является Ахмет Давутоглу. Столица находится в Анкаре, самый крупный город - Стамбул, хотя именно в Измире находится памятник Ататюрку.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkey | sameAs | Турция</dbpedialink>
+        <dbpedialink direction="en2ru">Ahmet_Davutoğlu | sameAs | Давутоглу,_Ахмет</dbpedialink>
+        <dbpedialink direction="en2ru">Turkish_lira | sameAs | Турецкая_лира</dbpedialink>
+        <dbpedialink direction="en2ru">Istanbul | sameAs | Стамбул</dbpedialink>
+        <dbpedialink direction="en2ru">Ankara | sameAs | Анкара</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">President of Turkey | sameAs | Президент Турции</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | памятник Ататюрку</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | Измир</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">V čele Turecka stojí prezident Ahmet Davutoglu, Místní měnou je turecká lira a hlavním městem Ankara, i když největším městem je Istanbul. V tureckém Izmiru se nachází Atatürkův památník.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Prezident Ahmet Davutoglu je vůdcem Turecka, místní měnou je turecká lira a hlavním městem je Ankara, ačkoli Istanbul je největší. Izmir, Turecko je umístění Atatürkova pomníku.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Prezident Ahmet Davutoglu je vůdcem Turecka, místní měnou je turecká lira a hlavním městem je Ankara, ačkoli Istanbul je největší. Izmir, Turecko je místo, kde je Atatürkův pomník.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Prezidentem Turecka je Ahmet Davutoglu a jeho hlavním městem je Ankara. Největším městem Turecka je Istanbul. Tureckou měnou je turecká lira. Atatürkův pomník se nachází ve městě İzmir.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Prezidentem Turecka je Ahmet Davutoglu a jeho hlavním městem je Ankara. Největším městem Turecka je Istanbul. Turecká měna je turecká lira. Atatürkův památník se nachází v İzmiru.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Prezident Turecka je Ahmet Davutoglu a jeho hlavním městem je Ankara. Největším městem v Turecku je Istanbul. Tureckou měnou je turecká lira. Atatürkův památník se nachází v İzmiru.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Prezidentem a vůdcem Turecka, jehož měnou je turecká lira, je Ahmet Davutoglu. Hlavním městem je Ankara a největším městem Istanbul, i když právě v İzmiru se nachází Atatürkův památník.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Prezident a vůdce Turecka, kde je měnou turecká lira, je Ahmet Davutoglu. Hlavním městem je Ankara a největším městem je Istanbul, i když právě v Izmiru se nachází Atatürkův památník.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Prezident a vůdce Turecka, jehož měnou je turecká lira, je Ahmet Davutoglu. Hlavním městem je Ankara a největším městem Istanbul, i když Atatürkův památník se nachází právě v Izmiru.</lex>
+    </entry>
+  </entries>
+</benchmark>

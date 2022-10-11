@@ -1,0 +1,232 @@
+<benchmark>
+  <entries>
+    <entry category="University" eid="Id1" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+        <otriple>Aarhus | governmentType | Magistrate</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+        <mtriple>Aarhus | governmentType | Magistrate</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The School of Business and Social Sciences at the Aarhus University at Arhus was established in 1928. Arhus has a Magistrate government.</lex>
+      <lex lang="ru" lid="Id1">Школа бизнеса и социальных наук Орхусского университета была основана в 1928 году. У Орхуса есть магистратское правительство.</lex>
+      <lex lang="en" lid="Id2">The city of Aarhus has a magistrate type of government and is the location of the School of Business and Social Sciences at Aarhus University which was established in 1928.</lex>
+      <lex lang="ru" lid="Id2">Город Орхус имеет магистратский тип правления и является местом расположения Школы бизнеса и социальных наук Орхусского университета, который был создан в 1928 году.</lex>
+      <lex lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University was established in 1928. Aarus is governed by a magistrate.</lex>
+      <lex lang="ru" lid="Id3">Школа бизнеса и социальных наук Орхусского университета была основана в 1928 году. Орхус управляется магистратом.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">1928 | sameAs | 1928_год</dbpedialink>
+        <dbpedialink direction="en2ru">Aarhus | sameAs | Орхус</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+        <link direction="en2ru">Magistrate | sameAs | магистрат</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě v Arhusu byla založena v roce 1928. Arhus má magistrátní vládu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University v Arhusu byla založena v roce 1928. Arhus má smírčí vládu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě v Arhusu byla založena v roce 1928. Arhus má magistrátní vládu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Město Aarhus má magistrátní typ vlády a sídlí zde School of Business and Social Sciences na Aarhus University, která byla založena v roce 1928.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Město Aarhus má magistrátní typ vlády a je sídlem School of Business and Social Sciences na Aarhus University, která byla založena v roce 1928.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Město Aarhus má magistrátní typ vlády a je sídlem Školy podnikání a sociálních věd na Aarhuské univerzitě, která byla založena v roce 1928.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě byla založena v roce 1928. Aarus je spravován magistrátem.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University byla založena v roce 1928. Aarus je řízen soudcem.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě byla založena v roce 1928. Aarus je řízen magistrátem.</lex>
+    </entry>
+    <entry category="University" eid="Id2" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Denmark | leader | Lars_Løkke_Rasmussen</otriple>
+        <otriple>Denmark | religion | Church_of_Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>Denmark | leader | Lars_Løkke_Rasmussen</mtriple>
+        <mtriple>Denmark | religion | Church_of_Denmark</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The School of Business and Social Sciences at the Aarhus University is located in Denmark. Denmark's leader is Lars Lokke Rasmussen and Denmark's religion is the Church of Denmark.</lex>
+      <lex lang="ru" lid="Id1">Школа бизнеса и социальных наук Орхусского университета находится в Дании. Лидером Дании является Ларс Лёкке Расмуссен, а религия Дании - церковь Датского Народа.</lex>
+      <lex lang="en" lid="Id2">The School of Business and Social Sciences at the Aarhus University is located in Denmark. The leader of the country is Lars Lokke Rasmussen, and the state religion is the Church of Denmark.</lex>
+      <lex lang="ru" lid="Id2">Школа бизнеса и социальных наук Орхусского университета расположена в Дании. Лидером страны является Ларс Лёкке Расмуссен, а государственная религия - Церковь Датского Народа.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Lars_Løkke_Rasmussen | sameAs | Расмуссен,_Ларс_Лёкке</dbpedialink>
+        <dbpedialink direction="en2ru">Church_of_Denmark | sameAs | Церковь_Датского_Народа</dbpedialink>
+        <dbpedialink direction="en2ru">Denmark | sameAs | Дания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">School of Business and Social Sciences at the Aarhus University se nachází v Dánsku. Vůdcem Dánska je Lars Lokke Rasmussen a dánským náboženstvím je Dánská církev.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University se nachází v Dánsku. Dánským vůdcem je Lars Lokke Rasmussen a dánským náboženstvím je Dánská církev.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě sídlí v Dánsku. Vůdcem Dánska je Lars Lokke Rasmussen a dánským náboženstvím je dánská církev.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě se nachází v Dánsku. Vůdcem země je Lars Lokke Rasmussen a státním náboženstvím je Dánská církev.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University se nachází v Dánsku. Vůdcem země je Lars Lokke Rasmussen a státním náboženstvím je Dánská církev.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě sídlí v Dánsku. Vůdcem země je Lars Lokke Rasmussen a státním náboženstvím je dánská církev.</lex>
+    </entry>
+    <entry category="University" eid="Id3" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Denmark | leaderTitle | Monarchy_of_Denmark</otriple>
+        <otriple>Denmark | leader | Lars_Løkke_Rasmussen</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Denmark | leaderName | Lars_Løkke_Rasmussen</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Denmark | leaderTitle | Monarchy_of_Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>Denmark | leaderTitle | Monarchy_of_Denmark</mtriple>
+        <mtriple>Denmark | leader | Lars_Løkke_Rasmussen</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The School of Business and Social Sciences at the Aarhus University is located in Denmark. Denmark has a monarch and Denmark's leader is called Lars Lokke Rasmussen.</lex>
+      <lex lang="ru" lid="Id1">Школа бизнеса и социальных наук Орхусского университета расположена в Дании. У Дании есть монарх, а лидером Дании является Ларс Лёкке Расмуссен.</lex>
+      <lex lang="en" lid="Id2">Lars Lokke Rasmussen is the leader of Denmark and has the title of Monarchy of Denmark. The country is the location of the School of Business and Social Sciences at the Aarhus University.</lex>
+      <lex lang="ru" lid="Id2">Ларс Лёкке Расмуссен является лидером Дании и носит титул монарха Дании. В стране находится Школа бизнеса и социальных наук Орхусского университета.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Lars_Løkke_Rasmussen | sameAs | Расмуссен,_Ларс_Лёкке</dbpedialink>
+        <dbpedialink direction="en2ru">Denmark | sameAs | Дания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+        <link direction="en2ru">Monarchy of Denmark | sameAs | монархия Дании</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě se nachází v Dánsku. Dánsko má panovníka a vůdce Dánska se jmenuje Lars Lokke Rasmussen.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University se nachází v Dánsku. Dánsko má panovníka a vůdce Dánska se jmenuje Lars Lokke Rasmussen.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě sídlí v Dánsku. Dánsko má monarchu a dánský vůdce se jmenuje Lars Lokke Rasmussen.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Lars Lokke Rasmussen je vůdcem Dánska a má titul Monarchie Dánska. V zemi sídlí Škola obchodních a společenských věd při Aarhuské univerzitě.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Lars Lokke Rasmussen je vůdcem Dánska a má titul dánské monarchie. V zemi sídlí School of Business and Social Sciences na Aarhuské univerzitě.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Lars Lokke Rasmussen je vůdcem Dánska a má titul dánské monarchie. Země je sídlem Školy podnikání a sociálních věd na Aarhuské univerzitě.</lex>
+    </entry>
+    <entry category="University" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | latinName | "Universitas Aarhusiensis"@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | latinName | "Universitas Aarhusiensis"</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The School of Business and Social Sciences at the Aarhus University (Latin name - "Universitas Aarhusiensis" was established in 1928 and it is affiliated with the European University Association.</lex>
+      <lex lang="ru" lid="Id1">Школа бизнеса и социальных наук Орхусского университета (латинское название - "Universitas Aarhusiensis" была создана в 1928 году и связана с Ассоциацией университетов Европы.</lex>
+      <lex lang="en" lid="Id2">"Universias Aarhusiensis" is the latin name of the School of Business and Social Sciences at Aarhus University which is affiliated to the European University Association. The School was established in 1928.</lex>
+      <lex lang="ru" lid="Id2">"Universitas Aarhusiensis" является латинским названием Школы бизнеса и социальных наук Орхусского университета, который входит в Ассоциацию университетов Европы. Школа была создана в 1928 году.</lex>
+      <lex lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University, affiliated with the European University Association, was established in 1928. Its Latin name is Universitas Aarhusiensis.</lex>
+      <lex lang="ru" lid="Id3">В 1928 году была создана Школа бизнеса и социальных наук Орхусского университета, связанная с Ассоциацией университетов Европы. Его латинское название - Universitas Aarhusiensis.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">European_University_Association | sameAs | Ассоциация_университетов_Европы</dbpedialink>
+        <dbpedialink direction="en2ru">1928 | sameAs | 1928_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+        <link direction="en2ru">Universitas Aarhusiensis | sameAs | Universitas Aarhusiensis</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě (latinský název - "Universitas Aarhusiensis" byla založena v roce 1928 a je přidružena k Evropské asociaci univerzit.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University (latinský název - "Universitas Aarhusiensis" byla založena v roce 1928 a je přidružena k Evropské univerzitní asociaci).</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě (latinský název - "Universitas Aarhusiensis" byla založena v roce 1928 a je přidružena k Evropské univerzitní asociaci.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">"Universias Aarhusiensis" je latinský název Školy obchodních a společenských věd na Aarhuské univerzitě, která je přidružena k Evropské asociaci univerzit. Škola byla založena v roce 1928.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">„Universias Aarhusiensis“ je latinský název School of Business and Social Sciences na Aarhus University, která je přidružena k Evropské asociaci univerzit. Škola byla založena v roce 1928.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">"Universias Aarhusiensis" je latinský název Školy podnikání a sociálních věd na Aarhuské univerzitě, která je přidružena k Evropské univerzitní asociaci. Škola byla založena v roce 1928.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě, která je přidružená k Evropské asociaci univerzit, byla založena v roce 1928. Její latinský název zní Universitas Aarhusiensis.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University, přidružená k European University Association, byla založena v roce 1928. Její latinský název je Universitas Aarhusiensis.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě, přidružená k Evropské univerzitní asociaci, byla založena v roce 1928. Jeho latinský název je Universitas Aarhusiensis.</lex>
+    </entry>
+    <entry category="University" eid="Id5" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The School of Business and Social Sciences at the Aarhus University is located in Denmark, has 16,000 students and was established in 1928.</lex>
+      <lex lang="ru" lid="Id1">Школа бизнеса и социальных наук в Орхусском университете расположена в Дании, имеет 16 000 студентов и была создана в 1928 году.</lex>
+      <lex lang="en" lid="Id2">The School of Business and Social Sciences at Aarhus University in Denmark was established in 1928 and has 16000 students.</lex>
+      <lex lang="ru" lid="Id2">Школа бизнеса и социальных наук Орхусского университета в Дании была создана в 1928 году и насчитывает 16000 студентов.</lex>
+      <lex lang="en" lid="Id3">School of Business and Social Sciences at the Aarhus University in Denmark was established in 1928 and currently has a student body of 16000.</lex>
+      <lex lang="ru" lid="Id3">Школа бизнеса и социальных наук Орхусского университета в Дании была создана в 1928 году и в настоящее время насчитывает 16000 студентов.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">1928 | sameAs | 1928_год</dbpedialink>
+        <dbpedialink direction="en2ru">Denmark | sameAs | Дания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">The School of Business and Social Sciences at the Aarhus University se nachází v Dánsku, má 16 000 studentů a byla založena v roce 1928.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University se nachází v Dánsku, má 16 000 studentů a byla založena v roce 1928.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě sídlí v Dánsku, má 16 000 studentů a byla založena v roce 1928.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě v Dánsku byla založena v roce 1928 a má 16 000 studentů.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University v Dánsku byla založena v roce 1928 a má 16 000 studentů.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě v Dánsku byla založena v roce 1928 a má 16000 studentů.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">School of Business and Social Sciences na Aarhuské univerzitě v Dánsku byla založena v roce 1928 a v současné době má 16000 studentů.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University v Dánsku byla založena v roce 1928 a v současné době má 16 000 studentů.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě v Dánsku byla založena v roce 1928 a v současné době má počet studentů 16000.</lex>
+    </entry>
+    <entry category="University" eid="Id6" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
+        <otriple>Acharya_Institute_of_Technology | established | 2000</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Visvesvaraya_Technological_University | city | Belgaum</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | established | 2000</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Acharya Institute of Technology was established in 2000, and is affiliated with the Visvesvaraya Technological University based in Belgaum.</lex>
+      <lex lang="ru" lid="Id1">Технологический институт Ачарья был создан в 2000 году и связан с Технологическим университетом Висвесварайя, базирующимся в Белгауме.</lex>
+      <lex lang="en" lid="Id2">The Acharya Institute of Technology was established in 2000 and is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
+      <lex lang="ru" lid="Id2">Технологический институт Ачарья был создан в 2000 году и связан с Технологическим университетом Висвесварайя в Белгауме.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Belgaum | sameAs | Белгаум</dbpedialink>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Visvesvaraya Technological University | sameAs | Технологический университет Висвесварайя</link>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Acharya Institute of Technology byl založen v roce 2000 a je přidružen k Visvesvaraya Technological University se sídlem v Belgaumu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Acharya Institute of Technology byl založen v roce 2000 a je přidružen k Technologické univerzitě Visvesvaraya se sídlem v Belgaumu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Acharya Institute of Technology byl založen v roce 2000 a je přidružen k Technologické univerzitě Visvesvaraya se sídlem v Belgaumu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Acharya Institute of Technology byl založen v roce 2000 a je přidružen k Visvesvaraya Technological University v Belgaumu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Technologický institut Acharya byl založen v roce 2000 a je přidružen k Technologické univerzitě Visvesvaraya v Belgaumu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Acharya Institute of Technology byl založen v roce 2000 a je přidružen k Visvesvaraya Technological University v Belgaumu.</lex>
+    </entry>
+    <entry category="University" eid="Id7" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
+        <otriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | "700"^^xsd:nonNegativeInteger</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Visvesvaraya_Technological_University | city | Belgaum</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | 700</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Acharya Institute of Technology is affiliated with Visvesvaraya Technological University and has 700 postgraduate students. The university is located in Belgaum.</lex>
+      <lex lang="ru" lid="Id1">Технологический институт Ачарья входит в состав Технологического университета Висвесварайя и имеет 700 аспирантов. Университет расположен в Белгауме.</lex>
+      <lex lang="en" lid="Id2">The Visvesvaraya Technological university in Belgaum, is affiliated with the Acharya Institute of Technology, which has 700 postgraduate students.</lex>
+      <lex lang="ru" lid="Id2">Технологический университет Висвесварайя в Белгауме связан с Технологическим институтом Ачарья, в котором обучается 700 аспирантов.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Belgaum | sameAs | Белгаум</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Visvesvaraya Technological University | sameAs | Технологический университет Висвесварайя</link>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Acharya Institute of Technology je přidružen k Visvesvaraya Technological University a má 700 postgraduálních studentů. Univerzita se nachází ve městě Belgaum.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Acharya Institute of Technology je přidružen k Technologické univerzitě Visvesvaraya a má 700 postgraduálních studentů. Univerzita se nachází ve městě Belgaum.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Acharya Institute of Technology je přidružen k Visvesvaraya Technological University a má 700 postgraduálních studentů. Univerzita sídlí v Belgaumu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Technologická univerzita Visvesvaraya v Belgaumu je přidružená k Acharya Institute of Technology, který má 700 postgraduálních studentů.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Technologická univerzita Visvesvaraya v Belgaumu je přidružena k Acharya Institute of Technology, který má 700 postgraduálních studentů.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Technologická univerzita Visvesvaraya v Belgaumu je přidružena k Technologickému institutu Acharya, který má 700 postgraduálních studentů.</lex>
+    </entry>
+  </entries>
+</benchmark>

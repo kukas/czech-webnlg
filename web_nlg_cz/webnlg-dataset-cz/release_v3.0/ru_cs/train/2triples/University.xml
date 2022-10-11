@@ -1,0 +1,1027 @@
+<benchmark>
+  <entries>
+    <entry category="University" eid="Id1" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+        <otriple>Romania | anthem | Deșteaptă-te,_române!</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+        <mtriple>Romania | anthem | Deșteaptă-te,_române!</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">1 Decembrie 1918 University is located in Romania where the anthem is Deșteaptă-te, române!</lex>
+      <lex lang="ru" lid="Id1">Университет "1 декабря 1918" находится в Румынии, где гимном является “Deșteaptă-te române!”.</lex>
+      <lex lang="en" lid="Id2">The 1 Decembrie 1918 University is in Romania whose national anthem is Deșteaptă-te, române!</lex>
+      <lex lang="ru" lid="Id2">Университет "1 декабря 1918" расположен в Румынии, чей национальный гимн - "Проснись, румын!".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Deșteaptă-te,_române! | sameAs | Гимн_Румынии</dbpedialink>
+        <dbpedialink direction="en2ru">Romania | sameAs | Румыния</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">1 Decembrie 1918 University | sameAs | Университет «1 декабря 1918»</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">1. Decembrie 1918 University se nachází v Rumunsku, kde hymna zní Deșteaptă-te, române!</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">1. prosince 1918 Univerzita se nachází v Rumunsku, kde je hymnou Deșteaptă-te, române!</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">1 Decembrie 1918 Univerzita se nachází v Rumunsku, kde zní hymna Deșteaptă-te, române!</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Univerzita 1 Decembrie 1918 se nachází v Rumunsku, jejíž hymnou je Deșteaptă-te, române!</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Univerzita 1. prosince 1918 je v Rumunsku, jejíž národní hymnou je Deșteaptă-te, române!</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Univerzita 1. Decembrie 1918 je v Rumunsku, jehož národní hymnou je Deșteaptă-te, române!</lex>
+    </entry>
+    <entry category="University" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | latinName | "Universitas Apulensis"@en</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | latinName | "Universitas Apulensis"</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 1 Decembrie 1918 University of Romania has the latin name Universitas Apulensis.</lex>
+      <lex lang="ru" lid="Id1">У университета «1 декабря 1918» в Румынии есть латинское название Universitas Apulensis.</lex>
+      <lex lang="en" lid="Id2">1 Decembrie 1918 University 's latin name is Universitas Apulensis and is located in Romania.</lex>
+      <lex lang="ru" lid="Id2">Латинское название находящегося в Румынии Университета "1 декабря 1918" - Universitas Apulensis.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Romania | sameAs | Румыния</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Universitas Apulensis | sameAs | Universitas Apulensis</link>
+        <link direction="en2ru">1 Decembrie 1918 University | sameAs | Университет «1 декабря 1918»</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Univerzita 1. prosince 1918 v Rumunsku má latinský název Universitas Apulensis.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Rumunská univerzita z 1. prosince 1918 má latinský název Universitas Apulensis.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Univerzita Rumunska z 1. prosince 1918 nese latinský název Universitas Apulensis.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Univerzita 1. prosince 1918 má latinský název Universitas Apulensis a nachází se v Rumunsku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">1. prosince 1918 Latinský název univerzity je Universitas Apulensis a nachází se v Rumunsku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">1 Decembrie 1918 Univerzitní latinský název je Universitas Apulensis a nachází se v Rumunsku.</lex>
+    </entry>
+    <entry category="University" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | rector | "Breaz Valer Daniel"@en</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | city | Alba_Iulia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | rector | "Breaz Valer Daniel"</mtriple>
+        <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Breaz Valer Daniel is the rector of the 1 Decembrie 1918 University in the city of Alba Iulia.</lex>
+      <lex lang="ru" lid="Id1">Бреаз Валер Даниэль - ректор университета «1 декабря 1918» в городе Алба-Юлия.</lex>
+      <lex lang="en" lid="Id2">The 1 Decembrie 1918 University is situated in the city of Alba lulia and the rector is Breaz Valer Daniel.</lex>
+      <lex lang="ru" lid="Id2">Университет "1 декабря 1918" находится в городе Алба-Юлия, а ректор - Бреаз Валер Даниэль.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Alba_Iulia | sameAs | Алба-Юлия</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Breaz Valer Daniel | sameAs | Бреаз Валер Даниэль</link>
+        <link direction="en2ru">1 Decembrie 1918 University | sameAs | Университет «1 декабря 1918»</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Breaz Valer Daniel je rektorem Univerzity 1. prosince 1918 ve městě Alba Iulia.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Breaz Valer Daniel je rektorem Univerzity 1. prosince 1918 ve městě Alba Iulia.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Breaz Valer Daniel je rektorem Univerzity 1. Decembrie 1918 ve městě Alba Iulia.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Univerzita 1 Decembrie 1918 se nachází ve městě Alba lulia a jejím rektorem je Breaz Valer Daniel.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Univerzita 1. prosince 1918 se nachází ve městě Alba lulia a rektorem je Breaz Valer Daniel.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Univerzita z 1. prosince 1918 se nachází ve městě Alba lulia a rektorem je Breaz Valer Daniel.</lex>
+    </entry>
+    <entry category="University" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | state | Alba</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | state | Alba</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 1 Decembrie 1918 University is situated in the state of Alba, Romania.</lex>
+      <lex lang="ru" lid="Id1">Университет «1 декабря 1918» находится в уезде Альба, Румыния.</lex>
+      <lex lang="en" lid="Id2">1 Decembrie 1918 University is in the state of Alba, Romania.</lex>
+      <lex lang="ru" lid="Id2">Университет "1 декабря 1918" находится в уезде Алба, Румыния.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Romania | sameAs | Румыния</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Alba | sameAs | Алба</link>
+        <link direction="en2ru">1 Decembrie 1918 University | sameAs | Университет «1 декабря 1918»</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Univerzita 1 Decembrie 1918 se nachází ve státě Alba v Rumunsku.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Univerzita 1. prosince 1918 se nachází ve státě Alba v Rumunsku.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Univerzita z 1. prosince 1918 se nachází ve státě Alba v Rumunsku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Univerzita 1 Decembrie 1918 se nachází ve státě Alba, Rumunsko.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Univerzita 1. prosince 1918 se nachází ve státě Alba v Rumunsku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">1. prosince 1918 Univerzita se nachází ve státě Alba v Rumunsku.</lex>
+    </entry>
+    <entry category="University" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | facultySize | "250"^^xsd:nonNegativeInteger</otriple>
+        <otriple>AWH_Engineering_College | city | "Kuttikkattoor"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | academicStaffSize | 250</mtriple>
+        <mtriple>AWH_Engineering_College | city | "Kuttikkattoor"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">There are 250 academic staff at the AWH Engineering College in the city of Kuttikkattoor.</lex>
+      <lex lang="ru" lid="Id1">В инженерном колледже «AWH» в городе Куттиккаттоор работают 250 научных сотрудников.</lex>
+      <lex lang="en" lid="Id2">AWH Engineering College in Kuttikkattoor has an academic staff size of 250 people.</lex>
+      <lex lang="ru" lid="Id2">Академический штат инженерного колледжа « AWH » Куттиккаттоора насчитывает 250 человек.</lex>
+      <lex lang="en" lid="Id3">AWH Engineering College has a staff size of 250 and is in the city of Kuttikkattoor.</lex>
+      <lex lang="ru" lid="Id3">Штат Инженерного колледжа «AWH» в городе Куттиккаттоор составляет 250 человек.</lex>
+      <links>
+        <link direction="en2ru">AWH Engineering College | sameAs | Инженерный колледж «AWH»</link>
+        <link direction="en2ru">Kuttikkattoor | sameAs | Куттиккаттоор</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Na AWH Engineering College ve městě Kuttikkattoor působí 250 akademických pracovníků.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Na AWH Engineering College ve městě Kuttikkattoor pracuje 250 akademických pracovníků.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Na AWH Engineering College ve městě Kuttikkattoor pracuje 250 akademických pracovníků.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">AWH Engineering College ve městě Kuttikkattoor má 250 akademických pracovníků.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">AWH Engineering College v Kuttikkattoor má akademický personál o velikosti 250 lidí.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">AWH Engineering College v Kuttikkattooru má akademický personál o velikosti 250 lidí.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">AWH Engineering College ve městě Kuttikkattoor má 250 zaměstnanců.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">AWH Engineering College má 250 zaměstnanců a nachází se ve městě Kuttikkattoor.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">AWH Engineering College má 250 zaměstnanců a je ve městě Kuttikkattoor.</lex>
+    </entry>
+    <entry category="University" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | country | India</otriple>
+        <otriple>AWH_Engineering_College | state | Kerala</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | country | India</mtriple>
+        <mtriple>AWH_Engineering_College | state | Kerala</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The AWH Engineering College is located in the state of Kerala, India.</lex>
+      <lex lang="ru" lid="Id1">Инженерный колледж "AWH" расположен в штате Керала, Индия.</lex>
+      <lex lang="en" lid="Id2">AWH Engineering College is in the State of Kerala in India.</lex>
+      <lex lang="ru" lid="Id2">Инженерный колледж «AWH» находится в штате Керала в Индии.</lex>
+      <lex lang="en" lid="Id3">AWH Engineering College is situated in the state of Kerala, India.</lex>
+      <lex lang="ru" lid="Id3">Инженерный колледж «AWH» находится в штате Керала в Индии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">India | sameAs | Индия</dbpedialink>
+        <dbpedialink direction="en2ru">Kerala | sameAs | Керала</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">AWH Engineering College | sameAs | Инженерный колледж «AWH»</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">AWH Engineering College se nachází ve státě Kerala v Indii.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">AWH Engineering College se nachází ve státě Kerala v Indii.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">AWH Engineering College se nachází ve státě Kerala v Indii.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">AWH Engineering College se nachází ve státě Kerala v Indii.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">AWH Engineering College se nachází ve státě Kerala v Indii.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">AWH Engineering College je ve státě Kérala v Indii.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">AWH Engineering College se nachází ve státě Kerala v Indii.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">AWH Engineering College se nachází ve státě Kerala, Indie.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">AWH Engineering College se nachází ve státě Kerala v Indii.</lex>
+    </entry>
+    <entry category="University" eid="Id7" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | country | India</otriple>
+        <otriple>India | river | Ganges</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | country | India</mtriple>
+        <mtriple>India | river | Ganges</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">AWH Engineering College is located in India where the Ganges river flows.</lex>
+      <lex lang="ru" lid="Id1">Инженерный колледж «AWH» находится в Индии, где протекает река Ганг.</lex>
+      <lex lang="en" lid="Id2">AWH Engineering College is in India where the Ganges River can be found.</lex>
+      <lex lang="ru" lid="Id2">Инженерный колледж «AWH» находится в Индии, где течет река Ганг.</lex>
+      <lex lang="en" lid="Id3">The biggest river of India is the Ganges. The AWH Engineering College is also located in India.</lex>
+      <lex lang="ru" lid="Id3">Самая большая река Индии - Ганг. Инженерный колледж «AWH» также находится в Индии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Ganges | sameAs | Ганг</dbpedialink>
+        <dbpedialink direction="en2ru">India | sameAs | Индия</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">AWH Engineering College | sameAs | Инженерный колледж «AWH»</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">AWH Engineering College se nachází v Indii, kde protéká řeka Ganga.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">AWH Engineering College se nachází v Indii, kde protéká řeka Ganga.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">AWH Engineering College se nachází v Indii, kde protéká řeka Ganga.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">AWH Engineering College se nachází v Indii, kde protéká řeka Ganga.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">AWH Engineering College je v Indii, kde se nachází řeka Ganga.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">AWH Engineering College je v Indii, kde se nachází řeka Ganga.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Největší indickou řekou je Ganga. AWH Engineering College se rovněž nachází v Indii.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Největší řekou Indie je Ganga. AWH Engineering College se také nachází v Indii.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Největší řekou Indie je Ganga. AWH Engineering College se nachází také v Indii.</lex>
+    </entry>
+    <entry category="University" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | established | 2001</otriple>
+        <otriple>AWH_Engineering_College | city | "Kuttikkattoor"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | established | 2001</mtriple>
+        <mtriple>AWH_Engineering_College | city | "Kuttikkattoor"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">In 2001 the AWH Engineering College was established in the city of Kuttikkattoor.</lex>
+      <lex lang="ru" lid="Id1">В 2001 году в городе Куттиккаттоор был создан инженерный колледж «AWH».</lex>
+      <lex lang="en" lid="Id2">AWH Engineering College in Kuttikkattoor was established in 2001.</lex>
+      <lex lang="ru" lid="Id2">Инженерный колледж "AWH" в Куттиккаттооре был основан в 2001 году.</lex>
+      <lex lang="en" lid="Id3">AWH Engineering College of the city Kuttikkattoor was established in 2001.</lex>
+      <lex lang="ru" lid="Id3">Инженерный колледж «AWH» города Куттиккаттоор был основан в 2001 году.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">2001 | sameAs | 2001_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">AWH Engineering College | sameAs | Инженерный колледж «AWH»</link>
+        <link direction="en2ru">Kuttikkattoor | sameAs | Куттиккаттоор</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">V roce 2001 byla AWH Engineering College založena ve městě Kuttikkattoor.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">V roce 2001 byla ve městě Kuttikkattoor založena AWH Engineering College.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">V roce 2001 byla ve městě Kuttikkattoor založena AWH Engineering College.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">AWH Engineering College ve městě Kuttikkattoor byla založena v roce 2001.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">AWH Engineering College v Kuttikkattoor byla založena v roce 2001.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">AWH Engineering College v Kuttikkattooru byla založena v roce 2001.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">AWH Engineering College ve městě Kuttikkattoor byla založena v roce 2001.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">AWH Engineering College města Kuttikkattoor byla založena v roce 2001.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">AWH Engineering College města Kuttikkattoor byla založena v roce 2001.</lex>
+    </entry>
+    <entry category="University" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Accademia di Architettura di Mendrisio is located in the city of Mendrisio in Switzerland.</lex>
+      <lex lang="ru" lid="Id1">Академия архитектуры Мендризио находится в городе Мендризио в Швейцарии.</lex>
+      <lex lang="en" lid="Id2">Accademia di Architettura di Mendrisio is in Mendrisio, Switzerland.</lex>
+      <lex lang="ru" lid="Id2">Академия архитектуры Мендризио - в Мендризио, Швейцария.</lex>
+      <lex lang="en" lid="Id3">The Accademia di Architettura di Mendrisio is located in the city of Mendrisio, Switzerland.</lex>
+      <lex lang="ru" lid="Id3">Академия архитектуры Мендризио находится в городе Мендризио, Швейцария.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Switzerland | sameAs | Швейцария</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Accademia di Architettura di Mendrisio | sameAs | Академия архитектуры Мендризио</link>
+        <link direction="en2ru">Mendrisio | sameAs | Мендризио</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Accademia di Architettura di Mendrisio se nachází ve městě Mendrisio ve Švýcarsku.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Accademia di Architettura di Mendrisio se nachází ve městě Mendrisio ve Švýcarsku.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Accademia di Architettura di Mendrisio se nachází ve městě Mendrisio ve Švýcarsku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Accademia di Architettura di Mendrisio se nachází ve městě Mendrisio ve Švýcarsku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Accademia di Architettura di Mendrisio je ve městě Mendrisio, Švýcarsko.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Accademia di Architettura di Mendrisio sídlí ve švýcarském Mendrisio.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Accademia di Architettura di Mendrisio se nachází ve městě Mendrisio ve Švýcarsku.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Accademia di Architettura di Mendrisio se nachází ve městě Mendrisio ve Švýcarsku.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Accademia di Architettura di Mendrisio se nachází ve městě Mendrisio ve Švýcarsku.</lex>
+    </entry>
+    <entry category="University" eid="Id10" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Switzerland | leaderName | Johann_Schneider-Ammann</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+        <mtriple>Switzerland | leader | Johann_Schneider-Ammann</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Accademia di Architettura di Mendrisio is located in Switzerland where the leader of the country is Johann Schneider-Ammann.</lex>
+      <lex lang="ru" lid="Id1">Академия архитектуры Мендризио находится в Швейцарии, где лидером страны является Йоханн Шнайдер-Амманн.</lex>
+      <lex lang="en" lid="Id2">Switzerland, which is home to Accademia di Architettura di Mendrisio, is led by Johann Schneider-Ammann.</lex>
+      <lex lang="ru" lid="Id2">Швейцарию, которая является домом Академии архитектуры Мендризио, возглавляет Йоханн Шнайдер-Амманн.</lex>
+      <lex lang="en" lid="Id3">Accademia di Architettura di Mendrisio is located in Switzerland and the leader is Johann Schneider-Ammann.</lex>
+      <lex lang="ru" lid="Id3">Академия архитектуры Мендризио находится в Швейцарии, а лидером является Йоханн Шнайдер-Амманн.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Johann_Schneider-Ammann | sameAs | Шнайдер-Амманн,_Йоханн</dbpedialink>
+        <dbpedialink direction="en2ru">Switzerland | sameAs | Швейцария</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Accademia di Architettura di Mendrisio | sameAs | Академия архитектуры Мендризио</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Accademia di Architettura di Mendrisio se nachází ve Švýcarsku, kde stojí v čele země Johann Schneider-Ammann.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Accademia di Architettura di Mendrisio se nachází ve Švýcarsku, kde je vůdcem země Johann Schneider-Ammann.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Accademia di Architettura di Mendrisio sídlí ve Švýcarsku, kde je vůdcem země Johann Schneider-Ammann.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Ve Švýcarsku, kde sídlí Accademia di Architettura di Mendrisio, stojí v čele země Johann Schneider-Ammann.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Švýcarsko, které je domovem Accademia di Architettura di Mendrisio, vede Johann Schneider-Ammann.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Švýcarsko, které je domovem Accademia di Architettura di Mendrisio, vede Johann Schneider-Ammann.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Accademia di Architettura di Mendrisio se nachází ve Švýcarsku a v jejím čele stojí Johann Schneider-Ammann.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Accademia di Architettura di Mendrisio se nachází ve Švýcarsku a jejím vedoucím je Johann Schneider-Ammann.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Accademia di Architettura di Mendrisio sídlí ve Švýcarsku a jejím vedoucím je Johann Schneider-Ammann.</lex>
+    </entry>
+    <entry category="University" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | faculty | 100</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Mario Botta is dean of the Accademia di Architettura di Mendrisio where there is an academic staff of 100.</lex>
+      <lex lang="ru" lid="Id1">Марио Ботта - декан Академии архитектуры Мендризио, академический штат которой составляет 100 человек.</lex>
+      <lex lang="en" lid="Id2">The Dean of Accademia di Architettura di Mendrisio is Mario Botto and the school has an academic staff size of 100 people.</lex>
+      <lex lang="ru" lid="Id2">Декан Академии архитектуры Мендризио - Марио Ботта, а в школе есть академический коллектив численностью 100 человек.</lex>
+      <lex lang="en" lid="Id3">The Accademia di Architettura di Mendrisio has an academic staff of 100 and the dean is called Mario Botta.</lex>
+      <lex lang="ru" lid="Id3">Академия архитектуры Мендризио имеет академический коллектив из 100 человек, а деканом является Марио Ботта.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Mario_Botta | sameAs | Ботта,_Марио</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Accademia di Architettura di Mendrisio | sameAs | Академия архитектуры Мендризио</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Mario Botta je děkanem Accademia di Architettura di Mendrisio, kde pracuje 100 akademických pracovníků.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Mario Botta je děkanem Accademia di Architettura di Mendrisio, kde má 100 akademických pracovníků.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Mario Botta je děkanem Accademia di Architettura di Mendrisio, kde působí 100 akademických pracovníků.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Děkanem Accademia di Architettura di Mendrisio je Mario Botto a škola má akademický sbor o velikosti 100 osob.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Děkanem Accademia di Architettura di Mendrisio je Mario Botto a škola má akademický personál o velikosti 100 lidí.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Děkanem Accademia di Architettura di Mendrisio je Mario Botto a škola má akademický personál o velikosti 100 lidí.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Accademia di Architettura di Mendrisio má akademický sbor o 100 členech a děkan se jmenuje Mario Botta.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Accademia di Architettura di Mendrisio má 100 akademických pracovníků a děkan se jmenuje Mario Botta.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Accademia di Architettura di Mendrisio má 100 akademických pracovníků a děkan se jmenuje Mario Botta.</lex>
+    </entry>
+    <entry category="University" eid="Id12" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Accademia di Architettura di Mendrisio was established in 1996 and the dean is Mario Botta.</lex>
+      <lex lang="ru" lid="Id1">Академия архитектуры Мендризио была создана в 1996 году, а декан - Марио Ботта.</lex>
+      <lex lang="en" lid="Id2">The Dean of Accademia di Architettura di Mendrisio, which was created in 1996, is Mario Botta.</lex>
+      <lex lang="ru" lid="Id2">Марио Ботта - декан Академии архитектуры Мендризио, основанной в 1996 году.</lex>
+      <lex lang="en" lid="Id3">Mario Botta is Dean of the Accademia di Architettura di Mendrisio which was established in 1996.</lex>
+      <lex lang="ru" lid="Id3">Марио Ботта - декан Академии архитектуры Мендризио, которая была основана в 1996 году.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">1996 | sameAs | 1996_год</dbpedialink>
+        <dbpedialink direction="en2ru">Mario_Botta | sameAs | Ботта,_Марио</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Accademia di Architettura di Mendrisio | sameAs | Академия архитектуры Мендризио</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Accademia di Architettura di Mendrisio byla založena v roce 1996 a děkanem je Mario Botta.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Accademia di Architettura di Mendrisio byla založena v roce 1996 a děkanem je Mario Botta.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Accademia di Architettura di Mendrisio byla založena v roce 1996 a děkanem je Mario Botta.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Děkanem Accademia di Architettura di Mendrisio, která vznikla v roce 1996, je Mario Botta.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Děkanem Accademia di Architettura di Mendrisio, která byla vytvořena v roce 1996, je Mario Botta.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Děkanem Accademia di Architettura di Mendrisio, který vznikl v roce 1996, je Mario Botta.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Děkanem Accademia di Architettura di Mendrisio, která vznikla v roce 1996, je Mario Botta.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Mario Botta je děkanem Accademia di Architettura di Mendrisio, která byla založena v roce 1996.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Mario Botta je děkanem Accademia di Architettura di Mendrisio, která byla založena v roce 1996.</lex>
+    </entry>
+    <entry category="University" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The number of students at the Accademia di Architettura di Mendrisio which was established in 1996, is 600.</lex>
+      <lex lang="ru" lid="Id1">Число студентов Академии архитектуры Мендризио, которая была создана в 1996 году, составляет 600 человек.</lex>
+      <lex lang="en" lid="Id2">Accademia di Architettura di Mendrisio, which has 600 students, was established in 1996.</lex>
+      <lex lang="ru" lid="Id2">Академия архитектуры Мендризио, которая насчитывает 600 студентов, была создана в 1996 году.</lex>
+      <lex lang="en" lid="Id3">Accademia di Architettura di Mendrisio was established in 1996 and has 600 students.</lex>
+      <lex lang="ru" lid="Id3">Академия архитектуры Мендризио была создана в 1996 году и насчитывает 600 студентов.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">1996 | sameAs | 1996_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Accademia di Architettura di Mendrisio | sameAs | Академия архитектуры Мендризио</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Počet studentů na Accademia di Architettura di Mendrisio, která vznikla v roce 1996, je 600.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Počet studentů na Accademia di Architettura di Mendrisio, která byla založena v roce 1996, je 600.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Počet studentů Accademia di Architettura di Mendrisio, která byla založena v roce 1996, činí 600.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Accademia di Architettura di Mendrisio, která má 600 studentů, byla založena v roce 1996.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Accademia di Architettura di Mendrisio, která má 600 studentů, byla založena v roce 1996.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Accademia di Architettura di Mendrisio, která má 600 studentů, byla založena v roce 1996.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Accademia di Architettura di Mendrisio byla založena v roce 1996 a má 600 studentů.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Accademia di Architettura di Mendrisio byla založena v roce 1996 a má 600 studentů.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Accademia di Architettura di Mendrisio byla založena v roce 1996 a má 600 studentů.</lex>
+    </entry>
+    <entry category="University" eid="Id14" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | academicStaff | "~500"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | motto | "Nurturing Excellence"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | academicStaffSize | "~500"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | motto | "Nurturing Excellence"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The motto of the Acharya Institute of Technology is "Nurturing Excellence" and there is an academic staff of 500.</lex>
+      <lex lang="ru" lid="Id1">Девиз Технологического института "Ачарья" - “Воспитывать совершенство”, в ней есть академический коллектив из 500 человек.</lex>
+      <lex lang="en" lid="Id2">The motto of Acharya Institute of Technology, which has about 500 employees, is Nurturing Excellence.</lex>
+      <lex lang="ru" lid="Id2">Девиз Технологического института Ачарья, который насчитывает около 500 сотрудников, - это "Воспитывать совершенство".</lex>
+      <lex lang="en" lid="Id3">Acharya Institute of Technology has an academic staff size of 500 and their motto is Nurturing Excellence.</lex>
+      <lex lang="ru" lid="Id3">Девиз преподавательского состава Технологического института Ачарья, насчитывающего 500 человек - Воспитывать совершенство.</lex>
+      <links>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+        <link direction="en2ru">Nurturing Excellence | sameAs | “Воспитывать совершенство”</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Mottem Acharya Institute of Technology je "Nurturing Excellence" (Pěstování excelence) a pracuje zde 500 akademických pracovníků.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Motto Acharya Institute of Technology je „Nurturing Excellence“ a má 500 akademických pracovníků.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Heslem Acharyova technologického institutu je "Pečovat o excelenci" a akademických pracovníků je 500.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Motto Acharya Institute of Technology, který má asi 500 zaměstnanců, zní Nurturing Excellence.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Mottem Acharya Institute of Technology, který má asi 500 zaměstnanců, je Nurturing Excellence.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Mottem Acharyova technologického institutu, který má asi 500 zaměstnanců, je Pěstování excelence.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Acharya Institute of Technology má počet akademických pracovníků 500 a jejich mottem je Nurturing Excellence.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Acharya Institute of Technology má počet akademických pracovníků 500 a jejich mottem je Nurturing Excellence.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Acharya Institute of Technology má akademický personál o velikosti 500 a jejich heslem je Nurturing Excellence.</lex>
+    </entry>
+    <entry category="University" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</otriple>
+        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Located in the state of Karnataka, Acharya Institute of Technology is an affiliate of Visvesvaraya Technological University.</lex>
+      <lex lang="ru" lid="Id1">Расположенный в штате Карнатака, Технологический институт Ачарья - филиал Технологического университета Висвесварайя.</lex>
+      <lex lang="en" lid="Id2">Acharya Institute of Technology in Karnataka is affiliated with Visvesvaraya Technological University.</lex>
+      <lex lang="ru" lid="Id2">Технологический институт Ачарья в Карнатаке является филиалом Технологического университета Висвесварайя.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Karnataka | sameAs | Карнатака</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Visvesvaraya Technological University | sameAs | Технологический университет Висвесварайя</link>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Acharya Institute of Technology se nachází ve státě Karnataka a je pobočkou Visvesvaraya Technological University.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Acharya Institute of Technology se nachází ve státě Karnataka a je přidruženou společností Visvesvaraya Technological University.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Acharya Institute of Technology sídlící ve státě Karnataka je pobočkou Visvesvaraya Technological University.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Acharya Institute of Technology ve státě Karnataka je přidružen k Visvesvaraya Technological University.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Acharya Institute of Technology v Karnataka je přidružen k Visvesvaraya Technological University.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Acharya Institute of Technology v Karnatace je přidružen k Visvesvaraya Technological University.</lex>
+    </entry>
+    <entry category="University" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Acharya Institute of Technology in Bangalore is affiliated with Visvesvaraya Technological University.</lex>
+      <lex lang="ru" lid="Id1">Технологический институт Ачарья в Бангалоре входит в состав Технологического университета Висвесварайя.</lex>
+      <lex lang="en" lid="Id2">The Acharya Institute of Technology, in the city of Bangalore, is affiliated with Visvesvaraya Technological University.</lex>
+      <lex lang="ru" lid="Id2">Технологический институт Ачарья, расположенный в городе Бангалоре, входит в состав Технологического университета Висвесварайя.</lex>
+      <lex lang="en" lid="Id3">Acharya Institute of Technology in Bangalore is affiliated with Visvesvaraya Technological University.</lex>
+      <lex lang="ru" lid="Id3">Технологический институт Ачарья в Бангалоре связан с Технологическим университетом Висвесварайя.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Bangalore | sameAs | Бангалор</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Visvesvaraya Technological University | sameAs | Технологический университет Висвесварайя</link>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Acharya Institute of Technology v Bangalore je přidružen k Visvesvaraya Technological University.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Technologický institut Acharya v Bangalore je přidružen k technologické univerzitě Visvesvaraya.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Technologický institut Acharya v Bengalúru je přidružen k Technologické univerzitě Visvesvaraya.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Acharya Institute of Technology ve městě Bangalore je přidružen k Visvesvaraya Technological University.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Technologický institut Acharya ve městě Bangalore je přidružen k technologické univerzitě Visvesvaraya.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Technologický institut Acharya ve městě Bengalúru je přidružen k Technologické univerzitě Visvesvaraya.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Acharya Institute of Technology v Bangalore je přidružen k Visvesvaraya Technological University.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Acharya Institute of Technology v Bangalore je přidružen k Technologické univerzitě Visvesvaraya.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Acharya Institute of Technology v Bengalúru je přidružen k Visvesvaraya Technological University.</lex>
+    </entry>
+    <entry category="University" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Acharya Institute of Technology in India is affiliated with the Visvesvaraya Technological University.</lex>
+      <lex lang="ru" lid="Id1">Технологический институт Ачарья в Индии входит в состав Технологического университета Висвесварайя.</lex>
+      <lex lang="en" lid="Id2">Acharya Institute of Technology in India is affiliated with Visvesvaraya Technological University.</lex>
+      <lex lang="ru" lid="Id2">Технологический институт Ачарья в Индии связан с Технологическим университетом Висвесварайя.</lex>
+      <lex lang="en" lid="Id3">Acharya Institute of Technology is affiliated with Visvesvaraya Technological University in India.</lex>
+      <lex lang="ru" lid="Id3">Технологический институт Ачарья входит в состав Технологического университета Висвесварайя в Индии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">India | sameAs | Индия</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Visvesvaraya Technological University | sameAs | Технологический университет Висвесварайя</link>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Acharya Institute of Technology v Indii je přidružen k Visvesvaraya Technological University.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Technologický institut Acharya v Indii je přidružen k Technologické univerzitě Visvesvaraya.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Technologický institut Acharya v Indii je přidružen k Technologické univerzitě Visvesvaraya.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Acharya Institute of Technology v Indii je přidružený k Visvesvaraya Technological University.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Acharya Institute of Technology v Indii je přidružen k technologické univerzitě Visvesvaraya.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Acharya Institute of Technology v Indii je přidružen k Visvesvaraya Technological University.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Acharya Institute of Technology je přidružený k Visvesvaraya Technological University v Indii.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Acharya Institute of Technology je přidružen k Technologické univerzitě Visvesvaraya v Indii.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Acharya Institute of Technology je přidružen k Visvesvaraya Technological University v Indii.</lex>
+    </entry>
+    <entry category="University" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | established | 2000</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | established | 2000</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Acharya Institute of Technology was established in India in 2000.</lex>
+      <lex lang="ru" lid="Id1">Технологический институт Ачарья был создан в Индии в 2000 году.</lex>
+      <lex lang="en" lid="Id2">Acharya Institute of Technology in India was created in 2000.</lex>
+      <lex lang="ru" lid="Id2">Технологический институт Ачарья в Индии был создан в 2000 году.</lex>
+      <lex lang="en" lid="Id3">Acharya Institute of Technology of India was established in the year 2000.</lex>
+      <lex lang="ru" lid="Id3">Технологический институт Ачарья Индии был основан в 2000 году.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+        <dbpedialink direction="en2ru">India | sameAs | Индия</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Acharya Institute of Technology byl založen v Indii v roce 2000.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Acharya Institute of Technology byl založen v Indii v roce 2000.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Acharya Institute of Technology byl založen v Indii v roce 2000.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Acharya Institute of Technology v Indii byl založen v roce 2000.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Acharya Institute of Technology v Indii byl založen v roce 2000.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Acharya Institute of Technology v Indii byl vytvořen v roce 2000.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Acharya Institute of Technology v Indii byl založen v roce 2000.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Acharya Institute of Technology of India byl založen v roce 2000.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Acharya Institute of Technology of India byl založen v roce 2000.</lex>
+    </entry>
+    <entry category="University" eid="Id19" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | undergrad | "~10000"@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | "India"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | numberOfUndergraduateStudents | 10000</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Acharya Institute of Technology of India has 10000 Undergraduate students.</lex>
+      <lex lang="ru" lid="Id1">Технологический институт Ачарья в Индии обучает 10000 студентов.</lex>
+      <lex lang="en" lid="Id2">The Acharya Institute of Technology in India has 10000 undergraduate students.</lex>
+      <lex lang="ru" lid="Id2">В Технологическом институте Ачарья в Индии обучается 10 000 студентов.</lex>
+      <lex lang="en" lid="Id3">Acharya Institute of Technology in India has 10000 Undergraduate students.</lex>
+      <lex lang="ru" lid="Id3">Технологический институт Ачарья в Индии обучает 10 000 бакалавров.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">India | sameAs | Индия</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Acharya Institute of Technology of India má 10000 vysokoškolských studentů.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Acharya Institute of Technology of India má 10 000 vysokoškoláků.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Acharya Institute of Technology of India má 10000 vysokoškolských studentů.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Acharya Institute of Technology v Indii má 10000 vysokoškolských studentů.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Acharya Institute of Technology v Indii má 10 000 vysokoškolských studentů.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Acharya Institute of Technology v Indii má 10000 vysokoškolských studentů.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Acharya Institute of Technology v Indii má 10000 vysokoškolských studentů.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Acharya Institute of Technology v Indii má 10 000 vysokoškoláků.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Acharya Institute of Technology v Indii má 10000 vysokoškolských studentů.</lex>
+    </entry>
+    <entry category="University" eid="Id20" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | outlook | 63</otriple>
+        <otriple>Acharya_Institute_of_Technology | colours | "Blue, White and Orange"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | outlookRanking | 63</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | officialSchoolColour | "Blue, White and Orange"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Acharya Institute of Technology has the official school colours of blue, white and orange and has the Outlook Ranking of 63.</lex>
+      <lex lang="ru" lid="Id1">Технологический институт Ачарья имеет официальные школьные цвета - синий, белый и оранжевый, а его рейтинг Outlook - 63.</lex>
+      <lex lang="en" lid="Id2">Acharya Institute of Technology's ranking is 63 and its school colors are Blue, White and Orange.</lex>
+      <lex lang="ru" lid="Id2">Рейтинг Технологического института Ачарья - 63, а цвета школы - голубой, белый и оранжевый.</lex>
+      <lex lang="en" lid="Id3">The outlook ranking of the Acharya Institute of Technology is 63, and the official school colours are blue, white and orange.</lex>
+      <lex lang="ru" lid="Id3">Рейтинг Outlook Технологического института Ачарья - 63, а официальные школьные цвета - синий, белый и оранжевый.</lex>
+      <links>
+        <link direction="en2ru">Acharya Institute of Technology | sameAs | Технологический институт Ачарья</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Acharya Institute of Technology má oficiální barvy školy modrou, bílou a oranžovou a má 63. místo v žebříčku Outlook.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Acharya Institute of Technology má oficiální školní barvy modrou, bílou a oranžovou a má Outlook Ranking 63.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Acharyův technologický institut má oficiální školní barvy modrou, bílou a oranžovou a má Outlook Ranking 63.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Pořadí Acharya Institute of Technology je 63 a jeho školní barvy jsou modrá, bílá a oranžová.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Žebříček Acharya Institute of Technology je 63 a jeho školní barvy jsou modrá, bílá a oranžová.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Acharya Institute of Technology se umístil na 63. místě a jeho školní barvy jsou modrá, bílá a oranžová.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Výhledové hodnocení Acharya Institute of Technology je 63 a oficiální barvy školy jsou modrá, bílá a oranžová.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Výhledový žebříček Acharya Institute of Technology je 63 a oficiálními barvami školy jsou modrá, bílá a oranžová.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Vyhlídkové hodnocení Acharyova technologického institutu je 63 a oficiální školní barvy jsou modrá, bílá a oranžová.</lex>
+    </entry>
+    <entry category="University" eid="Id21" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alba_Iulia | country | Romania</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | city | Alba_Iulia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alba_Iulia | country | Romania</mtriple>
+        <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Alba Iulia in Romania is the location of the 1 Decembrie 1918 University.</lex>
+      <lex lang="ru" lid="Id1">Алба-Юлия в Румынии является местом расположения Университета "1 декабря 1918".</lex>
+      <lex lang="en" lid="Id2">1 Decembrie 1918 University is located in Alba Iulia in Romania.</lex>
+      <lex lang="ru" lid="Id2">Университет «1 декабря 1918» находится в городе Алба-Юлия в Румынии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Romania | sameAs | Румыния</dbpedialink>
+        <dbpedialink direction="en2ru">Alba_Iulia | sameAs | Алба-Юлия</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">1 Decembrie 1918 University | sameAs | Университет «1 декабря 1918»</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">V rumunském městě Alba Iulia se nachází Univerzita 1. prosince 1918.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Alba Iulia v Rumunsku je sídlem univerzity 1. prosince 1918.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Alba Iulia v Rumunsku je sídlem univerzity z 1. prosince 1918.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Univerzita 1 Decembrie 1918 se nachází ve městě Alba Iulia v Rumunsku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Univerzita 1. prosince 1918 se nachází v Alba Iulia v Rumunsku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">1. prosince 1918 Univerzita se nachází v Alba Iulia v Rumunsku.</lex>
+    </entry>
+    <entry category="University" eid="Id22" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alba_Iulia | isPartOf | Alba_County</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | city | Alba_Iulia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alba_Iulia | isPartOf | Alba_County</mtriple>
+        <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Alba Iulia is a part of Alba County and is the location of the 1 Decembrie 1918 University.</lex>
+      <lex lang="ru" lid="Id1">Алба-Юлия является частью округа Алба, и в нем расположен Университет «1 декабря 1918».</lex>
+      <lex lang="en" lid="Id2">1 Decembrie 1918 University is located in Alba lulia which is part of Alba County.</lex>
+      <lex lang="ru" lid="Id2">Университет "1 декабря 1918" находится в Албе-Юлии, являющейся частью округа Алба.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Alba_County | sameAs | Алба_(жудец)</dbpedialink>
+        <dbpedialink direction="en2ru">Alba_Iulia | sameAs | Алба-Юлия</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">1 Decembrie 1918 University | sameAs | Университет «1 декабря 1918»</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Alba Iulia je součástí župy Alba a je sídlem univerzity 1 Decembrie 1918.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Alba Iulia je součástí okresu Alba a je sídlem univerzity 1. prosince 1918.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Alba Iulia je součástí okresu Alba a nachází se zde univerzita z 1. prosince 1918.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Univerzita 1 Decembrie 1918 se nachází v Alba lulia, která je součástí župy Alba.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">1. prosince 1918 University se nachází v Alba lulia, která je součástí Alba County.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">1. prosince 1918 Univerzita se nachází v Alba lulia, která je součástí okresu Alba.</lex>
+    </entry>
+    <entry category="University" eid="Id23" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Denmark | leaderName | Lars_Løkke_Rasmussen</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Denmark | leader | Lars_Løkke_Rasmussen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Denmark | leader | Lars_Løkke_Rasmussen</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The leader of Denmark is Lars Lokke Rasmussen. Denmark is the home of the School of Business Studies and Social Sciences at the Aarhus University.</lex>
+      <lex lang="ru" lid="Id1">Руководителем Дании является Ларс Лёкке Расмуссен. Дания является родиной Школы бизнес-исследований и социальных наук Орхусского университета.</lex>
+      <lex lang="en" lid="Id2">Denmark, which is home to the School of Business and Social Sciences at the Aarhus University, is led by Lars Løkke Rasmussen.</lex>
+      <lex lang="ru" lid="Id2">Ларс Лёкке Расмуссен - премьер-министр Дании, где находится Школа бизнеса и социальных наук Орхусского университета.</lex>
+      <lex lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University is located in the country of Denmark whose leader is Lars Løkke Rasmussen.</lex>
+      <lex lang="ru" lid="Id3">Школа бизнеса и социальных наук Орхусского университета расположена в стране Дания, лидером которой является Ларс Лёкке Расмуссен.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Lars_Løkke_Rasmussen | sameAs | Расмуссен,_Ларс_Лёкке</dbpedialink>
+        <dbpedialink direction="en2ru">Denmark | sameAs | Дания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Vůdcem Dánska je Lars Lokke Rasmussen. V Dánsku sídlí Škola obchodních studií a společenských věd při Aarhuské univerzitě.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Lídrem Dánska je Lars Lokke Rasmussen. Dánsko je domovem School of Business Studies and Social Sciences na Aarhus University.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Vůdcem Dánska je Lars Lokke Rasmussen. Dánsko je sídlem School of Business Studies and Social Sciences na Aarhuské univerzitě.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">V čele Dánska, které je domovem Školy obchodních a společenských věd na Aarhuské univerzitě, stojí Lars Løkke Rasmussen.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Dánsko, které je domovem School of Business and Social Sciences na Aarhus University, vede Lars Løkke Rasmussen.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Dánsko, které je domovem školy obchodních a sociálních věd na Aarhuské univerzitě, vede Lars Løkke Rasmussen.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě sídlí v Dánsku, v jejímž čele stojí Lars Løkke Rasmussen.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University se nachází v zemi Dánsko, jejímž vedoucím je Lars Løkke Rasmussen.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě sídlí v Dánsku, jejímž vedoucím představitelem je Lars Løkke Rasmussen.</lex>
+    </entry>
+    <entry category="University" eid="Id24" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Mendrisio | neighboringMunicipalities | Meride</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Mendrisio | neighboringMunicipality | Meride</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Accademia di Archiettura di Mendrisio is located in the city of Mendrisio, the neighboring municipality of Mendrisio is Meride.</lex>
+      <lex lang="ru" lid="Id1">Академия архитектуры Мендризио находится в городе Мендризио, соседний муниципалитет с Мендризио - Мериде.</lex>
+      <lex lang="en" lid="Id2">Accademia di Architettura di Mendrisio in Mendrisio is bordered by the Municipality of Meride.</lex>
+      <lex lang="ru" lid="Id2">Академия архитектуры Мендризио в Мендризио граничит с муниципалитетом Мериде.</lex>
+      <lex lang="en" lid="Id3">Accademia di Architettura di Mendrisio is located in Meride in Mendrisio.</lex>
+      <lex lang="ru" lid="Id3">Академия архитектуры Мендризио находится в Мериде в Мендризио.</lex>
+      <links>
+        <link direction="en2ru">Meride | sameAs | Мериде</link>
+        <link direction="en2ru">Accademia di Architettura di Mendrisio | sameAs | Академия архитектуры Мендризио</link>
+        <link direction="en2ru">Mendrisio | sameAs | Мендризио</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Accademia di Archiettura di Mendrisio se nachází ve městě Mendrisio, sousední obcí Mendrisia je Meride.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Accademia di Archiettura di Mendrisio se nachází ve městě Mendrisio, sousední obec Mendrisio je Meride.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Accademia di Archiettura di Mendrisio se nachází ve městě Mendrisio, sousední obcí Mendrisio je Meride.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Accademia di Architettura di Mendrisio ve městě Mendrisio sousedí s obcí Meride.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Accademia di Architettura di Mendrisio v Mendrisio sousedí s obcí Meride.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Accademia di Architettura di Mendrisio v Mendrisio hraničí s obcí Meride.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Accademia di Architettura di Mendrisio se nachází v Meride v Mendrisiu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Accademia di Architettura di Mendrisio se nachází v Meride in Mendrisio.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Accademia di Architettura di Mendrisio sídlí v Meride v Mendrisio.</lex>
+    </entry>
+    <entry category="University" eid="Id25" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Romania | capital | Bucharest</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | capital | Bucharest</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 1 Decembrie 1918 University is located in Romania where the capital is Bucharest.</lex>
+      <lex lang="ru" lid="Id1">Университет "1 декабря 1918" расположен в Румынии, где столица - Бухарест.</lex>
+      <lex lang="en" lid="Id2">The 1 Decembrie 1918 University is located in the country of Romania, whose capital is Bucharest.</lex>
+      <lex lang="ru" lid="Id2">Университет "1 декабря 1918" находится в Румынии, столицей которой является Бухарест.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Romania | sameAs | Румыния</dbpedialink>
+        <dbpedialink direction="en2ru">Bucharest | sameAs | Бухарест</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">1 Decembrie 1918 University | sameAs | Университет «1 декабря 1918»</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">The 1 Decembrie 1918 University se nachází v Rumunsku, kde je hlavním městem Bukurešť.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Univerzita 1. prosince 1918 se nachází v Rumunsku, kde je hlavním městem Bukurešť.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Univerzita z 1. prosince 1918 se nachází v Rumunsku, kde je hlavním městem Bukurešť.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Univerzita 1 Decembrie 1918 se nachází v Rumunsku, jehož hlavním městem je Bukurešť.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Univerzita 1. prosince 1918 se nachází v Rumunsku, jehož hlavním městem je Bukurešť.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Univerzita z 1. prosince 1918 se nachází v Rumunsku, jehož hlavním městem je Bukurešť.</lex>
+    </entry>
+    <entry category="University" eid="Id26" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Romania | ethnicGroups | Germans_of_Romania</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Romania | ethnicGroup | Germans_of_Romania</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | ethnicGroup | Germans_of_Romania</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 1 Decembrie 1918 University in Romania has an ethnic group called Germans of Romania.</lex>
+      <lex lang="ru" lid="Id1">В университете «1 декабря 1918» в Румынии существует этническая группа под названием "Немцы Румынии".</lex>
+      <lex lang="en" lid="Id2">The 1 Decembrie 1918 University in Romania, has a large percentage of students from the native ethnic group, Germans of Romania.</lex>
+      <lex lang="ru" lid="Id2">В Университете «1 декабря 1918» учится большое число студентов из этнической группы немцев Румынии.</lex>
+      <lex lang="en" lid="Id3">1 Decembrie 1918 University is located in Romania and is primarily German.</lex>
+      <lex lang="ru" lid="Id3">Университет «1 декабря 1918» находится в Румынии и является в первую очередь немецким.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Romania | sameAs | Румыния</dbpedialink>
+        <dbpedialink direction="en2ru">Germans_of_Romania | sameAs | Немцы_в_Румынии</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">1 Decembrie 1918 University | sameAs | Университет «1 декабря 1918»</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">The 1 Decembrie 1918 University v Rumunsku má etnickou skupinu s názvem Němci z Rumunska.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Univerzita 1. prosince 1918 v Rumunsku má etnickou skupinu nazývanou Němci z Rumunska.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Univerzita v Rumunsku z 1. prosince 1918 má etnickou skupinu Němců z Rumunska.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">The 1 Decembrie 1918 University in Romania, má velké procento studentů z domácí etnické skupiny, Němci z Rumunska.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Univerzita 1. prosince 1918 v Rumunsku má velké procento studentů z původní etnické skupiny, Němců z Rumunska.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Univerzita 1. prosince 1918 v Rumunsku má velké procento studentů z původní etnické skupiny, rumunských Němců.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Univerzita 1 Decembrie 1918 v Rumunsku se nachází v Rumunsku a je převážně německé národnosti.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Univerzita 1. prosince 1918 se nachází v Rumunsku a je převážně německá.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">1. prosince 1918 Univerzita se nachází v Rumunsku a je převážně německá.</lex>
+    </entry>
+    <entry category="University" eid="Id27" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Romania | leader | Klaus_Iohannis</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Romania | leaderName | Klaus_Iohannis</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | leader | Klaus_Iohannis</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">1 Decembrie 1918 University is located in Romania whose leader is Klaus Iohannis.</lex>
+      <lex lang="ru" lid="Id1">Университет "1 декабря 1918" находится в Румынии, лидером которой является Клаус Йоханнис.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Romania | sameAs | Румыния</dbpedialink>
+        <dbpedialink direction="en2ru">Klaus_Iohannis | sameAs | Йоханнис,_Клаус</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">1 Decembrie 1918 University | sameAs | Университет «1 декабря 1918»</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Univerzita 1 Decembrie 1918 se nachází v Rumunsku, jejímž vůdcem je Klaus Iohannis.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">1. prosince 1918 Univerzita se nachází v Rumunsku a jejím vedoucím je Klaus Iohannis.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">1. prosince 1918 Univerzita sídlí v Rumunsku, jejímž vedoucím je Klaus Iohannis.</lex>
+    </entry>
+    <entry category="University" eid="Id28" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Romania | patronSaint | Andrew_the_Apostle</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | patronSaint | Andrew_the_Apostle</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 1 Decembrie 1918 University is in the country of Romania who has the patron saint Andrew the Apostle.</lex>
+      <lex lang="ru" lid="Id1">Университет "1 декабря 1918" находится в Румынии, находящейся под покровительством Андрея Первозванного.</lex>
+      <lex lang="en" lid="Id2">The 1 Decembrie 1981 University, in Romania, is dedicated to the country's patron saint, Andrew the Apostle.</lex>
+      <lex lang="ru" lid="Id2">Университет «1 декабря 1918», в Румынии, посвящен покровителю страны Андрею Первозванному.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Romania | sameAs | Румыния</dbpedialink>
+        <dbpedialink direction="en2ru">Andrew_the_Apostle | sameAs | Андрей_Первозванный</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">1 Decembrie 1918 University | sameAs | Университет «1 декабря 1918»</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Univerzita 1 Decembrie 1918 se nachází v Rumunsku, které má za patrona svatého Ondřeje Apoštola.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Univerzita 1. prosince 1918 se nachází v zemi Rumunsko, jejíž patronem je svatý apoštol Ondřej.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Univerzita z 1. prosince 1918 je v zemi Rumunska, která má patrona svatého Ondřeje Apoštola.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Univerzita 1 Decembrie 1981 se nachází v Rumunsku a je zasvěcena patronovi země, kterým je svatý Ondřej Apoštol.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Univerzita 1. prosince 1981 v Rumunsku je zasvěcena patronovi země, apoštolu Ondřeji.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Univerzita 1. prosince 1981 v Rumunsku je zasvěcena patronovi země, apoštolovi Ondřeji.</lex>
+    </entry>
+    <entry category="University" eid="Id29" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Denmark's School of Business and Social Sciences at the Aarhus University has an academic staff size of 737 people.</lex>
+      <lex lang="ru" lid="Id1">Школа бизнеса и социальных наук Орхусского университета в Дании насчитывает 737 человек.</lex>
+      <lex lang="en" lid="Id2">School of Business and Social Sciences at the Aarhus University has a staff size of 737 and is located in Denmark.</lex>
+      <lex lang="ru" lid="Id2">Персонал школы бизнеса и социальных наук Орхусского университета насчитывает 737 человек и располагается в Дании.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Denmark | sameAs | Дания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Dánská škola obchodních a společenských věd na univerzitě v Aarhusu má 737 akademických pracovníků.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Dánská School of Business and Social Sciences na Aarhus University má počet akademických pracovníků 737 lidí.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Dánská škola podnikání a sociálních věd na Aarhuské univerzitě má akademický personál o velikosti 737 lidí.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">School of Business and Social Sciences na Aarhuské univerzitě má 737 zaměstnanců a nachází se v Dánsku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University má 737 zaměstnanců a nachází se v Dánsku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě má počet zaměstnanců 737 a sídlí v Dánsku.</lex>
+    </entry>
+    <entry category="University" eid="Id30" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The School of Business and Social Sciences at the Aarhus University was established in 1928 and has an academic staff of 737.</lex>
+      <lex lang="ru" lid="Id1">Школа бизнеса и социальных наук Орхусского университета была открыта в 1928 году, ее преподавательский состав насчитывает 737 человек.</lex>
+      <lex lang="en" lid="Id2">The School of Business and Social Sciences at Aarhus University was created in 1928 and has an academic staff size of 737 people.</lex>
+      <lex lang="ru" lid="Id2">В 1928 году была создана Школа бизнеса и социальных наук Орхусского университета, численность академического персонала которой составляет 737 человек.</lex>
+      <lex lang="en" lid="Id3">School of Business and Social Sciences at the Aarhus University was established in 1928 with a staff size of 737.</lex>
+      <lex lang="ru" lid="Id3">Школа бизнеса и социальных наук университета Орхуса была создана в 1928 году с численностью персонала 737 человек.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">1928 | sameAs | 1928_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">School of Business and Social Sciences na Aarhuské univerzitě byla založena v roce 1928 a má 737 akademických pracovníků.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University byla založena v roce 1928 a má 737 akademických pracovníků.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě byla založena v roce 1928 a má 737 akademických pracovníků.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">The School of Business and Social Sciences na Aarhuské univerzitě vznikla v roce 1928 a má počet akademických pracovníků 737.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University byla založena v roce 1928 a má velikost akademických pracovníků 737 lidí.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě vznikla v roce 1928 a má akademický personál o velikosti 737 osob.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">School of Business and Social Sciences na Aarhuské univerzitě byla založena v roce 1928 a má 737 akademických pracovníků.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University byla založena v roce 1928 s počtem zaměstnanců 737.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě byla založena v roce 1928 s počtem zaměstnanců 737.</lex>
+    </entry>
+    <entry category="University" eid="Id31" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The School of Business and Social Sciences at the Aarhus University, which was established in 1928, is affiliated with the European University Association.</lex>
+      <lex lang="ru" lid="Id1">Школа бизнеса и социальных наук Орхусского университета, которая была создана в 1928 году, связана с Ассоциацией университетов Европы.</lex>
+      <lex lang="en" lid="Id2">The School of Business and Social Sciences at the Aarhus University, which was created in 1928, is affiliated with the European University Association.</lex>
+      <lex lang="ru" lid="Id2">Школа бизнеса и социальных наук в Орхусском университете, которая была создана в 1928 году, связана с Ассоциацией университетов Европы.</lex>
+      <lex lang="en" lid="Id3">School of Business and Social Sciences at the Aarhus University was established in 1928 and is affiliated with the European University Association.</lex>
+      <lex lang="ru" lid="Id3">Школа бизнеса и социальных наук университета Орхуса, созданная в 1928 году, является филиалом Ассоциации университетов Европы.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">European_University_Association | sameAs | Ассоциация_университетов_Европы</dbpedialink>
+        <dbpedialink direction="en2ru">1928 | sameAs | 1928_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">School of Business and Social Sciences na Aarhuské univerzitě, která vznikla v roce 1928, je přidružena k Evropské asociaci univerzit.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">School of Business and Social Sciences na Aarhuské univerzitě, která byla založena v roce 1928, je přidružena k Evropské univerzitní asociaci.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě, která byla založena v roce 1928, je přidružena k Evropské univerzitní asociaci.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">The School of Business and Social Sciences at the Aarhus University, která vznikla v roce 1928, je přidružena k Evropské asociaci univerzit.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">School of Business and Social Sciences na Aarhuské univerzitě, která byla založena v roce 1928, je přidružena k Evropské univerzitní asociaci.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě, která vznikla v roce 1928, je přidružena k Evropské univerzitní asociaci.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">School of Business and Social Sciences na Aarhuské univerzitě, která byla založena v roce 1928, je přidružena k Evropské asociaci univerzit.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University byla založena v roce 1928 a je přidružena k Evropské univerzitní asociaci.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě byla založena v roce 1928 a je přidružena k Evropské univerzitní asociaci.</lex>
+    </entry>
+    <entry category="University" eid="Id32" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus | governmentType | Magistrate</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>Aarhus | governmentType | Magistrate</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The type of government in Aarhus is that of magistrate. The city of Aarhus is where the School of Business and Social Sciences at the Aarhus University is located.</lex>
+      <lex lang="ru" lid="Id1">Тип правительства в Орхусе - магистрат. В городе Орхус находится Школа бизнеса и социальных наук Орхусского университета.</lex>
+      <lex lang="en" lid="Id2">The School of Business and Social Sciences at Aarhus University in Aarhus has a Magistrate as its government.</lex>
+      <lex lang="ru" lid="Id2">Школа бизнеса и социальных наук Орхусского университета в Орхусе находится под правительством магистрата.</lex>
+      <lex lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University is found in the city of Aarhus which has Magistrate as its government type.</lex>
+      <lex lang="ru" lid="Id3">Школа бизнеса и социальных наук Орхусского университета расположена в городе Орхусе, подчиняющемся магистрату.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Aarhus | sameAs | Орхус</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+        <link direction="en2ru">Magistrate | sameAs | магистрат</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Typ vlády v Aarhusu je magistrátní. Ve městě Aarhus se nachází School of Business and Social Sciences at the Aarhus University.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Typ vlády v Aarhusu je smírčí. Město Aarhus je místem, kde sídlí School of Business and Social Sciences na Aarhus University.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Typ vlády v Aarhusu je magistrátní. Město Aarhus je místem, kde se nachází Škola podnikání a sociálních věd na Aarhuské univerzitě.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Škola obchodních a společenských věd na Aarhuské univerzitě v Aarhusu má magistrát jako svou vládu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University v Aarhusu má jako svou vládu smírčího soudce.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě v Aarhusu má jako svou vládu magistráta.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">School of Business and Social Sciences na Aarhuské univerzitě se nachází ve městě Aarhus, které má jako typ vlády magistrát.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University se nachází ve městě Aarhus, jehož vládním typem je Magistrát.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě se nachází ve městě Aarhus, které má magistrát jako svůj vládní typ.</lex>
+    </entry>
+    <entry category="University" eid="Id33" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus | northeast | Mols</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>Aarhus | hasToItsNortheast | Mols</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Mols is situated to the northeast of Aarhus where the School of Business and Social Sciences at Aarhus University is located.</lex>
+      <lex lang="ru" lid="Id1">Молс расположен к северо-востоку от Орхуса, где находится Школа деловых и социальных наук в Орхусском университете.</lex>
+      <lex lang="en" lid="Id2">The School of Business and Social Sciences at Aarhus University is in the city of Aarhus which has Mols to its northeast.</lex>
+      <lex lang="ru" lid="Id2">Школа бизнеса и социальных наук Орхусского университета находится в городе Орхус, от которого к северо-востоку располагается Молс.</lex>
+      <lex lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University is located in the city of Aarhus, which has Mols to its northeast.</lex>
+      <lex lang="ru" lid="Id3">Школа бизнеса и социальных наук в Орхусском университете расположена в городе Орхус, к северу-востоку от которого находится Молс.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Aarhus | sameAs | Орхус</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+        <link direction="en2ru">Mols | sameAs | Молс</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Mols se nachází severovýchodně od Aarhusu, kde sídlí School of Business and Social Sciences na Aarhuské univerzitě.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Mols se nachází na severovýchod od Aarhusu, kde se nachází School of Business and Social Sciences na Aarhus University.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Mols se nachází severovýchodně od Aarhusu, kde se nachází Škola podnikání a sociálních věd na Aarhuské univerzitě.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">School of Business and Social Sciences at Aarhus University se nachází ve městě Aarhus, které má Mols na severovýchodě.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University se nachází ve městě Aarhus, které má na severovýchodě Mols.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě je ve městě Aarhus, které má Mols na severovýchodě.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">School of Business and Social Sciences na Aarhuské univerzitě se nachází ve městě Aarhus, které má Mols na severovýchodě.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University se nachází ve městě Aarhus, které má na severovýchodě Mols.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě se nachází ve městě Aarhus, které má Mols na severovýchodě.</lex>
+    </entry>
+    <entry category="University" eid="Id34" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The School of Business and Social Sciences at Aaarhus University is located in Aarhus, Denmark.</lex>
+      <lex lang="ru" lid="Id1">Школа бизнеса и социальных наук Орхусского университета расположена в Орхусе, Дания.</lex>
+      <lex lang="en" lid="Id2">School of Business and Social Sciences at the Aarhus University is in Aarhus, Denmark.</lex>
+      <lex lang="ru" lid="Id2">Школа бизнеса и социальных наук Орхусского университета находится в Орхусе, Дания.</lex>
+      <lex lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University is located in the city of Aarhus in Denmark.</lex>
+      <lex lang="ru" lid="Id3">Школа бизнеса и социальных наук Орхусского университета расположена в городе Орхус в Дании.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Aarhus | sameAs | Орхус</dbpedialink>
+        <dbpedialink direction="en2ru">Denmark | sameAs | Дания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">School of Business and Social Sciences at the Aarhus University | sameAs | Школа бизнеса и социальных наук Орхусского университета / университета Орхуса</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">School of Business and Social Sciences na Aaarhuské univerzitě se nachází ve městě Aarhus v Dánsku.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">School of Business and Social Sciences na Aaarhus University se nachází v Aarhusu v Dánsku.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Škola podnikání a sociálních věd na Aaarhus University sídlí v Aarhusu v Dánsku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">School of Business and Social Sciences at Aarhus University se nachází v dánském městě Aarhus.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University se nachází v Aarhusu v Dánsku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě je v Aarhusu v Dánsku.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">The School of Business and Social Sciences at the Aarhus University se nachází ve městě Aarhus v Dánsku.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">School of Business and Social Sciences na Aarhus University se nachází ve městě Aarhus v Dánsku.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Škola podnikání a sociálních věd na Aarhuské univerzitě sídlí ve městě Aarhus v Dánsku.</lex>
+    </entry>
+  </entries>
+</benchmark>

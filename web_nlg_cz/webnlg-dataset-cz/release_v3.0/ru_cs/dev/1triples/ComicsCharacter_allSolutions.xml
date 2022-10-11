@@ -1,0 +1,303 @@
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Roger_McKenzie_(comic_book_writer) | nationality | United_States</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The comic book writer, Roger McKenzie, is a United States national.</lex>
+      <lex lang="ru" lid="Id1">Писатель комиксов Роджер Маккензи является гражданином Соединенных Штатов.</lex>
+      <lex lang="en" lid="Id2">The comic book writer, Roger McKenzie is an American.</lex>
+      <lex lang="ru" lid="Id2">Автор комиксов Роджер Маккензи - американец.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Roger McKenzie (comic book writer) | includes | Роджер Маккензи</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Autor komiksů Roger McKenzie je státním příslušníkem Spojených států.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Spisovatel komiksů Roger McKenzie je státním příslušníkem Spojených států amerických.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Autor komiksů, Roger McKenzie, je občanem Spojených států.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Autor komiksu Roger McKenzie je americký občan.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Spisovatel komiksů Roger McKenzie je Američan.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Autor komiksů Roger McKenzie je Američan.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Roy_Thomas | award | Academy_of_Comic_Book_Arts</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Roy_Thomas | award | Academy_of_Comic_Book_Arts</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Roy Thomas was an award winner at the Academy of Comic Book Arts.</lex>
+      <lex lang="ru" lid="Id1">Рой Томас был лауреатом премии, вручаемой Академией комиксов.</lex>
+      <lex lang="en" lid="Id2">Roy Thomas received an award from the Academy of Comic Book Arts.</lex>
+      <lex lang="ru" lid="Id2">Рой Томас получил награду от Академии комиксов.</lex>
+      <lex lang="en" lid="Id3">Roy Thomas won an award from the Academy of Comic Book Arts.</lex>
+      <lex lang="ru" lid="Id3">Рой Томас завоевал награду от Академии комиксов.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Roy_Thomas | sameAs | Томас,_Рой</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Academy of Comic Book Arts | sameAs | Академия комиксов</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Roy Thomas byl držitelem ceny Akademie komiksového umění.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Roy Thomas byl vítězem ceny na Akademii komiksových umění.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Roy Thomas byl držitelem ceny na Akademii komiksového umění.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Roy Thomas získal ocenění Akademie komiksového umění.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Roy Thomas obdržel cenu od Akademie komiksových umění.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Roy Thomas obdržel cenu Akademie komiksového umění.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Roy Thomas získal ocenění od Akademie komiksového umění.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Roy Thomas získal cenu Akademie komiksových umění.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Roy Thomas získal cenu Akademie komiksového umění.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Roy_Thomas | award | Alley_Award</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Roy_Thomas | award | Alley_Award</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Roy Thomas was awarded the Alley Award.</lex>
+      <lex lang="ru" lid="Id1">Рой Томас был удостоен премии "Аллея".</lex>
+      <lex lang="en" lid="Id2">Roy Thomas won the Alley Award.</lex>
+      <lex lang="ru" lid="Id2">Рой Томас получил премию "Alley".</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Roy_Thomas | sameAs | Томас,_Рой</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Alley Award | sameAs | премия «Аллея»</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Roy Thomas získal cenu Alley Award.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Roy Thomas byl oceněn Alley Award.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Roy Thomas dostal cenu Alley Award.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Roy Thomas získal cenu Alley Award.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Roy Thomas vyhrál Alley Award.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Roy Thomas vyhrál Alley Award.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Sheldon_Moldoff | award | Inkpot_Award</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Sheldon_Moldoff | awards | Inkpot_Award</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sheldon_Moldoff | award | Inkpot_Award</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Sheldon Moldoff won the Inkpot Award.</lex>
+      <lex lang="ru" lid="Id1">Премию Inkpot получил Шелдон Молдофф.</lex>
+      <lex lang="en" lid="Id2">Sheldon Moldoff has won the Inkpot Award.</lex>
+      <lex lang="ru" lid="Id2">Шелдон Молдофф получил премию Inkpot.</lex>
+      <links>
+        <link direction="en2ru">Sheldon Moldoff | sameAs | Шелдон Молдофф</link>
+        <link direction="en2ru">Inkpot Award | sameAs | премия “Инкпот”</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Sheldon Moldoff získal cenu Inkpot Award.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Sheldon Moldoff vyhrál Inkpot Award.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Sheldon Moldoff získal cenu Inkpot.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Sheldon Moldoff získal cenu Inkpot Award.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Sheldon Moldoff vyhrál Inkpot Award.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Sheldon Moldoff získal cenu Inkpot.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sheldon_Moldoff | nationality | Americans</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Sheldon Moldoff was an American national.</lex>
+      <lex lang="ru" lid="Id1">Шелдон Молдофф был американским гражданином.</lex>
+      <lex lang="en" lid="Id2">Sheldon Moldoff is an American.</lex>
+      <lex lang="ru" lid="Id2">Шелдон Молдофф - американец.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Americans | sameAs | Американцы_США</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Sheldon Moldoff | sameAs | Шелдон Молдофф</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Sheldon Moldoff byl americký občan.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Sheldon Moldoff byl americký státní příslušník.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Sheldon Moldoff byl americký občan.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Sheldon Moldoff je americký občan.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Sheldon Moldoff je Američan.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Sheldon Moldoff je Američan.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Arrow_(comics) | alterEgo | "Ralph Payne"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Arrow_(comicsCharacter) | alternativeName | "Ralph Payne"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Arrow is otherwise known as Ralph Payne.</lex>
+      <lex lang="ru" lid="Id1">"Стрела" иначе известна как Ральф Пайн.</lex>
+      <lex lang="en" lid="Id2">The alternative name for the comic character, the Arrow, is Ralph Payne.</lex>
+      <lex lang="ru" lid="Id2">Альтернативным именем персонажа комиксов Стрелы является Ральф Пайн.</lex>
+      <links>
+        <link direction="en2ru">Ralph Payne | sameAs | Ральф Пайн</link>
+        <link direction="en2ru">The Arrow (comicsCharacter) | includes | Стрела</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Šíp je jinak známý jako Ralph Payne.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Arrow je jinak známý jako Ralph Payne.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Arrow je jinak známý jako Ralph Payne.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Alternativní název komiksové postavy Šíp je Ralph Payne.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Alternativní jméno pro komickou postavu, Arrow, je Ralph Payne.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Alternativní jméno pro komickou postavu, Arrow, je Ralph Payne.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Arrow_(comics) | alterEgo | "Rick Parker"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Arrow_(comicsCharacter) | alternativeName | "Rick Parker"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Rick Parker, is the alternative name for the comic character, the Arrow.</lex>
+      <lex lang="ru" lid="Id1">Рик Паркер это альтернативное имя персонажа комиксов Стрелы.</lex>
+      <lex lang="en" lid="Id2">The alternative name for The Arrow (comics character) is "Rick Parker".</lex>
+      <lex lang="ru" lid="Id2">Альтернативным именем The Arrow (герой комиксов) является «Рик Паркер».</lex>
+      <lex lang="en" lid="Id3">The comic book character The Arrow's alter ego is Rick Parker.</lex>
+      <lex lang="ru" lid="Id3">Другое имя персонажа комиксов The Arrow - это Рик Паркер.</lex>
+      <links>
+        <link direction="en2ru">Rick Parker | sameAs | Рик Паркер</link>
+        <link direction="en2ru">The Arrow (comicsCharacter) | includes | Стрела</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Rick Parker, je alternativní jméno pro komiksovou postavu, Arrow.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Rick Parker, je alternativní jméno pro komickou postavu, Arrow.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Rick Parker, je alternativní jméno pro komickou postavu, Arrow.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Alternativní jméno pro Šípa (komiksovou postavu) je "Rick Parker".</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Alternativní název pro The Arrow (komiksová postava) je „Rick Parker“.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Alternativní jméno pro Arrowa (komiksová postava) je "Rick Parker".</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Alter ego komiksové postavy The Arrow je Rick Parker.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Komiksovou postavou The Arrow je alter ego Rick Parker.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Komiksová postava Arrowovo alter ego je Rick Parker.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Arrow_(comics) | creator | Paul_Gustavson</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arrow_(comics) | creators | Paul_Gustavson</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Arrow_(comicsCharacter) | creator | Paul_Gustavson</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Paul Gustavson created The Arrow.</lex>
+      <lex lang="ru" lid="Id1">Пол Густавсон создал "Стрелу".</lex>
+      <lex lang="en" lid="Id2">The comic character, The Arrow, was created by Paul Gustavson.</lex>
+      <lex lang="ru" lid="Id2">Персонаж комиксов «Стрела» была создана Полом Густавсоном.</lex>
+      <links>
+        <link direction="en2ru">Paul Gustavson | sameAs | Пол Густавсон</link>
+        <link direction="en2ru">The Arrow (comicsCharacter) | includes | Стрела</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">The Arrow vytvořil Paul Gustavson.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Paul Gustavson vytvořil The Arrow.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Paul Gustavson vytvořil Arrowa.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Komiksovou postavu The Arrow vytvořil Paul Gustavson.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Komickou postavu The Arrow vytvořil Paul Gustavson.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Komickou postavu Šíp vytvořil Paul Gustavson.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tim_Brooke-Taylor | birthPlace | Buxton</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | Buxton</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Tim Brooke-Taylor was born in Buxton.</lex>
+      <lex lang="ru" lid="Id1">Тим Брук-Тейлор родился в Бакстоне.</lex>
+      <lex lang="en" lid="Id2">Buxton is the birthplace of Tim Brooke-Taylor.</lex>
+      <lex lang="ru" lid="Id2">Бакстон - место рождения Тима Брука-Тейлора.</lex>
+      <links>
+        <link direction="en2ru">Tim Brooke-Taylor | sameAs | Тим Брук-Тейлор</link>
+        <link direction="en2ru">Buxton | sameAs | Бакстон</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Tim Brooke-Taylor se narodil v Buxtonu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Tim Brooke-Taylor se narodil v Buxtonu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Tim Brooke-Taylor se narodil v Buxtonu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">V Buxtonu se narodil Tim Brooke-Taylor.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Buxton je rodištěm Tima Brooke-Taylora.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Buxton je rodištěm Tima Brooke-Taylora.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tim_Brooke-Taylor | birthPlace | Derbyshire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | Derbyshire</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Tim Brooke Taylor was born in Derbyshire.</lex>
+      <lex lang="ru" lid="Id1">Тим Брук Тейлор родился в Дербишире.</lex>
+      <lex lang="en" lid="Id2">Tim Brooke-Taylor was born in Derbyshire.</lex>
+      <lex lang="ru" lid="Id2">Тим Брук-Тейлор родился в Дербишире.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Derbyshire | sameAs | Дербишир</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Tim Brooke-Taylor | sameAs | Тим Брук-Тейлор</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Tim Brooke Taylor se narodil v Derbyshire.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Tim Brooke Taylor se narodil v Derbyshire.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Tim Brooke Taylor se narodil v Derbyshiru.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Tim Brooke-Taylor se narodil v Derbyshire.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Tim Brooke-Taylor se narodil v Derbyshire.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Tim Brooke-Taylor se narodil v Derbyshiru.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tim_Brooke-Taylor | birthPlace | England</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | England</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Tim Brooke Taylor was born in England.</lex>
+      <lex lang="ru" lid="Id1">Тим Брук Тейлор родился в Англии.</lex>
+      <lex lang="en" lid="Id2">Tim Brooke-Taylor was born in England.</lex>
+      <lex lang="ru" lid="Id2">Тим Брук-Тейлор родился в Англии.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">England | sameAs | Англия</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Tim Brooke-Taylor | sameAs | Тим Брук-Тейлор</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Tim Brooke Taylor se narodil v Anglii.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Tim Brooke Taylor se narodil v Anglii.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Tim Brooke Taylor se narodil v Anglii.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Tim Brooke-Taylor se narodil v Anglii.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Tim Brooke-Taylor se narodil v Anglii.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Tim Brooke-Taylor se narodil v Anglii.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Tim_Brooke-Taylor | birthPlace | United_Kingdom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | United_Kingdom</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Tim Brooke-Taylor's birth place is the United Kingdom.</lex>
+      <lex lang="ru" lid="Id1">Местом рождения Тима Брук-Тейлора является Соединенное Королевство.</lex>
+      <lex lang="en" lid="Id2">Tim Brooke-Taylor was born in the UK.</lex>
+      <lex lang="ru" lid="Id2">Тим Брук-Тейлор родился в Великобритании.</lex>
+      <lex lang="en" lid="Id3">The birth place of Tim Brooke-Taylor is United Kingdom.</lex>
+      <lex lang="ru" lid="Id3">Место рождения Тима Брука-Тейлора - Соединенное Королевство.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_Kingdom | sameAs | Великобритания</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Tim Brooke-Taylor | sameAs | Тим Брук-Тейлор</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Místem narození Tima Brooke-Taylora je Spojené království.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Místo narození Tima Brooke-Taylora je Spojené království.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Místo narození Tima Brooke-Taylora je Spojené království.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Tim Brooke-Taylor se narodil ve Spojeném království.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Tim Brooke-Taylor se narodil ve Velké Británii.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Tim Brooke-Taylor se narodil ve Velké Británii.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Místem narození Tima Brooke-Taylora je Spojené království.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Místo narození Tima Brooke-Taylora je Spojené království.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Místo narození Tima Brooke-Taylora je Spojené království.</lex>
+    </entry>
+  </entries>
+</benchmark>

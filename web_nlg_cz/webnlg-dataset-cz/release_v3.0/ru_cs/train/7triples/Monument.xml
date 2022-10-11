@@ -1,0 +1,1132 @@
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="Id1" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | range | Seminary_Ridge</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Seminary_Ridge</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located at Seminary Ridge in Adams County in the municipality of Gettysburg Pennsylvania (United States). It was established in the year 2000 and is categorised as a contributing property.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-му пехотному полку Миссисипи расположен на Семинарском хребте в округе Адамс в муниципалитете Геттисберг (Соединенные Штаты). Он был установлен в 2000 году и отнесён к историческим ценностям.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument (completed in 2000) is a contributing property found at Seminary Ridge, Adams County, in the municipality of Gettysburg in the American state of Pennsylvania.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-му пехотному полку Миссисипи (завершенный в 2000 году) является объектом исторической ценности и находится на Семинарском хребте в округе Адамс, в муниципалитете Геттисберга, штат Пенсильвания.</lex>
+      <lex lang="en" lid="Id3">Seminary Ridge in Gettysburg is located in Adams County, Pennsylvania and is the location of the 11th Mississippi Infantry monument which was established in 2000 and categorised as a contributing property within the United States.</lex>
+      <lex lang="ru" lid="Id3">Семинарский хребет в Геттисберге расположен в округе Адамс, штат Пенсильвания и является местом нахождения памятника 11-му пехотному полку Миссисипи, установленного в 2000 году и считающегося исторической ценностью США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Gettysburg,_Pennsylvania | sameAs | Геттисберг</dbpedialink>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Seminary Ridge | sameAs | Семинарский хребет</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">Contributing property | sameAs | историческое здание / историческая ценность</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Pennsylvania | sameAs | Пенсильвания</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Památník 11. pěšího pluku Mississippi se nachází na Seminary Ridge v okrese Adams v obci Gettysburg v Pensylvánii (USA). Byl zřízen v roce 2000 a je zařazen do kategorie přispívajících objektů.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">11th Mississippi Infantry Monument se nachází v Seminary Ridge v Adams County v obci Gettysburg Pennsylvania (Spojené státy americké). Byla založena v roce 2000 a je zařazena do kategorie přispívající nemovitost.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">11. pěší památník Mississippi se nachází v Seminary Ridge v Adams County v obci Gettysburg Pennsylvania (Spojené státy). Byla založena v roce 2000 a je zařazena mezi přispívající nemovitosti.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Památník 11. pěšího pluku Mississippi (dokončen v roce 2000) se nachází v Seminary Ridge v okrese Adams v obci Gettysburg v americkém státě Pensylvánie.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">11th Mississippi Infantry Monument (dokončený v roce 2000) je přispívající majetek nalezený v Seminary Ridge, Adams County, v obci Gettysburg v americkém státě Pensylvánie.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">11. pěší památník Mississippi (dokončen v roce 2000) je přispívající nemovitost nalezená v Seminary Ridge, Adams County, v obci Gettysburg v americkém státě Pennsylvania.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Seminary Ridge v Gettysburgu se nachází v okrese Adams County ve státě Pensylvánie a nachází se zde památník 11. pěšího pluku Mississippi, který byl zřízen v roce 2000 a je zařazen do kategorie přispívajících nemovitostí v USA.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Seminary Ridge v Gettysburgu se nachází v okrese Adams v Pensylvánii a je místem, kde se nachází památník 11. pěchoty Mississippi, který byl založen v roce 2000 a zařazen do kategorie přispívající majetek ve Spojených státech.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Seminary Ridge v Gettysburgu se nachází v Adams County v Pensylvánii a je místem, kde se nachází 11. památník pěchoty v Mississippi, který byl založen v roce 2000 a zařazen do kategorie přispívajících nemovitostí v rámci Spojených států.</lex>
+    </entry>
+    <entry category="Monument" eid="Id2" shape="(X (X) (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">11th Mississippi Infantry Monument has been established in 2000 and is categorised as a contributing property. It is located in Adams County, Pennsylvania (United States). Carroll County Maryland is southeast of Adams county Pennsylvania and Pennsylvania's Cumberland County is to the north of the Adams County.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-му пехотному полку Миссисипи был установлен в 2000 году и считается объектом исторической ценности. Он расположен в округе Адамс, штат Пенсильвания, США. Кэрролл расположен к юго-востоку от округа Адамс, штат Пенсильвания, а Камберленд штата Пенсильвания к северу от округа Адамс.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument was established in 2000 in Adams County, Pennsylvania and is categorised as a contributing property of the United States. Adams County is located south of Cumberland County and Carroll County in Maryland lie to the southeast.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-му пехотному полку Миссисипи, который считается исторической ценностью в Соединенных Штатах, был установлен в 2000 году в округе Адамс, штат Пенсильвания. Округ Адамс расположен к югу от округа Камберленд, и граничит с округом Кэрролл, штат Мэриленд, на юго-востоке.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument was established in 2000 and is categorised as a contributing property. It is located in Adams County, Pennsylvania state (in the US). Adams County, Pennsylvania has Carroll County, Maryland to its southeast and Pennsylvania's Cumberland County is to the north of the Adams County.</lex>
+      <lex lang="ru" lid="Id3">Памятник 11-му пехотному полку Миссисипи был установлен в 2000 году и отнесён объектам, представляющим историческую ценность. Он расположен в округе Адамс, штат Пенсильвания (в США). На юго-востоке округа Адамс, штат Пенсильвания, есть округ Кэрролл, Мэриленд, и Камберленд к северу от округа Адамс.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Carroll_County,_Maryland | sameAs | Кэрролл_(округ,_Мэриленд)</dbpedialink>
+        <dbpedialink direction="en2ru">Cumberland_County,_Pennsylvania | sameAs | Камберленд_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">Contributing property | sameAs | историческое здание / историческая ценность</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Pennsylvania | sameAs | Пенсильвания</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Pomník 11. pěšího pluku Mississippi byl zřízen v roce 2000 a je zařazen do kategorie přispívajících nemovitostí. Nachází se v okrese Adams County v Pensylvánii (Spojené státy americké). Okres Carroll County Maryland leží jihovýchodně od okresu Adams County v Pensylvánii a pensylvánský okres Cumberland County leží severně od okresu Adams County.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">11th Mississippi Infantry Monument byl založen v roce 2000 a je zařazen do kategorie přispívající majetek. Nachází se v Adams County, Pennsylvania (Spojené státy americké). Carroll County Maryland je jihovýchodně od Adams County Pennsylvania a Pensylvánie je Cumberland County je na sever od Adams County.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">11. pěší památník Mississippi byl založen v roce 2000 a je zařazen do kategorie přispívajících nemovitostí. Sídlí v Adams County v Pensylvánii (Spojené státy). Carroll County Maryland leží jihovýchodně od Adams county Pennsylvania a Pennsylvania's Cumberland County leží severně od Adams County.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Památník 11. pěšího pluku Mississippi byl zřízen v roce 2000 v okrese Adams County v Pensylvánii a je zařazen do kategorie přispívajícího majetku Spojených států amerických. Okres Adams se nachází jižně od okresu Cumberland a okres Carroll v Marylandu leží jihovýchodně.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">11th Mississippi Infantry Monument byl založen v roce 2000 v Adams County v Pensylvánii a je zařazen do kategorie přispívající majetek Spojených států. Adams County se nachází jižně od Cumberland County a Carroll County v Marylandu leží na jihovýchod.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">11. pěší památník Mississippi byl založen v roce 2000 v Adams County v Pensylvánii a je zařazen mezi přispívající majetek Spojených států. Adams County leží jižně od Cumberland County a Carroll County v Marylandu leží na jihovýchodě.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Památník 11. mississippské pěchoty byl založen v roce 2000 a je zařazen do kategorie přispívajícího majetku Spojených států. Nachází se v okrese Adams County ve státě Pensylvánie (v USA). Adams County ve státě Pennsylvania má na jihovýchodě okres Carroll County ve státě Maryland a na sever od něj leží pensylvánský okres Cumberland County.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Památník 11. pěchoty Mississippi byl založen v roce 2000 a je zařazen do kategorie přispívající majetek. Nachází se v Adams County ve státě Pennsylvania (v USA). Adams County, Pennsylvania má Carroll County, Maryland na jeho jihovýchod a Pensylvánie je Cumberland County je na sever od Adams County.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">11. pěší památník Mississippi byl založen v roce 2000 a je zařazen mezi přispívající nemovitosti. Sídlí v Adams County ve státě Pennsylvania (v USA). Adams County, Pennsylvania má Carroll County, Maryland na jihovýchodě a Pennsylvania Cumberland County je na severu Adams County.</lex>
+    </entry>
+    <entry category="Monument" eid="Id3" shape="(X (X) (X) (X (X) (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument is categorized as a Contributing property, and is found in Adams County, Pennsylvania, in the US. Adams County is to the east of Franklin County, Pennsylvania, and it has Carroll County Maryland to its southeast, Pennsylvania's Cumberland County to its north, and Maryland's Frederick County to its southwest.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-му пехотному полку Миссисипи относится к объектам культурного наследия и расположен в округе Адамс, штат Пенсильвания, США. Округ Адамс находится к востоку от округа Франклин, штат Пенсильвания, а к юго-востоку от него находится Кэрролл, к северу - округ Камберленд, штат Пенсильвания и округ Фредерик штата Мэриленд к юго-западу.</lex>
+      <lex lang="en" lid="Id2">Adams County is located in Pennsylvania, United States to the south of Cumberland County and to the east of Franklin County. Frederick County, Maryland is to the southwest and Carroll County, Maryland to the southeast. Adams County is the location of the 11th Mississippi Infantry monument which is categorised as a contributing property.</lex>
+      <lex lang="ru" lid="Id2">Округ Адамс находится в штате Пенсильвания, США, к югу от Камберленда, к востоку от Франклина. Фредерик находится к юго-западу, а округ Кэрролл штата Мэриленд к юго-востоку. Округ Адамс является местом расположения памятника 11-му пехотному полку Миссисипи, причисленного к объектам исторической ценности.</lex>
+      <lex lang="en" lid="Id3">Adams County, Pennsylvania which lies east of Franklin County, south of Cumberland County, northwest of Carroll County, Maryland and northeast of Frederick County, is the location of the 11th Mississippi Infantry monument which was established in 2000 and categorised as a contributing property within the United States.</lex>
+      <lex lang="ru" lid="Id3">Округ Адамс штата Пенсильвания, расположенный к востоку от Франклина, к югу от округа Камберленд, к северо-западу от округа Кэрролл штата Мэриленд и к северо-востоку от округа Фредерика, является местом расположения памятника 11-му пехотному полку Миссисипи, который классифицирован как объект исторической ценности США.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Franklin_County,_Pennsylvania | sameAs | Франклин_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">Carroll_County,_Maryland | sameAs | Кэрролл_(округ,_Мэриленд)</dbpedialink>
+        <dbpedialink direction="en2ru">Cumberland_County,_Pennsylvania | sameAs | Камберленд_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">Frederick_County,_Maryland | sameAs | Фредерик_(округ,_Мэриленд)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Contributing property | sameAs | историческое здание / историческая ценность</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Památník 11. pěšího pluku Mississippi je zařazen do kategorie přispívajících objektů a nachází se v okrese Adams County ve státě Pensylvánie (USA). Okres Adams leží východně od okresu Franklin v Pensylvánii a na jihovýchodě má okres Carroll v Marylandu, na severu okres Cumberland v Pensylvánii a na jihozápadě okres Frederick v Marylandu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Památník 11. pěchoty Mississippi je kategorizován jako přispívající majetek a nachází se v Adams County, Pennsylvania, v USA. Adams County je na východ od Franklin County v Pensylvánii a má Carroll County Maryland na jeho jihovýchod, Pensylvánský Cumberland County na jeho sever a Marylandský Frederick County na jeho jihozápad.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">11. pěší památník Mississippi je zařazen do kategorie Přispívající majetek a nachází se v Adams County v Pennsylvanii v USA. Adams County leží východně od Franklin County v Pensylvánii a na jihovýchodě má Carroll County Maryland, na severu Pennsylvania Cumberland County a na jihozápadě Maryland Frederick County.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Adams County se nachází v Pensylvánii, Spojené státy americké, jižně od Cumberland County a východně od Franklin County. Na jihozápadě leží Frederick County ve státě Maryland a na jihovýchodě Carroll County ve státě Maryland. V okrese Adams se nachází památník 11. pěšího pluku Mississippi, který je zařazen do kategorie přispívajících objektů.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Adams County se nachází v Pensylvánii ve Spojených státech na jih od Cumberland County a na východ od Franklin County. Frederick County, Maryland je na jihozápad a Carroll County, Maryland na jihovýchod. Adams County je umístění památníku 11. pěchoty Mississippi, který je zařazen do kategorie přispívající majetek.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Adams County se nachází v Pennsylvanii ve Spojených státech na jih od Cumberland County a na východ od Franklin County. Frederick County, Maryland je na jihozápadě a Carroll County, Maryland na jihovýchodě. Adams County je místo, kde se nachází 11. pěší památník Mississippi, který je zařazen jako přispívající majetek.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Okres Adams v Pensylvánii, který leží východně od okresu Franklin, jižně od okresu Cumberland, severozápadně od okresu Carroll v Marylandu a severovýchodně od okresu Frederick, je místem, kde se nachází památník 11. mississippské pěchoty, který byl zřízen v roce 2000 a je zařazen do kategorie přispívajících nemovitostí v rámci Spojených států.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Adams County, Pennsylvania, který leží východně od Franklin County, jižně od Cumberland County, severozápadně od Carroll County, Maryland a severovýchodně od Frederick County, je místem, kde se nachází památník 11. Mississippi pěchoty, který byl založen v roce 2000 a kategorizován jako přispívající majetek v rámci Spojené státy.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Adams County, Pennsylvania, která leží východně od Franklin County, jižně od Cumberland County, severozápadně od Carroll County, Maryland a severovýchodně od Frederick County, je místem, kde se nachází 11. Mississippi Infantry monument, který byl založen v roce 2000 a zařazen mezi přispívající nemovitosti v rámci Spojených států.</lex>
+    </entry>
+    <entry category="Monument" eid="Id4" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Frederick County Maryland is to the south west of Adams County, Pennsylvania. To the south of Adams County is Cumberland County and to the northwest Carroll County, Maryland. Adams County is the location of the 11th Mississippi Infantry monument which was established in 2000 and categorised as a contributing property within the United States.</lex>
+      <lex lang="ru" lid="Id1">Округ Фредерик, штат Мэриленд находится к юго-западу от округа Адамс, штат Пенсильвания. К югу от округа Адамс находится округ Камберленд, а к северо-западу - округ Кэрролл, штат Мэриленд. В округе Адамс находится Памятник 11-му пехотному полку Миссисипи, который был установлен в 2000 году и классифицируется как историческая ценность.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry monument, established in 2000, is categorised as a contributing property and located in Adams County, Pennsylvania which is north of Cumberland County. The County is northwest of Maryland's Carroll County and northeast of Frederick County, Maryland.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-му пехотному полку Миссисипи, созданный в 2000 году, классифицирован как объект культурного наследия и расположен в округе Адамс, штат Пенсильвания, к северу от округа Камберленд. Округ находится к северо-западу округа Мэриленд и к северо-востоку к округу Фредерик, штат Мэриленд.</lex>
+      <lex lang="en" lid="Id3">Adams County in Pennsylvania is located south of Cumberland County. Frederick County, Maryland is to the southwest and Carroll County, Maryland is to the southeast. The County is the location of the 11th Mississippi Infantry monument which was established in 2000 and is categorised as a contributing property.</lex>
+      <lex lang="ru" lid="Id3">Округ Адамс в Пенсильвании расположен к югу от округа Камберленд. Округ Фредерик, штат Мэриленд, находится на юго-западе, а округ Кэрролл - на юго-востоке. Округ Адамс является местом расположения Памятника 11-му пехотному полку Миссисипи, который был установлен в 2000 году и классифицируется как историческая ценность.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Carroll_County,_Maryland | sameAs | Кэрролл_(округ,_Мэриленд)</dbpedialink>
+        <dbpedialink direction="en2ru">Cumberland_County,_Pennsylvania | sameAs | Камберленд_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+        <dbpedialink direction="en2ru">Frederick_County,_Maryland | sameAs | Фредерик_(округ,_Мэриленд)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">Contributing property | sameAs | историческое здание / историческая ценность</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Pennsylvania | sameAs | Пенсильвания</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Frederick County Maryland leží jihozápadně od Adams County v Pensylvánii. Na jih od okresu Adams se nachází okres Cumberland a na severozápad okres Carroll v Marylandu. V okrese Adams se nachází památník 11. pěšího pluku Mississippi, který byl zřízen v roce 2000 a je zařazen do kategorie nemovitostí přispívajících k rozvoji Spojených států.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Frederick County Maryland je jihozápadně od Adams County, Pennsylvania. Na jih od Adams County je Cumberland County a na severozápadě Carroll County, Maryland. Adams County je umístění památníku 11. pěchoty Mississippi, který byl založen v roce 2000 a zařazen do kategorie přispívající majetek ve Spojených státech.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Frederick County Maryland je na jihozápad od Adams County v Pensylvánii. Na jih od Adams County je Cumberland County a na severozápad Carroll County v Marylandu. Adams County je místem 11. pěšího památníku Mississippi, který byl založen v roce 2000 a zařazen do kategorie přispívajících nemovitostí v rámci Spojených států.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Památník 11. pěšího pluku Mississippi, který byl zřízen v roce 2000, je zařazen do kategorie přispívajících nemovitostí a nachází se v okrese Adams County v Pensylvánii, který leží severně od okresu Cumberland. Okres leží severozápadně od okresu Carroll County ve státě Maryland a severovýchodně od okresu Frederick County ve státě Maryland.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Památník 11. pěchoty Mississippi, založený v roce 2000, je zařazen do kategorie přispívající majetek a nachází se v Adams County, Pennsylvania, což je severně od Cumberland County. County je severozápad od Maryland's Carroll County a severovýchodně od Frederick County, Maryland.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">11. pěší památník Mississippi, založený v roce 2000, je zařazen do kategorie přispívajících nemovitostí a nachází se v Adams County v Pennsylvanii, což je severně od Cumberland County. Okres je severozápadně od okresu Carroll v Marylandu a severovýchodně od okresu Frederick v Marylandu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Okres Adams v Pensylvánii se nachází jižně od okresu Cumberland. Okres Frederick v Marylandu leží na jihozápadě a okres Carroll v Marylandu na jihovýchodě. V okrese se nachází památník 11. pěšího pluku Mississippi, který byl zřízen v roce 2000 a je zařazen do kategorie přispívajících objektů.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Adams County v Pensylvánii se nachází jižně od Cumberland County. Frederick County, Maryland je na jihozápad a Carroll County, Maryland je na jihovýchod. V hrabství se nachází památník 11. pěchoty Mississippi, který byl založen v roce 2000 a je zařazen do kategorie přispívající majetek.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Adams County v Pennsylvanii leží jižně od Cumberland County. Frederick County, Maryland je na jihozápadě a Carroll County, Maryland je na jihovýchodě. Okres je místem, kde se nachází 11. pěší památník Mississippi, který byl založen v roce 2000 a je zařazen do kategorie přispívajících nemovitostí.</lex>
+    </entry>
+    <entry category="Monument" eid="Id5" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Gettysburg is located in Adams County, Pennsylvania which lies to the south of Cumberland County, east of Franklin County and to the northwest of Carroll County, Maryland. It is the location of the 11th Mississippi Infantry monument which was established in 2000 and categorised as a contributing property within the United States.</lex>
+      <lex lang="ru" lid="Id1">Геттисберг расположен в округе Адамс, штат Пенсильвания, который находится к югу от округа Камберленд, к востоку от округа Франклин и к северо-западу от округа Кэрролл, штат Мэриленд. Это местоположение Памятника 11-му пехотному полку Миссисипи, который был установлен в 2000 году и считается исторической ценностью в Соединенных Штатах.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry monument is located in the municipality of Gettysburg, Adams County which was established in 2000 and categorised as a contributing property. Adams County in Pennsylvania is located to the east of Franklin County and south of Cumberland County. To the north west is Carroll County, Maryland.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-му пехотному полку Миссисипи, который был установлен в 2000 году и считается исторической ценностью, расположен в муниципалитете Геттисберга, округ Адамс. Округ Адамс в Пенсильвании расположен к востоку от округа Франклин и к югу от округа Камберленд. На северо-западе находится округ Кэрролл, штат Мэриленд.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Franklin_County,_Pennsylvania | sameAs | Франклин_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">Gettysburg,_Pennsylvania | sameAs | Геттисберг</dbpedialink>
+        <dbpedialink direction="en2ru">Carroll_County,_Maryland | sameAs | Кэрролл_(округ,_Мэриленд)</dbpedialink>
+        <dbpedialink direction="en2ru">Cumberland_County,_Pennsylvania | sameAs | Камберленд_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Contributing property | sameAs | историческое здание / историческая ценность</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Gettysburg se nachází v okrese Adams County v Pensylvánii, který leží jižně od okresu Cumberland, východně od okresu Franklin a severozápadně od okresu Carroll County v Marylandu. Nachází se zde památník 11. mississippské pěchoty, který byl zřízen v roce 2000 a je zařazen do kategorie přispívajících nemovitostí v rámci Spojených států.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Gettysburg se nachází v Adams County, Pennsylvania, který leží na jih od Cumberland County, východně od Franklin County a na severozápad od Carroll County, Maryland. Je to umístění památníku 11. pěchoty Mississippi, který byl založen v roce 2000 a zařazen do kategorie přispívající majetek ve Spojených státech.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Gettysburg se nachází v Adams County v Pennsylvanii, která leží na jih od Cumberland County, východně od Franklin County a na severozápad od Carroll County v Marylandu. Jedná se o umístění 11. pěšího památníku Mississippi, který byl založen v roce 2000 a zařazen do kategorie přispívajících nemovitostí v rámci Spojených států.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Památník 11. mississippské pěchoty se nachází v obci Gettysburg v okrese Adams, která byla založena v roce 2000 a zařazena do kategorie přispívajících nemovitostí. Okres Adams v Pensylvánii se nachází na východ od okresu Franklin a na jih od okresu Cumberland. Na severozápadě se nachází okres Carroll County ve státě Maryland.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Památník 11. pěchoty Mississippi se nachází v obci Gettysburg, okres Adams, který byl založen v roce 2000 a je zařazen do kategorie přispívající majetek. Adams County v Pensylvánii se nachází na východ od Franklin County a jižně od Cumberland County. Na severozápadě je Carroll County, Maryland.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Jedenáctý památník pěchoty Mississippi se nachází v obci Gettysburg v Adams County, která byla založena v roce 2000 a zařazena do kategorie přispívajících nemovitostí. Adams County v Pennsylvanii se nachází východně od Franklin County a jižně od Cumberland County. Na severozápadě leží okres Carroll v Marylandu.</lex>
+    </entry>
+    <entry category="Monument" eid="Id6" shape="(X (X) (X) (X (X) (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Adams County lies to the east of Franklin County and south of Cumberland County, Pennsylvania. Carroll County in Maryland lies to the southeast and Frederick County, Maryland to the southwest. The 11th Mississippi Infantry monument which was completed in 2000 is located in Adams County and categorised as contributing property.</lex>
+      <lex lang="ru" lid="Id1">Округ Адамс расположен к востоку от округа Франклин и к югу от округа Камберленд, штат Пенсильвания. Округ Кэрролл в Мэриленде располагается к юго-востоку, а округ Фредерик, штат Мэриленд, – к юго-западу. Памятник 11-му пехотному полку Миссисипи, строительство которого было завершено в 2000 году, находится в округе Адамс и имеет статус объекта исторической ценности.</lex>
+      <lex lang="en" lid="Id2">Adams County Pennsylvania is East of Franklin County, Pennsylvania. To the southeast is Carroll County, Maryland. Adams County has Cumberland County to its north and Frederick County, Maryland to its southwest. The 11th Mississippi Infantry Monument is in this county and was completed in 2000. This Monument is categorized as a Contributing Property.</lex>
+      <lex lang="ru" lid="Id2">Адамс - это восток округа Франклин, штат Пенсильвания. На юго-востоке расположен округ Кэрролл, Мэриленд. К северу от округа Адамс расположен округ Камберленд, к юго-западу - округ Фредерик, Мэриленд. Памятник 11-му пехотному полку Миссисипи находится в этом округе, и он был выполнен в 2000 году. Этот памятник относится к объектам, представляющим историческую ценность.</lex>
+      <lex lang="en" lid="Id3">The 11th Mississippi Infantry Monument was established in 2000 in Adams County, Pennsylvania and is categorised as a contributing property. Adams County is located east of Franklin County and south of Cumberland County. Carroll County and Frederick County in Maryland lie to the southeast and southwest respectively.</lex>
+      <lex lang="ru" lid="Id3">Памятник 11-му пехотному полку Миссисипи был установлен в 2000 году в округе Адамс, штат Пенсильвания, и классифицирован как объект исторической ценности. Округ Адамс расположен к востоку от округа Франклин и к югу от округа Камберленд. Округа Кэрролл и Фредерик в Мэриленде располагаются к юго-востоку и юго-западу соответственно.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Franklin_County,_Pennsylvania | sameAs | Франклин_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">Carroll_County,_Maryland | sameAs | Кэрролл_(округ,_Мэриленд)</dbpedialink>
+        <dbpedialink direction="en2ru">Cumberland_County,_Pennsylvania | sameAs | Камберленд_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">2000 | sameAs | 2000_год</dbpedialink>
+        <dbpedialink direction="en2ru">Frederick_County,_Maryland | sameAs | Фредерик_(округ,_Мэриленд)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Contributing property | sameAs | историческое здание / историческая ценность</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Okres Adams leží východně od okresu Franklin a jižně od okresu Cumberland v Pensylvánii. Okres Carroll v Marylandu leží na jihovýchodě a okres Frederick v Marylandu na jihozápadě. Památník 11. pěšího pluku Mississippi, který byl dokončen v roce 2000, se nachází v okrese Adams a je zařazen do kategorie přispívajícího majetku.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Adams County leží na východ od Franklin County a jižně od Cumberland County, Pennsylvania. Carroll County v Marylandu leží na jihovýchod a Frederick County, Maryland na jihozápad. Památník 11. pěchoty Mississippi, který byl dokončen v roce 2000, se nachází v okrese Adams a je zařazen do kategorie přispívající majetek.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Adams County leží východně od Franklin County a jižně od Cumberland County v Pennsylvanii. Carroll County v Marylandu leží na jihovýchodě a Frederick County v Marylandu na jihozápadě. Jedenáctý památník pěchoty Mississippi, který byl dokončen v roce 2000, se nachází v Adams County a je zařazen do kategorie přispívajícího majetku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Okres Adams v Pensylvánii leží východně od okresu Franklin v Pensylvánii. Na jihovýchodě se nachází okres Carroll County ve státě Maryland. Na severu má Adams County okres Cumberland a na jihozápadě Frederick County ve státě Maryland. V tomto okrese se nachází památník 11. pěšího pluku Mississippi, který byl dokončen v roce 2000. Tento památník je zařazen do kategorie přispívajících nemovitostí.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Adams County Pennsylvania je východně od Franklin County, Pennsylvania. Na jihovýchodě je Carroll County, Maryland. Adams County má Cumberland County na sever a Frederick County, Maryland na jeho jihozápad. 11. památník pěchoty Mississippi je v tomto kraji a byl dokončen v roce 2000. Tento památník je kategorizován jako přispívající nemovitost.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Adams County Pennsylvania je východně od Franklin County v Pensylvánii. Na jihovýchodě leží okres Carroll v Marylandu. Adams County má Cumberland County na severu a Frederick County, Maryland na jihozápadě. 11. pěší památník Mississippi je v tomto kraji a byl dokončen v roce 2000. Tento památník je zařazen do kategorie Přispívající majetek.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Památník 11. pěšího pluku Mississippi byl zřízen v roce 2000 v okrese Adams County v Pensylvánii a je kategorizován jako přispívající objekt. Okres Adams se nachází východně od okresu Franklin a jižně od okresu Cumberland. Okresy Carroll County a Frederick County v Marylandu leží jihovýchodně, respektive jihozápadně.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">11th Mississippi Infantry Monument byl založen v roce 2000 v Adams County, Pennsylvania a je zařazen do kategorie přispívající majetek. Adams County se nachází východně od Franklin County a jižně od Cumberland County. Carroll County a Frederick County v Marylandu leží na jihovýchod a jihozápad.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">11. pěší památník Mississippi byl založen v roce 2000 v Adams County v Pensylvánii a je zařazen mezi přispívající nemovitosti. Adams County se nachází východně od Franklin County a jižně od Cumberland County. Carroll County a Frederick County v Marylandu leží na jihovýchodě, respektive jihozápadě.</lex>
+    </entry>
+    <entry category="Monument" eid="Id7" shape="(X (X) (X) (X (X) (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 11th Mississippi Infantry Monument falls under the category of Contributing property, and is located in the municipality of Gettysburg in Adams County, Pennsylvania. This county is to the east of Franklin County, and has Cumberland County to its north and Carroll County (Maryland) to its southeast.</lex>
+      <lex lang="ru" lid="Id1">Памятник 11-му пехотному полку Миссисипи попадает под категорию "историческая ценность" и находится в муниципалитете Геттисберга, в округе Адамс, Пенсильвания. Этот округ находится к востоку от округа Франклин, граничит с округом Камберленд на севере и округом Кэрролл (штат Мэриленд) на юго-востоке.</lex>
+      <lex lang="en" lid="Id2">The 11th Mississippi Infantry Monument was established in 2000 in Gettysburg, Adams County, Pennsylvania and is categorised as a contributing property. Adams County is located east of Franklin County and south of Cumberland County. Carroll County and Frederick County in Maryland lie to the southeast and southwest respectively.</lex>
+      <lex lang="ru" lid="Id2">Памятник 11-му пехотному полку Миссисипи был установлен в 2000 году в Геттисберге, округ Адамс, штат Пенсильвания. Памятник классифицирован как объект, имеющий историческую ценность. Округ Адамс находится к востоку от округа Франклин и к югу от округа Камберленд. Округа Кэрролл и Фредерик в Мэриленде находятся к юго-востоку и к юго-западу от округа Адамс соответственно.</lex>
+      <lex lang="en" lid="Id3">Adams County in Pennsylvania is located east of Franklin County and south of Cumberland County. Southeast is Carroll County, Maryland and Frederick County, Maryland is to the southwest. The 11th Mississippi Infantry Monument is located in the municipality of Gettysburg, Adams County and is categorised as a contributing property.</lex>
+      <lex lang="ru" lid="Id3">Округ Адамс в штате Пенсильвания расположен к востоку от округа Франклин и к югу от округа Камберленд. К юго-востоку от округа Адамс – округ Кэрролл, штат Мэриленд, а к юго-западу – округ Фредерик, также Мэриленд. Памятник 11-му пехотному полку Миссисипи находится в муниципалитете Геттисберг, округ Адамс, и имеет статус объекта, обладающего исторической ценностью.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Franklin_County,_Pennsylvania | sameAs | Франклин_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">Gettysburg,_Pennsylvania | sameAs | Геттисберг</dbpedialink>
+        <dbpedialink direction="en2ru">Carroll_County,_Maryland | sameAs | Кэрролл_(округ,_Мэриленд)</dbpedialink>
+        <dbpedialink direction="en2ru">Cumberland_County,_Pennsylvania | sameAs | Камберленд_(округ,_Пенсильвания)</dbpedialink>
+        <dbpedialink direction="en2ru">Frederick_County,_Maryland | sameAs | Фредерик_(округ,_Мэриленд)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | округ Адамс</link>
+        <link direction="en2ru">Adams County, Pennsylvania | includes | Пенсильвания</link>
+        <link direction="en2ru">11th Mississippi Infantry Monument | sameAs | Памятник 11-му пехотному полку Миссисипи</link>
+        <link direction="en2ru">Contributing property | sameAs | историческое здание / историческая ценность</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Památník 11. pěšího pluku Mississippi spadá do kategorie přispívajícího majetku a nachází se v obci Gettysburg v okrese Adams v Pensylvánii. Tento okres leží východně od okresu Franklin a na severu má okres Cumberland a na jihovýchodě okres Carroll (Maryland).</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Památník 11. pěchoty Mississippi spadá do kategorie přispívajícího majetku a nachází se v obci Gettysburg v Adams County, Pennsylvania. Tento kraj je na východ od Franklin County, a má Cumberland County na jeho sever a Carroll County (Maryland) na jeho jihovýchod.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Jedenáctý pěchotní památník Mississippi spadá do kategorie příspěvkového majetku a nachází se v obci Gettysburg v Adams County v Pensylvánii. Tento okres je na východ od okresu Franklin a má okres Cumberland na severu a okres Carroll (Maryland) na jihovýchodě.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Památník 11. pěšího pluku Mississippi byl zřízen v roce 2000 v Gettysburgu v okrese Adams v Pensylvánii a je zařazen do kategorie přispívajících nemovitostí. Okres Adams se nachází východně od okresu Franklin a jižně od okresu Cumberland. Okresy Carroll County a Frederick County v Marylandu leží jihovýchodně, respektive jihozápadně.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">11th Mississippi Infantry Monument byl založen v roce 2000 v Gettysburgu, Adams County, Pennsylvania a je zařazen do kategorie přispívající majetek. Adams County se nachází východně od Franklin County a jižně od Cumberland County. Carroll County a Frederick County v Marylandu leží na jihovýchod a jihozápad.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">11. pěší památník Mississippi byl založen v roce 2000 v Gettysburgu, Adams County, Pennsylvania a je zařazen mezi přispívající nemovitosti. Adams County se nachází východně od Franklin County a jižně od Cumberland County. Carroll County a Frederick County v Marylandu leží na jihovýchodě, respektive jihozápadě.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Okres Adams v Pensylvánii leží východně od okresu Franklin a jižně od okresu Cumberland. Na jihovýchodě leží okres Carroll County v Marylandu a na jihozápadě okres Frederick County v Marylandu. Památník 11. pěšího pluku Mississippi se nachází v obci Gettysburg v okrese Adams a je zařazen do kategorie přispívajících objektů.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Adams County v Pensylvánii se nachází východně od Franklin County a jižně od Cumberland County. Jihovýchodní je Carroll County, Maryland a Frederick County, Maryland je na jihozápad. 11th Mississippi Infantry Monument se nachází v obci Gettysburg, Adams County a je kategorizován jako přispívající majetek.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Adams County v Pennsylvanii se nachází východně od Franklin County a jižně od Cumberland County. Jihovýchodně je Carroll County, Maryland a Frederick County, Maryland je na jihozápadě. 11. pěší památník Mississippi se nachází v obci Gettysburg v Adams County a je zařazen jako přispívající majetek.</lex>
+    </entry>
+    <entry category="Monument" eid="Id8" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+        <otriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+        <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The leader of Azerbaijan is called the Prime Minister of Azerbaijan. The capital of Azerbaijan is Baku. In Baku is the Baku Turkish Martyrs's Memorial located which was designed by Huseyin Butuner and Hilmi Guner. Turk Sehitler Aniti is the native name for the Baku Turkish Martyr's Memorial, which is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. The source of legislature in Azerbaijan is the National Assembly.</lex>
+      <lex lang="ru" lid="Id1">Главой Азербайджана является Премьер-министр Азербайджана. Столица Азербайджана - Баку. В ней есть Мемориал памяти турецких солдат в Баку, который был спроектирован Хюсейном Бютюнером и Хилми Гюнером. Türk Şehitleri Anıtı - это исконное название Мемориала памяти турецких солдат в Баку, который посвящен солдатам Османской армии, погибшим в битве за Баку. Источником законодательной власти в Азербайджане является Национальное собрание.</lex>
+      <lex lang="en" lid="Id2">The capital of Baku is Azerbaijan with its leader called the Prime Minister and its legislative branch called the National Assembly. The Baku Turkish Martyrs Memorial was designed by Huseyin Butuner and Hilmi Guner and is found in Azerbaijan. It is dedicated to soldiers killed in the Battle of Baku. The Memorial is known locally as Türk Şehitleri Anıtı.</lex>
+      <lex lang="ru" lid="Id2">Баку – столица Азербайджана, лидер которого имеет статус премьер-министра, а орган законодательной власти называется Национальное собрание. Находящийся в Азербайджане Мемориал памяти турецких мучеников в Баку был спроектирован Хюсейном Бютюнером и Хилми Гюнером. Мемориал посвящен солдатам Османской армии, погибшим в битве за Баку. Среди местного населения мемориал известен как Türk Şehitleri Anıtı.</lex>
+      <lex lang="en" lid="Id3">The Azerbijan leader is the Prime Minister of Azerbaijan and it has a legislature called the Azerbaijan National Assembly. Baku is the capital of Azerbaijan. In Baku is a Martyrs Memorial dedicated to the soldiers killed in the Battle of Baku. The native name is Turk Sehitleri Aniti. The Memorial was designed by Hüseyin Bütüner and Hilmi Güner.</lex>
+      <lex lang="ru" lid="Id3">Азербайджанский лидер – это премьер-министр Азербайджана, а орган законодательной власти называется Национальное собрание. Баку – столица Азербайджана. Мемориал памяти мучеников в Баку посвящен солдатам, погибшим в битве за Баку. Оригинальное название мемориала – Türk Şehitleri Anıtı. Он был спроектирован Хюсейном Бютюнером и Хилми Гюнером.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Baku | sameAs | Баку</dbpedialink>
+        <dbpedialink direction="en2ru">Prime_Minister_of_Azerbaijan | sameAs | Список_премьер-министров_Азербайджана</dbpedialink>
+        <dbpedialink direction="en2ru">National_Assembly_(Azerbaijan) | sameAs | Милли_Меджлис_Азербайджана</dbpedialink>
+        <dbpedialink direction="en2ru">Azerbaijan | sameAs | Азербайджан</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ottoman Army soldiers killed in the Battle of Baku | sameAs | солдаты Османской армии, погибшие в битве за Баку</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хюсейн Бютюнер / Гусейн Бутунер</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хилми Гюнер / Хилми Гунер</link>
+        <link direction="en2ru">Baku Turkish Martyrs' Memorial | sameAs | Мемориал памяти турецких солдат/ воинов/ мучеников в Баку</link>
+        <link direction="en2ru">Türk Şehitleri Anıtı | sameAs | Türk Şehitleri Anıtı</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Vůdce Ázerbájdžánu se nazývá premiér Ázerbájdžánu. Hlavním městem Ázerbájdžánu je Baku. V Baku se nachází památník tureckých mučedníků v Baku, který navrhli Huseyin Butuner a Hilmi Guner. Turk Sehitler Aniti je původní název pro památník bakuských tureckých mučedníků, který je věnován vojákům osmanské armády padlým v bitvě u Baku. Zdrojem zákonodárství v Ázerbájdžánu je Národní shromáždění.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Vůdce Ázerbájdžánu se nazývá premiér Ázerbájdžánu. Hlavním městem Ázerbájdžánu je Baku. V Baku se nachází Památník tureckých mučedníků v Baku, který navrhli Huseyin Butuner a Hilmi Guner. Turk Sehitler Aniti je původní název pro památník tureckého mučedníka z Baku, který je věnován vojákům osmanské armády zabitým v bitvě u Baku. Zdrojem zákonodárného sboru v Ázerbájdžánu je Národní shromáždění.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Vůdce Ázerbájdžánu je nazýván premiérem Ázerbájdžánu. Hlavním městem Ázerbájdžánu je Baku. V Baku se nachází památník tureckých mučedníků z Baku, který navrhli Huseyin Butuner a Hilmi Guner. Turk Sehitler Aniti je původní jméno památníku tureckého mučedníka z Baku, který je věnován vojákům osmanské armády padlým v bitvě u Baku. Zdrojem zákonodárství v Ázerbájdžánu je Národní shromáždění.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Hlavním městem Ázerbájdžánu je Baku, jehož vůdce se nazývá předseda vlády a zákonodárná moc se nazývá Národní shromáždění. V Ázerbájdžánu se nachází památník tureckých mučedníků v Baku, který navrhli Huseyin Butuner a Hilmi Guner. Je věnován vojákům padlým v bitvě o Baku. Památník je místně známý jako Türk Şehitleri Anıtı.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Hlavním městem Baku je Ázerbájdžán s jeho vůdcem zvaným předseda vlády a jeho zákonodárnou složkou zvanou Národní shromáždění. Památník tureckých mučedníků v Baku navrhl Huseyin Butuner a Hilmi Guner a nachází se v Ázerbájdžánu. Je věnován vojákům zabitým v bitvě u Baku. Památník je místně známý jako Türk Şehitleri Anıtı.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Hlavním městem Baku je Ázerbájdžán se svým vůdcem zvaným premiér a svou zákonodárnou složkou zvanou Národní shromáždění. Památník tureckých mučedníků v Baku navrhli Huseyin Butuner a Hilmi Guner a nachází se v Ázerbájdžánu. Je věnován vojákům padlým v bitvě u Baku. Památník je místně znám jako Türk Şehitleri Anıtı.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">V čele Ázerbájdžánu stojí předseda vlády a Ázerbájdžán má zákonodárný sbor s názvem Ázerbájdžánské národní shromáždění. Baku je hlavním městem Ázerbájdžánu. V Baku se nachází Památník mučedníků věnovaný vojákům padlým v bitvě o Baku. Místní název je Turk Sehitleri Aniti. Památník navrhli Hüseyin Bütüner a Hilmi Güner.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Ázerbájdžánský vůdce je premiérem Ázerbájdžánu a má zákonodárný sbor zvaný Ázerbájdžánské národní shromáždění. Baku je hlavním městem Ázerbájdžánu. V Baku je památník mučedníků věnovaný vojákům zabitým v bitvě u Baku. Rodné jméno je Turk Sehitleri Aniti. Památník navrhli Hüseyin Bütüner a Hilmi Güner.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Vůdce Ázerbájdžánu je předsedou vlády Ázerbájdžánu a má zákonodárné shromáždění s názvem Ázerbájdžánské národní shromáždění. Baku je hlavním městem Ázerbájdžánu. V Baku je památník mučedníků věnovaný vojákům padlým v bitvě u Baku. Rodné jméno je Turk Sehitleri Aniti. Památník navrhli Hüseyin Bütüner a Hilmi Güner.</lex>
+    </entry>
+    <entry category="Monument" eid="Id9" shape="(X (X) (X) (X (X) (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"@en</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+        <otriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"</mtriple>
+        <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+        <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The leader of Azerbaijan is Prime Minister Artur Rasizade and the legislature is the National Assembly. The Turk Sehitleri Aniti, usually known as the Baku Turkish Martyr's Memorial is located in the country, where the capital city is Baku. It was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex lang="ru" lid="Id1">Лидером Азербайджана является премьер-министр Артур Таир оглы Расизаде и законодательный орган - Милли Меджлис Азербайджана. Türk Şehitleri Anıtı, обычно известный как мемориал турецких солдат в Баку, находится в стране, где столица - Баку. Он был спроектирован Хюсейном Бютюнером и Хилми Гюнером.</lex>
+      <lex lang="en" lid="Id2">Prime Minister Artur Rasizade is the leader of Azerbaijan which has Baku as it's capital city and the National Assembly is the official legislature. The country is the location of the Baku Turkish Martyrs memorial which is known locally as Turk Sehitleri Aniti and was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex lang="ru" lid="Id2">Премьер-министр Артур Таир оглы Расизаде является лидером Азербайджана, у которого Баку - столица и Милли Меджлис Азербайджана является законодательным органом. Страна является местом расположения мемориала турецких солдат в Баку, на местном уровне известный как Türk Şehitleri Anıtı и разработан Хусейном Бутунером и Хилми Гунером.</lex>
+      <lex lang="en" lid="Id3">Baku is the capital city of Azerbaijan where the leader is Prime Minister Artur Rasizade and the legislature is the National Assembly. The country is the location of the Baku Turkish Martyrs memorial, also known as the Turk Sehitleri Aniti, designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex lang="ru" lid="Id3">Баку - столица Азербайджана, где лидером является премьер-министр Артур Таир оглы Расизаде и законодательный орган - Национальное собрание. Страна является местом расположения Мемориала турецких солдат в Баку, известного также как Türk Şehitleri Anıtı, спроектированного Гусейном Бутунером и Хилми Гунером.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Artur_Rasizade | sameAs | Расизаде,_Артур_Таир_оглы</dbpedialink>
+        <dbpedialink direction="en2ru">Baku | sameAs | Баку</dbpedialink>
+        <dbpedialink direction="en2ru">Prime_Minister_of_Azerbaijan | sameAs | Список_премьер-министров_Азербайджана</dbpedialink>
+        <dbpedialink direction="en2ru">National_Assembly_(Azerbaijan) | sameAs | Милли_Меджлис_Азербайджана</dbpedialink>
+        <dbpedialink direction="en2ru">Azerbaijan | sameAs | Азербайджан</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хюсейн Бютюнер / Гусейн Бутунер</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хилми Гюнер / Хилми Гунер</link>
+        <link direction="en2ru">Baku Turkish Martyrs' Memorial | sameAs | Мемориал памяти турецких солдат/ воинов/ мучеников в Баку</link>
+        <link direction="en2ru">Türk Şehitleri Anıtı | sameAs | Türk Şehitleri Anıtı</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">V čele Ázerbájdžánu stojí premiér Artur Rasizade a zákonodárným sborem je Národní shromáždění. Turk Sehitleri Aniti, obvykle známý jako Památník tureckých mučedníků v Baku, se nachází v zemi, jejímž hlavním městem je Baku. Jeho autory jsou Huseyin Butuner a Hilmi Guner.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Vůdcem Ázerbájdžánu je premiér Artur Rasizade a zákonodárným orgánem je Národní shromáždění. Turk Sehitleri Aniti, obvykle známý jako Památník tureckých mučedníků v Baku, se nachází v zemi, kde je hlavním městem Baku. Navrhli jej Huseyin Butuner a Hilmi Guner.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Vůdcem Ázerbájdžánu je premiér Artur Rasizade a zákonodárným sborem Národní shromáždění. Turk Sehitleri Aniti, obvykle známý jako památník tureckého mučedníka z Baku, se nachází v zemi, kde je hlavním městem Baku. Navrhli ho Huseyin Butuner a Hilmi Guner.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">V čele Ázerbájdžánu, jehož hlavním městem je Baku a oficiálním zákonodárným orgánem Národní shromáždění, stojí premiér Artur Rasizade. V zemi se nachází památník tureckých mučedníků v Baku, který je místně známý jako Turk Sehitleri Aniti a jehož autory jsou Huseyin Butuner a Hilmi Guner.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Premiér Artur Rasizade je vůdcem Ázerbájdžánu, jehož hlavním městem je Baku a oficiálním zákonodárným sborem je Národní shromáždění. V zemi se nachází památník tureckých mučedníků v Baku, který je místně známý jako Turk Sehitleri Aniti a byl navržen Huseyinem Butunerem a Hilmi Gunerem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Předseda vlády Artur Rasizade je vůdcem Ázerbájdžánu, který má Baku jako hlavní město a Národní shromáždění je oficiálním zákonodárným sborem. Země je místem, kde se nachází památník tureckých mučedníků z Baku, který je místně znám jako Turk Sehitleri Aniti a který navrhli Huseyin Butuner a Hilmi Guner.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Baku je hlavním městem Ázerbájdžánu, v jehož čele stojí premiér Artur Rasizade a zákonodárným orgánem je Národní shromáždění. V zemi se nachází památník tureckých mučedníků v Baku, známý také jako Turk Sehitleri Aniti, který navrhli Huseyin Butuner a Hilmi Guner.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Baku je hlavní město Ázerbájdžánu, kde vůdcem je premiér Artur Rasizade a zákonodárným orgánem je Národní shromáždění. V zemi se nachází památník tureckých mučedníků z Baku, známý také jako Turk Sehitleri Aniti, navržený Huseyinem Butunerem a Hilmi Gunerem.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Baku je hlavním městem Ázerbájdžánu, jehož vůdcem je premiér Artur Rasizade a zákonodárným sborem Národní shromáždění. Země je místem, kde se nachází památník tureckých mučedníků z Baku, známý také jako Turk Sehitleri Aniti, který navrhli Huseyin Butuner a Hilmi Guner.</lex>
+    </entry>
+    <entry category="Monument" eid="Id10" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"@en</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+        <otriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"</mtriple>
+        <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+        <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The leader of Azerbaijan is Artur Rasizade. It has a legislature known as the National Assembly. Baku is the capital of Azerbaijan. The Baku Turkish Martyrs' Memorial is in Azerbaijan and is in dedication to the Ottoman Army Soldiers killed at the Battle of Baku. It was designed by Huseyin Butuner and Hilmi Guner. The native name of the Memorial is Turk Sehitleri Aniti.</lex>
+      <lex lang="ru" lid="Id1">Лидером Азербайджана является Артур Таир оглы Расизаде. В стране имеется законодательный орган, известный как Национальное собрание. Баку - столица Азербайджана. Мемориал турецких солдат в Баку находится в Азербайджане, в честь солдатов Османской армии, погибших в битве за Баку. Он был разработан Хюсейном Бютюнером и Хилми Гюнером. Родное название мемориала - Türk Şehitleri Anıtı.</lex>
+      <lex lang="en" lid="Id2">The leader of Azerbaijan is Artur Rasizade , the capital city is Baku and the legislature is the National Assembly. The city is the location of the Baku Turkish Martyrs memorial designed by Huseyin Butuner and Hilmi Guner. It is dedicated to the soldiers of the Ottoman army killed in the Battle of Baku and has the local name of Turk Sehitleri Aniti.</lex>
+      <lex lang="ru" lid="Id2">Лидером Азербайджана является Артур Таир оглы Расизаде, столица - Баку, а законодательный орган - Национальное собрание. Город является местом расположения Мемориала памяти турецких солдат в Баку, разработанного Гусейном Бутунером и Хилми Гунером. Он посвящен солдатам Османской армии, погибшим в битве за Баку и имеет местное название Türk Şehitleri Anıtı.</lex>
+      <lex lang="en" lid="Id3">Azerbaijan leader's name is Artur Rasizade and its capital is in Baku with the legislature in Azerbaijan called The National Assembly. Baku has the Turkish Martyr's Memorial, designed by Huseyin Butuner and Hilmi Guner, and dedicated to the Ottoman Army Soldiers killed in the Battle of Baku The Native name of the Memorial is "Türk Sehitleri Aniti".</lex>
+      <lex lang="ru" lid="Id3">Имя лидера Азербайджана - Артур Таир оглы Расизаде и его столица находится в Баку с законодательной властью в Азербайджане под названием Национальное собрание. В Баку находится Мемориал памяти турецких солдат в Баку, разработанный Гусейном Бутунером и Хилми Гунером и посвященный солдаты Османской армии, погибшим в битве за Баку. Исконное название мемориала - Türk Şehitleri Anıtı.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Artur_Rasizade | sameAs | Расизаде,_Артур_Таир_оглы</dbpedialink>
+        <dbpedialink direction="en2ru">Baku | sameAs | Баку</dbpedialink>
+        <dbpedialink direction="en2ru">National_Assembly_(Azerbaijan) | sameAs | Милли_Меджлис_Азербайджана</dbpedialink>
+        <dbpedialink direction="en2ru">Azerbaijan | sameAs | Азербайджан</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Ottoman Army soldiers killed in the Battle of Baku | sameAs | солдаты Османской армии, погибшие в битве за Баку</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хюсейн Бютюнер / Гусейн Бутунер</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хилми Гюнер / Хилми Гунер</link>
+        <link direction="en2ru">Baku Turkish Martyrs' Memorial | sameAs | Мемориал памяти турецких солдат/ воинов/ мучеников в Баку</link>
+        <link direction="en2ru">Türk Şehitleri Anıtı | sameAs | Türk Şehitleri Anıtı</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Vůdcem Ázerbájdžánu je Artur Rasizade. Má zákonodárný sbor známý jako Národní shromáždění. Hlavním městem Ázerbájdžánu je Baku. V Ázerbájdžánu se nachází památník tureckých mučedníků v Baku, který je věnován vojákům osmanské armády padlým v bitvě u Baku. Jeho autory jsou Huseyin Butuner a Hilmi Guner. Rodný název památníku je Turk Sehitleri Aniti.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Vůdcem Ázerbájdžánu je Artur Rasizade. Má zákonodárný sbor známý jako Národní shromáždění. Baku je hlavním městem Ázerbájdžánu. Památník tureckých mučedníků v Baku je v Ázerbájdžánu a je věnován vojákům osmanské armády zabitým v bitvě u Baku. Navrhli jej Huseyin Butuner a Hilmi Guner. Rodný název památníku je Turk Sehitleri Aniti.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Vůdcem Ázerbájdžánu je Artur Rasizade. Má zákonodárný sbor známý jako Národní shromáždění. Baku je hlavním městem Ázerbájdžánu. Památník tureckých mučedníků z Baku je v Ázerbájdžánu a je věnován vojákům Osmanské armády padlým v bitvě u Baku. Navrhli ho Huseyin Butuner a Hilmi Guner. Původní jméno Památníku je Turk Sehitleri Aniti.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Vůdcem Ázerbájdžánu je Artur Rasizade , hlavním městem je Baku a zákonodárným sborem Národní shromáždění. Ve městě se nachází památník tureckých mučedníků v Baku, který navrhli Huseyin Butuner a Hilmi Guner. Je věnován vojákům osmanské armády padlým v bitvě u Baku a má místní název Turk Sehitleri Aniti.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Vůdcem Ázerbájdžánu je Artur Rasizade, hlavním městem je Baku a zákonodárným orgánem je Národní shromáždění. Ve městě se nachází památník tureckých mučedníků v Baku, který navrhli Huseyin Butuner a Hilmi Guner. Je věnován vojákům osmanské armády padlým v bitvě u Baku a má místní jméno Turk Sehitleri Aniti.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Vůdcem Ázerbájdžánu je Artur Rasizade , hlavním městem je Baku a zákonodárným sborem Národní shromáždění. Město je místem, kde se nachází památník tureckých mučedníků z Baku navržený Huseyinem Butunerem a Hilmi Gunerovou. Je věnován vojákům osmanské armády padlým v bitvě u Baku a nese místní jméno Turk Sehitleri Aniti.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Vůdce Ázerbájdžánu se jmenuje Artur Rasizade a jeho hlavní město je v Baku, přičemž zákonodárný sbor v Ázerbájdžánu se nazývá Národní shromáždění. V Baku se nachází Památník tureckých mučedníků, který navrhli Huseyin Butuner a Hilmi Guner a který je věnován vojákům osmanské armády padlým v bitvě u Baku Místní název památníku je "Türk Sehitleri Aniti".</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Ázerbájdžánský vůdce se jmenuje Artur Rasizade a jeho hlavním městem je Baku se zákonodárným sborem v Ázerbájdžánu zvaným Národní shromáždění. Baku má Památník tureckého mučedníka navržený Huseyinem Butunerem a Hilmi Gunerem a věnovaný vojákům osmanské armády zabitým v bitvě u Baku. Původní název památníku je „Türk Sehitleri Aniti“.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Jméno ázerbájdžánského vůdce je Artur Rasizade a jeho hlavní město je v Baku u zákonodárného sboru v Ázerbájdžánu zvaného Národní shromáždění. Baku má Památník tureckého mučedníka navržený Huseyinem Butunerem a Hilmi Gunerovou a věnovaný vojákům Osmanské armády padlým v bitvě u Baku Rodný název památníku je "Türk Sehitleri Aniti".</lex>
+    </entry>
+    <entry category="Monument" eid="Id11" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"@en</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Huseyin Butuner and Hilmi Guner designed the red granite and white marble Baku Turkish Martyrs memorial which is located in Azerbaijan and dedicated to the Ottoman army soldiers killed in the Battle of Baku, the capital city. Prime Minister Artur Rasizade is the current leader of the country.</lex>
+      <lex lang="ru" lid="Id1">Хюсейн Бютюнер и Хилми Гюнер спроектировали красно-гранитный и бело-мраморный Мемориал памяти турецких солдат в Баку, который расположен в Азербайджане и посвящен солдатам Османской армии, погибшим в битве в Баку, столице. Премьер-министр Артур Таир оглы Расизаде является действующим лидером страны.</lex>
+      <lex lang="en" lid="Id2">Baku is the capital of Azerbaijan which is led by Prime Minister Artur Rasizade. The city is the location of the Baku Turkish Martyr's memorial designed in red granite and white marble by Huseyin Butuner and Hilmi Guner. The memorial is dedicated to the soldiers of the Ottoman army who were killed at the Battle of Baku.</lex>
+      <lex lang="ru" lid="Id2">Баку - столица Азербайджана, которую возглавляет премьер-министр Артур Таир оглы Расизаде. Город является местом расположения Мемориала памяти турецких солдат в Баку, спроектированного в красном граните и белом мраморе Гусейном Бутунером и Хилми Гунером. Мемориал посвящен солдатам Османской армии, погибшим в битве за Баку.</lex>
+      <lex lang="en" lid="Id3">The Baku Turkish Martyrs' Memorial was designed in red granite and white marble by Huseyin Butuner and Hilmi Guner, and it is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. It is found in Baku, the capital of Azerbaijan, a country led by the Prime Minister of Azerbaijan, Artur Rasizade.</lex>
+      <lex lang="ru" lid="Id3">Мемориал памяти турецких солдат в в Баку был спроектирован в красном гранитном и белом мраморе Гусейном Бутунером и Хилми Гунером, и он посвящен солдатам Османской армии, погибшим в битве в Баку. Он найден в Баку, столице Азербайджана, стране во главе с премьер-министром Азербайджана Артуром Расизаде.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Artur_Rasizade | sameAs | Расизаде,_Артур_Таир_оглы</dbpedialink>
+        <dbpedialink direction="en2ru">Baku | sameAs | Баку</dbpedialink>
+        <dbpedialink direction="en2ru">Prime_Minister_of_Azerbaijan | sameAs | Список_премьер-министров_Азербайджана</dbpedialink>
+        <dbpedialink direction="en2ru">Azerbaijan | sameAs | Азербайджан</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Red granite and white marble | includes | белый мрамор</link>
+        <link direction="en2ru">Red granite and white marble | includes | красный гранит</link>
+        <link direction="en2ru">Ottoman Army soldiers killed in the Battle of Baku | sameAs | солдаты Османской армии, погибшие в битве за Баку</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хюсейн Бютюнер / Гусейн Бутунер</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хилми Гюнер / Хилми Гунер</link>
+        <link direction="en2ru">Baku Turkish Martyrs' Memorial | sameAs | Мемориал памяти турецких солдат/ воинов/ мучеников в Баку</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Huseyin Butuner a Hilmi Guner navrhli památník tureckých mučedníků z červené žuly a bílého mramoru v Baku, který se nachází v Ázerbájdžánu a je věnován vojákům osmanské armády padlým v bitvě o hlavní město Baku. V čele země stojí v současnosti premiér Artur Rasizade.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Huseyin Butuner a Hilmi Guner navrhli památník tureckých mučedníků Baku z červené žuly a bílého mramoru, který se nachází v Ázerbájdžánu a je věnován vojákům osmanské armády zabitým v bitvě u hlavního města Baku. Současným vůdcem země je premiér Artur Rasizade.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Huseyin Butuner a Hilmi Guner navrhli červenou žulu a bílý mramor Baku Památník tureckých mučedníků, který se nachází v Ázerbájdžánu a je věnován vojákům osmanské armády padlým v bitvě u Baku, hlavního města. Současným vůdcem země je premiér Artur Rasizade.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Baku je hlavní město Ázerbájdžánu, v jehož čele stojí premiér Artur Rasizade. Ve městě se nachází památník tureckých mučedníků v Baku, který z červené žuly a bílého mramoru navrhli Huseyin Butuner a Hilmi Guner. Památník je věnován vojákům osmanské armády, kteří padli v bitvě u Baku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Baku je hlavní město Ázerbájdžánu, které vede premiér Artur Rasizade. Ve městě se nachází památník tureckého mučedníka v Baku navržený z červené žuly a bílého mramoru Huseyinem Butunerem a Hilmi Gunerem. Památník je věnován vojákům osmanské armády, kteří padli v bitvě u Baku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Baku je hlavním městem Ázerbájdžánu, které vede premiér Artur Rasizade. Město je místem, kde se nachází památník tureckého mučedníka z Baku navržený v červené žule a bílém mramoru Huseyinem Butunerem a Hilmi Gunerovou. Památník je věnován vojákům osmanské armády, kteří byli zabiti v bitvě u Baku.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Památník tureckých mučedníků v Baku z červené žuly a bílého mramoru navrhli Huseyin Butuner a Hilmi Guner a je věnován vojákům osmanské armády, kteří padli v bitvě u Baku. Najdete ho v Baku, hlavním městě Ázerbájdžánu, země, v jejímž čele stojí předseda ázerbájdžánské vlády Artur Rasizade.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Památník tureckých mučedníků v Baku byl navržen z červené žuly a bílého mramoru Huseyinem Butunerem a Hilmi Gunerem a je věnován vojákům Osmanské armády zabitým v bitvě u Baku. Nachází se v Baku, hlavním městě Ázerbájdžánu, země vedené premiérem Ázerbájdžánu Arturem Rasizadem.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Památník tureckých mučedníků v Baku byl navržen z červené žuly a bílého mramoru Huseyinem Butunerem a Hilmi Gunerovou a je věnován vojákům osmanské armády padlým v bitvě u Baku. Vyskytuje se v Baku, hlavním městě Ázerbájdžánu, v zemi vedené premiérem Ázerbájdžánu Arturem Rasizadem.</lex>
+    </entry>
+    <entry category="Monument" eid="Id12" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+        <otriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+        <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Baku Turkish Martyrs' Memorial is a monument created in red granite and white marble by its designers Huseyin Butuner and Hilmi Guner, and is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. It is found in Baku, the capital of Azerbaijan, a country led by Artur Rasizade, and with the National Assembly as its source of legislature.</lex>
+      <lex lang="ru" lid="Id1">Мемориал памяти турецких солдат в Баку - памятник, созданный из красного гранита и белого мрамора дизайнерами Хюсейном Бютюнером и Хилми Гюнером и посвящённый солдатам Османской армии, погибшим в битве за Баку. Он находится в Баку, столице Азербайджана, стране, возглавляемой Артуром Таир оглы Расизаде, с Национальным собранием в качестве своего источника законодательной власти.</lex>
+      <lex lang="en" lid="Id2">Baku is the capital city of Azerbaijan where the legislature is the National Assembly and the leader is Artur Rasizade. The city is the location of the Baku Turkish Martyr's memorial designed by Huseyin Butuner and Hilmi Guner in red granite and white marble. The memorial commemorates the soldiers of the Ottoman army who were killed in the Battle of Baku.</lex>
+      <lex lang="ru" lid="Id2">Баку - столица Азербайджана, где законодательным органом является Национальное собрание, а лидером - Артур Расизаде. Город является местом расположения мемориала памяти турецких солдат в Баку, спроектированного Хюсейном Бютюнером и Хилми Гюнером из красного гранита и белого мрамора. Мемориал чтит память солдат Османской армии, погибших в битве в Баку.</lex>
+      <lex lang="en" lid="Id3">Baku is the capital city of Azerbaijan where the leader is Artur Rasizade and the legislature is the National Assembly. It is the location of the red granite and white marble Baku Turkish Martyrs memorial designed by Hilmi Guner and Huseyin Butuner and dedicated to the soldiers of the Ottoman army who lost their lives at the Battle of Baku.</lex>
+      <lex lang="ru" lid="Id3">Баку – столица Азербайджана, где лидером является Артур Таир оглы Расизаде, а законодательным органом – Национальное собрание. Баку – место расположения выполненного из красного гранита и белого мрамора Мемориала памяти турецких мучеников, спроектированного Хилми Гюнером и Хюсейном Бютюнером и посвященного солдатам Османской армии, потерявшим свои жизни в битве за Баку.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Artur_Rasizade | sameAs | Расизаде,_Артур_Таир_оглы</dbpedialink>
+        <dbpedialink direction="en2ru">Baku | sameAs | Баку</dbpedialink>
+        <dbpedialink direction="en2ru">National_Assembly_(Azerbaijan) | sameAs | Милли_Меджлис_Азербайджана</dbpedialink>
+        <dbpedialink direction="en2ru">Azerbaijan | sameAs | Азербайджан</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Red granite and white marble | includes | белый мрамор</link>
+        <link direction="en2ru">Red granite and white marble | includes | красный гранит</link>
+        <link direction="en2ru">Ottoman Army soldiers killed in the Battle of Baku | sameAs | солдаты Османской армии, погибшие в битве за Баку</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хюсейн Бютюнер / Гусейн Бутунер</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хилми Гюнер / Хилми Гунер</link>
+        <link direction="en2ru">Baku Turkish Martyrs' Memorial | sameAs | Мемориал памяти турецких солдат/ воинов/ мучеников в Баку</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Památník tureckých mučedníků v Baku je pomník vytvořený z červené žuly a bílého mramoru jeho autory Huseyinem Butunerem a Hilmi Gunerem a je věnován vojákům osmanské armády padlým v bitvě u Baku. Nachází se v Baku, hlavním městě Ázerbájdžánu, země, v jejímž čele stojí Artur Rasizade a jejímž zákonodárným orgánem je Národní shromáždění.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Památník tureckých mučedníků v Baku je památník vytvořený z červené žuly a bílého mramoru jeho designéry Huseyinem Butunerem a Hilmi Gunerem a je věnován vojákům Osmanské armády padlým v bitvě u Baku. Nachází se v Baku, hlavním městě Ázerbájdžánu, země vedené Arturem Rasizadem, a jehož zdrojem zákonodárné moci je Národní shromáždění.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Památník tureckých mučedníků v Baku je pomník vytvořený z červené žuly a bílého mramoru jeho konstruktéry Huseyinem Butunerem a Hilmi Gunerovou a je věnován vojákům Osmanské armády padlým v bitvě u Baku. Nachází se v Baku, hlavním městě Ázerbájdžánu, v zemi vedené Arturem Rasizadem, a s Národním shromážděním jako zdrojem zákonodárství.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Baku je hlavní město Ázerbájdžánu, kde je zákonodárným orgánem Národní shromáždění a v jehož čele stojí Artur Rasizade. Ve městě se nachází památník tureckých mučedníků v Baku, který navrhli Huseyin Butuner a Hilmi Guner z červené žuly a bílého mramoru. Památník připomíná vojáky osmanské armády, kteří padli v bitvě u Baku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Baku je hlavní město Ázerbájdžánu, kde zákonodárným orgánem je Národní shromáždění a vůdcem je Artur Rasizade. Ve městě se nachází památník tureckého mučedníka v Baku navržený Huseyinem Butunerem a Hilmi Guner z červené žuly a bílého mramoru. Památník připomíná vojáky osmanské armády, kteří padli v bitvě u Baku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Baku je hlavním městem Ázerbájdžánu, kde zákonodárným sborem je Národní shromáždění a vůdcem je Artur Rasizade. Město je místem, kde se nachází památník tureckého mučedníka z Baku navržený Huseyinem Butunerem a Hilmi Gunerovou v červené žule a bílém mramoru. Památník připomíná vojáky osmanské armády, kteří byli zabiti v bitvě u Baku.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Baku je hlavním městem Ázerbájdžánu, v jehož čele stojí Artur Rasizade a zákonodárným sborem je Národní shromáždění. Nachází se zde památník z červené žuly a bílého mramoru Baku Turkish Martyrs, který navrhli Hilmi Guner a Huseyin Butuner a který je věnován vojákům osmanské armády, kteří přišli o život v bitvě u Baku.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Baku je hlavní město Ázerbájdžánu, kde vůdcem je Artur Rasizade a zákonodárným orgánem je Národní shromáždění. Nachází se zde památník tureckých mučedníků z Baku z červené žuly a bílého mramoru navržený Hilmi Guner a Huseyin Butuner a věnovaný vojákům osmanské armády, kteří přišli o život v bitvě u Baku.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Baku je hlavním městem Ázerbájdžánu, kde je vůdcem Artur Rasizade a zákonodárným sborem Národní shromáždění. Je to místo, kde se nachází památník tureckých mučedníků z Baku z červené žuly a bílého mramoru, který navrhli Hilmi Guner a Huseyin Butuner a který byl věnován vojákům osmanské armády, kteří přišli o život v bitvě u Baku.</lex>
+    </entry>
+    <entry category="Monument" eid="Id13" shape="(X (X) (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"@en</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"</mtriple>
+        <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Artur Rasizade is the leader of Azerbaijan where the Baku Turkish Martyrs Memorial dedicated to the soldiers of the Ottoman army who died at the Battle of Baku. The memorial was designed in red granite and white marble by Huseyin Butuner and Hilmi Guner and is known locally as Turk Sehitleri Aniti.</lex>
+      <lex lang="ru" lid="Id1">Артур Таир оглы Расизаде - лидер Азербайджана, где находится Мемориал памяти турецких солдат в Баку, посвящённый солдатам Османской армии, погибшим в битве за Баку. Памятник был спроектирован из красного гранита и белого мрамора Хюсейном Бютюнером и Хилми Гюнером и известен под местным названием Turk Sehitleri Aniti.</lex>
+      <lex lang="en" lid="Id2">Artur Rasizade is the leader of Azerbaijan where the capital city is Baku. The country is the location of the Baku Turkish Martyrs Memorial which commemorates the soldiers of the Ottoman army who were killed in the Battle of Baku. The memorial has been designed in red granite and white marble by Huseyin Butuner and Hilmi Guner and has the local name of Turk Sehitleri Aniti.</lex>
+      <lex lang="ru" lid="Id2">Артур Таир оглы Расизаде - глава Азербайджана, где столицей является Баку. Эта страна - местонахождение Мемориала памяти турецких солдат в Баку, который чтит память о солдатах Османской армии, погибших в битве за Баку. Мемориал был создан из красного гранита и белого мрамора Гусейном Бутунером и Хилми Гунером и имеет местное название Türk Şehitleri Anıtı.</lex>
+      <lex lang="en" lid="Id3">Baku is the capital of Azerbaijan where Artur Rasizade is the leader. The city is the location of the Baku Turkish Martyrs memorial which was designed by Huseyin Butuner and Hilmi Guner in red granite and white marble. The memorial is dedicated to the soldiers of the Ottoman army who died in the Battle of Baku. The memorial has the local name of Turk Sehitleri Aniti.</lex>
+      <lex lang="ru" lid="Id3">Баку - столица Азербайджана, лидером в котором является Артур Таир оглы Расизаде. Город является местом расположения Мемориала памяти турецких солдат в Баку, который был спроектирован Хюсейном Бютюнером и Хилми Гунером их красного гранита и белого мрамора. Памятник посвящён солдатам Османской армии, погибшим в битве за Баку. Памятник имеет местное название Turk Sehitleri Aniti.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Artur_Rasizade | sameAs | Расизаде,_Артур_Таир_оглы</dbpedialink>
+        <dbpedialink direction="en2ru">Baku | sameAs | Баку</dbpedialink>
+        <dbpedialink direction="en2ru">Azerbaijan | sameAs | Азербайджан</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Red granite and white marble | includes | белый мрамор</link>
+        <link direction="en2ru">Red granite and white marble | includes | красный гранит</link>
+        <link direction="en2ru">Ottoman Army soldiers killed in the Battle of Baku | sameAs | солдаты Османской армии, погибшие в битве за Баку</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хюсейн Бютюнер / Гусейн Бутунер</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хилми Гюнер / Хилми Гунер</link>
+        <link direction="en2ru">Baku Turkish Martyrs' Memorial | sameAs | Мемориал памяти турецких солдат/ воинов/ мучеников в Баку</link>
+        <link direction="en2ru">Türk Şehitleri Anıtı | sameAs | Türk Şehitleri Anıtı</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Artur Rasizade stojí v čele Ázerbájdžánu, kde se nachází památník Baku Turkish Martyrs Memorial věnovaný vojákům osmanské armády, kteří padli v bitvě u Baku. Památník z červené žuly a bílého mramoru navrhli Huseyin Butuner a Hilmi Guner a je místně známý jako Turk Sehitleri Aniti.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Artur Rasizade je vůdcem Ázerbájdžánu, kde je památník tureckých mučedníků v Baku věnovaný vojákům osmanské armády, kteří zemřeli v bitvě u Baku. Památník byl navržen z červené žuly a bílého mramoru Huseyin Butuner a Hilmi Guner a je známý místně jako Turk Sehitleri Aniti.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Artur Rasizade je vůdce Ázerbájdžánu, kde je památník tureckých mučedníků z Baku věnovaný vojákům osmanské armády, kteří padli v bitvě u Baku. Památník byl navržen z červené žuly a bílého mramoru Huseyinem Butunerem a Hilmi Gunerovou a místně je znám jako Turk Sehitleri Aniti.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Artur Rasizade stojí v čele Ázerbájdžánu, jehož hlavním městem je Baku. V zemi se nachází Památník tureckých mučedníků v Baku, který připomíná vojáky osmanské armády, kteří padli v bitvě u Baku. Památník z červené žuly a bílého mramoru navrhli Huseyin Butuner a Hilmi Guner a nese místní název Turk Sehitleri Aniti.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Artur Rasizade je vůdcem Ázerbájdžánu, jehož hlavním městem je Baku. V zemi se nachází památník tureckých mučedníků v Baku, který připomíná vojáky osmanské armády, kteří padli v bitvě u Baku. Památník navrhl Huseyin Butuner a Hilmi Guner z červené žuly a bílého mramoru a má místní jméno Turk Sehitleri Aniti.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Artur Rasizade je vůdcem Ázerbájdžánu, kde je hlavním městem Baku. Země je místem, kde se nachází památník tureckých mučedníků z Baku, který připomíná vojáky osmanské armády, kteří byli zabiti v bitvě u Baku. Památník byl navržen z červené žuly a bílého mramoru Huseyinem Butunerem a Hilmi Gunerovou a nese místní název Turk Sehitleri Aniti.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Baku je hlavní město Ázerbájdžánu, v jehož čele stojí Artur Rasizade. Ve městě se nachází památník tureckých mučedníků v Baku, který z červené žuly a bílého mramoru navrhli Huseyin Butuner a Hilmi Guner. Památník je věnován vojákům osmanské armády, kteří padli v bitvě u Baku. Památník má místní název Turk Sehitleri Aniti.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Baku je hlavním městem Ázerbájdžánu, kde je vůdcem Artur Rasizade. Ve městě se nachází památník tureckých mučedníků v Baku, který navrhli Huseyin Butuner a Hilmi Guner z červené žuly a bílého mramoru. Památník je věnován vojákům osmanské armády, kteří zemřeli v bitvě u Baku. Památník má místní název Turk Sehitleri Aniti.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Baku je hlavním městem Ázerbájdžánu, kde vede Artur Rasizade. Město je místem, kde se nachází památník tureckých mučedníků z Baku, který navrhli Huseyin Butuner a Hilmi Gunerová v červené žule a bílém mramoru. Památník je věnován vojákům osmanské armády, kteří padli v bitvě u Baku. Památník nese místní jméno Turka Sehitleriho Anitiho.</lex>
+    </entry>
+    <entry category="Monument" eid="Id14" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Azerbaijan | leader | Artur_Rasizade</otriple>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"@en</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Baku Turkish Martyrs' Memorial was designed by Huseyin Butuner and Hilmi Guner in red granite and white marble and is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. It is located in Baku, the capital of Azerbaijan, a country led by Artur Rasizade, the Prime Minister of Azerbaijan.</lex>
+      <lex lang="ru" lid="Id1">Мемориал памяти турецких солдат в Баку был спроектирован Хюсейном Бютюнером и Хилми Гюнером из красного гранита и белого мрамора и посвящён солдатам Османской армии, погибшим в битве за Баку. Он расположен в Баку, столице Азербайджана, стране, управляемой Артуром Таир оглы Расизаде, премьер-министра Азербайджана.</lex>
+      <lex lang="en" lid="Id2">Baku is the capital of Azerbaijan where Prime Minister Artur Rasizade is the leader. The city is the location of the Baku Turkish Martyrs memorial which was designed by Huseyin Butuner and Hilmi Guner in red granite and white marble. The memorial is dedicated to the soldiers of the Ottoman army who died in the Battle of Baku.</lex>
+      <lex lang="ru" lid="Id2">Баку - это столица Азербайджана, где главой является Премьер-министр Артур Таир оглы Расизаде. Город является местом расположения Мемориала памяти турецких солдат в Баку, который был спроектирован Гусейном Бутунером и Хилми Гунером в красном граните и белом мраморе. Мемориал посвящен солдатам Османской армии, погибшим в битве за Баку.</lex>
+      <lex lang="en" lid="Id3">The Baku Turkish Martyrs' Memorial is located in Azerbaijan's capital, Baku. The monument is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. It was designed by Hüseyin Bütüner and Hilmi Güner, and constructed from red granite and white marble. Azerbaijan's leader, the Prime Minister of Azerbaijan, is Artur Rasizade.</lex>
+      <lex lang="ru" lid="Id3">Мемориал памяти турецких солдат в Баку расположен в столице Азербайджана Баку. Памятник посвящен солдатам Османской армии, погибшим в битве за Баку. Он был разработан Гусейном Бутунером и Хилми Гюнером и построен из красного гранита и белого мрамора. Главой Азербайджана является Премьер-министр Азербайджана Артур Таир оглы Расизаде.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Artur_Rasizade | sameAs | Расизаде,_Артур_Таир_оглы</dbpedialink>
+        <dbpedialink direction="en2ru">Baku | sameAs | Баку</dbpedialink>
+        <dbpedialink direction="en2ru">Prime_Minister_of_Azerbaijan | sameAs | Список_премьер-министров_Азербайджана</dbpedialink>
+        <dbpedialink direction="en2ru">Azerbaijan | sameAs | Азербайджан</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Red granite and white marble | includes | белый мрамор</link>
+        <link direction="en2ru">Red granite and white marble | includes | красный гранит</link>
+        <link direction="en2ru">Ottoman Army soldiers killed in the Battle of Baku | sameAs | солдаты Османской армии, погибшие в битве за Баку</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хюсейн Бютюнер / Гусейн Бутунер</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хилми Гюнер / Хилми Гунер</link>
+        <link direction="en2ru">Baku Turkish Martyrs' Memorial | sameAs | Мемориал памяти турецких солдат/ воинов/ мучеников в Баку</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Památník tureckých mučedníků v Baku navrhli Huseyin Butuner a Hilmi Guner z červené žuly a bílého mramoru a je věnován vojákům osmanské armády padlým v bitvě u Baku. Nachází se v Baku, hlavním městě Ázerbájdžánu, v jehož čele stojí Artur Rasizade, předseda ázerbájdžánské vlády.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Památník tureckých mučedníků v Baku navrhli Huseyin Butuner a Hilmi Guner z červené žuly a bílého mramoru a je věnován vojákům Osmanské armády zabitým v bitvě u Baku. Nachází se v Baku, hlavním městě Ázerbájdžánu, země vedené Arturem Rasizadem, předsedou vlády Ázerbájdžánu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Památník tureckých mučedníků v Baku navrhli Huseyin Butuner a Hilmi Gunerová v červené žule a bílém mramoru a je věnován vojákům osmanské armády padlým v bitvě u Baku. Sídlí v Baku, hlavním městě Ázerbájdžánu, v zemi vedené Arturem Rasizadem, předsedou vlády Ázerbájdžánu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Baku je hlavní město Ázerbájdžánu, v jehož čele stojí předseda vlády Artur Rasizade. Ve městě se nachází památník tureckých mučedníků v Baku, který z červené žuly a bílého mramoru navrhli Huseyin Butuner a Hilmi Guner. Památník je věnován vojákům osmanské armády, kteří padli v bitvě u Baku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Baku je hlavním městem Ázerbájdžánu, kde je vůdcem premiér Artur Rasizade. Ve městě se nachází památník tureckých mučedníků v Baku, který navrhli Huseyin Butuner a Hilmi Guner z červené žuly a bílého mramoru. Památník je věnován vojákům osmanské armády, kteří zemřeli v bitvě u Baku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Baku je hlavním městem Ázerbájdžánu, kde je vůdcem premiér Artur Rasizade. Město je místem, kde se nachází památník tureckých mučedníků z Baku, který navrhli Huseyin Butuner a Hilmi Gunerová v červené žule a bílém mramoru. Památník je věnován vojákům osmanské armády, kteří padli v bitvě u Baku.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Památník tureckých mučedníků v Baku se nachází v hlavním městě Ázerbájdžánu Baku. Památník je věnován vojákům osmanské armády padlým v bitvě u Baku. Navrhli jej Hüseyin Bütüner a Hilmi Güner a byl postaven z červené žuly a bílého mramoru. V čele Ázerbájdžánu stojí Artur Rasizade, předseda vlády Ázerbájdžánu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Památník tureckých mučedníků v Baku se nachází v hlavním městě Ázerbájdžánu, Baku. Památník je věnován vojákům Osmanské armády zabitým v bitvě u Baku. Navrhli ho Hüseyin Bütüner a Hilmi Güner a postavili ho z červené žuly a bílého mramoru. Ázerbájdžánským vůdcem, premiérem Ázerbájdžánu, je Artur Rasizade.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Památník tureckých mučedníků v Baku se nachází v hlavním městě Ázerbájdžánu, Baku. Památník je věnován vojákům Osmanské armády padlým v bitvě u Baku. Navrhli ji Hüseyin Bütüner a Hilmi Güner a byla postavena z červené žuly a bílého mramoru. Vůdcem Ázerbájdžánu, předsedou vlády Ázerbájdžánu, je Artur Rasizade.</lex>
+    </entry>
+    <entry category="Monument" eid="Id15" shape="(X (X) (X) (X (X) (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Azerbaijan | leader | Artur_Rasizade</otriple>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"@en</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"@en</otriple>
+        <otriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"</mtriple>
+        <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Azerbaijan legislature is the National Assembly and the leader of the country is Prime Minister Artur Rasizade. The capital city is Baku and is the location of the red granite and white marble Baku Turkish Martyrs memorial which has the local name of Turk Sehitleri Aniti.</lex>
+      <lex lang="ru" lid="Id1">Законодательный орган Азербайджана - Национальное собрание, и главой страны является Премьер-министр Артур Таир оглы Расизаде. Баку является столицей и местом расположения Мемориала памяти турецких солдат в Баку из красного гранита и белого мрамора, который имеет местное название Türk Şehitleri Anıtı.</lex>
+      <lex lang="en" lid="Id2">Prime Minister Artur Rasizade is the leader of Azerbaijan where the source of legislature is the National Assembly. Baku is the capital city and is the location of the red granite and white marble Baku Turkish Martyrs memorial , locally known as Turk Sehitleri Aniti.</lex>
+      <lex lang="ru" lid="Id2">Премьер-министр Артур Таир оглы Расизаде является лидером Азербайджана, где источником законодательной власти является Национальное собрание. Баку является столицей и местом расположения Мемориала памяти турецких солдат в Баку из красного гранита и белого мрамора, который известен под местным названием Turk Sehitleri Aniti.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Artur_Rasizade | sameAs | Расизаде,_Артур_Таир_оглы</dbpedialink>
+        <dbpedialink direction="en2ru">Baku | sameAs | Баку</dbpedialink>
+        <dbpedialink direction="en2ru">Prime_Minister_of_Azerbaijan | sameAs | Список_премьер-министров_Азербайджана</dbpedialink>
+        <dbpedialink direction="en2ru">National_Assembly_(Azerbaijan) | sameAs | Милли_Меджлис_Азербайджана</dbpedialink>
+        <dbpedialink direction="en2ru">Azerbaijan | sameAs | Азербайджан</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Red granite and white marble | includes | белый мрамор</link>
+        <link direction="en2ru">Red granite and white marble | includes | красный гранит</link>
+        <link direction="en2ru">Baku Turkish Martyrs' Memorial | sameAs | Мемориал памяти турецких солдат/ воинов/ мучеников в Баку</link>
+        <link direction="en2ru">Türk Şehitleri Anıtı | sameAs | Türk Şehitleri Anıtı</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Ázerbájdžánským zákonodárným sborem je Národní shromáždění a v čele země stojí předseda vlády Artur Rasizade. Hlavním městem je Baku a nachází se zde památník tureckých mučedníků z červené žuly a bílého mramoru Baku, který má místní název Turk Sehitleri Aniti.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Ázerbájdžánským zákonodárným sborem je Národní shromáždění a vůdcem země je premiér Artur Rasizade. Hlavním městem je Baku a nachází se zde památník tureckých mučedníků Baku z červené žuly a bílého mramoru, který má místní název Turk Sehitleri Aniti.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Ázerbájdžánským zákonodárným sborem je Národní shromáždění a vůdcem země je premiér Artur Rasizade. Hlavním městem je Baku a je místem, kde se nachází památník tureckých mučedníků z Baku z červené žuly a bílého mramoru, který nese místní název Turk Sehitleri Aniti.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Premiér Artur Rasizade stojí v čele Ázerbájdžánu, kde je zdrojem zákonodárné moci Národní shromáždění. Baku je hlavní město a nachází se zde památník z červené žuly a bílého mramoru Baku Turkish Martyrs , jehož místní název je Turk Sehitleri Aniti.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Premiér Artur Rasizade je vůdcem Ázerbájdžánu, kde je zdrojem zákonodárného sboru Národní shromáždění. Baku je hlavním městem a nachází se v něm památník tureckých mučedníků z červené žuly a bílého mramoru, místně známý jako Turk Sehitleri Aniti.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Předseda vlády Artur Rasizade je vůdcem Ázerbájdžánu, kde je zdrojem zákonodárství Národní shromáždění. Baku je hlavním městem a je místem, kde se nachází památník tureckých mučedníků z Baku, místně známý jako Turk Sehitleri Aniti.</lex>
+    </entry>
+    <entry category="Monument" eid="Id16" shape="(X (X) (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Azerbaijan | leader | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"@en</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Baku Turkish Martyrs' Memorial, made from red granite and white marble, is dedicated to the Ottoman Army soldiers killed in the Battle of Baku, Azerbaijan. The memorial (native name "Türk Sehitleri Aniti") was designed by Huseyin Butuner and Hilmi Guner. Artur Rasizade is the leader (official title President) of Azerbaijan.</lex>
+      <lex lang="ru" lid="Id1">Мемориал памяти турецких солдат в Баку, сделанный из красного гранита и белого мрамора, посвящен солдатам Османской армии, погибшим в битве за Баку, Азербайджан. Мемориал, местное название которого Türk Şehitleri Anıtı, был спроектирован Гусейном Бутунером и Хилми Гунером. Лидером является президент Артур Таир оглы Расизаде.</lex>
+      <lex lang="en" lid="Id2">The Baku Turkish Martyrs' Memorial (known as Turk Sehitleri Aniti in the local language) is a red granite and white marble monument, designed by Huseyin Butuner and Hilmi Guner, and dedicated to Ottoman Army soldiers killed in the Battle of Baku. It is located in Azerbaijan, a country led by the Prime Minister of Azerbaijan, Artur Rasizade.</lex>
+      <lex lang="ru" lid="Id2">Мемориал памяти турецких мучеников в Баку (на местном языке известный как Türk Şehitleri Anıtı) - это памятник из красного гранита и белого мрамора, разработанный Гусейном Бутунером и Хилми Гунером и посвященный солдатам Османской армии, погибшим в битве за Баку. Он расположен в Азербайджане, стране под руководством премьер-министра Азербайджана Артура Таир оглы Расизаде.</lex>
+      <lex lang="en" lid="Id3">Artur Rasizade is is the Prime Minister and the leader of Azerbaijan. Here we can find Baku Turkish Martyrs' Memorial, that is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. The native name of the Baku Turkish Martyrs' Memorial is Turk Sehitleri Aniti. Its designer was Hüseyin Bütüner and Hilmi Güner and it is made from red granite and white marble.</lex>
+      <lex lang="ru" lid="Id3">Артур Таир оглы Расизаде является Премьер-министром и главой Азербайджана. Здесь можно найти Мемориал памяти турецких солдат в Баку, который посвящен солдатам Османской армии, погибшим в битве за Баку. Оригинальное название Мемориала памяти турецких солдат в Баку - Türk Şehitleri Anıtı. Его создателями были Хюсейн Бютюнер и Хилми Гюнер, он изготовлен из красного гранита и белого мрамора.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Artur_Rasizade | sameAs | Расизаде,_Артур_Таир_оглы</dbpedialink>
+        <dbpedialink direction="en2ru">Prime_Minister_of_Azerbaijan | sameAs | Список_премьер-министров_Азербайджана</dbpedialink>
+        <dbpedialink direction="en2ru">Azerbaijan | sameAs | Азербайджан</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Red granite and white marble | includes | белый мрамор</link>
+        <link direction="en2ru">Red granite and white marble | includes | красный гранит</link>
+        <link direction="en2ru">Ottoman Army soldiers killed in the Battle of Baku | sameAs | солдаты Османской армии, погибшие в битве за Баку</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хюсейн Бютюнер / Гусейн Бутунер</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хилми Гюнер / Хилми Гунер</link>
+        <link direction="en2ru">Baku Turkish Martyrs' Memorial | sameAs | Мемориал памяти турецких солдат/ воинов/ мучеников в Баку</link>
+        <link direction="en2ru">Türk Şehitleri Anıtı | sameAs | Türk Şehitleri Anıtı</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Památník tureckých mučedníků v Baku z červené žuly a bílého mramoru je věnován vojákům osmanské armády padlým v bitvě u ázerbájdžánského Baku. Památník (rodný název "Türk Sehitleri Aniti") navrhli Huseyin Butuner a Hilmi Guner. Artur Rasizade je vůdcem (oficiální titul prezident) Ázerbájdžánu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Památník tureckých mučedníků v Baku, vyrobený z červené žuly a bílého mramoru, je věnován vojákům Osmanské armády zabitým v bitvě u Baku v Ázerbájdžánu. Památník (rodné jméno „Türk Sehitleri Aniti“) navrhl Huseyin Butuner a Hilmi Guner. Artur Rasizade je vůdcem (oficiální titul prezident) Ázerbájdžánu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Baku Památník tureckých mučedníků, vyrobený z červené žuly a bílého mramoru, je věnován vojákům osmanské armády padlým v bitvě o Baku v Ázerbájdžánu. Památník (rodné jméno "Türk Sehitleri Aniti") navrhli Huseyin Butuner a Hilmi Guner. Artur Rasizade je vůdce (oficiální titul prezident) Ázerbájdžánu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Památník tureckých mučedníků v Baku (místní název "Turk Sehitleri Aniti") je památník z červené žuly a bílého mramoru, který navrhli Huseyin Butuner a Hilmi Guner a který je věnován vojákům osmanské armády padlým v bitvě u Baku. Nachází se v Ázerbájdžánu, v jehož čele stojí předseda ázerbájdžánské vlády Artur Rasizade.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Památník tureckých mučedníků v Baku (v místním jazyce známý jako Turk Sehitleri Aniti) je památník z červené žuly a bílého mramoru, navržený Huseyinem Butunerem a Hilmi Gunerem a věnovaný vojákům Osmanské armády zabitým v bitvě u Baku. Nachází se v Ázerbájdžánu, zemi vedené premiérem Ázerbájdžánu Arturem Rasizadem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Památník tureckých mučedníků v Baku (v místním jazyce známý jako Turk Sehitleri Aniti) je památník z červené žuly a bílého mramoru, navržený Huseyinem Butunerem a Hilmi Gunerem a věnovaný vojákům osmanské armády padlým v bitvě u Baku. Sídlí v Ázerbájdžánu, zemi vedené předsedou vlády Ázerbájdžánu Arturem Rasizadem.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Artur Rasizade je předsedou vlády a vůdcem Ázerbájdžánu. Najdeme zde Památník tureckých mučedníků v Baku, který je věnován vojákům osmanské armády padlým v bitvě u Baku. Rodný název Památníku tureckých mučedníků v Baku je Turk Sehitleri Aniti. Jeho autory byli Hüseyin Bütüner a Hilmi Güner a je vyroben z červené žuly a bílého mramoru.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Artur Rasizade je předsedou vlády a vůdcem Ázerbájdžánu. Najdeme zde Památník tureckých mučedníků v Baku, který je věnován vojákům Osmanské armády padlým v bitvě u Baku. Původní název památníku tureckých mučedníků v Baku je Turk Sehitleri Aniti. Jeho designérem byli Hüseyin Bütüner a Hilmi Güner a je vyroben z červené žuly a bílého mramoru.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Artur Rasizade je předseda vlády a vůdce Ázerbájdžánu. Najdeme zde památník tureckých mučedníků z Baku, který je věnován vojákům osmanské armády padlým v bitvě u Baku. Rodné jméno památníku tureckých mučedníků z Baku je Turk Sehitleri Aniti. Jejím designérem byl Hüseyin Bütüner a Hilmi Güner a je vyroben z červené žuly a bílého mramoru.</lex>
+    </entry>
+    <entry category="Monument" eid="Id17" shape="(X (X) (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"@en</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"@en</otriple>
+        <otriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | "Red granite and white marble"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | "Ottoman Army soldiers killed in the Battle of Baku"</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"</mtriple>
+        <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
+        <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Baku Turkish Martyrs' Memorial (known as Turk Sehitleri Aniti) was designed by Hüseyin Bütüner and Hilmi Güner in red granite and white marble, and is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. It is located in Azerbaijan, where the leader is Artur Rasizade, and the National Assembly is the legislative branch of government.</lex>
+      <lex lang="ru" lid="Id1">Мемориал памяти турецких мучеников в Баку (известный как Türk Şehitleri Anıtı) был разработан Гусейном Бутунером и Хилми Гунером в красном граните и белом мраморе, а также был посвящен солдатам Османской армии, погибшим в битве за Баку. Он расположен в Азербайджане, где лидером выступает Артур Таир оглы Расизаде, а ветвью законодательной власти - Национальное собрание.</lex>
+      <lex lang="en" lid="Id2">The Baku Turkish Martyrs memorial, dedicated to the soldiers of the Ottoman army who died at the Battle of Baku was designed in red granite and white marble by Huseyin Butuner and Hilmi Guner. The native name for the memorial which is located in the city of Baku is Turk Sehitleri Aniti. Turkey is led by Artur Rasizade and the National Assembly is the legislature within the country.</lex>
+      <lex lang="ru" lid="Id2">Мемориал памяти турецких мучеников в Баку, посвященный солдатам Османской армии, погибшим в битве за Баку, был разработан в красном граните и белом мраморе Гусейном Бутунером и Хилми Гунером. Türk Şehitleri Anıtı - это местное имя мемориала, расположенного в Баку. Турцию возглавляет Артур Таир оглы Расизаде , а в качестве законодательной власти выступает Национальное собрание.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Artur_Rasizade | sameAs | Расизаде,_Артур_Таир_оглы</dbpedialink>
+        <dbpedialink direction="en2ru">National_Assembly_(Azerbaijan) | sameAs | Милли_Меджлис_Азербайджана</dbpedialink>
+        <dbpedialink direction="en2ru">Azerbaijan | sameAs | Азербайджан</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Red granite and white marble | includes | белый мрамор</link>
+        <link direction="en2ru">Red granite and white marble | includes | красный гранит</link>
+        <link direction="en2ru">Ottoman Army soldiers killed in the Battle of Baku | sameAs | солдаты Османской армии, погибшие в битве за Баку</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хюсейн Бютюнер / Гусейн Бутунер</link>
+        <link direction="en2ru">Hüseyin Bütüner and Hilmi Güner | includes | Хилми Гюнер / Хилми Гунер</link>
+        <link direction="en2ru">Baku Turkish Martyrs' Memorial | sameAs | Мемориал памяти турецких солдат/ воинов/ мучеников в Баку</link>
+        <link direction="en2ru">Türk Şehitleri Anıtı | sameAs | Türk Şehitleri Anıtı</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Památník tureckých mučedníků v Baku (známý jako Turk Sehitleri Aniti) navrhli Hüseyin Bütüner a Hilmi Güner z červené žuly a bílého mramoru a je věnován vojákům osmanské armády padlým v bitvě u Baku. Nachází se v Ázerbájdžánu, jehož vůdcem je Artur Rasizade a zákonodárnou složkou vlády Národní shromáždění.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Památník tureckých mučedníků v Baku (známý jako Turk Sehitleri Aniti) navrhl Hüseyin Bütüner a Hilmi Güner z červené žuly a bílého mramoru a je věnován vojákům Osmanské armády zabitým v bitvě u Baku. Nachází se v Ázerbájdžánu, kde je vůdcem Artur Rasizade a Národní shromáždění je legislativní složkou vlády.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Památník tureckých mučedníků v Baku (známý jako Turk Sehitleri Aniti) navrhli Hüseyin Bütüner a Hilmi Güner v červené žule a bílém mramoru a je věnován vojákům osmanské armády padlým v bitvě u Baku. Sídlí v Ázerbájdžánu, kde je vůdcem Artur Rasizade, a Národní shromáždění je zákonodárnou složkou vlády.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Památník tureckých mučedníků v Baku, věnovaný vojákům osmanské armády, kteří padli v bitvě u Baku, navrhli z červené žuly a bílého mramoru Huseyin Butuner a Hilmi Guner. Domácí název památníku, který se nachází ve městě Baku, je Turk Sehitleri Aniti. V čele Turecka stojí Artur Rasizade a zákonodárným orgánem v zemi je Národní shromáždění.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Památník tureckých mučedníků v Baku, věnovaný vojákům osmanské armády, kteří zemřeli v bitvě u Baku, navrhli Huseyin Butuner a Hilmi Guner z červené žuly a bílého mramoru. Původní název památníku, který se nachází ve městě Baku, je Turk Sehitleri Aniti. Turecko vede Artur Rasizade a v zemi je zákonodárným orgánem Národní shromáždění.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Památník tureckých mučedníků z Baku, věnovaný vojákům osmanské armády, kteří padli v bitvě u Baku, byl navržen v červené žule a bílém mramoru Huseyinem Butunerem a Hilmi Gunerovou. Původním jménem památníku, který se nachází ve městě Baku, je Turk Sehitleri Aniti. Turecko vede Artur Rasizade a zákonodárným sborem v zemi je Národní shromáždění.</lex>
+    </entry>
+    <entry category="Monument" eid="Id18" shape="(X (X) (X) (X (X) (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+        <otriple>England | capital | London</otriple>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+        <otriple>England | languages | Cornish_language</otriple>
+        <otriple>England | religion | Church_of_England</otriple>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | ethnicGroup | British_Arabs</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+        <mtriple>England | language | Cornish_language</mtriple>
+        <mtriple>England | religion | Church_of_England</mtriple>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Dead Mans Plack is a rock formation found in England and dedicated to Aethelwald, Ealdorman of East Anglia. One of the ethnic groups of the country are the British Arabs, and the Church of England is the official religion. The Cornish language is still spoken in parts of the country.</lex>
+      <lex lang="ru" lid="Id1">“Плак мертвеца” - это каменная композиция, расположенная в Англии и посвященная Этельвальду, альдерману из Восточной Англии. Одна из этнических групп страны - это британские арабы, а Церковь Англии - официальная религия. На корнском языке по-прежнему говорят в некоторых частях страны.</lex>
+      <lex lang="en" lid="Id2">Dead Man's Plack is located in England, made from stone, and dedicated to AEthelwald, Ealdorman of East Anglia. England's established religion is The Church of England, and the capital city is London. The Cornish language is spoken there, and the British Arabs are an English ethnic group.</lex>
+      <lex lang="ru" lid="Id2">“Плак мертвеца”, расположенный в Англии, сделан из камня и посвящен Этельвальду, альдерману из Восточной Англии. Устоявшаяся религия Англии - Церковь Англии, а столица - Лондон. Там говорят на Корнийском языке, а английские арабы - это английская этническая группа.</lex>
+      <lex lang="en" lid="Id3">The capital of England is London where we can find the Dead Man's Plack which is made of stone. The Plack is dedicated to Æthelwald, Ealdorman of East Anglia. Cornish language is spoken in England and it has an established religion called the Church of England. One of the ethnic groups found in that country is the British Arabs.</lex>
+      <lex lang="ru" lid="Id3">Столица Англии - Лондон, где можно найти "Плак мертвеца", который изготовлен из камня. "Плак мертвеца" посвящен Этельвальду, олдермену из Восточной Англии. В Англии говорят на корнском языке, и в ней есть официальная религия, которая называется церковью Англии. Одной из этнических групп, обосновавшихся в этой стране, являются британские арабы.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">London | sameAs | Лондон</dbpedialink>
+        <dbpedialink direction="en2ru">Rock_(geology) | sameAs | Горная_порода</dbpedialink>
+        <dbpedialink direction="en2ru">England | sameAs | Англия</dbpedialink>
+        <dbpedialink direction="en2ru">Cornish_language | sameAs | Корнский_язык</dbpedialink>
+        <dbpedialink direction="en2ru">Church_of_England | sameAs | Церковь_Англии</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">British Arabs | sameAs | британские арабы</link>
+        <link direction="en2ru">Æthelwald, Ealdorman of East Anglia | includes | олдермен / альдерман из Восточной Англии</link>
+        <link direction="en2ru">Æthelwald, Ealdorman of East Anglia | includes | Этельвальд</link>
+        <link direction="en2ru">Dead Man's Plack | sameAs | “Плак мертвеца”</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Dead Mans Plack je skalní útvar, který se nachází v Anglii a je věnován Aethelwaldovi, ealdormanovi východní Anglie. Jednou z etnických skupin v zemi jsou britští Arabové a oficiálním náboženstvím je anglikánská církev. V některých částech země se stále mluví cornwallským jazykem.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Dead Mans Plack je skalní útvar nalezený v Anglii a zasvěcený Aethelwaldovi, Ealdormanovi z východní Anglie. Jednou z etnických skupin země jsou britští Arabové a oficiálním náboženstvím je anglikánská církev. V některých částech země se stále mluví cornwallským jazykem.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Dead Mans Plack je skalní útvar, který se vyskytuje v Anglii a je věnován Aethelwaldovi, Ealdormanovi z východní Anglie. Jednou z etnických skupin v zemi jsou britští Arabové a anglikánská církev je oficiálním náboženstvím. Cornwallským jazykem se v některých částech země stále mluví.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">V Anglii se nachází hrad Dead Man's Plack, který je z kamene a je zasvěcen AEthelwaldovi, ealdormanovi Východní Anglie. Zavedeným náboženstvím v Anglii je anglikánská církev a hlavním městem je Londýn. Mluví se zde kornštinou a britští Arabové jsou anglickou etnickou skupinou.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Dead Man's Plack se nachází v Anglii, je vyroben z kamene a je zasvěcen AEthelwaldovi, Ealdormanovi z východní Anglie. Zavedené náboženství Anglie je The Church of England a hlavním městem je Londýn. Mluví se tam cornwallským jazykem a britští Arabové jsou anglickou etnickou skupinou.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Dead Man's Plack se nachází v Anglii, je vyroben z kamene a zasvěcen AEthelwaldovi, Ealdormanovi z východní Anglie. Anglické náboženství je anglikánská církev a hlavním městem je Londýn. Mluví se tam kornštinou a britští Arabové jsou anglickou etnickou skupinou.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Hlavním městem Anglie je Londýn, kde najdeme Hráz mrtvého muže, která je z kamene. Placka je zasvěcena Æthelwaldovi, ealdormanovi východní Anglie. V Anglii se mluví cornwallským jazykem a je zde zavedeno náboženství zvané anglikánská církev. Jednou z etnických skupin, které se v této zemi vyskytují, jsou britští Arabové.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Hlavním městem Anglie je Londýn, kde najdeme Plack mrtvého muže, který je vyroben z kamene. Plack je věnován Æthelwaldovi, Ealdormanovi z východní Anglie. V Anglii se mluví kornštinou a má zavedené náboženství zvané anglikánská církev. Jednou z etnických skupin v této zemi jsou britští Arabové.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Hlavním městem Anglie je Londýn, kde můžeme najít Plack mrtvého muže, který je z kamene. Plack je věnován Æthelwaldovi, Ealdormanovi z východní Anglie. V Anglii se mluví kornštinou a má zavedené náboženství zvané anglikánská církev. Jednou z etnických skupin v této zemi jsou britští Arabové.</lex>
+    </entry>
+    <entry category="Monument" eid="Id19" shape="(X (X) (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"^^xsd:date</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | "United States"</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is found in the Monocacy National Battlefield, Frederick County, Maryland. Located near to the city of Frederick, the monument was established on 11th July 1907, is owned by the National Park Service and belongs to the category of Historic districts in the United States.</lex>
+      <lex lang="ru" lid="Id1">Памятник 14-му добровольческому пехотному полку Нью-Джерси находится на Национальном поле битвы в Монокаси , округ Фредерик, штат Мэриленд. Расположенный рядом с городом Фредерик, памятник был установлен 11 июля 1907 года, принадлежит Службе национальных парков США и относится к категории исторических районов в США.</lex>
+      <lex lang="en" lid="Id2">Frederick, Maryland is the nearest city to the 14th New Jersey Volunteer Infantry Monument which was established on 11 July 1907 at the Monocacy National Battlefield in Frederick, Maryland. The monument is categorised as a historic district in the US and is owned by the National Park Service.</lex>
+      <lex lang="ru" lid="Id2">Фредерик в штате Мэриленд является ближайшим городом к памятнику 14-ого добровольческого пехотного полка Нью-Джерси, который был установлен 11 июля 1907 года на Национальном поле битвы в Монокаси во Фредерике, штат Мэриленд. Памятник относится к историческим районам США и принадлежит Службе национальных парков США.</lex>
+      <lex lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is owned by The National Park Service. It was established on July 11th, 1907 and is categorized as a historic district in the United States and is found in the Monocacy National Battlefield, the city nearest to this is Frederick, Maryland.</lex>
+      <lex lang="ru" lid="Id3">Памятник 14-му добровольческому пехотному полку Нью-Джерси принадлежит Службе национальных парков США. Он был создан 11 июля 1907 года и классифицируется как исторический район в Соединенных Штатах и находится на Национальном поле битвы в Монокаси, ближайший к нему город - Фредерик, штат Мэриленд.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Frederick,_Maryland | sameAs | Фредерик_(Мэриленд)</dbpedialink>
+        <dbpedialink direction="en2ru">National_Park_Service | sameAs | Служба_национальных_парков_США</dbpedialink>
+        <dbpedialink direction="en2ru">Frederick_County,_Maryland | sameAs | Фредерик_(округ,_Мэриленд)</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Monocacy National Battlefield | sameAs | Национальное поле битвы в Монокаси</link>
+        <link direction="en2ru">Historic districts in the United States | sameAs | исторические районы США</link>
+        <link direction="en2ru">14th New Jersey Volunteer Infantry Monument | sameAs | Памятник 14-му добровольческому пехотному полку Нью-Джерси</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Památník 14. dobrovolnické pěchoty z New Jersey se nachází na Národním bojišti Monocacy v okrese Frederick ve státě Maryland. Památník se nachází nedaleko města Frederick, byl založen 11. července 1907, je ve vlastnictví National Park Service a patří do kategorie historických okrsků ve Spojených státech.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">14th New Jersey Volunteer Infantry Monument se nachází v Monocacy National Battlefield, Frederick County, Maryland. Nachází se nedaleko města Frederick, památník byl založen 11. července 1907, je ve vlastnictví National Park Service a patří do kategorie historických čtvrtí ve Spojených státech.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">14. dobrovolnický pěchotní památník z New Jersey se nachází v Monocacy National Battlefield, Frederick County, Maryland. Památník ležící nedaleko města Frederick byl založen 11. července 1907, je ve vlastnictví správy národního parku a patří do kategorie historických čtvrtí ve Spojených státech.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Frederick v Marylandu je nejbližší město k památníku 14th New Jersey Volunteer Infantry Monument, který byl zřízen 11. července 1907 na národním bojišti Monocacy ve Fredericku v Marylandu. Památník je v USA zařazen do kategorie historických čtvrtí a je ve vlastnictví organizace National Park Service.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Frederick, Maryland je nejbližší město k 14th New Jersey Volunteer Infantry Monument, který byl založen 11. července 1907 na Monocacy National Battlefield ve Fredericku, Maryland. Památka je kategorizována jako historická čtvrť v USA a je ve vlastnictví National Park Service.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Frederick, Maryland je nejbližší město k 14. dobrovolnickému pěchotnímu památníku New Jersey, který byl zřízen 11. července 1907 v Monocacy National Battlefield ve Fredericku v Marylandu. Památník je v USA zařazen do historické čtvrti a je ve vlastnictví správy národního parku.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Památník 14. dobrovolnické pěchoty New Jersey je ve vlastnictví The National Park Service. Byl založen 11. července 1907 a je kategorizován jako historický okrsek v USA a nachází se na národním bojišti Monocacy, nejbližším městem je Frederick ve státě Maryland.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Památník dobrovolné pěchoty 14. New Jersey je ve vlastnictví The National Park Service. Byla založena 11. července 1907 a je zařazena jako historická čtvrť ve Spojených státech a nachází se v Monocacy National Battlefield, město nejblíže k tomuto je Frederick, Maryland.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">14. dobrovolnický pěchotní památník v New Jersey vlastní správa národního parku. Byl založen 11. července 1907 a je zařazen jako historická čtvrť ve Spojených státech a nachází se v Monocacy National Battlefield, nejblíže tomuto městu je Frederick v Marylandu.</lex>
+    </entry>
+    <entry category="Monument" eid="Id20" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | "Bronze"@en</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | "Bronze"@en</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | "Bronze"</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Atatürk Monument in İzmir is a bronze monument designed by Pietro Canonica, and inaugurated on July 27th, 1932. It is located in Turkey, where the capital city is Ankara, the currency is the Turkish lira, and the leader is named Ahmet Davutoğlu.</lex>
+      <lex lang="ru" lid="Id1">Памятник Ататюрку в Измире - бронзовый памятник, спроектированный Пьетро Каноникой, и открытый 27 июля 1932 года. Он расположен в Турции, где столицей является город Анкара, валютой - турецкая лира, а лидера зовут Ахмет Давутоглу.</lex>
+      <lex lang="en" lid="Id2">Pietro Canonica designed the bronze Ataturk monument which was inaugurated in Turkey on 27 July 1932 in Izmir. The leader of the country is Ahmet Davutoglu and the currency is the Turkish lira.</lex>
+      <lex lang="ru" lid="Id2">Пьетро Каноника спроектировал бронзовый памятник Ататюрку, который был открыт в Турции 27 июля 1932 года в Измире. Лидером страны является Ахмет Давутоглу и валюта - турецкая лира.</lex>
+      <lex lang="en" lid="Id3">The lira is the currency of Turkey where Ahmet Davutoglu is the leader and the capital city is Ankara. The country is the site of the Ataturk monument at Izmir which was designed by Pietro Canonica and inaugurated on 27 July 1932.</lex>
+      <lex lang="ru" lid="Id3">Лира - валюта Турции, где Ахмет Давутоглу - лидер и столица - это Анкара. Страна является местом установки памятника Ататюрку в Измире, который был спроектирован Пьетро Каноника и открыт 27 июля 1932 года.</lex>
+      <lex lang="en" lid="Id4">Ankara is the capital of Turkey where the currency is the Turkish lira and the leader is Ahmet Davutoglu. Izmir is located in the country and is the site of the bronze Ataturk Monument which was inaugurated in Izmir on 27 July 1932, having been designed by Pietro Canonica.</lex>
+      <lex lang="ru" lid="Id4">Анкара - столица Турции, где валютой является турецкая лира, а лидером - Ахмет Давутоглу. Измир находится в Турции и является местом расположения бронзового памятника Ататюрку, который был открыл в Измире 27 июля 1932 года и был спроектирован Пьетро Каноникой.</lex>
+      <lex lang="en" lid="Id5">The Atatürk Monument is located in İzmir, in the country of Turkey, whose leader is Ahmet Davutoğlu. The monument is made of bronze, was designed by Pietro Canonica and was inaugurated on the 27th of July, 1932. Turkey's capital city is Ankara and the currency is the Turkish lira.</lex>
+      <lex lang="ru" lid="Id5">Памятник Ататюрку расположен в Измире, в стране Турции, лидером которой является Ахмет Давутоглу. Памятник выполнен из бронзы, был спроектирован Пьетро Каноника и был открыт 27 июля 1932 года. Столица Турции - это Анкара, и валюта - турецкая лира.</lex>
+      <lex lang="en" lid="Id6">The Turkish lira is the currency of Turkey where Ahmet Davutoglu is the leader and Ankara is the capital. The Ataturk Monument designed in bronze by Pietro Canonica is located in Izmir and was inaugurated on 27 July 1932.</lex>
+      <lex lang="ru" lid="Id6">Турецкая лира - валюта Турции, где Ахмет Давутоглу является лидером, а Анкара - столицей. Памятник Ататюрку, спроектированный в бронзе Пьетро Каноникой, расположен в Измире и был открыт 27 июля 1932 года.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkey | sameAs | Турция</dbpedialink>
+        <dbpedialink direction="en2ru">Ahmet_Davutoğlu | sameAs | Давутоглу,_Ахмет</dbpedialink>
+        <dbpedialink direction="en2ru">Turkish_lira | sameAs | Турецкая_лира</dbpedialink>
+        <dbpedialink direction="en2ru">Ankara | sameAs | Анкара</dbpedialink>
+        <dbpedialink direction="en2ru">Pietro_Canonica | sameAs | Каноника,_Пьетро</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bronze | sameAs | бронза</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | памятник Ататюрку</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | Измир</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Atatürkův pomník v İzmiru je bronzový pomník, který navrhl Pietro Canonica a byl slavnostně otevřen 27. července 1932. Nachází se v Turecku, jehož hlavním městem je Ankara, měnou turecká lira a vůdce se jmenuje Ahmet Davutoğlu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Atatürkův pomník v İzmiru je bronzový pomník navržený Pietrem Canonicou a slavnostně otevřen 27. července 1932. Nachází se v Turecku, kde hlavním městem je Ankara, měnou je turecká lira a vůdcem se jmenuje Ahmet Davutoğlu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Atatürkův památník v İzmiru je bronzová památka navržená Pietrem Canonicou a slavnostně otevřena 27. července 1932. Sídlí v Turecku, kde je hlavním městem Ankara, měnou je turecká lira a vůdce se jmenuje Ahmet Davutoğlu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Pietro Canonica navrhl bronzový Atatürkův pomník, který byl v Turecku slavnostně odhalen 27. července 1932 v Izmiru. Vůdce země se jmenuje Ahmet Davutoglu a měnou je turecká lira.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Pietro Canonica navrhl bronzový Atatürkův pomník, který byl slavnostně otevřen v Turecku 27. července 1932 v Izmiru. Vůdcem země je Ahmet Davutoglu a měnou je turecká lira.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Pietro Canonica navrhl bronzový Atatürkův pomník, který byl slavnostně otevřen v Turecku dne 27. července 1932 v Izmiru. Vůdcem země je Ahmet Davutoglu a měnou je turecká lira.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Turecká lira je měnou Turecka, v jehož čele stojí Ahmet Davutoglu, a hlavním městem je Ankara. V zemi se nachází Atatürkův památník v Izmiru, který navrhl Pietro Canonica a který byl slavnostně otevřen 27. července 1932.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Lira je měnou Turecka, kde je Ahmet Davutoglu vůdcem a hlavním městem je Ankara. V zemi se nachází Atatürkův památník v Izmiru, který navrhl Pietro Canonica a slavnostně otevřen 27. července 1932.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Lira je měnou Turecka, kde je Ahmet Davutoglu vůdcem a hlavním městem je Ankara. Země je místem Atatürkova pomníku v Izmiru, který navrhl Pietro Canonica a který byl slavnostně otevřen 27. července 1932.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Ankara je hlavním městem Turecka, kde je měnou turecká lira a vůdcem je Ahmet Davutoglu. V Izmiru se nachází bronzový Atatürkův pomník, který byl v Izmiru slavnostně otevřen 27. července 1932 a jehož autorem je Pietro Canonica.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Ankara je hlavním městem Turecka, kde měnou je turecká lira a vůdcem je Ahmet Davutoglu. Izmir se nachází v zemi a je místem bronzového Atatürkova památníku, který byl slavnostně otevřen v Izmiru dne 27. července 1932 podle návrhu Pietra Canonica.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Ankara je hlavním městem Turecka, kde je měnou turecká lira a vůdcem je Ahmet Davutoglu. Izmir se nachází v zemi a je místem, kde se nachází bronzový Atatürkův památník, který byl slavnostně otevřen v Izmiru dne 27. července 1932 a který navrhl Pietro Canonica.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Atatürkův pomník se nachází v Izmiru v zemi, jejímž vůdcem je Ahmet Davutoglu. Pomník je vyroben z bronzu, navrhl ho Pietro Canonica a byl slavnostně otevřen 27. července 1932. Hlavním městem Turecka je Ankara a měnou turecká lira.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Atatürkův památník se nachází v İzmiru v Turecku, jehož vůdcem je Ahmet Davutoğlu. Pomník je vyroben z bronzu, navrhl ho Pietro Canonica a byl slavnostně otevřen 27. července 1932. Hlavním městem Turecka je Ankara a měnou je turecká lira.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Atatürkův památník se nachází ve městě İzmir v Turecku, jehož vůdcem je Ahmet Davutoğlu. Památník je z bronzu, byl navržen Pietrem Canonicou a byl slavnostně otevřen 27. července 1932. Hlavním městem Turecka je Ankara a měnou je turecká lira.</lex>
+      <lex lid="Id6" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Turecká lira je měnou Turecka, v jehož čele stojí Ahmet Davutoglu a Ankara je hlavním městem. Atatürkův pomník navržený z bronzu Pietrem Canonicou se nachází v Izmiru a byl slavnostně otevřen 27. července 1932.</lex>
+      <lex lid="Id6" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Turecká lira je měnou Turecka, kde je Ahmet Davutoglu vůdcem a Ankara je hlavním městem. Atatürkův pomník navržený z bronzu Pietro Canonica se nachází v Izmiru a byl slavnostně otevřen 27. července 1932.</lex>
+      <lex lid="Id6" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Turecká lira je měnou Turecka, kde je Ahmet Davutoglu vůdcem a Ankara hlavním městem. Atatürkův památník navržený z bronzu Pietrem Canonicou se nachází v Izmiru a byl slavnostně otevřen 27. července 1932.</lex>
+    </entry>
+    <entry category="Monument" eid="Id21" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | "Bronze"@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | "Bronze"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The largest city in Turkey is Istanbul, although the capital city is Ankara. The country is led by Ahmet Davutoglu and is the location of the bronze Ataturk Monument designed by Pietro Canonica which was inaugurated on 27 July 1932 and is located in Izmir.</lex>
+      <lex lang="ru" lid="Id1">Самый крупный город в Турции - Стамбул, хотя столица - Анкара. Страна, возглавляемая Ахметом Давутоглу, является местом расположения бронзового памятника Ататюрку, созданного Пьетро Каноника и открытого 27 июля 1932 года в Измире.</lex>
+      <lex lang="en" lid="Id2">The Turkish leader is Ahmet Davutoglu and although the largest city is Istanbul, the capital is Ankara. Izmir is the location of the Ataturk monument designed by Pietro Canonica in bronze and inaugurated on 27 July 1932.</lex>
+      <lex lang="ru" lid="Id2">Лидер Турции - Ахмет Давутоглу и, хотя крупнейший город – это Стамбул, столицей является Анкара. Измир - место расположения памятника Ататюрку, который был спроектирован Пьетро Каноникой из бронзы и был открыт 27 июля 1932 года.</lex>
+      <lex lang="en" lid="Id3">The largest city in Turkey is Istanbul, and the capital city is Ankara. The country is led by Ahmet Davutoglu and is the location of the bronze Ataturk monument which was designed by Pietro Canonica and inaugurated in Izmir on 27 July 1932.</lex>
+      <lex lang="ru" lid="Id3">Самый крупный город в Турции - Стамбул, а столица - Анкара. Страна, возглавляемая Ахметом Давутоглу, является местом расположения бронзового памятника Ататюрку, который был спроектирован Пьетро Каноника и открыт в Измире 27 июля 1932 года.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkey | sameAs | Турция</dbpedialink>
+        <dbpedialink direction="en2ru">Ahmet_Davutoğlu | sameAs | Давутоглу,_Ахмет</dbpedialink>
+        <dbpedialink direction="en2ru">Istanbul | sameAs | Стамбул</dbpedialink>
+        <dbpedialink direction="en2ru">Ankara | sameAs | Анкара</dbpedialink>
+        <dbpedialink direction="en2ru">Pietro_Canonica | sameAs | Каноника,_Пьетро</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bronze | sameAs | бронза</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | памятник Ататюрку</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | Измир</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Největším městem Turecka je Istanbul, ačkoli hlavním městem je Ankara. V čele země stojí Ahmet Davutoglu a v Izmiru se nachází bronzový Atatürkův pomník navržený Pietrem Canonicou, který byl slavnostně otevřen 27. července 1932.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Největším městem Turecka je Istanbul, i když hlavním městem je Ankara. Zemi vede Ahmet Davutoglu a nachází se v ní bronzový Atatürkův pomník navržený Pietrem Canonicou, který byl slavnostně otevřen 27. července 1932 a nachází se v Izmiru.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Největším městem v Turecku je Istanbul, i když hlavním městem je Ankara. Země je vedena Ahmetem Davutogluem a nachází se zde bronzový Atatürkův památník navržený Pietrem Canonicou, který byl slavnostně otevřen 27. července 1932 a nachází se v Izmiru.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Vůdcem Turecka je Ahmet Davutoglu a ačkoli největším městem je Istanbul, hlavním městem je Ankara. V Izmiru se nachází Atatürkův pomník navržený Pietrem Canonicou z bronzu, který byl slavnostně otevřen 27. července 1932.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Tureckým vůdcem je Ahmet Davutoglu a přestože největším městem je Istanbul, hlavním městem je Ankara. Izmir je místem, kde se nachází Atatürkův pomník navržený Pietrem Canonicou v bronzu a slavnostně otevřen 27. července 1932.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Tureckým vůdcem je Ahmet Davutoglu a ačkoli největším městem je Istanbul, hlavním městem je Ankara. Izmir je místem, kde se nachází Atatürkův pomník navržený Pietrem Canonicou z bronzu a slavnostně otevřený dne 27. července 1932.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Největším městem Turecka je Istanbul a hlavním městem Ankara. V čele země stojí Ahmet Davutoglu a v Izmiru se nachází Atatürkův bronzový pomník, který navrhl Pietro Canonica a který byl slavnostně odhalen 27. července 1932.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Největším městem Turecka je Istanbul a hlavním městem je Ankara. Zemi vede Ahmet Davutoglu a nachází se zde bronzový Atatürkův pomník, který navrhl Pietro Canonica a byl slavnostně otevřen v Izmiru 27. července 1932.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Největším městem v Turecku je Istanbul a hlavním městem je Ankara. Země je vedena Ahmetem Davutogluem a je místem bronzového Atatürkova pomníku, který navrhl Pietro Canonica a který byl slavnostně otevřen v Izmiru dne 27. července 1932.</lex>
+    </entry>
+    <entry category="Monument" eid="Id22" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | "Bronze"@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | "Bronze"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Atatürk Monument (İzmir), found in Turkey, is made of bronze and was designed by Pietro Canonica. The monument was established on the 27th of July, 1932. Turkey's capital is Ankara and its largest city is Istanbul. The leader's official title is the President of Turkey.</lex>
+      <lex lang="ru" lid="Id1">Памятник Ататюрку (Измир), расположенный в Турции, изготовлен из бронзы и спроектирован Пьетро Каноника. Памятник был установлен 27 июля 1932 года. Столица Турции - это Анкара и ее крупнейший город - Стамбул. Официальным лидером страны является президент Турции.</lex>
+      <lex lang="en" lid="Id2">The official leader of Turkey is called the President. It's capital is located in Ankara and its largest city is Istanbul. It has a monument called the Ataturk. The Ataturk Monument was designed by Pietro Canonica and was founded on July 27, 1982. It is made of bronze.</lex>
+      <lex lang="ru" lid="Id2">Официальным лидером Турции является президент. Её столица находится в Анкаре, а самый большой город Турции - Стамбул. Тут есть памятник Ататюрку. Памятник Ататюрку был спроектирован Пьетро Каноника и установлен 27 июля 1982 года. Памятник выполнен из бронзы.</lex>
+      <lex lang="en" lid="Id3">The Ataturk Monument (Izmir) is located in Turkey, a country led by the country's president. Istanbul is the largest city, and Ankara is the capital. The monument was designed by Pietro Canonica, made of bronze, and inaugurated on the 27th of July, 1932.</lex>
+      <lex lang="ru" lid="Id3">Памятник Ататюрку (Измир) расположен в Турции, стране во главе с президентом страны. Стамбул - крупнейший город, а Анкара - столица. Памятник был спроектирован Пьетро Каноника, изготовленный из бронзы, и торжественно открыт 27 июля 1932 года.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkey | sameAs | Турция</dbpedialink>
+        <dbpedialink direction="en2ru">Istanbul | sameAs | Стамбул</dbpedialink>
+        <dbpedialink direction="en2ru">Ankara | sameAs | Анкара</dbpedialink>
+        <dbpedialink direction="en2ru">Pietro_Canonica | sameAs | Каноника,_Пьетро</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bronze | sameAs | бронза</link>
+        <link direction="en2ru">President of Turkey | sameAs | Президент Турции</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | памятник Ататюрку</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | Измир</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Atatürkův pomník (İzmir), který se nachází v Turecku, je vyroben z bronzu a jeho autorem je Pietro Canonica. Pomník byl založen 27. července 1932. Hlavním městem Turecka je Ankara a jeho největším městem Istanbul. Oficiální titul vůdce je prezident Turecka.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Atatürkův památník (İzmir), nalezený v Turecku, je vyroben z bronzu a navrhl ho Pietro Canonica. Památník byl založen 27. července 1932. Hlavním městem Turecka je Ankara a jeho největším městem je Istanbul. Oficiální titul vůdce je prezident Turecka.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Atatürkův památník (İzmir), který se nachází v Turecku, je vyroben z bronzu a byl navržen Pietrem Canonicou. Památník byl zřízen 27. července 1932. Hlavním městem Turecka je Ankara a jeho největším městem Istanbul. Oficiálním titulem vůdce je prezident Turecka.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Oficiální titul vůdce Turecka se nazývá prezident. Jeho hlavním městem je Ankara a největším městem Istanbul. Má památník zvaný Atatürk. Atatürkův pomník navrhl Pietro Canonica a byl založen 27. července 1982. Je vyroben z bronzu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Oficiální vůdce Turecka se nazývá prezident. Jeho hlavní město se nachází v Ankaře a jeho největším městem je Istanbul. Má památník zvaný Atatürk. Atatürkův pomník navrhl Pietro Canonica a byl založen 27. července 1982. Je vyroben z bronzu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Oficiální vůdce Turecka se nazývá prezident. Jeho hlavní město leží v Ankaře a jeho největším městem je Istanbul. Má pomník, který se jmenuje Atatürk. Atatürkův památník navrhl Pietro Canonica a byl založen 27. července 1982. Je z bronzu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Atatürkův památník (Izmir) se nachází v Turecku, zemi, v jejímž čele stojí prezident. Největším městem je Istanbul a hlavním městem Ankara. Pomník navrhl Pietro Canonica, je vyroben z bronzu a slavnostně otevřen 27. července 1932.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Atatürkův památník (Izmir) se nachází v Turecku, zemi vedené prezidentem země. Istanbul je největší město a Ankara je hlavní město. Pomník navrhl Pietro Canonica, byl vyroben z bronzu a slavnostně otevřen 27. července 1932.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Atatürkův památník (Izmir) se nachází v Turecku, zemi vedené tamním prezidentem. Istanbul je největší město a Ankara je hlavní město. Památník navrhl Pietro Canonica, byl zhotoven z bronzu a slavnostně otevřen 27. července 1932.</lex>
+    </entry>
+    <entry category="Monument" eid="Id23" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="7">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | "Bronze"@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | "Bronze"@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | "1932-07-27"^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | "Bronze"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">The Ataturk Monument (Izmir) was designed by Pietro Canonica, and made of bronze. It is located in Izmir, Turkey, and was inaugurated July 27th, 1932. The country is led by President Ahmet Davutoglu, and the capital city is Ankara.</lex>
+      <lex lang="ru" lid="Id1">Памятник Ататюрку (Измир) был спроектирован Пьетро Каноника и изготовлен из бронзы. Он расположен в Измире, Турция, и был открыт 27 июля 1932 года. Страну возглавляет президент Ахмет Давутоглу, а столица - Анкара.</lex>
+      <lex lang="en" lid="Id2">The Ataturk Monument (Izmir) is a bronze monument designed by Pietro Canonica, and inaugurated on 27th July, 1932. It is located in Turkey, where the capital is Ankara, and the leader (the President of Turkey) is Ahmet Davutoğlu.</lex>
+      <lex lang="ru" lid="Id2">Памятник Ататюрку (Измир) - бронзовый памятник, созданный Пьетро Каноника и торжественно открытый 27 июля 1932 года. Он расположен в Турции, столица которой - Анкара; лидером страны (Президентом Турции) является Ахмет Давутоглу.</lex>
+      <lex lang="en" lid="Id3">The Ataturk Monument is a bronze monument designed by Pietro Canonica, and inaugurated on July 27th, 1932. It is located in Izmir, in Turkey, a country where the capital is Ankara, and the leader is the President of Turkey, Ahmet Davutoglu.</lex>
+      <lex lang="ru" lid="Id3">Памятник Ататюрку - бронзовый памятник, разработанный Пьетро Каноника, и открытый 27 июля 1932 года. Он расположен в Измире, в Турции, стране, где столица - Анкара, а лидер - президент Турции Ахмет Давутоглу.</lex>
+      <lex lang="en" lid="Id4">President Ahmet Davutoglu is the Turkish leader where the capital city is Ankara. The bronze Ataturk Monument which was designed by Pietro Canonica is located in Izmir and was inaugurated on 27 July 1932.</lex>
+      <lex lang="ru" lid="Id4">Президент Ахмет Давутоглу - турецкий лидер, где столица - Анкара. Бронзовый памятник Ататюрку, который был спроектирован Пьетро Каноника, расположен в Измире и был открыт 27 июля 1932 года.</lex>
+      <lex lang="en" lid="Id5">The Ataturk Monument (Izmir) was designed by Pietro Canonica, made of bronze, and was inaugurated on July 27, 1932. It is located in Turkey, who's capital city is Ankara, and official leader is President Ahmet Davutoglu,.</lex>
+      <lex lang="ru" lid="Id5">Памятник Ататюрку (Измир), изготовленный из бронзы, был спроектирован Пьетро Каноника и открыт 27 июля 1932 года. Он расположен в Турции, столицей которой является Анкара, а официальным лидером является президент Ахмет Давутоглу.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Turkey | sameAs | Турция</dbpedialink>
+        <dbpedialink direction="en2ru">Ahmet_Davutoğlu | sameAs | Давутоглу,_Ахмет</dbpedialink>
+        <dbpedialink direction="en2ru">Ankara | sameAs | Анкара</dbpedialink>
+        <dbpedialink direction="en2ru">Pietro_Canonica | sameAs | Каноника,_Пьетро</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Bronze | sameAs | бронза</link>
+        <link direction="en2ru">President of Turkey | sameAs | Президент Турции</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | памятник Ататюрку</link>
+        <link direction="en2ru">Atatürk Monument (İzmir) | includes | Измир</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Atatürkův pomník (Izmir) navrhl Pietro Canonica a byl vyroben z bronzu. Nachází se v tureckém Izmiru a byl slavnostně otevřen 27. července 1932. V čele země stojí prezident Ahmet Davutoglu a hlavním městem je Ankara.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Atatürkův památník (Izmir) navrhl Pietro Canonica a je vyroben z bronzu. Nachází se v Izmiru v Turecku a byl slavnostně otevřen 27. července 1932. V čele země stojí prezident Ahmet Davutoglu a hlavním městem je Ankara.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Atatürkův památník (Izmir) navrhl Pietro Canonica a byl vyroben z bronzu. Nachází se v tureckém Izmiru a byla slavnostně otevřena 27. července 1932. Zemi vede prezident Ahmet Davutoglu a hlavním městem je Ankara.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Atatürkův pomník (Izmir) je bronzový pomník navržený Pietrem Canonicou a slavnostně otevřený 27. července 1932. Nachází se v Turecku, jehož hlavním městem je Ankara a vůdcem (prezidentem Turecka) je Ahmet Davutoglu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Atatürkův památník (Izmir) je bronzový pomník navržený Pietrem Canonicou a slavnostně otevřen 27. července 1932. Nachází se v Turecku, kde hlavním městem je Ankara a vůdcem (prezidentem Turecka) je Ahmet Davutoğlu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Atatürkův památník (Izmir) je bronzová památka navržená Pietrem Canonicou a slavnostně otevřena 27. července 1932. Sídlí v Turecku, jehož hlavním městem je Ankara, a vůdcem (prezidentem Turecka) je Ahmet Davutoğlu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Atatürkův pomník je bronzový pomník navržený Pietrem Canonicou a slavnostně otevřený 27. července 1932. Nachází se v Izmiru v Turecku, zemi, jejímž hlavním městem je Ankara a vůdcem (prezidentem Turecka) Ahmet Davutoglu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Atatürkův památník je bronzový pomník navržený Pietrem Canonicou a slavnostně otevřen 27. července 1932. Nachází se v Izmiru v Turecku, v zemi, kde hlavním městem je Ankara, a jejím vůdcem je turecký prezident Ahmet Davutoglu.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Atatürkův památník je bronzová památka navržená Pietrem Canonicou a slavnostně otevřena 27. července 1932. Sídlí v tureckém Izmiru, zemi, kde je hlavním městem Ankara, a jeho vůdcem je turecký prezident Ahmet Davutoglu.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Prezident Ahmet Davutoglu je tureckým vůdcem, kde je hlavním městem Ankara. Bronzový Atatürkův pomník, který navrhl Pietro Canonica, se nachází v Izmiru a byl slavnostně otevřen 27. července 1932.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Prezident Ahmet Davutoglu je tureckým vůdcem, jehož hlavním městem je Ankara. Bronzový Atatürkův pomník, který navrhl Pietro Canonica, se nachází v Izmiru a byl slavnostně otevřen 27. července 1932.</lex>
+      <lex lid="Id4" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Prezident Ahmet Davutoglu je tureckým vůdcem tam, kde je hlavním městem Ankara. Bronzový Atatürkův památník, který navrhl Pietro Canonica, se nachází v Izmiru a byl slavnostně otevřen 27. července 1932.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_deepl">Atatürkův pomník (Izmir), který navrhl Pietro Canonica, je z bronzu a byl slavnostně otevřen 27. července 1932. Nachází se v Turecku, jehož hlavním městem je Ankara a oficiálním představitelem prezident Ahmet Davutoglu,.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_gtranslate">Atatürkův památník (Izmir) navrhl Pietro Canonica, je vyroben z bronzu a byl slavnostně otevřen 27. července 1932. Nachází se v Turecku, jehož hlavním městem je Ankara, a oficiálním vůdcem je prezident Ahmet Davutoglu.</lex>
+      <lex lid="Id5" lang="cs" source="release_v3.0_ru_test_fixed_train_CZECH_cubbitt">Atatürkův památník (Izmir) navrhl Pietro Canonica z bronzu a byl slavnostně otevřen 27. července 1932. Sídlí v Turecku, jehož hlavním městem je Ankara, a oficiálním vůdcem je prezident Ahmet Davutoglu,.</lex>
+    </entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,318 @@
+<benchmark>
+  <entries>
+    <entry category="Astronaut" eid="Id1" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>William_Anders | dateOfRet | "1969-09-01"^^xsd:date</otriple>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | dateOfRetirement | "1969-09-01"</mtriple>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">William Anders (born in British Hong Kong) was a crew member of Apollo 8 and was a fighter pilot. He retired on 1969-09-01.</lex>
+      <lex lang="ru" lid="Id1">Уильям Андерс (родился в Британском Гонконге) был членом экипажа "Аполлон-8" и был пилотом истребителя. Он вышел на пенсию 01.09.1969.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Apollo_8 | sameAs | Аполлон-8</dbpedialink>
+        <dbpedialink direction="en2ru">William_Anders | sameAs | Андерс,_Уильям</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Fighter pilot | sameAs | летчик-истребитель / пилот истребителя</link>
+        <link direction="en2ru">British Hong Kong | sameAs | Британский Гонконг</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders (narozen v britském Hongkongu) byl členem posádky Apolla 8 a byl pilotem stíhačky. Do důchodu odešel 1969-09-01.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders (narozen v britském Hong Kongu) byl členem posádky Apolla 8 a byl stíhací pilot. Do důchodu odešel 1. 9. 1969.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders (narozen v britském Hongkongu) byl členem posádky Apolla 8 a byl bojovým pilotem. Odešel do důchodu v roce 1969-09-01.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id2" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>William_Anders | dateOfRet | "1969-09-01"^^xsd:date</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+        <otriple>Apollo_8 | crewMembers | Frank_Borman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | dateOfRetirement | "1969-09-01"</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+        <mtriple>Apollo_8 | crewMembers | Frank_Borman</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">William Anders (born in British Hong Kong) was a crew member of Apollo 8 with Frank Borman and retired on 1969-09-01.</lex>
+      <lex lang="ru" lid="Id1">Уильям Андерс (родился в Британском Гонконге) был членом экипажа "Аполлон-8" с Фрэнком Борманом и вышел на пенсию 01-09-1969.</lex>
+      <lex lang="en" lid="Id2">William Anders was born in British Hong Kong. Along with Frank Borman he was a crew member on Apollo 8. He retired on 1969.09.01.</lex>
+      <lex lang="ru" lid="Id2">Уильям Андерс родился в Британском Гонконге. Вместе с Фрэнком Борманом он был членом экипажа на "Аполлоне-8". Он вышел в отставку 01.09.1969.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Apollo_8 | sameAs | Аполлон-8</dbpedialink>
+        <dbpedialink direction="en2ru">Frank_Borman | sameAs | Борман,_Фрэнк</dbpedialink>
+        <dbpedialink direction="en2ru">William_Anders | sameAs | Андерс,_Уильям</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">British Hong Kong | sameAs | Британский Гонконг</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders (narozen v britském Hongkongu) byl spolu s Frankem Bormanem členem posádky Apolla 8 a odešel do důchodu 1969-09-01.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders (narozen v britském Hong Kongu) byl členem posádky Apolla 8 s Frankem Bormanem a odešel 1969-09-01.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders (narozen v britském Hongkongu) byl členem posádky Apolla 8 s Frankem Bormanem a v letech 1969-09-01 odešel do důchodu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders se narodil v britském Hongkongu. Spolu s Frankem Bormanem byl členem posádky Apolla 8. Do důchodu odešel 1969.09.01.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders se narodil v britském Hong Kongu. Spolu s Frankem Bormanem byl členem posádky Apolla 8. 1969.09.01 odešel do důchodu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders se narodil v britském Hongkongu. Spolu s Frankem Bormanem byl členem posádky Apolla 8. Odešel do důchodu v roce 1969.09.01.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id3" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>William_Anders | dateOfRet | "1969-09-01"^^xsd:date</otriple>
+        <otriple>William_Anders | selection | 1963</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+        <otriple>William_Anders | almaMater | "AFIT, M.S. 1962"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | dateOfRetirement | "1969-09-01"</mtriple>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+        <mtriple>William_Anders | almaMater | "AFIT, M.S. 1962"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">William Anders (born in British Hong Kong) was selected by NASA in 1963 after attending AFIT, M.S. 1962 and retired on 1969-09-01.</lex>
+      <lex lang="ru" lid="Id1">Уильям Андерс (родился в Британском Гонконге) был отобран НАСА в 1963 году после окончания AFIT со степенью магистра естественных наук в 1962, а вышел в отставку 01.09.1969.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">William_Anders | sameAs | Андерс,_Уильям</dbpedialink>
+        <dbpedialink direction="en2ru">1963 | sameAs | 1963_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">AFIT, M.S. 1962 | includes | AFIT</link>
+        <link direction="en2ru">British Hong Kong | sameAs | Британский Гонконг</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders (narozen v britském Hongkongu) byl vybrán NASA v roce 1963 po absolvování AFIT, M.S. 1962 a odešel do důchodu 1969-09-01.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders (narozen v britském Hong Kongu) byl vybrán NASA v roce 1963 poté, co navštěvoval AFIT, MS 1962 a odešel 1969-09-01.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders (narozen v britském Hongkongu) byl vybrán NASA v roce 1963 po účasti na AFIT, M.S. 1962 a odešel do důchodu v letech 1969-09-01.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>William_Anders | dateOfRet | "1969-09-01"^^xsd:date</otriple>
+        <otriple>William_Anders | selection | 1963</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | dateOfRetirement | "1969-09-01"</mtriple>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">William Anders, a crew member of Apollo 8, was born in British Hong Kong, and was selected by NASA in 1963. He retired September 1, 1969.</lex>
+      <lex lang="ru" lid="Id1">Уильям Андерс, член экипажа "Аполлон-8", родился в Британском Гонконге и был выбран НАСА в 1963 году. Он вышел в отставку 1 сентября 1969 года.</lex>
+      <lex lang="en" lid="Id2">William Anders (born in British Hong Kong) was a crew member of Apollo 8 and was selected by NASA in 1963. He retired on 1969-09-01.</lex>
+      <lex lang="ru" lid="Id2">Уильям Андерс (родился в Британском Гонконге) был членом экипажа "Аполлон-8" и был выбран НАСА в 1963 году. Он вышел на пенсию 01-09-1969.</lex>
+      <lex lang="en" lid="Id3">William Anders was a selected as a crew member of Apollo 8 by NASA in 1963 and retired 1st September 1969.</lex>
+      <lex lang="ru" lid="Id3">Уильям Андерс был выбран в качестве члена экипажа "Аполлон-8" НАСА в 1963 году и вышел в отставку 1 сентября 1969 года.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Apollo_8 | sameAs | Аполлон-8</dbpedialink>
+        <dbpedialink direction="en2ru">William_Anders | sameAs | Андерс,_Уильям</dbpedialink>
+        <dbpedialink direction="en2ru">1963 | sameAs | 1963_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">British Hong Kong | sameAs | Британский Гонконг</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders, člen posádky Apolla 8, se narodil v britském Hongkongu a byl vybrán NASA v roce 1963. Do důchodu odešel 1. září 1969.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders, člen posádky Apolla 8, se narodil v britském Hong Kongu a byl vybrán NASA v roce 1963. 1. září 1969 odešel do důchodu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders, člen posádky Apolla 8, se narodil v britském Hongkongu a byl vybrán NASA v roce 1963. Odešel 1. září 1969.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders (narozen v britském Hongkongu) byl členem posádky Apolla 8 a byl vybrán NASA v roce 1963. Do důchodu odešel 1. září 1969.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders (narozen v britském Hong Kongu) byl členem posádky Apolla 8 a byl vybrán NASA v roce 1963. Dne 1969-09-01 odešel do důchodu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders (narozen v britském Hongkongu) byl členem posádky Apolla 8 a byl vybrán NASA v roce 1963. Odešel do důchodu v roce 1969-09-01.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders byl vybrán jako člen posádky Apolla 8 NASA v roce 1963 a odešel do důchodu 1. září 1969.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders byl vybrán jako člen posádky Apolla 8 agenturou NASA v roce 1963 a odešel 1. září 1969.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders byl NASA vybrán jako člen posádky Apolla 8 v roce 1963 a 1. září 1969 odešel do důchodu.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id5" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+        <otriple>Apollo_8 | crewMembers | Frank_Borman</otriple>
+        <otriple>William_Anders | status | "Retired"@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+        <mtriple>Apollo_8 | crewMembers | Frank_Borman</mtriple>
+        <mtriple>William_Anders | status | "Retired"</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">Fighter pilot William Anders, who is now retired, was part of Apollo 8 which included Frank Borman among the crew.</lex>
+      <lex lang="ru" lid="Id1">Пилот истребителя Уильям Андерс, который сейчас в отставке, входил в состав "Аполлона-8", где среди членов экипажа был также Фрэнк Борман.</lex>
+      <lex lang="en" lid="Id2">William Anders is a retired fighter pilot. He along side Frank Borman was a crew member of Apollo 8.</lex>
+      <lex lang="ru" lid="Id2">Уильям Андерс - летчик в отставке. Он вместе с Фрэнком Борманом был членом экипажа "Аполлона-8".</lex>
+      <lex lang="en" lid="Id3">William Anders, retired, served as a fighter pilot before joining as a crew member on Apollo 8 alongside Frank Borman,.</lex>
+      <lex lang="ru" lid="Id3">Уильям Андерс, вышедший в отставку, служил пилотом истребителя перед тем, как стать членом экипажа на "Аполлоне-8" вместе с Фрэнком Борманом.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Apollo_8 | sameAs | Аполлон-8</dbpedialink>
+        <dbpedialink direction="en2ru">Frank_Borman | sameAs | Борман,_Фрэнк</dbpedialink>
+        <dbpedialink direction="en2ru">William_Anders | sameAs | Андерс,_Уильям</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">Fighter pilot | sameAs | летчик-истребитель / пилот истребителя</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Stíhací pilot William Anders, který je nyní v důchodu, byl členem posádky Apolla 8, v níž byl i Frank Borman.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Stíhací pilot William Anders, který je nyní v důchodu, byl součástí Apolla 8, jehož součástí byl Frank Borman.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Stíhací pilot William Anders, který je nyní v důchodu, byl součástí Apolla 8, které zahrnovalo Franka Bormana mezi posádku.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders je stíhací pilot ve výslužbě. Spolu s Frankem Bormanem byl členem posádky Apolla 8.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders je bývalý stíhací pilot. Spolu s Frankem Bormanem byl členem posádky Apolla 8.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders je stíhací pilot ve výslužbě. Spolu s Frankem Bormanem byl členem posádky Apolla 8.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders, který je nyní ve výslužbě, sloužil jako stíhací pilot, než se stal členem posádky Apolla 8 po boku Franka Bormana,.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders, penzionovaný, sloužil jako stíhací pilot, než se připojil jako člen posádky na Apollu 8 po boku Franka Bormana.</lex>
+      <lex lid="Id3" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders ve výslužbě sloužil jako stíhací pilot, než se připojil jako člen posádky na Apollu 8 po boku Franka Bormana.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id6" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+        <otriple>Apollo_8 | crew2Up | Buzz_Aldrin</otriple>
+        <otriple>Apollo_8 | crewMembers | Frank_Borman</otriple>
+        <otriple>Apollo_8 | operator | NASA</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+        <mtriple>Apollo_8 | backupPilot | Buzz_Aldrin</mtriple>
+        <mtriple>Apollo_8 | crewMembers | Frank_Borman</mtriple>
+        <mtriple>Apollo_8 | operator | NASA</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">William Anders worked for NASA and became a crew member of Apollo 8 with Buzz Aldrin as his back up pilot.</lex>
+      <lex lang="ru" lid="Id1">Уильям Андерс работал на НАСА и стал членом экипажа "Аполлон-8" с Баззом Олдрином в качестве его запасного пилота.</lex>
+      <lex lang="en" lid="Id2">William Anders was a crew member of the NASA operated Apollo 8 along with fellow crew member Frank Borman and backup pilot Buzz Aldrin.</lex>
+      <lex lang="ru" lid="Id2">Уильям Андерс был членом экипажа НАСА "Аполлон 8" вместе с членом экипажа Фрэнком Борманом и резервным пилотом Баззом Олдрином.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Apollo_8 | sameAs | Аполлон-8</dbpedialink>
+        <dbpedialink direction="en2ru">Frank_Borman | sameAs | Борман,_Фрэнк</dbpedialink>
+        <dbpedialink direction="en2ru">William_Anders | sameAs | Андерс,_Уильям</dbpedialink>
+        <dbpedialink direction="en2ru">Buzz_Aldrin | sameAs | Олдрин,_Базз</dbpedialink>
+        <dbpedialink direction="en2ru">NASA | sameAs | НАСА</dbpedialink>
+      </dbpedialinks>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders pracoval pro NASA a stal se členem posádky Apolla 8 spolu s Buzzem Aldrinem jako záložním pilotem.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders pracoval pro NASA a stal se členem posádky Apolla 8 s Buzzem Aldrinem jako jeho záložním pilotem.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders pracoval pro NASA a stal se členem posádky Apolla 8 s Buzzem Aldrinem jako záložním pilotem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders byl členem posádky Apolla 8, kterou řídila NASA, spolu s kolegou Frankem Bormanem a záložním pilotem Buzzem Aldrinem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders byl členem posádky Apolla 8 provozovaného NASA spolu s dalším členem posádky Frankem Bormanem a záložním pilotem Buzzem Aldrinem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders byl členem posádky NASA, která řídila Apollo 8 spolu s kolegou Frankem Bormanem a záložním pilotem Buzzem Aldrinem.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id7" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+        <otriple>William_Anders | nationality | United_States</otriple>
+        <otriple>Apollo_8 | crewMembers | Frank_Borman</otriple>
+        <otriple>Apollo_8 | operator | NASA</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+        <mtriple>William_Anders | nationality | United_States</mtriple>
+        <mtriple>Apollo_8 | crewMembers | Frank_Borman</mtriple>
+        <mtriple>Apollo_8 | operator | NASA</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">American William Anders was part of Apollo 8 along with Frank Borman as chosen by NASA.</lex>
+      <lex lang="ru" lid="Id1">Американец Уильям Андерс участвовал в миссии НАСА "Аполлон-8" вместе с Фрэнком Борманом.</lex>
+      <lex lang="en" lid="Id2">William Anders, a United States citizen, was a crew member on the NASA operated Apollo 8 along with Frank Borman.</lex>
+      <lex lang="ru" lid="Id2">Уильям Андерс, гражданин Соединенных Штатов, был членом экипажа на базе НАСА Аполлон-8 вместе с Фрэнком Борманом.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">Apollo_8 | sameAs | Аполлон-8</dbpedialink>
+        <dbpedialink direction="en2ru">Frank_Borman | sameAs | Борман,_Фрэнк</dbpedialink>
+        <dbpedialink direction="en2ru">William_Anders | sameAs | Андерс,_Уильям</dbpedialink>
+        <dbpedialink direction="en2ru">NASA | sameAs | НАСА</dbpedialink>
+      </dbpedialinks>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">Američan William Anders byl spolu s Frankem Bormanem členem posádky Apolla 8, kterou vybrala NASA.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">Američan William Anders byl součástí Apolla 8 spolu s Frankem Bormanem podle výběru NASA.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">Američan William Anders byl součástí Apolla 8 spolu s Frankem Bormanem podle výběru NASA.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders, občan Spojených států amerických, byl členem posádky Apolla 8 provozovaného NASA spolu s Frankem Bormanem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders, občan Spojených států, byl členem posádky Apolla 8 provozovaného NASA spolu s Frankem Bormanem.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders, občan Spojených států, byl členem posádky NASA, která řídila Apollo 8 spolu s Frankem Bormanem.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>William_Anders | selection | 1963</otriple>
+        <otriple>William_Anders | birthDate | "1933-10-17"^^xsd:date</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+        <mtriple>William_Anders | birthDate | "1933-10-17"</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">William Anders, who was born in British Hong Kong on October 17th, 1033, was picked by NASA in 1963 to be part of Apollo 8.</lex>
+      <lex lang="ru" lid="Id1">Уильям Андерс, родившийся в Британском Гонконге 17 октября 1033 года, был выбран НАСА в 1963 году в составе "Аполлон-8".</lex>
+      <lex lang="en" lid="Id2">William Anders was selected by NASA as a crew member of Apollo 8 in 1963. He was born in British Hong Kong on 17 October 1933.</lex>
+      <lex lang="ru" lid="Id2">Уильям Андерс был выбран НАСА в качестве члена экипажа "Аполлона-8" в 1963 году. Он родился в Британском Гонконге 17 октября 1933 года.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">Apollo_8 | sameAs | Аполлон-8</dbpedialink>
+        <dbpedialink direction="en2ru">William_Anders | sameAs | Андерс,_Уильям</dbpedialink>
+        <dbpedialink direction="en2ru">1963 | sameAs | 1963_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">British Hong Kong | sameAs | Британский Гонконг</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders, který se narodil 17. října 1033 v britském Hongkongu, byl v roce 1963 vybrán NASA jako součást Apolla 8.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders, který se narodil v britském Hong Kongu 17. října 1033, byl vybrán NASA v roce 1963, aby se stal součástí Apolla 8.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders, který se narodil v britském Hongkongu 17. října 1033, byl NASA vybrán v roce 1963 jako součást Apolla 8.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders byl vybrán NASA jako člen posádky Apolla 8 v roce 1963. Narodil se 17. října 1933 v britském Hongkongu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders byl vybrán NASA jako člen posádky Apolla 8 v roce 1963. Narodil se v britském Hong Kongu 17. října 1933.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders byl vybrán NASA jako člen posádky Apolla 8 v roce 1963. Narodil se v britském Hongkongu 17. října 1933.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id9" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>William_Anders | selection | 1963</otriple>
+        <otriple>William_Anders | birthDate | "1933-10-17"^^xsd:date</otriple>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+        <mtriple>William_Anders | birthDate | "1933-10-17"</mtriple>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">William Anders was born in British Hong Kong on October 17th, 1933 and in 1963 after a stint as a test pilot, NASA picked him to be part of the space program.</lex>
+      <lex lang="ru" lid="Id1">Уильям Андерс родился в Британском Гонконге 17 октября 1933 года, а в 1963 году, после пребывания в качестве тестового пилота, НАСА отобрало его в космическую программу.</lex>
+      <lex lang="en" lid="Id2">William Anders was born in British Hong Kong on 1933.10.17. He served as a fighter pilot prior to being selected by NASA in 1963.</lex>
+      <lex lang="ru" lid="Id2">Уильям Андерс родился в Британском Гонконге 17.10.1933. Он служил пилотом истребителя до того, как был отобран НАСА в 1963 году.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">William_Anders | sameAs | Андерс,_Уильям</dbpedialink>
+        <dbpedialink direction="en2ru">1963 | sameAs | 1963_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">British Hong Kong | sameAs | Британский Гонконг</link>
+        <link direction="en2ru">Fighter pilot | sameAs | летчик-истребитель / пилот истребителя</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders se narodil 17. října 1933 v britském Hongkongu a v roce 1963 ho NASA po působení jako zkušebního pilota vybrala jako součást vesmírného programu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders se narodil v britském Hong Kongu 17. října 1933 a v roce 1963, po stáži jako testovací pilot, ho NASA vybrala jako součást vesmírného programu.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders se narodil v britském Hongkongu 17. října 1933 a v roce 1963, po působení jako zkušební pilot, ho NASA vybrala do vesmírného programu.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders se narodil 17. října 1933 v britském Hongkongu. Než si ho v roce 1963 vybrala NASA, sloužil jako stíhací pilot.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders se narodil v britském Hong Kongu 17.10.1933. Než byl v roce 1963 vybrán NASA, sloužil jako stíhací pilot.</lex>
+      <lex lid="Id2" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders se narodil v britském Hongkongu 1933.10.17. Sloužil jako pilot stíhačky, než ho v roce 1963 vybrala NASA.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id10" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>William_Anders | selection | 1963</otriple>
+        <otriple>William_Anders | nationality | United_States</otriple>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+        <mtriple>William_Anders | nationality | United_States</mtriple>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+      </modifiedtripleset>
+      <lex lang="en" lid="Id1">William Anders, from the United States was born in British Hong Kong and selected as a fighter pilot by NASA in 1963.</lex>
+      <lex lang="ru" lid="Id1">Уильям Андерс из США родился в Британском Гонконге и выбран в качестве пилота истребителя НАСА в 1963 году.</lex>
+      <dbpedialinks>
+        <dbpedialink direction="en2ru">United_States | sameAs | Соединённые_Штаты_Америки</dbpedialink>
+        <dbpedialink direction="en2ru">William_Anders | sameAs | Андерс,_Уильям</dbpedialink>
+        <dbpedialink direction="en2ru">1963 | sameAs | 1963_год</dbpedialink>
+      </dbpedialinks>
+      <links>
+        <link direction="en2ru">British Hong Kong | sameAs | Британский Гонконг</link>
+        <link direction="en2ru">Fighter pilot | sameAs | летчик-истребитель / пилот истребителя</link>
+      </links>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_deepl">William Anders ze Spojených států se narodil v britském Hongkongu a v roce 1963 byl vybrán NASA jako stíhací pilot.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_gtranslate">William Anders ze Spojených států se narodil v britském Hong Kongu a v roce 1963 ho NASA vybrala jako stíhacího pilota.</lex>
+      <lex lid="Id1" lang="cs" source="release_v3.0_ru_test_fixed_dev_CZECH_cubbitt">William Anders ze Spojených států se narodil v britském Hongkongu a byl vybrán jako bojový pilot NASA v roce 1963.</lex>
+    </entry>
+  </entries>
+</benchmark>
